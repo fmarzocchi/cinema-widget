@@ -22,6 +22,10 @@ Il secret `TMDB_API_KEY` (chiave gratuita di themoviedb.org) serve a riconoscere
 
 `rating` è la media dei voti disponibili, in decimi, di quattro fonti: Metacritic (critica), Letterboxd (cinefili), IMDb (grande pubblico) e MUBI (cinefili, forte sul cinema europeo e asiatico anche di nicchia). TMDB serve solo a riconoscere i film (locandine, date, collegamenti agli altri siti): il suo voto non entra nella media. IMDb arriva dal dataset ufficiale `title.ratings.tsv.gz` (le pagine del sito bloccano i server di GitHub); Letterboxd e Metacritic dalle loro schede, MUBI dalla sua ricerca, sempre con controllo dell'anno per non confondere gli omonimi. Una fonte senza voto o con 0 non entra nella media; se non ce n'è nessuna `rating` è `null` e il widget scrive "n.a.". I singoli voti sono in `ratings`; il riepilogo per fonte è in `status.json` (`ratingSources`).
 
+## Orari
+
+`shows` ha, per ogni giorno, tutti gli spettacoli in ordine di orario: `{ "time": "18:00", "tags": ["IMAX"] }`. Le etichette possibili sono `IMAX`, `4DX`, `SCREENX`, `XL`, `3D` (sala o formato speciale) e `VO` (lingua originale con sottotitoli). La versione originale non è più una scheda separata: è un'etichetta sugli orari dello stesso film. `days` resta la lista semplice degli orari.
+
 ## Ordinamenti
 
 Ogni film porta `rankVoto`, `rankUscita` e `smart`, un punteggio 0–100 per ogni giorno di programmazione. SMART combina voto (peso 1,5), novità (dimezza ogni 21 giorni dall'uscita) e spettacoli del giorno rispetto al film più programmato in quella sala. Il widget raggruppa i film per giorno e dentro ogni giorno ordina con uno dei tre.

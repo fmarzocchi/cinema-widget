@@ -187,6 +187,40 @@ export function chiaveTitolo(raw) {
 export const inLinguaOriginale = (raw) =>
   /\bv\.?\s?o\.?\s?s?\.?\b|\bsott\.?\s?ita\b|versione originale/i.test(String(raw || ''));
 
+/* ------------------------------------------------ spettacoli speciali -- */
+
+// Ordine fisso delle etichette: prima il tipo di sala, poi la lingua.
+const ETICHETTE = ['IMAX', '4DX', 'SCREENX', 'XL', '3D', 'VO'];
+const ordinaEtichette = (tags) => ETICHETTE.filter((t) => tags.includes(t));
+
+/** Formato o sala speciale da un testo tecnico ("IMAX", "SALA5 XL", "3D"). "2D" non è speciale. */
+export function etichetteFormato(...testi) {
+  const t = testi.filter(Boolean).join(' ');
+  const out = [];
+  if (/imax/i.test(t)) out.push('IMAX');
+  if (/\b4dx\b/i.test(t)) out.push('4DX');
+  if (/screen\s?x/i.test(t)) out.push('SCREENX');
+  if (/\bxl\b/i.test(t)) out.push('XL');
+  if (/\b3d\b/i.test(t)) out.push('3D');
+  return ordinaEtichette(out);
+}
+
+/** Etichette ricavabili dal titolo ("THE INVITE V.O", "Odissea - VOS", "AVATAR 3D"). */
+export function etichetteTitolo(titolo) {
+  const t = String(titolo || '');
+  const out = [];
+  if (/imax/i.test(t)) out.push('IMAX');
+  if (/\b4dx\b/i.test(t)) out.push('4DX');
+  if (/\b3d\b/i.test(t)) out.push('3D');
+  if (inLinguaOriginale(t)) out.push('VO');
+  return ordinaEtichette(out);
+}
+
+const unisciEtichette = (...liste) => ordinaEtichette([...new Set(liste.flat())]);
+
+/** "SALA11" -> "Sala 11", "SALA5 XL" -> "Sala 5 XL", "SALA IMAX" -> "Sala IMAX". */
+const nomeSala = (s) => (s ? String(s).trim().replace(/^sala\s*/i, 'Sala ') : null);
+
 /* ------------------------------------------------------------------ HTML -- */
 
 const ENTITA = {
@@ -256,12 +290,17 @@ function uciProiezioni(film, data) {
       if (!Array.isArray(varianti)) continue;
       for (const v of varianti) {
         if (!v || typeof v !== 'object') continue;
-        const sala = v.screen?.name || formato || null;
+        // Lingua: "ITA" oppure "ENG"/"Originale" con sottotitoli (versione originale).
+        const lingua = String(v.language?.name || v.language?.slug || '').trim();
+        const vo = Boolean(lingua) && !/^it/i.test(lingua);
         for (const p of v.performances || []) {
           if (!p || typeof p !== 'object') continue;
           if (p.day && p.day !== data) continue; // la risposta può contenere più giorni
           const ora = String(p.actual_start_at || p.start_at || '').slice(0, 5);
-          if (/^\d{2}:\d{2}$/.test(ora)) out.push({ data, ora, sala });
+          if (!/^\d{2}:\d{2}$/.test(ora)) continue;
+          const tipo = Array.isArray(p.screen_type) ? p.screen_type[0] : p.screen_type;
+          const tags = unisciEtichette(etichetteFormato(formato, v.screen?.name, p.room, tipo), vo ? ['VO'] : [], etichetteTitolo(film.title));
+          out.push({ data, ora, sala: nomeSala(p.room || v.screen?.name || formato), tags });
         }
       }
     }
@@ -393,6 +432,7 @@ export function leggiTroisi(html, inizioSettimana) {
     const opera = /opera\.aspx\?Id=(\d+)/i.exec(tabella)?.[1];
 
     const proiezioni = [];
+    const tags = etichetteTitolo(titolo);
     for (const riga of righe.slice(1)) {
       const testi = celle(riga).map((c) => senzaTag(c));
       for (const [indice, data] of colonne) {
@@ -400,9 +440,9 @@ export function leggiTroisi(html, inizioSettimana) {
         for (const ora of orariIn(testi[indice])) {
           if (oraVera && ora === '23:59') {
             const dopoMezzanotte = Number(oraVera.slice(0, 2)) < 6;
-            proiezioni.push({ data: dopoMezzanotte ? piuGiorni(data, 1) : data, ora: oraVera, sala: null });
+            proiezioni.push({ data: dopoMezzanotte ? piuGiorni(data, 1) : data, ora: oraVera, sala: null, tags });
           } else {
-            proiezioni.push({ data, ora, sala: null });
+            proiezioni.push({ data, ora, sala: null, tags });
           }
         }
       }
@@ -483,10 +523,12 @@ export function leggiSchedaAndromeda(html, { titolo: ripiego, url }) {
     if (!dataCorrente || !m[2]) continue;
     const [h, min] = m[2].split(':').map(Number);
     if (h < PRIMA_ORA_PLAUSIBILE) continue;
+    const sala = m[3] ? m[3].replace(/\s+/g, ' ').trim() : null;
     proiezioni.push({
       data: dataCorrente,
       ora: `${String(h).padStart(2, '0')}:${String(min).padStart(2, '0')}`,
-      sala: m[3] ? m[3].replace(/\s+/g, ' ').trim() : null,
+      sala,
+      tags: unisciEtichette(etichetteTitolo(titolo), etichetteFormato(sala)),
     });
   }
 
@@ -997,29 +1039,32 @@ export function titoliMigliori(elenchiDiFilm) {
 function titoloDaMostrare(raw, info, titoli) {
   // Il titolo di TMDB solo se l'abbinamento è esatto: "Avengers: Endgame Extra" resta com'è.
   const tmdb = info?.esatto ? info.titolo : null;
-  const base = (tmdb || capitalizza(titoli?.get(chiaveTitolo(raw)) || titoloPulito(raw)) || raw).trim();
-  if (!inLinguaOriginale(raw)) return base;
-  return /\bv\.?\s?o\.?/i.test(base) ? base : `${base} (V.O.)`;
+  // La lingua originale non va più nel titolo: è un'etichetta ("VO") sui singoli orari.
+  return (tmdb || capitalizza(titoli?.get(chiaveTitolo(raw)) || titoloPulito(raw)) || raw).trim();
 }
 
 /**
- * Unisce le schede dello stesso film (l'Andromeda, per esempio, ne ha una normale e una
- * per la promo "Cinema in Festa"). La versione originale resta separata: è un'altra
- * proiezione e interessa distinguerla.
+ * Unisce le schede dello stesso film: l'Andromeda, per esempio, ne ha una normale, una per la
+ * promo "Cinema in Festa" e una per la versione originale. Diventano una sola scheda; la lingua
+ * originale e le sale speciali restano sui singoli orari (etichette "VO", "IMAX"…).
  */
 export function unisciDoppioni(film) {
   const perChiave = new Map();
   for (const f of film) {
-    const chiave = `${chiaveTitolo(f.titolo)}|${inLinguaOriginale(f.titolo) ? 'vo' : 'it'}`;
+    const chiave = chiaveTitolo(f.titolo);
+    // Prima di unire, ogni orario si porta dietro le etichette del proprio titolo ("V.O"…).
+    const proiezioni = f.proiezioni.map((p) => (p.tags ? p : { ...p, tags: etichetteTitolo(f.titolo) }));
     const esistente = perChiave.get(chiave);
     if (!esistente) {
-      perChiave.set(chiave, { ...f, proiezioni: [...f.proiezioni] });
+      perChiave.set(chiave, { ...f, proiezioni });
       continue;
     }
-    esistente.proiezioni.push(...f.proiezioni);
+    esistente.proiezioni.push(...proiezioni);
     esistente.poster ||= f.poster;
-    // Tra due titoli equivalenti si tiene il più pulito (senza "cinema in festa", durate…).
-    if (f.titolo.length < esistente.titolo.length) esistente.titolo = f.titolo;
+    // Tra due titoli equivalenti si tiene il più pulito (senza "cinema in festa", durate…),
+    // preferendo quello della versione italiana.
+    const peso = (t) => (inLinguaOriginale(t) ? 1000 : 0) + t.length;
+    if (peso(f.titolo) < peso(esistente.titolo)) esistente.titolo = f.titolo;
   }
   return [...perChiave.values()];
 }
@@ -1070,14 +1115,25 @@ export function costruisciFeed(film, { oggi, info = new Map(), titoli = new Map(
 
   for (const f of unisciDoppioni(film)) {
     const grezzo = {};
-    for (const { data, ora } of f.proiezioni) {
+    const speciali = {};
+    for (const { data, ora, tags } of f.proiezioni) {
       if (!ammesse.has(data)) continue;
       (grezzo[data] ||= []).push(ora);
+      // Stesso orario e stesse etichette = un solo spettacolo (sale diverse o doppie schede).
+      const chiave = `${ora}|${(tags || []).join(',')}`;
+      (speciali[data] ||= new Map()).set(chiave, { time: ora, tags: tags || [] });
     }
     // Giorni in ordine di data e orari in ordine crescente: il widget può fidarsi del primo.
     const date = Object.keys(grezzo).sort();
     if (!date.length) continue;
     const perGiorno = Object.fromEntries(date.map((d) => [d, unici(grezzo[d]).sort()]));
+    const spettacoli = Object.fromEntries(
+      date.map((d) => [
+        d,
+        [...speciali[d].values()].sort((a, b) => a.time.localeCompare(b.time) || a.tags.length - b.tags.length || a.tags.join().localeCompare(b.tags.join())),
+      ]),
+    );
+    const tutti = Object.values(spettacoli).flat();
 
     const dati = info.get(chiaveTitolo(f.titolo));
     // Se oggi non proietta, si mostra il primo giorno utile dichiarandolo.
@@ -1097,8 +1153,9 @@ export function costruisciFeed(film, { oggi, info = new Map(), titoli = new Map(
       showtimes: perGiorno[giornoMostrato],
       showtimesDate: giornoMostrato,
       days: perGiorno,
+      shows: spettacoli,
       room: f.proiezioni.find((p) => p.data === giornoMostrato)?.sala || null,
-      vo: inLinguaOriginale(f.titolo),
+      vo: tutti.length > 0 && tutti.every((x) => x.tags.includes('VO')),
       url: f.link || null,
     });
     votiInDecimi.set(voci.at(-1), voto);
