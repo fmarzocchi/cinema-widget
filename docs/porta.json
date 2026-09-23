@@ -106,7 +106,8 @@
         "18:20"
       ],
       "2026-09-28": [
-        "14:40"
+        "14:40",
+        "17:30"
       ],
       "2026-09-29": [
         "14:40",
@@ -192,6 +193,7 @@
         "15:55"
       ],
       "2026-09-28": [
+        "15:00",
         "15:30"
       ],
       "2026-09-29": [
@@ -343,6 +345,9 @@
         "21:10"
       ],
       "2026-09-27": [
+        "21:10"
+      ],
+      "2026-09-28": [
         "21:10"
       ],
       "2026-09-29": [
@@ -572,7 +577,7 @@
     "url": "https://ucicinemas.it/film/the-invite/"
   },
   {
-    "title": "Ultimo - Tutto: Live a Tor Vergata C.A.",
+    "title": "Ultimo - Tutto: Live a Tor Vergata",
     "poster": "https://storage.googleapis.com/uci-infrastructure-bucket/Common/Movies/Posters/01KY4VM1YCB6J51C9KYAC8PCY1_resized_at_20260722140822.jpg",
     "rating": null,
     "releaseDate": null,
@@ -843,7 +848,8 @@
       "2026-09-28": [
         "16:50",
         "19:20",
-        "21:50"
+        "21:50",
+        "22:30"
       ],
       "2026-09-29": [
         "16:50",
@@ -1028,6 +1034,11 @@
         "16:30",
         "18:50"
       ],
+      "2026-09-28": [
+        "14:10",
+        "16:30",
+        "18:50"
+      ],
       "2026-09-29": [
         "14:10",
         "16:30",
@@ -1055,6 +1066,9 @@
       ],
       "2026-09-26": [
         "00:50"
+      ],
+      "2026-09-28": [
+        "23:00"
       ]
     },
     "room": "2D",
@@ -1106,7 +1120,7 @@
     "url": "https://ucicinemas.it/film/her-private-hell/"
   },
   {
-    "title": "Naza C.A.",
+    "title": "Naza",
     "poster": "https://storage.googleapis.com/uci-infrastructure-bucket/Common/Movies/Posters/01M2JGE8JYPTJBAW1KSKBN5AKJ_resized_at_20260915142506.jpg",
     "rating": null,
     "releaseDate": null,
