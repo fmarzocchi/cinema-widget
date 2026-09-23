@@ -32,7 +32,7 @@ jobs:
         env:
           TMDB_API_KEY: ${{ secrets.TMDB_API_KEY }}
           FEED_BASE_URL: https://${{ github.repository_owner }}.github.io/${{ github.event.repository.name }}
-          RATING_SCALE: '5'
+          RATING_SCALE: '10'
         run: node feeds.mjs
 
       # docs/ tiene l'ultimo feed buono (serve se una sala un giorno non risponde),
