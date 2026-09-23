@@ -1,6 +1,6 @@
 [
   {
-    "title": "Odissea (V.O.)",
+    "title": "Odissea",
     "poster": "https://image.tmdb.org/t/p/w185/qQhInj9fw3S2bMbiEujVldthgKe.jpg",
     "rating": 8.3,
     "ratings": {
@@ -35,6 +35,62 @@
         "00:30"
       ]
     },
+    "shows": {
+      "2026-09-23": [
+        {
+          "time": "13:30",
+          "tags": [
+            "VO"
+          ]
+        }
+      ],
+      "2026-09-24": [
+        {
+          "time": "21:15",
+          "tags": [
+            "VO"
+          ]
+        }
+      ],
+      "2026-09-25": [
+        {
+          "time": "00:30",
+          "tags": [
+            "VO"
+          ]
+        }
+      ],
+      "2026-09-26": [
+        {
+          "time": "00:30",
+          "tags": [
+            "VO"
+          ]
+        },
+        {
+          "time": "13:00",
+          "tags": [
+            "VO"
+          ]
+        }
+      ],
+      "2026-09-27": [
+        {
+          "time": "00:30",
+          "tags": [
+            "VO"
+          ]
+        }
+      ],
+      "2026-09-28": [
+        {
+          "time": "00:30",
+          "tags": [
+            "VO"
+          ]
+        }
+      ]
+    },
     "room": null,
     "vo": true,
     "url": "https://www.liveticket.it/opera.aspx?Id=695487",
@@ -50,7 +106,7 @@
     "rankVoto": 0
   },
   {
-    "title": "Pusher II - With Blood on My Hands (V.O.)",
+    "title": "Pusher II - With Blood on My Hands",
     "poster": "https://cinematroisi.liveticket.it/wp-content/uploads/sites/48/00306290-180x257.jpg",
     "rating": 8,
     "ratings": {
@@ -69,6 +125,16 @@
         "11:00"
       ]
     },
+    "shows": {
+      "2026-09-26": [
+        {
+          "time": "11:00",
+          "tags": [
+            "VO"
+          ]
+        }
+      ]
+    },
     "room": null,
     "vo": true,
     "url": "https://www.liveticket.it/opera.aspx?Id=694366",
@@ -79,7 +145,7 @@
     "rankVoto": 1
   },
   {
-    "title": "NAZA (V.O.)",
+    "title": "NAZA",
     "poster": "https://image.tmdb.org/t/p/w185/qfdNOEmMroHjPLpZhNkORcVzgrQ.jpg",
     "rating": 7.9,
     "ratings": {
@@ -103,6 +169,30 @@
         "17:00"
       ]
     },
+    "shows": {
+      "2026-09-28": [
+        {
+          "time": "11:00",
+          "tags": [
+            "VO"
+          ]
+        },
+        {
+          "time": "19:00",
+          "tags": [
+            "VO"
+          ]
+        }
+      ],
+      "2026-09-29": [
+        {
+          "time": "17:00",
+          "tags": [
+            "VO"
+          ]
+        }
+      ]
+    },
     "room": null,
     "vo": true,
     "url": "https://www.liveticket.it/opera.aspx?Id=695512",
@@ -114,7 +204,7 @@
     "rankVoto": 2
   },
   {
-    "title": "Camp Miasma - Adolescenza, sesso e morte (V.O.)",
+    "title": "Camp Miasma - Adolescenza, sesso e morte",
     "poster": "https://image.tmdb.org/t/p/w185/oSbPv3AbfXKEoboItK2DeDK397S.jpg",
     "rating": 7.8,
     "ratings": {
@@ -143,6 +233,48 @@
       ],
       "2026-09-29": [
         "15:00"
+      ]
+    },
+    "shows": {
+      "2026-09-25": [
+        {
+          "time": "11:00",
+          "tags": [
+            "VO"
+          ]
+        }
+      ],
+      "2026-09-26": [
+        {
+          "time": "22:30",
+          "tags": [
+            "VO"
+          ]
+        }
+      ],
+      "2026-09-27": [
+        {
+          "time": "16:00",
+          "tags": [
+            "VO"
+          ]
+        }
+      ],
+      "2026-09-28": [
+        {
+          "time": "13:00",
+          "tags": [
+            "VO"
+          ]
+        }
+      ],
+      "2026-09-29": [
+        {
+          "time": "15:00",
+          "tags": [
+            "VO"
+          ]
+        }
       ]
     },
     "room": null,
@@ -200,6 +332,66 @@
         "13:00"
       ]
     },
+    "shows": {
+      "2026-09-23": [
+        {
+          "time": "17:00",
+          "tags": []
+        }
+      ],
+      "2026-09-24": [
+        {
+          "time": "11:00",
+          "tags": []
+        },
+        {
+          "time": "19:00",
+          "tags": []
+        }
+      ],
+      "2026-09-25": [
+        {
+          "time": "14:00",
+          "tags": []
+        },
+        {
+          "time": "22:45",
+          "tags": []
+        }
+      ],
+      "2026-09-26": [
+        {
+          "time": "16:00",
+          "tags": []
+        },
+        {
+          "time": "20:15",
+          "tags": []
+        }
+      ],
+      "2026-09-27": [
+        {
+          "time": "13:30",
+          "tags": []
+        },
+        {
+          "time": "18:30",
+          "tags": []
+        }
+      ],
+      "2026-09-28": [
+        {
+          "time": "17:00",
+          "tags": []
+        }
+      ],
+      "2026-09-29": [
+        {
+          "time": "13:00",
+          "tags": []
+        }
+      ]
+    },
     "room": null,
     "vo": false,
     "url": "https://www.liveticket.it/opera.aspx?Id=692494",
@@ -216,7 +408,7 @@
     "rankVoto": 4
   },
   {
-    "title": "My Own Private River (V.O.)",
+    "title": "My Own Private River",
     "poster": "https://image.tmdb.org/t/p/w185/sPxozaB7Mj3U2adg2bULQRYyE78.jpg",
     "rating": 7.7,
     "ratings": {
@@ -233,6 +425,16 @@
     "days": {
       "2026-09-28": [
         "21:00"
+      ]
+    },
+    "shows": {
+      "2026-09-28": [
+        {
+          "time": "21:00",
+          "tags": [
+            "VO"
+          ]
+        }
       ]
     },
     "room": null,
@@ -262,6 +464,14 @@
     "days": {
       "2026-09-27": [
         "11:00"
+      ]
+    },
+    "shows": {
+      "2026-09-27": [
+        {
+          "time": "11:00",
+          "tags": []
+        }
       ]
     },
     "room": null,
@@ -299,6 +509,26 @@
         "20:30"
       ]
     },
+    "shows": {
+      "2026-09-24": [
+        {
+          "time": "15:00",
+          "tags": []
+        }
+      ],
+      "2026-09-25": [
+        {
+          "time": "18:30",
+          "tags": []
+        }
+      ],
+      "2026-09-27": [
+        {
+          "time": "20:30",
+          "tags": []
+        }
+      ]
+    },
     "room": null,
     "vo": false,
     "url": "https://www.liveticket.it/opera.aspx?Id=695495",
@@ -311,7 +541,7 @@
     "rankVoto": 7
   },
   {
-    "title": "The Dreamers - I sognatori (V.O.)",
+    "title": "The Dreamers - I sognatori",
     "poster": "https://image.tmdb.org/t/p/w185/pinNViE433kLUrJppjFAOzgWxdl.jpg",
     "rating": 7.2,
     "ratings": {
@@ -328,6 +558,16 @@
     "days": {
       "2026-09-28": [
         "23:59"
+      ]
+    },
+    "shows": {
+      "2026-09-28": [
+        {
+          "time": "23:59",
+          "tags": [
+            "VO"
+          ]
+        }
       ]
     },
     "room": null,
@@ -379,6 +619,58 @@
         "11:00"
       ]
     },
+    "shows": {
+      "2026-09-23": [
+        {
+          "time": "11:00",
+          "tags": []
+        }
+      ],
+      "2026-09-24": [
+        {
+          "time": "13:00",
+          "tags": []
+        },
+        {
+          "time": "17:00",
+          "tags": []
+        }
+      ],
+      "2026-09-25": [
+        {
+          "time": "16:15",
+          "tags": []
+        },
+        {
+          "time": "20:30",
+          "tags": []
+        }
+      ],
+      "2026-09-26": [
+        {
+          "time": "18:00",
+          "tags": []
+        }
+      ],
+      "2026-09-27": [
+        {
+          "time": "22:30",
+          "tags": []
+        }
+      ],
+      "2026-09-28": [
+        {
+          "time": "15:00",
+          "tags": []
+        }
+      ],
+      "2026-09-29": [
+        {
+          "time": "11:00",
+          "tags": []
+        }
+      ]
+    },
     "room": null,
     "vo": false,
     "url": "https://www.liveticket.it/opera.aspx?Id=695443",
@@ -395,7 +687,7 @@
     "rankVoto": 9
   },
   {
-    "title": "We're All Going to the World's Fair (V.O.)",
+    "title": "We're All Going to the World's Fair",
     "poster": "https://image.tmdb.org/t/p/w185/fXn4Nz1WCTEmzAFvwgEZoPHvptR.jpg",
     "rating": 6.5,
     "ratings": {
@@ -414,6 +706,16 @@
         "21:45"
       ]
     },
+    "shows": {
+      "2026-09-29": [
+        {
+          "time": "21:45",
+          "tags": [
+            "VO"
+          ]
+        }
+      ]
+    },
     "room": null,
     "vo": true,
     "url": "https://www.liveticket.it/opera.aspx?Id=695520",
@@ -424,7 +726,7 @@
     "rankVoto": 10
   },
   {
-    "title": "Un Prophète - ep. 1-4 (V.O.)",
+    "title": "Un Prophète - ep. 1-4",
     "poster": "https://cinematroisi.liveticket.it/wp-content/uploads/sites/48/00306838-180x257.jpg",
     "rating": null,
     "ratings": {
@@ -441,6 +743,16 @@
     "days": {
       "2026-09-23": [
         "19:30"
+      ]
+    },
+    "shows": {
+      "2026-09-23": [
+        {
+          "time": "19:30",
+          "tags": [
+            "VO"
+          ]
+        }
       ]
     },
     "room": null,
