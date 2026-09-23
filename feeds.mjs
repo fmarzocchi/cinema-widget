@@ -31,16 +31,19 @@ const UA =
 
 const sleep = (ms) => new Promise((r) => setTimeout(r, ms));
 
-async function fetchText(url, { retries = 3, timeoutMs = 20000, accept } = {}) {
+async function fetchText(url, { retries = 3, timeoutMs = 20000, accept, body, headers = {} } = {}) {
   let lastErr;
   for (let attempt = 0; attempt <= retries; attempt++) {
     try {
       const res = await fetch(url, {
+        method: body ? 'POST' : 'GET',
         headers: {
           'User-Agent': UA,
           'Accept-Language': 'it-IT,it;q=0.9',
           ...(accept ? { Accept: accept } : {}),
+          ...headers,
         },
+        body,
         redirect: 'follow',
         signal: AbortSignal.timeout(timeoutMs),
       });
@@ -48,13 +51,19 @@ async function fetchText(url, { retries = 3, timeoutMs = 20000, accept } = {}) {
         // "Troppe richieste": si aspetta sul serio (Retry-After se c'è, altrimenti 20s, 40s, 60s…).
         const dopo = Number(res.headers.get('retry-after'));
         const err = new Error('HTTP 429 (troppe richieste)');
+        err.status = 429;
         err.attesa = Number.isFinite(dopo) && dopo > 0 ? dopo * 1000 : 20000 * (attempt + 1);
         throw err;
       }
-      if (!res.ok) throw new Error(`HTTP ${res.status}`);
+      if (!res.ok) {
+        const err = new Error(`HTTP ${res.status}`);
+        err.status = res.status;
+        throw err;
+      }
       return await res.text();
     } catch (err) {
       lastErr = err;
+      if (err.status === 404) break; // la pagina non c'è: riprovare non serve
       if (attempt < retries) await sleep(err.attesa ?? 800 * 2 ** attempt);
     }
   }
@@ -81,6 +90,15 @@ export function piuGiorni(iso, n) {
 }
 
 const intervallo = (da, giorni) => Array.from({ length: giorni }, (_, i) => piuGiorni(da, i));
+
+/** Giorni da "da" ad "a" (date ISO): positivo se "a" viene dopo. */
+export function giorniTra(da, a) {
+  const utc = (iso) => {
+    const [y, m, d] = iso.split('-').map(Number);
+    return Date.UTC(y, m - 1, d);
+  };
+  return Math.round((utc(a) - utc(da)) / 86400000);
+}
 
 /** "22/09/2026" -> "2026-09-22" */
 export function dataItaISO(str) {
@@ -505,14 +523,111 @@ async function scaricaAndromeda() {
   return { film, avvisi, grezzo: film.length ? null : primaScheda };
 }
 
-/* ===================================== locandine, voti e date (TMDB, opz.) == */
+/* ============================ locandine, voti e date (TMDB + altre fonti) == */
 
 const TMDB = 'https://api.themoviedb.org/3';
 const GIORNI_CACHE_TROVATO = 7; // i voti cambiano: ogni film viene ricontrollato una volta a settimana
 const GIORNI_CACHE_NON_TROVATO = 2;
 const VOTI_MINIMI = 5; // con meno voti la media TMDB non vuol dire nulla (3 voti = 10.0)
+const VOTI_MINIMI_UTENTI = 10; // IMDb e Letterboxd: sotto questa soglia il voto è rumore
 // Cambia quando cambiano le regole di abbinamento: le voci vecchie vengono ricontrollate.
-const VERSIONE_CACHE = 2;
+const VERSIONE_CACHE = 3;
+
+const arrotonda1 = (n) => Math.round(n * 10) / 10;
+
+/**
+ * Media dei voti disponibili, tutti già in decimi. Un sito senza voto (null) o con 0 non
+ * entra nella media; se non ne resta nessuno il risultato è null ("n.a." sul widget).
+ */
+export function mediaVoti(fonti) {
+  const validi = Object.values(fonti || {}).filter((v) => Number.isFinite(v) && v > 0);
+  if (!validi.length) return null;
+  return arrotonda1(validi.reduce((a, b) => a + b, 0) / validi.length);
+}
+
+/**
+ * Letterboxd: voto medio (su 5) dal JSON-LD della scheda, con ripiego sul meta
+ * "twitter:data2" ("3.91 out of 5"). Restituisce il voto in decimi o null.
+ */
+export function leggiLetterboxd(html) {
+  for (const m of String(html).matchAll(/<script[^>]*application\/ld\+json[^>]*>([\s\S]*?)<\/script>/gi)) {
+    const testo = m[1].replace(/\/\*\s*<!\[CDATA\[\s*\*\/|\/\*\s*\]\]>\s*\*\//g, '').trim();
+    let dati;
+    try {
+      dati = JSON.parse(testo);
+    } catch {
+      continue;
+    }
+    const a = dati?.aggregateRating;
+    const valore = Number(a?.ratingValue);
+    if (!Number.isFinite(valore) || valore <= 0) continue;
+    const conteggio = Number(a.ratingCount ?? a.reviewCount);
+    if (Number.isFinite(conteggio) && conteggio < VOTI_MINIMI_UTENTI) return null;
+    const scala = Number(a.bestRating) > 0 ? Number(a.bestRating) : 5;
+    return arrotonda1((valore / scala) * 10);
+  }
+  const m = /([\d.]+)\s+out of\s+5/i.exec(meta(html, 'twitter:data2') || '');
+  return m && Number(m[1]) > 0 ? arrotonda1(Number(m[1]) * 2) : null;
+}
+
+/**
+ * IMDb (voto degli utenti) e Metacritic (voto della critica, che IMDb riporta), dalla
+ * risposta GraphQL usata dal sito IMDb. Voti in decimi o null.
+ */
+export function leggiImdbGraphql(json) {
+  const t = json?.data?.title;
+  if (!t) return null;
+  const r = t.ratingsSummary || {};
+  const imdb = Number(r.aggregateRating) > 0 && Number(r.voteCount || 0) >= VOTI_MINIMI_UTENTI ? arrotonda1(Number(r.aggregateRating)) : null;
+  const score = Number(t.metacritic?.metascore?.score);
+  return { imdb, metacritic: score > 0 ? arrotonda1(score / 10) : null };
+}
+
+/** Ripiego: gli stessi due voti letti dalla pagina del titolo su imdb.com. */
+export function leggiImdbPagina(html) {
+  let imdb = null;
+  for (const m of String(html).matchAll(/<script[^>]*application\/ld\+json[^>]*>([\s\S]*?)<\/script>/gi)) {
+    try {
+      const a = JSON.parse(m[1])?.aggregateRating;
+      if (Number(a?.ratingValue) > 0 && Number(a.ratingCount || 0) >= VOTI_MINIMI_UTENTI) imdb = arrotonda1(Number(a.ratingValue));
+    } catch {
+      /* blocco non valido: si passa al prossimo */
+    }
+  }
+  const score = Number(/"metascore":\{[^}]*?"score":(\d{1,3})/.exec(String(html))?.[1]);
+  return { imdb, metacritic: score > 0 ? arrotonda1(score / 10) : null };
+}
+
+const IMDB_GRAPHQL = 'https://caching.graphql.imdb.com/';
+
+async function votiImdb(imdbId) {
+  const query = `query { title(id: "${imdbId}") { ratingsSummary { aggregateRating voteCount } metacritic { metascore { score } } } }`;
+  try {
+    const json = JSON.parse(
+      await fetchText(IMDB_GRAPHQL, {
+        retries: 1,
+        accept: 'application/json',
+        headers: { 'Content-Type': 'application/json' },
+        body: JSON.stringify({ query }),
+      }),
+    );
+    const letti = leggiImdbGraphql(json);
+    if (letti) return letti;
+  } catch {
+    /* si prova la pagina */
+  }
+  return leggiImdbPagina(await fetchText(`https://www.imdb.com/title/${imdbId}/`, { retries: 1 }));
+}
+
+async function votoLetterboxd(tmdbId) {
+  // Letterboxd ha un indirizzo che dall'id TMDB porta alla scheda del film.
+  try {
+    return leggiLetterboxd(await fetchText(`https://letterboxd.com/tmdb/${tmdbId}/`, { retries: 1 }));
+  } catch (err) {
+    if (err.status === 404) return null; // film non presente su Letterboxd
+    throw err;
+  }
+}
 
 /**
  * Sceglie il film giusto tra i risultati di TMDB, con prudenza: meglio nessun voto che il
@@ -564,24 +679,29 @@ export function ricercheTmdb(titolo) {
   return unici([base, base.split(/\s[-–—]\s/)[0], base.split(':')[0]].map((q) => q.trim()).filter((q) => q.length >= 3));
 }
 
-/** Data di uscita italiana in sala; se manca, quella globale di TMDB. */
-async function uscitaItaliana(id, key, ripiego) {
+/** Data di uscita italiana in sala dai release_dates di TMDB (sala > limitata > anteprima > digitale). */
+export function uscitaItaliana(releaseDates) {
+  const italia = (releaseDates?.results || []).find((r) => r.iso_3166_1 === 'IT');
+  const perTipo = (tipo) =>
+    (italia?.release_dates || [])
+      .filter((r) => r.type === tipo && r.release_date)
+      .map((r) => r.release_date.slice(0, 10))
+      .sort()[0];
+  return perTipo(3) || perTipo(2) || perTipo(1) || perTipo(4) || null;
+}
+
+/** Uscita italiana e id IMDb con una sola chiamata a TMDB. */
+async function dettagliTmdb(id, key, ripiegoUscita) {
   try {
-    const dati = await fetchJson(`${TMDB}/movie/${id}/release_dates?api_key=${key}`);
-    const italia = (dati.results || []).find((r) => r.iso_3166_1 === 'IT');
-    if (italia?.release_dates?.length) {
-      const perTipo = (tipo) =>
-        italia.release_dates
-          .filter((r) => r.type === tipo && r.release_date)
-          .map((r) => r.release_date.slice(0, 10))
-          .sort()[0];
-      const trovata = perTipo(3) || perTipo(2) || perTipo(1) || perTipo(4);
-      if (trovata) return trovata;
-    }
+    const d = await fetchJson(`${TMDB}/movie/${id}?api_key=${key}&append_to_response=release_dates,external_ids`);
+    const imdbId = d.imdb_id || d.external_ids?.imdb_id || null;
+    return {
+      uscita: uscitaItaliana(d.release_dates) || ripiegoUscita || null,
+      imdbId: /^tt\d+$/.test(imdbId || '') ? imdbId : null,
+    };
   } catch {
-    /* si usa il ripiego */
+    return { uscita: ripiegoUscita || null, imdbId: null };
   }
-  return ripiego || null;
 }
 
 /** Episodi di una serie ("Un Prophète - ep. 1-4"): il voto del film omonimo sarebbe sbagliato. */
@@ -605,12 +725,47 @@ async function cercaSuTmdb(titolo, key, oggi) {
       esatto: scelta.esatto,
       // w185: sul widget la locandina è larga ~70dp e la cache immagini non è persistente.
       poster: s.poster_path ? `https://image.tmdb.org/t/p/w185${s.poster_path}` : null,
-      voto: Number.isFinite(s.vote_average) && (s.vote_count || 0) >= VOTI_MINIMI ? Math.round(s.vote_average * 10) / 10 : null,
-      voti: s.vote_count || 0,
-      uscita: await uscitaItaliana(s.id, key, s.release_date),
+      tmdb: Number.isFinite(s.vote_average) && (s.vote_count || 0) >= VOTI_MINIMI ? arrotonda1(s.vote_average) : null,
+      votiTmdb: s.vote_count || 0,
+      ...(await dettagliTmdb(s.id, key, s.release_date)),
     };
   }
   return { id: null };
+}
+
+/** I quattro voti di una voce della cache, tutti in decimi (null = non disponibile). */
+export function fontiVoto(e) {
+  return {
+    tmdb: e?.tmdb ?? null,
+    letterboxd: e?.letterboxd?.voto ?? null,
+    imdb: e?.imdb?.voto ?? null,
+    metacritic: e?.imdb?.metacritic ?? null,
+  };
+}
+
+/**
+ * Letterboxd e IMDb non hanno un'API pubblica: si leggono le loro pagine con calma.
+ * Se una fonte fallisce tre volte di fila si smette di chiederle qualcosa per questo giro;
+ * i voti mancanti verranno ripresi al giro successivo.
+ */
+function fonteEsterna(nome, pausaMs) {
+  return { nome, pausaMs, trovati: 0, errori: 0, difila: 0, spenta: false, ultimoErrore: null };
+}
+
+async function chiedi(fonte, lavoro) {
+  if (fonte.spenta) return undefined;
+  if (fonte.pausaMs) await sleep(fonte.pausaMs);
+  try {
+    const risultato = await lavoro();
+    fonte.difila = 0;
+    return risultato;
+  } catch (err) {
+    fonte.errori++;
+    fonte.difila++;
+    fonte.ultimoErrore = err.message;
+    if (fonte.difila >= 3) fonte.spenta = true;
+    return undefined;
+  }
 }
 
 async function arricchisci(titoli, oggi) {
@@ -621,7 +776,7 @@ async function arricchisci(titoli, oggi) {
 
   if (!key) {
     avvisi.push('Nessuna chiave TMDB: voti e date di uscita restano vuoti (le locandine arrivano dai siti delle sale)');
-    return { mappa, avvisi };
+    return { mappa, avvisi, riepilogo: null };
   }
 
   let cache = {};
@@ -632,30 +787,67 @@ async function arricchisci(titoli, oggi) {
   }
 
   const adesso = Date.now();
+  const giorni = (iso) => (adesso - Date.parse(iso)) / 86400000;
   const fresca = (e) =>
     e?.controllatoIl &&
     e.v === VERSIONE_CACHE &&
     'esatto' in e === Boolean(e.id) &&
-    adesso - Date.parse(e.controllatoIl) < (e.id ? GIORNI_CACHE_TROVATO : GIORNI_CACHE_NON_TROVATO) * 86400000;
+    giorni(e.controllatoIl) < (e.id ? GIORNI_CACHE_TROVATO : GIORNI_CACHE_NON_TROVATO);
+  const scaduto = (x) => !x?.il || giorni(x.il) >= GIORNI_CACHE_TROVATO;
+
+  const letterboxd = fonteEsterna('Letterboxd', Number(process.env.PAUSA_LETTERBOXD_MS ?? 1000));
+  const imdb = fonteEsterna('IMDb/Metacritic', Number(process.env.PAUSA_IMDB_MS ?? 500));
 
   for (const [chiave, titolo] of distinti) {
     if (eSerieTv(titolo)) {
       delete cache[chiave];
       continue;
     }
-    if (fresca(cache[chiave])) continue;
-    try {
-      cache[chiave] = { ...(await cercaSuTmdb(titolo, key, oggi)), v: VERSIONE_CACHE, controllatoIl: new Date().toISOString() };
-    } catch (err) {
-      avvisi.push(`TMDB "${titolo}": ${err.message}`);
+    if (!fresca(cache[chiave])) {
+      try {
+        cache[chiave] = { ...(await cercaSuTmdb(titolo, key, oggi)), v: VERSIONE_CACHE, controllatoIl: new Date().toISOString() };
+      } catch (err) {
+        avvisi.push(`TMDB "${titolo}": ${err.message}`);
+        continue;
+      }
+    }
+    const e = cache[chiave];
+    if (!e?.id) continue;
+
+    if (scaduto(e.letterboxd)) {
+      const voto = await chiedi(letterboxd, () => votoLetterboxd(e.id));
+      if (voto !== undefined) e.letterboxd = { voto, il: new Date().toISOString() };
+    }
+    if (e.imdbId && scaduto(e.imdb)) {
+      const voti = await chiedi(imdb, () => votiImdb(e.imdbId));
+      if (voti !== undefined) e.imdb = { voto: voti.imdb, metacritic: voti.metacritic, il: new Date().toISOString() };
     }
   }
 
-  for (const [chiave] of distinti) if (cache[chiave]) mappa.set(chiave, cache[chiave]);
+  for (const fonte of [letterboxd, imdb]) {
+    if (fonte.errori) {
+      avvisi.push(
+        `${fonte.nome}: ${fonte.errori} richieste fallite (${fonte.ultimoErrore})${fonte.spenta ? ', sospesa per questo giro' : ''}`,
+      );
+    }
+  }
+
+  // Quanti film hanno un voto da ciascuna fonte: finisce in status.json per controllo.
+  const riepilogo = { film: 0, tmdb: 0, letterboxd: 0, imdb: 0, metacritic: 0, media: 0 };
+  for (const [chiave] of distinti) {
+    const e = cache[chiave];
+    if (!e) continue;
+    const fonti = fontiVoto(e);
+    const voto = mediaVoti(fonti);
+    mappa.set(chiave, { ...e, fonti, voto });
+    riepilogo.film++;
+    for (const [nome, v] of Object.entries(fonti)) if (v > 0) riepilogo[nome]++;
+    if (voto != null) riepilogo.media++;
+  }
 
   await mkdir(dirname(CACHE), { recursive: true });
   await writeFile(CACHE, `${JSON.stringify(cache, null, 2)}\n`, 'utf8');
-  return { mappa, avvisi };
+  return { mappa, avvisi, riepilogo };
 }
 
 /* ========================================== costruzione del JSON del widget == */
@@ -719,15 +911,37 @@ const perVoto = (x, y) => discendente(x.rating, y.rating) || discendente(x.relea
 const perUscita = (x, y) => discendente(x.releaseDate, y.releaseDate) || discendente(x.rating, y.rating) || x.title.localeCompare(y.title, 'it');
 
 /**
- * Ogni film porta due posizioni in classifica, calcolate qui una volta per tutte:
- *   rankVoto    voto TMDB dal più alto, a parità uscita più recente
- *   rankUscita  uscita in Italia dalla più recente, a parità voto più alto
- * Il widget raggruppa per giorno e dentro ogni giorno ordina per una delle due.
+ * Punteggio SMART di un film in un giorno, da 0 a 100. Tre criteri, ciascuno da 0 a 1:
+ *   voto         la media dei voti: 5 o meno vale 0, 8.5 o più vale 1 (in mezzo in proporzione)
+ *   novità       1 se esce oggi o deve ancora uscire, poi si dimezza ogni 21 giorni
+ *   spettacoli   spettacoli del film quel giorno diviso quelli del film più programmato
+ *                in quella sala quel giorno
+ * Il voto pesa 1,5 volte gli altri due. Voto o data mancanti valgono 0,5 (né premio né castigo).
+ */
+export function punteggioSmart({ voto, uscita, spettacoli, massimo }, oggi) {
+  const tra01 = (n) => Math.min(1, Math.max(0, n));
+  const v = Number.isFinite(voto) && voto > 0 ? tra01((voto - 5) / 3.5) : 0.5;
+  let u = 0.5;
+  if (uscita) {
+    const passati = giorniTra(uscita, oggi);
+    u = passati <= 0 ? 1 : 0.5 ** (passati / 21);
+  }
+  const s = massimo > 0 ? tra01(spettacoli / massimo) : 0;
+  return Math.round((100 * (1.5 * v + u + s)) / 3.5);
+}
+
+/**
+ * Per ogni film, calcolato qui una volta per tutte:
+ *   rankVoto    posizione per voto medio dal più alto, a parità uscita più recente
+ *   rankUscita  posizione per uscita in Italia dalla più recente, a parità voto più alto
+ *   smart       punteggio SMART per ciascun giorno di programmazione ({"2026-09-23": 78, …})
+ * Il widget raggruppa per giorno e dentro ogni giorno ordina con uno dei tre.
  * L'array arriva già ordinato per rankVoto.
  */
 export function costruisciFeed(film, { oggi, info = new Map(), titoli = new Map(), scalaVoto = 10, giorni = GIORNI } = {}) {
   const ammesse = new Set(intervallo(oggi, giorni));
   const voci = [];
+  const votiInDecimi = new Map(); // il voto su 10 anche se il feed è su 5
 
   for (const f of unisciDoppioni(film)) {
     const grezzo = {};
@@ -743,8 +957,8 @@ export function costruisciFeed(film, { oggi, info = new Map(), titoli = new Map(
     const dati = info.get(chiaveTitolo(f.titolo));
     // Se oggi non proietta, si mostra il primo giorno utile dichiarandolo.
     const giornoMostrato = perGiorno[oggi]?.length ? oggi : date[0];
-    const voto = dati?.voto;
-    const rating = Number.isFinite(voto) ? Math.round((scalaVoto === 5 ? voto / 2 : voto) * 10) / 10 : null;
+    const voto = Number.isFinite(dati?.voto) ? dati.voto : null;
+    const rating = voto == null ? null : arrotonda1(scalaVoto === 5 ? voto / 2 : voto);
     // Locandina: quella di TMDB se il film è proprio quello, altrimenti quella della sala
     // (per riedizioni ed eventi è la locandina giusta).
     const poster = dati?.esatto ? dati.poster || f.poster : f.poster || dati?.poster;
@@ -753,6 +967,7 @@ export function costruisciFeed(film, { oggi, info = new Map(), titoli = new Map(
       title: titoloDaMostrare(f.titolo, dati, titoli),
       poster: poster || null,
       rating,
+      ratings: dati?.fonti || { tmdb: null, letterboxd: null, imdb: null, metacritic: null },
       releaseDate: dati?.uscita || null,
       showtimes: perGiorno[giornoMostrato],
       showtimesDate: giornoMostrato,
@@ -761,6 +976,21 @@ export function costruisciFeed(film, { oggi, info = new Map(), titoli = new Map(
       vo: inLinguaOriginale(f.titolo),
       url: f.link || null,
     });
+    votiInDecimi.set(voci.at(-1), voto);
+  }
+
+  // SMART: gli spettacoli si confrontano con il film più programmato di quel giorno.
+  const massimoDelGiorno = {};
+  for (const v of voci) {
+    for (const [d, orari] of Object.entries(v.days)) massimoDelGiorno[d] = Math.max(massimoDelGiorno[d] || 0, orari.length);
+  }
+  for (const v of voci) {
+    v.smart = Object.fromEntries(
+      Object.entries(v.days).map(([d, orari]) => [
+        d,
+        punteggioSmart({ voto: votiInDecimi.get(v), uscita: v.releaseDate, spettacoli: orari.length, massimo: massimoDelGiorno[d] }, oggi),
+      ]),
+    );
   }
 
   [...voci].sort(perUscita).forEach((v, i) => {
@@ -863,7 +1093,7 @@ async function main() {
     }),
   );
 
-  const { mappa: info, avvisi: avvisiTmdb } = await arricchisci(risultati.flatMap((r) => r.film.map((f) => f.titolo)), oggi);
+  const { mappa: info, avvisi: avvisiTmdb, riepilogo } = await arricchisci(risultati.flatMap((r) => r.film.map((f) => f.titolo)), oggi);
 
   const titoli = titoliMigliori(risultati.map((r) => r.film));
   const avvisi = [...avvisiTmdb];
@@ -923,6 +1153,7 @@ async function main() {
     updatedAt: new Date().toISOString(),
     today: oggi,
     ratingScale: RATING_SCALE,
+    ratingSources: riepilogo,
     widgetUrl: base ? `${base}/cinema.json` : 'cinema.json',
     feeds,
     warnings: avvisi,

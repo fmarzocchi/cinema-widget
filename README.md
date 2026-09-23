@@ -16,4 +16,12 @@ Quattro volte al giorno (06, 12, 18, 24 ora italiana) il workflow `Aggiorna feed
 
 Se una sala non risponde, resta pubblicato il suo ultimo feed buono e l'HTML ricevuto finisce in `debug/`.
 
-Facoltativo: un secret `TMDB_API_KEY` (chiave gratuita di themoviedb.org) aggiunge voti, date di uscita e locandine migliori.
+Il secret `TMDB_API_KEY` (chiave gratuita di themoviedb.org) aggiunge date di uscita italiane, locandine migliori e i voti.
+
+## Voti
+
+`rating` è la media dei voti disponibili, in decimi, di quattro fonti: TMDB e IMDb (utenti), Letterboxd (cinefili) e Metacritic (critica, letto da IMDb). Una fonte senza voto o con 0 non entra nella media; se non ce n'è nessuna `rating` è `null` e il widget scrive "n.a.". I singoli voti sono in `ratings`. Letterboxd e IMDb non hanno un'API pubblica: se non rispondono, la media usa le fonti rimaste e il riepilogo è in `status.json` (`ratingSources`).
+
+## Ordinamenti
+
+Ogni film porta `rankVoto`, `rankUscita` e `smart`, un punteggio 0–100 per ogni giorno di programmazione. SMART combina voto (peso 1,5), novità (dimezza ogni 21 giorni dall'uscita) e spettacoli del giorno rispetto al film più programmato in quella sala. Il widget raggruppa i film per giorno e dentro ogni giorno ordina con uno dei tre.
