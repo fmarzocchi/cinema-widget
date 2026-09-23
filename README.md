@@ -20,7 +20,7 @@ Il secret `TMDB_API_KEY` (chiave gratuita di themoviedb.org) aggiunge date di us
 
 ## Voti
 
-`rating` è la media dei voti disponibili, in decimi, di quattro fonti: TMDB e IMDb (utenti), Letterboxd (cinefili) e Metacritic (critica, letto da IMDb). Una fonte senza voto o con 0 non entra nella media; se non ce n'è nessuna `rating` è `null` e il widget scrive "n.a.". I singoli voti sono in `ratings`. Letterboxd e IMDb non hanno un'API pubblica: se non rispondono, la media usa le fonti rimaste e il riepilogo è in `status.json` (`ratingSources`).
+`rating` è la media dei voti disponibili, in decimi, di quattro fonti: TMDB e IMDb (utenti), Letterboxd (cinefili) e Metacritic (critica). IMDb arriva dal dataset ufficiale `title.ratings.tsv.gz` (le pagine del sito bloccano i server di GitHub); Letterboxd e Metacritic dalle loro schede, con controllo dell'anno per non confondere gli omonimi. Una fonte senza voto o con 0 non entra nella media; se non ce n'è nessuna `rating` è `null` e il widget scrive "n.a.". I singoli voti sono in `ratings`; il riepilogo per fonte è in `status.json` (`ratingSources`).
 
 ## Ordinamenti
 

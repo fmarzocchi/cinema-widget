@@ -15,6 +15,9 @@
 import { readFile, writeFile, mkdir, rm } from 'node:fs/promises';
 import { fileURLToPath, pathToFileURL } from 'node:url';
 import { dirname, join } from 'node:path';
+import { createGunzip } from 'node:zlib';
+import { Readable } from 'node:stream';
+import { createInterface } from 'node:readline';
 
 const ROOT = dirname(fileURLToPath(import.meta.url));
 const DOCS = join(ROOT, 'docs');
@@ -531,7 +534,7 @@ const GIORNI_CACHE_NON_TROVATO = 2;
 const VOTI_MINIMI = 5; // con meno voti la media TMDB non vuol dire nulla (3 voti = 10.0)
 const VOTI_MINIMI_UTENTI = 10; // IMDb e Letterboxd: sotto questa soglia il voto è rumore
 // Cambia quando cambiano le regole di abbinamento: le voci vecchie vengono ricontrollate.
-const VERSIONE_CACHE = 3;
+const VERSIONE_CACHE = 4;
 
 const arrotonda1 = (n) => Math.round(n * 10) / 10;
 
@@ -571,65 +574,93 @@ export function leggiLetterboxd(html) {
 }
 
 /**
- * IMDb (voto degli utenti) e Metacritic (voto della critica, che IMDb riporta), dalla
- * risposta GraphQL usata dal sito IMDb. Voti in decimi o null.
+ * IMDb (voto degli utenti) dal dataset ufficiale title.ratings.tsv.gz, aggiornato ogni giorno
+ * e libero per uso personale: le pagine del sito bloccano i server di GitHub, il dataset no.
+ * Riga: "tt15398776<TAB>8.2<TAB>1099285". Restituisce Map id -> { voto, voti }.
  */
-export function leggiImdbGraphql(json) {
-  const t = json?.data?.title;
-  if (!t) return null;
-  const r = t.ratingsSummary || {};
-  const imdb = Number(r.aggregateRating) > 0 && Number(r.voteCount || 0) >= VOTI_MINIMI_UTENTI ? arrotonda1(Number(r.aggregateRating)) : null;
-  const score = Number(t.metacritic?.metascore?.score);
-  return { imdb, metacritic: score > 0 ? arrotonda1(score / 10) : null };
-}
-
-/** Ripiego: gli stessi due voti letti dalla pagina del titolo su imdb.com. */
-export function leggiImdbPagina(html) {
-  let imdb = null;
-  for (const m of String(html).matchAll(/<script[^>]*application\/ld\+json[^>]*>([\s\S]*?)<\/script>/gi)) {
-    try {
-      const a = JSON.parse(m[1])?.aggregateRating;
-      if (Number(a?.ratingValue) > 0 && Number(a.ratingCount || 0) >= VOTI_MINIMI_UTENTI) imdb = arrotonda1(Number(a.ratingValue));
-    } catch {
-      /* blocco non valido: si passa al prossimo */
-    }
+export async function filtraRigheImdb(righe, ids) {
+  const cercati = new Set(ids);
+  const trovati = new Map();
+  if (!cercati.size) return trovati;
+  for await (const riga of righe) {
+    const tab = riga.indexOf('\t');
+    if (tab < 0 || !cercati.has(riga.slice(0, tab))) continue;
+    const [id, media, numero] = riga.split('\t');
+    const voti = Number(numero) || 0;
+    trovati.set(id, { voto: Number(media) > 0 && voti >= VOTI_MINIMI_UTENTI ? arrotonda1(Number(media)) : null, voti });
+    if (trovati.size === cercati.size) break;
   }
-  const score = Number(/"metascore":\{[^}]*?"score":(\d{1,3})/.exec(String(html))?.[1]);
-  return { imdb, metacritic: score > 0 ? arrotonda1(score / 10) : null };
+  return trovati;
 }
 
-const IMDB_GRAPHQL = 'https://caching.graphql.imdb.com/';
+const IMDB_DATASET = 'https://datasets.imdbws.com/title.ratings.tsv.gz';
 
-async function votiImdb(imdbId) {
-  const query = `query { title(id: "${imdbId}") { ratingsSummary { aggregateRating voteCount } metacritic { metascore { score } } } }`;
-  let notaGraphql;
+async function votiImdb(ids) {
+  const res = await fetch(IMDB_DATASET, { headers: { 'User-Agent': UA }, signal: AbortSignal.timeout(180000) });
+  if (!res.ok) throw new Error(`HTTP ${res.status}`);
+  const righe = createInterface({ input: Readable.fromWeb(res.body).pipe(createGunzip()), crlfDelay: Infinity });
   try {
-    const testo = await fetchText(IMDB_GRAPHQL, {
-      retries: 1,
-      accept: 'application/json',
-      headers: { 'Content-Type': 'application/json' },
-      body: JSON.stringify({ query }),
-    });
-    let json = null;
+    return await filtraRigheImdb(righe, ids);
+  } finally {
+    righe.close();
+  }
+}
+
+/** Metacritic: indirizzo della scheda dal titolo inglese ("Coyote vs. Acme" -> "coyote-vs-acme"). */
+export function slugMetacritic(titolo) {
+  return String(titolo || '')
+    .normalize('NFD')
+    .replace(/[̀-ͯ]/g, '')
+    .toLowerCase()
+    .replace(/['’]/g, '')
+    .replace(/[^a-z0-9]+/g, '-')
+    .replace(/^-+|-+$/g, '');
+}
+
+/**
+ * Metacritic: nome, anno e Metascore (su 100, portato in decimi) dal JSON-LD della scheda.
+ * "Metascore TBD" (poche recensioni) non ha aggregateRating: voto null.
+ */
+export function leggiMetacritic(html) {
+  for (const m of String(html).matchAll(/<script[^>]*application\/ld\+json[^>]*>([\s\S]*?)<\/script>/gi)) {
+    let d;
     try {
-      json = JSON.parse(testo);
+      d = JSON.parse(m[1]);
     } catch {
-      /* non è JSON: pagina di blocco o simile */
+      continue;
     }
-    const letti = leggiImdbGraphql(json);
-    if (letti) return letti;
-    notaGraphql = `GraphQL senza titolo: ${testo.replace(/\s+/g, ' ').slice(0, 160)}`;
-  } catch (err) {
-    notaGraphql = `GraphQL ${err.message}`;
+    if (d?.['@type'] !== 'Movie') continue;
+    const anno = Number(String(d.datePublished || '').slice(0, 4)) || null;
+    const a = d.aggregateRating;
+    const valore = Number(a?.ratingValue);
+    const scala = Number(a?.bestRating) > 0 ? Number(a.bestRating) : 100;
+    return { nome: d.name || null, anno, voto: valore > 0 ? arrotonda1((valore / scala) * 10) : null };
   }
-  const html = await fetchText(`https://www.imdb.com/title/${imdbId}/`, { retries: 1 });
-  // Ogni scheda IMDb ha un blocco JSON-LD, anche senza voti: se manca, è una pagina di blocco.
-  if (!/application\/ld\+json/i.test(html)) {
-    throw new Error(
-      `nessun dato (${notaGraphql}; pagina senza JSON-LD, ${html.length} caratteri: ${senzaTag(html).replace(/\s+/g, ' ').slice(0, 100)})`,
-    );
+  return null;
+}
+
+/**
+ * Si prova "titolo", poi "titolo-anno" (Metacritic distingue così gli omonimi: "resident-evil" è
+ * il film del 2002, "resident-evil-2026" quello nuovo). Vale solo una scheda dell'anno giusto (±1).
+ */
+async function votoMetacritic(titoloInglese, anni) {
+  const slug = slugMetacritic(titoloInglese);
+  if (!slug || !anni.length) return null;
+  const annoGiusto = (a) => Boolean(a) && anni.some((x) => Math.abs(x - a) <= 1);
+  const tentativi = unici([slug, ...anni.map((a) => `${slug}-${a}`)]);
+  for (const [i, s] of tentativi.entries()) {
+    if (i > 0) await sleep(500);
+    let html;
+    try {
+      html = await fetchText(`https://www.metacritic.com/movie/${s}/`, { retries: 1 });
+    } catch (err) {
+      if (err.status === 404) continue;
+      throw err;
+    }
+    const scheda = leggiMetacritic(html);
+    if (scheda && annoGiusto(scheda.anno)) return scheda.voto;
   }
-  return leggiImdbPagina(html);
+  return null;
 }
 
 async function votoLetterboxd(tmdbId) {
@@ -703,17 +734,26 @@ export function uscitaItaliana(releaseDates) {
   return perTipo(3) || perTipo(2) || perTipo(1) || perTipo(4) || null;
 }
 
-/** Uscita italiana e id IMDb con una sola chiamata a TMDB. */
+/** Titolo inglese per Metacritic: la traduzione en-US di TMDB, altrimenti il titolo originale. */
+export function titoloInglese(d) {
+  const tr = (d?.translations?.translations || []).filter((t) => t.iso_639_1 === 'en' && t.data?.title);
+  const us = tr.find((t) => t.iso_3166_1 === 'US') || tr[0];
+  return us?.data?.title || (d?.original_language === 'en' ? d.original_title : null) || d?.original_title || null;
+}
+
+/** Uscita italiana, id IMDb e titolo inglese con una sola chiamata a TMDB. */
 async function dettagliTmdb(id, key, ripiegoUscita) {
   try {
-    const d = await fetchJson(`${TMDB}/movie/${id}?api_key=${key}&append_to_response=release_dates,external_ids`);
+    const d = await fetchJson(`${TMDB}/movie/${id}?api_key=${key}&append_to_response=release_dates,external_ids,translations`);
     const imdbId = d.imdb_id || d.external_ids?.imdb_id || null;
     return {
       uscita: uscitaItaliana(d.release_dates) || ripiegoUscita || null,
       imdbId: /^tt\d+$/.test(imdbId || '') ? imdbId : null,
+      titoloInglese: titoloInglese(d),
+      uscitaMondo: d.release_date || null,
     };
   } catch {
-    return { uscita: ripiegoUscita || null, imdbId: null };
+    return { uscita: ripiegoUscita || null, imdbId: null, titoloInglese: null, uscitaMondo: ripiegoUscita || null };
   }
 }
 
@@ -752,7 +792,7 @@ export function fontiVoto(e) {
     tmdb: e?.tmdb ?? null,
     letterboxd: e?.letterboxd?.voto ?? null,
     imdb: e?.imdb?.voto ?? null,
-    metacritic: e?.imdb?.metacritic ?? null,
+    metacritic: e?.metacritic?.voto ?? null,
   };
 }
 
@@ -809,7 +849,8 @@ async function arricchisci(titoli, oggi) {
   const scaduto = (x) => !x?.il || giorni(x.il) >= GIORNI_CACHE_TROVATO;
 
   const letterboxd = fonteEsterna('Letterboxd', Number(process.env.PAUSA_LETTERBOXD_MS ?? 1000));
-  const imdb = fonteEsterna('IMDb/Metacritic', Number(process.env.PAUSA_IMDB_MS ?? 500));
+  const metacritic = fonteEsterna('Metacritic', Number(process.env.PAUSA_METACRITIC_MS ?? 1000));
+  const anno = (iso) => Number(String(iso || '').slice(0, 4)) || null;
 
   for (const [chiave, titolo] of distinti) {
     if (eSerieTv(titolo)) {
@@ -817,8 +858,16 @@ async function arricchisci(titoli, oggi) {
       continue;
     }
     if (!fresca(cache[chiave])) {
+      const vecchia = cache[chiave];
       try {
-        cache[chiave] = { ...(await cercaSuTmdb(titolo, key, oggi)), v: VERSIONE_CACHE, controllatoIl: new Date().toISOString() };
+        const nuova = { ...(await cercaSuTmdb(titolo, key, oggi)), v: VERSIONE_CACHE, controllatoIl: new Date().toISOString() };
+        // Stesso film di prima: i voti di Letterboxd e Metacritic restano validi fino alla loro scadenza.
+        if (nuova.id && vecchia?.id === nuova.id) {
+          if (vecchia.letterboxd) nuova.letterboxd = vecchia.letterboxd;
+          if (vecchia.metacritic) nuova.metacritic = vecchia.metacritic;
+          if (vecchia.imdb?.voti != null) nuova.imdb = vecchia.imdb;
+        }
+        cache[chiave] = nuova;
       } catch (err) {
         avvisi.push(`TMDB "${titolo}": ${err.message}`);
         continue;
@@ -831,14 +880,26 @@ async function arricchisci(titoli, oggi) {
       const voto = await chiedi(letterboxd, () => votoLetterboxd(e.id));
       if (voto !== undefined) e.letterboxd = { voto, il: new Date().toISOString() };
     }
-    // v:2 = letto dopo il controllo sulle pagine di blocco (le voci vuote di prima si rifanno).
-    if (e.imdbId && (scaduto(e.imdb) || e.imdb.v !== 2)) {
-      const voti = await chiedi(imdb, () => votiImdb(e.imdbId));
-      if (voti !== undefined) e.imdb = { voto: voti.imdb, metacritic: voti.metacritic, il: new Date().toISOString(), v: 2 };
+    if (e.titoloInglese && scaduto(e.metacritic)) {
+      const anni = unici([anno(e.uscitaMondo), anno(e.uscita)].filter(Boolean));
+      const voto = await chiedi(metacritic, () => votoMetacritic(e.titoloInglese, anni));
+      if (voto !== undefined) e.metacritic = { voto, il: new Date().toISOString() };
     }
   }
 
-  for (const fonte of [letterboxd, imdb]) {
+  // IMDb: un solo download del dataset per tutti i film, a ogni giro (i voti cambiano ogni giorno).
+  const conImdb = distinti.map(([k]) => cache[k]).filter((e) => e?.imdbId);
+  if (conImdb.length) {
+    try {
+      const trovati = await votiImdb(conImdb.map((e) => e.imdbId));
+      const il = new Date().toISOString();
+      for (const e of conImdb) e.imdb = { ...(trovati.get(e.imdbId) || { voto: null, voti: 0 }), il };
+    } catch (err) {
+      avvisi.push(`IMDb: dataset non scaricato (${err.message}), restano i voti precedenti`);
+    }
+  }
+
+  for (const fonte of [letterboxd, metacritic]) {
     if (fonte.errori) {
       avvisi.push(
         `${fonte.nome}: ${fonte.errori} richieste fallite (${fonte.ultimoErrore})${fonte.spenta ? ', sospesa per questo giro' : ''}`,
