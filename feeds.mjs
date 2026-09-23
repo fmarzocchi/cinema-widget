@@ -511,6 +511,8 @@ const TMDB = 'https://api.themoviedb.org/3';
 const GIORNI_CACHE_TROVATO = 7; // i voti cambiano: ogni film viene ricontrollato una volta a settimana
 const GIORNI_CACHE_NON_TROVATO = 2;
 const VOTI_MINIMI = 5; // con meno voti la media TMDB non vuol dire nulla (3 voti = 10.0)
+// Cambia quando cambiano le regole di abbinamento: le voci vecchie vengono ricontrollate.
+const VERSIONE_CACHE = 2;
 
 /**
  * Sceglie il film giusto tra i risultati di TMDB, con prudenza: meglio nessun voto che il
@@ -518,20 +520,29 @@ const VOTI_MINIMI = 5; // con meno voti la media TMDB non vuol dire nulla (3 vot
  * copre almeno il 40% ("Avengers: Endgame Extra" -> "Avengers: Endgame", ma "Ultimo - Tutto:
  * Live a Tor Vergata" non diventa il film "Ultimo"). A parità vince il titolo esatto, poi il
  * film uscito negli ultimi due anni (quelli in sala), poi il più popolare.
+ *
+ * chiaveSenzaSottotitolo è la parte prima di " - " ("Pusher II - With Blood on My Hands" ->
+ * "Pusher II"): vale come abbinamento parziale solo se ha almeno due parole, così "Ultimo"
+ * da solo non basta mai.
  */
-export function scegliMigliore(risultati, chiave, oggi) {
+export function scegliMigliore(risultati, chiave, oggi, chiaveSenzaSottotitolo = null) {
   if (!Array.isArray(risultati) || !risultati.length || !chiave) return null;
+  const breve =
+    chiaveSenzaSottotitolo && chiaveSenzaSottotitolo !== chiave && chiaveSenzaSottotitolo.includes(' ')
+      ? chiaveSenzaSottotitolo
+      : null;
   const candidati = [];
   for (const r of risultati) {
     const chiavi = [chiaveTitolo(r.title), chiaveTitolo(r.original_title)].filter(Boolean);
     const esatto = chiavi.includes(chiave);
+    const senzaSottotitolo = !esatto && Boolean(breve) && chiavi.includes(breve);
     const prefisso =
       !esatto &&
       chiavi.some((k) => {
         const [corta, lunga] = k.length < chiave.length ? [k, chiave] : [chiave, k];
         return corta.length >= 4 && lunga.startsWith(`${corta} `) && corta.length / lunga.length >= 0.4;
       });
-    if (esatto || prefisso) candidati.push({ r, esatto });
+    if (esatto || prefisso || senzaSottotitolo) candidati.push({ r, esatto });
   }
   if (!candidati.length) return null;
 
@@ -573,13 +584,19 @@ async function uscitaItaliana(id, key, ripiego) {
   return ripiego || null;
 }
 
+/** Episodi di una serie ("Un Prophète - ep. 1-4"): il voto del film omonimo sarebbe sbagliato. */
+export function eSerieTv(titolo) {
+  return /\b(ep|eps|episodio|episodi|puntata|puntate|stagione)\b\.?\s*\d/i.test(String(titolo || ''));
+}
+
 async function cercaSuTmdb(titolo, key, oggi) {
   const chiave = chiaveTitolo(titolo);
+  const primaDelTrattino = titoloPulito(titolo).split(/\s[-–—]\s/)[0].trim();
   for (const query of ricercheTmdb(titolo)) {
     const dati = await fetchJson(
       `${TMDB}/search/movie?api_key=${key}&language=it-IT&region=IT&include_adult=false&query=${encodeURIComponent(query)}`,
     );
-    const scelta = scegliMigliore(dati.results, chiave, oggi);
+    const scelta = scegliMigliore(dati.results, chiave, oggi, query === primaDelTrattino ? chiaveTitolo(query) : null);
     if (!scelta) continue;
     const s = scelta.r;
     return {
@@ -617,13 +634,18 @@ async function arricchisci(titoli, oggi) {
   const adesso = Date.now();
   const fresca = (e) =>
     e?.controllatoIl &&
+    e.v === VERSIONE_CACHE &&
     'esatto' in e === Boolean(e.id) &&
     adesso - Date.parse(e.controllatoIl) < (e.id ? GIORNI_CACHE_TROVATO : GIORNI_CACHE_NON_TROVATO) * 86400000;
 
   for (const [chiave, titolo] of distinti) {
+    if (eSerieTv(titolo)) {
+      delete cache[chiave];
+      continue;
+    }
     if (fresca(cache[chiave])) continue;
     try {
-      cache[chiave] = { ...(await cercaSuTmdb(titolo, key, oggi)), controllatoIl: new Date().toISOString() };
+      cache[chiave] = { ...(await cercaSuTmdb(titolo, key, oggi)), v: VERSIONE_CACHE, controllatoIl: new Date().toISOString() };
     } catch (err) {
       avvisi.push(`TMDB "${titolo}": ${err.message}`);
     }
