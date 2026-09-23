@@ -6,8 +6,8 @@
     "ratings": {
       "tmdb": 8.2,
       "letterboxd": 8,
-      "imdb": null,
-      "metacritic": null
+      "imdb": 8.4,
+      "metacritic": 7.8
     },
     "releaseDate": "2019-04-24",
     "showtimes": [
@@ -37,8 +37,8 @@
     "ratings": {
       "tmdb": 8.2,
       "letterboxd": 8,
-      "imdb": null,
-      "metacritic": null
+      "imdb": 8.4,
+      "metacritic": 7.8
     },
     "releaseDate": "2019-04-24",
     "showtimes": [
@@ -62,12 +62,12 @@
   {
     "title": "NAZA",
     "poster": "https://image.tmdb.org/t/p/w185/qfdNOEmMroHjPLpZhNkORcVzgrQ.jpg",
-    "rating": 7.6,
+    "rating": 7.9,
     "ratings": {
       "tmdb": null,
       "letterboxd": 7.6,
-      "imdb": null,
-      "metacritic": null
+      "imdb": 6.7,
+      "metacritic": 9.5
     },
     "releaseDate": "2026-09-25",
     "showtimes": [
@@ -87,7 +87,7 @@
     "vo": false,
     "url": "https://roma.andromeda.18tickets.it/film/77608",
     "smart": {
-      "2026-09-28": 89
+      "2026-09-28": 93
     },
     "rankUscita": 0,
     "rankVoto": 2
@@ -95,12 +95,12 @@
   {
     "title": "L'isola dei ricordi",
     "poster": "https://image.tmdb.org/t/p/w185/p8YpBFMmccQQoeQie9XKv6loDSa.jpg",
-    "rating": 7.6,
+    "rating": 7.7,
     "ratings": {
       "tmdb": 7.6,
       "letterboxd": 7.6,
-      "imdb": null,
-      "metacritic": null
+      "imdb": 7.6,
+      "metacritic": 7.9
     },
     "releaseDate": "2026-09-24",
     "showtimes": [
@@ -125,21 +125,56 @@
     "vo": false,
     "url": "https://roma.andromeda.18tickets.it/film/78267",
     "smart": {
-      "2026-09-24": 89,
-      "2026-09-25": 89
+      "2026-09-24": 90,
+      "2026-09-25": 90
     },
     "rankUscita": 1,
     "rankVoto": 3
   },
   {
+    "title": "Resident Evil",
+    "poster": "https://image.tmdb.org/t/p/w185/D8rnntI88rgzWKDK2yuxm25HTQ.jpg",
+    "rating": 7.7,
+    "ratings": {
+      "tmdb": 7.3,
+      "letterboxd": 7.6,
+      "imdb": 7.7,
+      "metacritic": 8.1
+    },
+    "releaseDate": "2026-09-17",
+    "showtimes": [
+      "19:15",
+      "21:15"
+    ],
+    "showtimesDate": "2026-09-23",
+    "days": {
+      "2026-09-23": [
+        "19:15",
+        "21:15"
+      ],
+      "2026-09-25": [
+        "21:20"
+      ]
+    },
+    "room": null,
+    "vo": false,
+    "url": "https://roma.andromeda.18tickets.it/film/76981",
+    "smart": {
+      "2026-09-23": 76,
+      "2026-09-25": 66
+    },
+    "rankUscita": 4,
+    "rankVoto": 4
+  },
+  {
     "title": "The Invite - Il piacere è tutto nostro",
     "poster": "https://image.tmdb.org/t/p/w185/p9kaEC6mE6oNFhZjkbA1ALuvv2q.jpg",
-    "rating": 7.6,
+    "rating": 7.7,
     "ratings": {
       "tmdb": 7.2,
       "letterboxd": 7.9,
-      "imdb": null,
-      "metacritic": null
+      "imdb": 7.5,
+      "metacritic": 8.2
     },
     "releaseDate": "2026-09-16",
     "showtimes": [
@@ -163,21 +198,21 @@
     "vo": false,
     "url": "https://roma.andromeda.18tickets.it/film/76984",
     "smart": {
-      "2026-09-23": 83,
-      "2026-09-25": 74
+      "2026-09-23": 84,
+      "2026-09-25": 75
     },
     "rankUscita": 6,
-    "rankVoto": 4
+    "rankVoto": 5
   },
   {
     "title": "The Invite - Il piacere è tutto nostro (V.O.)",
     "poster": "https://image.tmdb.org/t/p/w185/p9kaEC6mE6oNFhZjkbA1ALuvv2q.jpg",
-    "rating": 7.6,
+    "rating": 7.7,
     "ratings": {
       "tmdb": 7.2,
       "letterboxd": 7.9,
-      "imdb": null,
-      "metacritic": null
+      "imdb": 7.5,
+      "metacritic": 8.2
     },
     "releaseDate": "2026-09-16",
     "showtimes": [
@@ -193,10 +228,10 @@
     "vo": true,
     "url": "https://roma.andromeda.18tickets.it/film/76983",
     "smart": {
-      "2026-09-23": 64
+      "2026-09-23": 65
     },
     "rankUscita": 7,
-    "rankVoto": 5
+    "rankVoto": 6
   },
   {
     "title": "Coyote vs. Acme",
@@ -205,8 +240,8 @@
     "ratings": {
       "tmdb": 7.5,
       "letterboxd": 7.7,
-      "imdb": null,
-      "metacritic": null
+      "imdb": 7.5,
+      "metacritic": 7.7
     },
     "releaseDate": "2026-09-02",
     "showtimes": [
@@ -234,52 +269,17 @@
       "2026-09-25": 65
     },
     "rankUscita": 10,
-    "rankVoto": 6
-  },
-  {
-    "title": "Resident Evil",
-    "poster": "https://image.tmdb.org/t/p/w185/D8rnntI88rgzWKDK2yuxm25HTQ.jpg",
-    "rating": 7.5,
-    "ratings": {
-      "tmdb": 7.3,
-      "letterboxd": 7.6,
-      "imdb": null,
-      "metacritic": null
-    },
-    "releaseDate": "2026-09-17",
-    "showtimes": [
-      "19:15",
-      "21:15"
-    ],
-    "showtimesDate": "2026-09-23",
-    "days": {
-      "2026-09-23": [
-        "19:15",
-        "21:15"
-      ],
-      "2026-09-25": [
-        "21:20"
-      ]
-    },
-    "room": null,
-    "vo": false,
-    "url": "https://roma.andromeda.18tickets.it/film/76981",
-    "smart": {
-      "2026-09-23": 73,
-      "2026-09-25": 64
-    },
-    "rankUscita": 4,
     "rankVoto": 7
   },
   {
     "title": "Cars: Motori Ruggenti - 20 Anni",
     "poster": "https://cdn.18tickets.net/ccroma/uploads/film/playbill/76985/standard_00d0c4f0-9003-40b9-af5e-fc05c9f568fe.jpg",
-    "rating": 7.5,
+    "rating": 7.4,
     "ratings": {
       "tmdb": 7.1,
       "letterboxd": 7.9,
-      "imdb": null,
-      "metacritic": null
+      "imdb": 7.3,
+      "metacritic": 7.3
     },
     "releaseDate": "2006-08-23",
     "showtimes": [
@@ -298,8 +298,8 @@
     "vo": false,
     "url": "https://roma.andromeda.18tickets.it/film/76985",
     "smart": {
-      "2026-09-23": 40,
-      "2026-09-25": 40
+      "2026-09-23": 39,
+      "2026-09-25": 39
     },
     "rankUscita": 14,
     "rankVoto": 8
@@ -311,8 +311,8 @@
     "ratings": {
       "tmdb": 7.8,
       "letterboxd": 6.3,
-      "imdb": null,
-      "metacritic": null
+      "imdb": 7.2,
+      "metacritic": 6.9
     },
     "releaseDate": "2026-09-24",
     "showtimes": [
@@ -343,12 +343,12 @@
   {
     "title": "PAW Patrol - Missione Dinosauri",
     "poster": "https://image.tmdb.org/t/p/w185/r5XkrcTtb7O2YeblRDpkuwh9ued.jpg",
-    "rating": 6.9,
+    "rating": 6.1,
     "ratings": {
       "tmdb": 8,
       "letterboxd": 5.7,
-      "imdb": null,
-      "metacritic": null
+      "imdb": 6.1,
+      "metacritic": 4.7
     },
     "releaseDate": "2026-09-09",
     "showtimes": [
@@ -367,50 +367,21 @@
     "vo": false,
     "url": "https://roma.andromeda.18tickets.it/film/77707",
     "smart": {
-      "2026-09-23": 51,
-      "2026-09-25": 51
+      "2026-09-23": 41,
+      "2026-09-25": 41
     },
     "rankUscita": 9,
     "rankVoto": 10
   },
   {
-    "title": "Oceania",
-    "poster": "https://image.tmdb.org/t/p/w185/g4zumtvkkH5QbyXyL0mO8HpCSaw.jpg",
-    "rating": 6.4,
-    "ratings": {
-      "tmdb": 7.4,
-      "letterboxd": 5.4,
-      "imdb": null,
-      "metacritic": null
-    },
-    "releaseDate": "2026-08-19",
-    "showtimes": [
-      "17:30"
-    ],
-    "showtimesDate": "2026-09-23",
-    "days": {
-      "2026-09-23": [
-        "17:30"
-      ]
-    },
-    "room": null,
-    "vo": false,
-    "url": "https://roma.andromeda.18tickets.it/film/77709",
-    "smart": {
-      "2026-09-23": 36
-    },
-    "rankUscita": 11,
-    "rankVoto": 11
-  },
-  {
     "title": "Amori & incantesimi 2",
     "poster": "https://image.tmdb.org/t/p/w185/q5teI4VZ2gxQnDWlMhDkcn9P805.jpg",
-    "rating": 6,
+    "rating": 5.7,
     "ratings": {
       "tmdb": 6.2,
       "letterboxd": 5.8,
-      "imdb": null,
-      "metacritic": null
+      "imdb": 6.3,
+      "metacritic": 4.4
     },
     "releaseDate": "2026-09-10",
     "showtimes": [
@@ -426,9 +397,38 @@
     "vo": false,
     "url": "https://roma.andromeda.18tickets.it/film/77711",
     "smart": {
-      "2026-09-23": 40
+      "2026-09-23": 37
     },
     "rankUscita": 8,
+    "rankVoto": 11
+  },
+  {
+    "title": "Oceania",
+    "poster": "https://image.tmdb.org/t/p/w185/g4zumtvkkH5QbyXyL0mO8HpCSaw.jpg",
+    "rating": 5.7,
+    "ratings": {
+      "tmdb": 7.4,
+      "letterboxd": 5.4,
+      "imdb": 5.8,
+      "metacritic": 4.2
+    },
+    "releaseDate": "2026-08-19",
+    "showtimes": [
+      "17:30"
+    ],
+    "showtimesDate": "2026-09-23",
+    "days": {
+      "2026-09-23": [
+        "17:30"
+      ]
+    },
+    "room": null,
+    "vo": false,
+    "url": "https://roma.andromeda.18tickets.it/film/77709",
+    "smart": {
+      "2026-09-23": 27
+    },
+    "rankUscita": 11,
     "rankVoto": 12
   },
   {
