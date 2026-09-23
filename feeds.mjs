@@ -602,21 +602,34 @@ const IMDB_GRAPHQL = 'https://caching.graphql.imdb.com/';
 
 async function votiImdb(imdbId) {
   const query = `query { title(id: "${imdbId}") { ratingsSummary { aggregateRating voteCount } metacritic { metascore { score } } } }`;
+  let notaGraphql;
   try {
-    const json = JSON.parse(
-      await fetchText(IMDB_GRAPHQL, {
-        retries: 1,
-        accept: 'application/json',
-        headers: { 'Content-Type': 'application/json' },
-        body: JSON.stringify({ query }),
-      }),
-    );
+    const testo = await fetchText(IMDB_GRAPHQL, {
+      retries: 1,
+      accept: 'application/json',
+      headers: { 'Content-Type': 'application/json' },
+      body: JSON.stringify({ query }),
+    });
+    let json = null;
+    try {
+      json = JSON.parse(testo);
+    } catch {
+      /* non è JSON: pagina di blocco o simile */
+    }
     const letti = leggiImdbGraphql(json);
     if (letti) return letti;
-  } catch {
-    /* si prova la pagina */
+    notaGraphql = `GraphQL senza titolo: ${testo.replace(/\s+/g, ' ').slice(0, 160)}`;
+  } catch (err) {
+    notaGraphql = `GraphQL ${err.message}`;
   }
-  return leggiImdbPagina(await fetchText(`https://www.imdb.com/title/${imdbId}/`, { retries: 1 }));
+  const html = await fetchText(`https://www.imdb.com/title/${imdbId}/`, { retries: 1 });
+  // Ogni scheda IMDb ha un blocco JSON-LD, anche senza voti: se manca, è una pagina di blocco.
+  if (!/application\/ld\+json/i.test(html)) {
+    throw new Error(
+      `nessun dato (${notaGraphql}; pagina senza JSON-LD, ${html.length} caratteri: ${senzaTag(html).replace(/\s+/g, ' ').slice(0, 100)})`,
+    );
+  }
+  return leggiImdbPagina(html);
 }
 
 async function votoLetterboxd(tmdbId) {
@@ -818,9 +831,10 @@ async function arricchisci(titoli, oggi) {
       const voto = await chiedi(letterboxd, () => votoLetterboxd(e.id));
       if (voto !== undefined) e.letterboxd = { voto, il: new Date().toISOString() };
     }
-    if (e.imdbId && scaduto(e.imdb)) {
+    // v:2 = letto dopo il controllo sulle pagine di blocco (le voci vuote di prima si rifanno).
+    if (e.imdbId && (scaduto(e.imdb) || e.imdb.v !== 2)) {
       const voti = await chiedi(imdb, () => votiImdb(e.imdbId));
-      if (voti !== undefined) e.imdb = { voto: voti.imdb, metacritic: voti.metacritic, il: new Date().toISOString() };
+      if (voti !== undefined) e.imdb = { voto: voti.imdb, metacritic: voti.metacritic, il: new Date().toISOString(), v: 2 };
     }
   }
 
