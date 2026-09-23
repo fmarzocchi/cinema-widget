@@ -1,0 +1,35 @@
+{
+  "updatedAt": "2026-09-23T11:45:20.575Z",
+  "today": "2026-09-23",
+  "ratingScale": 5,
+  "widgetUrl": "https://fmarzocchi.github.io/cinema-widget/cinema.json",
+  "feeds": [
+    {
+      "key": "porta",
+      "label": "PORTA",
+      "cinema": "UCI Cinemas Porta di Roma",
+      "count": 29,
+      "state": "ok",
+      "url": "https://fmarzocchi.github.io/cinema-widget/porta.json"
+    },
+    {
+      "key": "troisi",
+      "label": "TROISI",
+      "cinema": "Cinema Troisi",
+      "count": 12,
+      "state": "ok",
+      "url": "https://fmarzocchi.github.io/cinema-widget/troisi.json"
+    },
+    {
+      "key": "andromeda",
+      "label": "ANDROMEDA",
+      "cinema": "Multisala Andromeda",
+      "count": 16,
+      "state": "ok",
+      "url": "https://fmarzocchi.github.io/cinema-widget/andromeda.json"
+    }
+  ],
+  "warnings": [
+    "Nessuna chiave TMDB: voti e date di uscita restano vuoti (le locandine arrivano dai siti delle sale)"
+  ]
+}

@@ -1,0 +1,311 @@
+[
+  {
+    "title": "I figli della scimmia",
+    "poster": "https://cinematroisi.liveticket.it/wp-content/uploads/sites/48/22267_it-180x257.jpg",
+    "rating": null,
+    "releaseDate": null,
+    "score": 0.5,
+    "showtimes": [
+      "11:00"
+    ],
+    "showtimesDate": "2026-09-23",
+    "days": {
+      "2026-09-23": [
+        "11:00"
+      ],
+      "2026-09-24": [
+        "13:00",
+        "17:00"
+      ],
+      "2026-09-25": [
+        "16:15",
+        "20:30"
+      ],
+      "2026-09-26": [
+        "18:00"
+      ],
+      "2026-09-27": [
+        "22:30"
+      ],
+      "2026-09-28": [
+        "15:00"
+      ],
+      "2026-09-29": [
+        "11:00"
+      ]
+    },
+    "room": null,
+    "vo": false,
+    "url": "https://www.liveticket.it/opera.aspx?Id=695443"
+  },
+  {
+    "title": "Odissea (V.O.)",
+    "poster": "https://cinematroisi.liveticket.it/wp-content/uploads/sites/48/1368337i2VO_it-180x257.jpg",
+    "rating": null,
+    "releaseDate": null,
+    "score": 0.5,
+    "showtimes": [
+      "13:30"
+    ],
+    "showtimesDate": "2026-09-23",
+    "days": {
+      "2026-09-23": [
+        "13:30"
+      ],
+      "2026-09-24": [
+        "21:15"
+      ],
+      "2026-09-25": [
+        "00:30"
+      ],
+      "2026-09-26": [
+        "00:30",
+        "13:00"
+      ],
+      "2026-09-27": [
+        "00:30"
+      ],
+      "2026-09-28": [
+        "00:30"
+      ]
+    },
+    "room": null,
+    "vo": true,
+    "url": "https://www.liveticket.it/opera.aspx?Id=695487"
+  },
+  {
+    "title": "The Invite - Il piacere è tutto nostro",
+    "poster": "https://cinematroisi.liveticket.it/wp-content/uploads/sites/48/950028itVO_it-180x257.jpg",
+    "rating": null,
+    "releaseDate": null,
+    "score": 0.5,
+    "showtimes": [
+      "17:00"
+    ],
+    "showtimesDate": "2026-09-23",
+    "days": {
+      "2026-09-23": [
+        "17:00"
+      ],
+      "2026-09-24": [
+        "11:00",
+        "19:00"
+      ],
+      "2026-09-25": [
+        "14:00",
+        "22:45"
+      ],
+      "2026-09-26": [
+        "16:00",
+        "20:15"
+      ],
+      "2026-09-27": [
+        "13:30",
+        "18:30"
+      ],
+      "2026-09-28": [
+        "17:00"
+      ],
+      "2026-09-29": [
+        "13:00"
+      ]
+    },
+    "room": null,
+    "vo": false,
+    "url": "https://www.liveticket.it/opera.aspx?Id=692494"
+  },
+  {
+    "title": "Un Prophète - ep. 1-4 (V.O.)",
+    "poster": "https://cinematroisi.liveticket.it/wp-content/uploads/sites/48/00306838-180x257.jpg",
+    "rating": null,
+    "releaseDate": null,
+    "score": 0.5,
+    "showtimes": [
+      "19:30"
+    ],
+    "showtimesDate": "2026-09-23",
+    "days": {
+      "2026-09-23": [
+        "19:30"
+      ]
+    },
+    "room": null,
+    "vo": true,
+    "url": "https://www.liveticket.it/opera.aspx?Id=695493"
+  },
+  {
+    "title": "EN EL CAMINO",
+    "poster": "https://cinematroisi.liveticket.it/wp-content/uploads/sites/48/00306839-180x257.jpg",
+    "rating": null,
+    "releaseDate": null,
+    "score": 0.5,
+    "showtimes": [
+      "15:00"
+    ],
+    "showtimesDate": "2026-09-24",
+    "days": {
+      "2026-09-24": [
+        "15:00"
+      ],
+      "2026-09-25": [
+        "18:30"
+      ],
+      "2026-09-27": [
+        "20:30"
+      ]
+    },
+    "room": null,
+    "vo": false,
+    "url": "https://www.liveticket.it/opera.aspx?Id=695495"
+  },
+  {
+    "title": "Teenage Sex and Death at Camp Miasma (V.O.)",
+    "poster": "https://cinematroisi.liveticket.it/wp-content/uploads/sites/48/1240889it_it-180x257.jpg",
+    "rating": null,
+    "releaseDate": null,
+    "score": 0.5,
+    "showtimes": [
+      "11:00"
+    ],
+    "showtimesDate": "2026-09-25",
+    "days": {
+      "2026-09-25": [
+        "11:00"
+      ],
+      "2026-09-26": [
+        "22:30"
+      ],
+      "2026-09-27": [
+        "16:00"
+      ],
+      "2026-09-28": [
+        "13:00"
+      ],
+      "2026-09-29": [
+        "15:00"
+      ]
+    },
+    "room": null,
+    "vo": true,
+    "url": "https://www.liveticket.it/opera.aspx?Id=687649"
+  },
+  {
+    "title": "Pusher II - With Blood on My Hands (V.O.)",
+    "poster": "https://cinematroisi.liveticket.it/wp-content/uploads/sites/48/00306290-180x257.jpg",
+    "rating": null,
+    "releaseDate": null,
+    "score": 0.5,
+    "showtimes": [
+      "11:00"
+    ],
+    "showtimesDate": "2026-09-26",
+    "days": {
+      "2026-09-26": [
+        "11:00"
+      ]
+    },
+    "room": null,
+    "vo": true,
+    "url": "https://www.liveticket.it/opera.aspx?Id=694366"
+  },
+  {
+    "title": "MULAN",
+    "poster": "https://cinematroisi.liveticket.it/wp-content/uploads/sites/48/tt0120762_it-180x257.jpg",
+    "rating": null,
+    "releaseDate": null,
+    "score": 0.5,
+    "showtimes": [
+      "11:00"
+    ],
+    "showtimesDate": "2026-09-27",
+    "days": {
+      "2026-09-27": [
+        "11:00"
+      ]
+    },
+    "room": null,
+    "vo": false,
+    "url": "https://www.liveticket.it/opera.aspx?Id=695505"
+  },
+  {
+    "title": "My Own Private River (V.O.)",
+    "poster": "https://cinematroisi.liveticket.it/wp-content/uploads/sites/48/00306855-180x257.jpg",
+    "rating": null,
+    "releaseDate": null,
+    "score": 0.5,
+    "showtimes": [
+      "21:00"
+    ],
+    "showtimesDate": "2026-09-28",
+    "days": {
+      "2026-09-28": [
+        "21:00"
+      ]
+    },
+    "room": null,
+    "vo": true,
+    "url": "https://www.liveticket.it/opera.aspx?Id=695516"
+  },
+  {
+    "title": "NAZA (V.O.)",
+    "poster": "https://cinematroisi.liveticket.it/wp-content/uploads/sites/48/22489-180x257.jpg",
+    "rating": null,
+    "releaseDate": null,
+    "score": 0.5,
+    "showtimes": [
+      "11:00",
+      "19:00"
+    ],
+    "showtimesDate": "2026-09-28",
+    "days": {
+      "2026-09-28": [
+        "11:00",
+        "19:00"
+      ],
+      "2026-09-29": [
+        "17:00"
+      ]
+    },
+    "room": null,
+    "vo": true,
+    "url": "https://www.liveticket.it/opera.aspx?Id=695512"
+  },
+  {
+    "title": "The Dreamers - I Sognatori (V.O.)",
+    "poster": "https://cinematroisi.liveticket.it/wp-content/uploads/sites/48/16769_it-180x257.jpg",
+    "rating": null,
+    "releaseDate": null,
+    "score": 0.5,
+    "showtimes": [
+      "23:59"
+    ],
+    "showtimesDate": "2026-09-28",
+    "days": {
+      "2026-09-28": [
+        "23:59"
+      ]
+    },
+    "room": null,
+    "vo": true,
+    "url": "https://www.liveticket.it/opera.aspx?Id=638825"
+  },
+  {
+    "title": "We're All Going to the World's Fair (V.O.)",
+    "poster": "https://cinematroisi.liveticket.it/wp-content/uploads/sites/48/00306857-180x257.jpg",
+    "rating": null,
+    "releaseDate": null,
+    "score": 0.5,
+    "showtimes": [
+      "21:45"
+    ],
+    "showtimesDate": "2026-09-29",
+    "days": {
+      "2026-09-29": [
+        "21:45"
+      ]
+    },
+    "room": null,
+    "vo": true,
+    "url": "https://www.liveticket.it/opera.aspx?Id=695520"
+  }
+]
