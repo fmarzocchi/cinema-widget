@@ -4,14 +4,13 @@
     "titolo": "Resident Evil",
     "esatto": true,
     "poster": "https://image.tmdb.org/t/p/w185/D8rnntI88rgzWKDK2yuxm25HTQ.jpg",
-    "tmdb": 7.3,
-    "votiTmdb": 348,
     "uscita": "2026-09-17",
     "imdbId": "tt35538033",
     "titoloInglese": "Resident Evil",
+    "titoloOriginale": "Resident Evil",
     "uscitaMondo": "2026-09-16",
-    "v": 4,
-    "controllatoIl": "2026-09-23T13:47:30.199Z",
+    "v": 5,
+    "controllatoIl": "2026-09-23T14:19:08.987Z",
     "letterboxd": {
       "voto": 7.6,
       "il": "2026-09-23T13:29:21.991Z"
@@ -23,7 +22,11 @@
     "imdb": {
       "voto": 7.7,
       "voti": 41400,
-      "il": "2026-09-23T14:09:24.979Z"
+      "il": "2026-09-23T14:20:09.350Z"
+    },
+    "mubi": {
+      "voto": 6.9,
+      "il": "2026-09-23T14:19:10.568Z"
     }
   },
   "the invite": {
@@ -31,14 +34,13 @@
     "titolo": "The Invite - Il piacere è tutto nostro",
     "esatto": true,
     "poster": "https://image.tmdb.org/t/p/w185/p9kaEC6mE6oNFhZjkbA1ALuvv2q.jpg",
-    "tmdb": 7.2,
-    "votiTmdb": 614,
     "uscita": "2026-09-16",
     "imdbId": "tt14173636",
     "titoloInglese": "The Invite",
+    "titoloOriginale": "The Invite",
     "uscitaMondo": "2026-06-25",
-    "v": 4,
-    "controllatoIl": "2026-09-23T13:47:32.650Z",
+    "v": 5,
+    "controllatoIl": "2026-09-23T14:19:10.581Z",
     "letterboxd": {
       "voto": 7.9,
       "il": "2026-09-23T13:29:29.954Z"
@@ -50,7 +52,11 @@
     "imdb": {
       "voto": 7.5,
       "voti": 72737,
-      "il": "2026-09-23T14:09:24.979Z"
+      "il": "2026-09-23T14:20:09.350Z"
+    },
+    "mubi": {
+      "voto": 7,
+      "il": "2026-09-23T14:19:11.954Z"
     }
   },
   "ultimo tutto live a tor vergata": {
@@ -58,14 +64,13 @@
     "titolo": "Ultimo - Tutto. Live a Tor Vergata",
     "esatto": true,
     "poster": "https://image.tmdb.org/t/p/w185/ntM0voyewKJn6L59MDAcyVu8ft.jpg",
-    "tmdb": null,
-    "votiTmdb": 0,
     "uscita": "2026-09-22",
     "imdbId": null,
     "titoloInglese": "Ultimo - Tutto. Live a Tor Vergata",
+    "titoloOriginale": "Ultimo - Tutto. Live a Tor Vergata",
     "uscitaMondo": "2026-09-22",
-    "v": 4,
-    "controllatoIl": "2026-09-23T13:47:34.429Z",
+    "v": 5,
+    "controllatoIl": "2026-09-23T14:19:11.978Z",
     "letterboxd": {
       "voto": null,
       "il": "2026-09-23T13:29:32.823Z"
@@ -73,6 +78,10 @@
     "metacritic": {
       "voto": null,
       "il": "2026-09-23T13:47:36.822Z"
+    },
+    "mubi": {
+      "voto": null,
+      "il": "2026-09-23T14:19:13.493Z"
     }
   },
   "amori e incantesimi 2": {
@@ -80,14 +89,13 @@
     "titolo": "Amori & incantesimi 2",
     "esatto": true,
     "poster": "https://image.tmdb.org/t/p/w185/q5teI4VZ2gxQnDWlMhDkcn9P805.jpg",
-    "tmdb": 6.2,
-    "votiTmdb": 80,
     "uscita": "2026-09-10",
     "imdbId": "tt32588798",
     "titoloInglese": "Practical Magic 2",
+    "titoloOriginale": "Practical Magic 2",
     "uscitaMondo": "2026-09-09",
-    "v": 4,
-    "controllatoIl": "2026-09-23T13:47:36.851Z",
+    "v": 5,
+    "controllatoIl": "2026-09-23T14:19:13.508Z",
     "letterboxd": {
       "voto": 5.8,
       "il": "2026-09-23T13:29:34.082Z"
@@ -99,7 +107,11 @@
     "imdb": {
       "voto": 6.3,
       "voti": 8341,
-      "il": "2026-09-23T14:09:24.979Z"
+      "il": "2026-09-23T14:20:09.350Z"
+    },
+    "mubi": {
+      "voto": 4.2,
+      "il": "2026-09-23T14:19:15.080Z"
     }
   },
   "cars motori ruggenti": {
@@ -107,14 +119,13 @@
     "titolo": "Cars - Motori ruggenti",
     "esatto": true,
     "poster": "https://image.tmdb.org/t/p/w185/moXcMQ1GdVPnQfX5qnJ0pZkJifJ.jpg",
-    "tmdb": 7.1,
-    "votiTmdb": 15544,
     "uscita": "2006-08-23",
     "imdbId": "tt0317219",
     "titoloInglese": "Cars",
+    "titoloOriginale": "Cars",
     "uscitaMondo": "2006-06-08",
-    "v": 4,
-    "controllatoIl": "2026-09-23T13:47:38.491Z",
+    "v": 5,
+    "controllatoIl": "2026-09-23T14:19:15.091Z",
     "letterboxd": {
       "voto": 7.9,
       "il": "2026-09-23T13:29:37.162Z"
@@ -126,7 +137,11 @@
     "imdb": {
       "voto": 7.3,
       "voti": 549884,
-      "il": "2026-09-23T14:09:24.979Z"
+      "il": "2026-09-23T14:20:09.350Z"
+    },
+    "mubi": {
+      "voto": 5.6,
+      "il": "2026-09-23T14:19:16.280Z"
     }
   },
   "coyote vs acme": {
@@ -134,14 +149,13 @@
     "titolo": "Coyote vs. Acme",
     "esatto": true,
     "poster": "https://image.tmdb.org/t/p/w185/x2AtkVKU8IDgeScz354aqoYjUQG.jpg",
-    "tmdb": 7.5,
-    "votiTmdb": 489,
     "uscita": "2026-09-02",
     "imdbId": "tt1756855",
     "titoloInglese": "Coyote vs. Acme",
+    "titoloOriginale": "Coyote vs. Acme",
     "uscitaMondo": "2026-08-20",
-    "v": 4,
-    "controllatoIl": "2026-09-23T13:47:40.661Z",
+    "v": 5,
+    "controllatoIl": "2026-09-23T14:19:16.295Z",
     "letterboxd": {
       "voto": 7.7,
       "il": "2026-09-23T13:29:39.899Z"
@@ -153,7 +167,11 @@
     "imdb": {
       "voto": 7.5,
       "voti": 29561,
-      "il": "2026-09-23T14:09:24.979Z"
+      "il": "2026-09-23T14:20:09.350Z"
+    },
+    "mubi": {
+      "voto": 6.9,
+      "il": "2026-09-23T14:19:17.779Z"
     }
   },
   "dov e la fiesta": {
@@ -161,14 +179,13 @@
     "titolo": "Dov’è la fiesta?",
     "esatto": true,
     "poster": "https://image.tmdb.org/t/p/w185/gtTw3Pbf0jj69Xq1nnHDXRztpEb.jpg",
-    "tmdb": 4.9,
-    "votiTmdb": 6,
     "uscita": "2026-09-17",
     "imdbId": "tt40071798",
     "titoloInglese": "Dov’è la fiesta?",
+    "titoloOriginale": "Dov’è la fiesta?",
     "uscitaMondo": "2026-09-17",
-    "v": 4,
-    "controllatoIl": "2026-09-23T13:47:41.748Z",
+    "v": 5,
+    "controllatoIl": "2026-09-23T14:19:17.794Z",
     "letterboxd": {
       "voto": null,
       "il": "2026-09-23T13:29:42.708Z"
@@ -180,7 +197,11 @@
     "imdb": {
       "voto": null,
       "voti": 0,
-      "il": "2026-09-23T14:09:24.979Z"
+      "il": "2026-09-23T14:20:09.350Z"
+    },
+    "mubi": {
+      "voto": null,
+      "il": "2026-09-23T14:19:19.380Z"
     }
   },
   "i figli della scimmia": {
@@ -188,14 +209,13 @@
     "titolo": "I figli della scimmia",
     "esatto": true,
     "poster": "https://image.tmdb.org/t/p/w185/c5tEquC2cAfxfFNIs86QmGzabmU.jpg",
-    "tmdb": null,
-    "votiTmdb": 4,
     "uscita": "2026-09-17",
     "imdbId": "tt39390583",
     "titoloInglese": "Children of the Monkey",
+    "titoloOriginale": "I figli della scimmia",
     "uscitaMondo": "2026-09-17",
-    "v": 4,
-    "controllatoIl": "2026-09-23T13:47:44.820Z",
+    "v": 5,
+    "controllatoIl": "2026-09-23T14:19:19.395Z",
     "letterboxd": {
       "voto": 6.8,
       "il": "2026-09-23T13:29:45.497Z"
@@ -207,7 +227,11 @@
     "imdb": {
       "voto": 7.4,
       "voti": 66,
-      "il": "2026-09-23T14:09:24.979Z"
+      "il": "2026-09-23T14:20:09.350Z"
+    },
+    "mubi": {
+      "voto": null,
+      "il": "2026-09-23T14:19:21.068Z"
     }
   },
   "mutiny": {
@@ -215,14 +239,13 @@
     "titolo": "Mutiny - Inverti la rotta",
     "esatto": true,
     "poster": "https://image.tmdb.org/t/p/w185/o4MXnSWwOnA4kftJ3NwZTIw2PuY.jpg",
-    "tmdb": 6.4,
-    "votiTmdb": 433,
     "uscita": "2026-09-10",
     "imdbId": "tt32338669",
     "titoloInglese": "Mutiny",
+    "titoloOriginale": "Mutiny",
     "uscitaMondo": "2026-08-19",
-    "v": 4,
-    "controllatoIl": "2026-09-23T13:47:58.011Z",
+    "v": 5,
+    "controllatoIl": "2026-09-23T14:19:21.085Z",
     "letterboxd": {
       "voto": 5.1,
       "il": "2026-09-23T13:29:48.270Z"
@@ -234,7 +257,11 @@
     "imdb": {
       "voto": 5.7,
       "voti": 21264,
-      "il": "2026-09-23T14:09:24.979Z"
+      "il": "2026-09-23T14:20:09.350Z"
+    },
+    "mubi": {
+      "voto": 5.1,
+      "il": "2026-09-23T14:19:22.332Z"
     }
   },
   "normal": {
@@ -242,14 +269,13 @@
     "titolo": "Normal",
     "esatto": true,
     "poster": "https://image.tmdb.org/t/p/w185/t13MdGCKRZvkmrFW2A7Vih3QjwD.jpg",
-    "tmdb": 7.3,
-    "votiTmdb": 598,
     "uscita": "2026-09-17",
     "imdbId": "tt31195136",
     "titoloInglese": "Normal",
+    "titoloOriginale": "Normal",
     "uscitaMondo": "2026-04-16",
-    "v": 4,
-    "controllatoIl": "2026-09-23T13:47:59.089Z",
+    "v": 5,
+    "controllatoIl": "2026-09-23T14:19:22.347Z",
     "letterboxd": {
       "voto": 5.9,
       "il": "2026-09-23T13:29:51.002Z"
@@ -261,7 +287,11 @@
     "imdb": {
       "voto": 6.3,
       "voti": 34235,
-      "il": "2026-09-23T14:09:24.979Z"
+      "il": "2026-09-23T14:20:09.350Z"
+    },
+    "mubi": {
+      "voto": 5.8,
+      "il": "2026-09-23T14:19:23.572Z"
     }
   },
   "oceania": {
@@ -269,14 +299,13 @@
     "titolo": "Oceania",
     "esatto": true,
     "poster": "https://image.tmdb.org/t/p/w185/g4zumtvkkH5QbyXyL0mO8HpCSaw.jpg",
-    "tmdb": 7.4,
-    "votiTmdb": 751,
     "uscita": "2026-08-19",
     "imdbId": "tt27419466",
     "titoloInglese": "Moana",
+    "titoloOriginale": "Moana",
     "uscitaMondo": "2026-07-08",
-    "v": 4,
-    "controllatoIl": "2026-09-23T13:48:00.184Z",
+    "v": 5,
+    "controllatoIl": "2026-09-23T14:19:23.609Z",
     "letterboxd": {
       "voto": 5.4,
       "il": "2026-09-23T13:29:53.727Z"
@@ -288,7 +317,11 @@
     "imdb": {
       "voto": 5.8,
       "voti": 17748,
-      "il": "2026-09-23T14:09:24.979Z"
+      "il": "2026-09-23T14:20:09.350Z"
+    },
+    "mubi": {
+      "voto": null,
+      "il": "2026-09-23T14:19:24.847Z"
     }
   },
   "odissea": {
@@ -296,14 +329,13 @@
     "titolo": "Odissea",
     "esatto": true,
     "poster": "https://image.tmdb.org/t/p/w185/qQhInj9fw3S2bMbiEujVldthgKe.jpg",
-    "tmdb": 8,
-    "votiTmdb": 3865,
     "uscita": "2026-07-16",
     "imdbId": "tt33764258",
     "titoloInglese": "The Odyssey",
+    "titoloOriginale": "The Odyssey",
     "uscitaMondo": "2026-07-15",
-    "v": 4,
-    "controllatoIl": "2026-09-23T13:48:03.016Z",
+    "v": 5,
+    "controllatoIl": "2026-09-23T14:19:24.863Z",
     "letterboxd": {
       "voto": 8.7,
       "il": "2026-09-23T13:29:56.464Z"
@@ -315,7 +347,11 @@
     "imdb": {
       "voto": 8.4,
       "voti": 504158,
-      "il": "2026-09-23T14:09:24.979Z"
+      "il": "2026-09-23T14:20:09.350Z"
+    },
+    "mubi": {
+      "voto": 7.1,
+      "il": "2026-09-23T14:19:26.385Z"
     }
   },
   "paw patrol missione dinosauri": {
@@ -323,14 +359,13 @@
     "titolo": "PAW Patrol - Missione Dinosauri",
     "esatto": true,
     "poster": "https://image.tmdb.org/t/p/w185/r5XkrcTtb7O2YeblRDpkuwh9ued.jpg",
-    "tmdb": 8,
-    "votiTmdb": 132,
     "uscita": "2026-09-09",
     "imdbId": "tt29356163",
     "titoloInglese": "PAW Patrol: The Dino Movie",
+    "titoloOriginale": "PAW Patrol: The Dino Movie",
     "uscitaMondo": "2026-07-23",
-    "v": 4,
-    "controllatoIl": "2026-09-23T13:48:04.668Z",
+    "v": 5,
+    "controllatoIl": "2026-09-23T14:19:26.400Z",
     "letterboxd": {
       "voto": 5.7,
       "il": "2026-09-23T13:29:59.186Z"
@@ -342,7 +377,11 @@
     "imdb": {
       "voto": 6.1,
       "voti": 2528,
-      "il": "2026-09-23T14:09:24.979Z"
+      "il": "2026-09-23T14:20:09.350Z"
+    },
+    "mubi": {
+      "voto": null,
+      "il": "2026-09-23T14:19:28.138Z"
     }
   },
   "ritorno a buenos aires": {
@@ -350,14 +389,13 @@
     "titolo": "Ritorno a Buenos Aires",
     "esatto": true,
     "poster": "https://image.tmdb.org/t/p/w185/42yQnX3vuZkxSo44KmL051xCTKN.jpg",
-    "tmdb": 7,
-    "votiTmdb": 13,
     "uscita": "2026-09-11",
     "imdbId": "tt39239726",
     "titoloInglese": "Back to Buenos Aires",
+    "titoloOriginale": "Ritorno a Buenos Aires",
     "uscitaMondo": "2026-09-11",
-    "v": 4,
-    "controllatoIl": "2026-09-23T13:48:06.289Z",
+    "v": 5,
+    "controllatoIl": "2026-09-23T14:19:28.151Z",
     "letterboxd": {
       "voto": null,
       "il": "2026-09-23T13:30:01.983Z"
@@ -369,7 +407,11 @@
     "imdb": {
       "voto": 7.1,
       "voti": 70,
-      "il": "2026-09-23T14:09:24.979Z"
+      "il": "2026-09-23T14:20:09.350Z"
+    },
+    "mubi": {
+      "voto": null,
+      "il": "2026-09-23T14:19:29.790Z"
     }
   },
   "spider man brand new day": {
@@ -377,14 +419,13 @@
     "titolo": "Spider-Man: Brand New Day",
     "esatto": true,
     "poster": "https://image.tmdb.org/t/p/w185/vKHjwe9tSPWSkiv3m8Iq1nVedOT.jpg",
-    "tmdb": 7.9,
-    "votiTmdb": 2829,
     "uscita": "2026-07-29",
     "imdbId": "tt22084616",
     "titoloInglese": "Spider-Man: Brand New Day",
+    "titoloOriginale": "Spider-Man: Brand New Day",
     "uscitaMondo": "2026-07-29",
-    "v": 4,
-    "controllatoIl": "2026-09-23T13:48:08.988Z",
+    "v": 5,
+    "controllatoIl": "2026-09-23T14:19:29.805Z",
     "letterboxd": {
       "voto": 8.1,
       "il": "2026-09-23T13:30:04.718Z"
@@ -396,7 +437,11 @@
     "imdb": {
       "voto": 8,
       "voti": 307014,
-      "il": "2026-09-23T14:09:24.979Z"
+      "il": "2026-09-23T14:20:09.350Z"
+    },
+    "mubi": {
+      "voto": 6.5,
+      "il": "2026-09-23T14:19:31.472Z"
     }
   },
   "talking tom heroes super amici": {
@@ -409,14 +454,13 @@
     "titolo": "Avengers: Endgame",
     "esatto": false,
     "poster": "https://image.tmdb.org/t/p/w185/hj1xaEUGMiUxaFYoutlljtlkHSG.jpg",
-    "tmdb": 8.2,
-    "votiTmdb": 28741,
     "uscita": "2019-04-24",
     "imdbId": "tt4154796",
     "titoloInglese": "Avengers: Endgame",
+    "titoloOriginale": "Avengers: Endgame",
     "uscitaMondo": "2019-04-24",
-    "v": 4,
-    "controllatoIl": "2026-09-23T13:48:10.439Z",
+    "v": 5,
+    "controllatoIl": "2026-09-23T14:19:31.484Z",
     "letterboxd": {
       "voto": 8,
       "il": "2026-09-23T13:30:07.611Z"
@@ -428,7 +472,11 @@
     "imdb": {
       "voto": 8.4,
       "voti": 1489574,
-      "il": "2026-09-23T14:09:24.979Z"
+      "il": "2026-09-23T14:20:09.350Z"
+    },
+    "mubi": {
+      "voto": 6.5,
+      "il": "2026-09-23T14:19:33.028Z"
     }
   },
   "bad apples": {
@@ -436,14 +484,13 @@
     "titolo": "Bad Apples",
     "esatto": true,
     "poster": "https://image.tmdb.org/t/p/w185/sDgb5jVuZ6ZOh4YjtSMMnbovkCi.jpg",
-    "tmdb": 7,
-    "votiTmdb": 23,
     "uscita": "2026-09-10",
     "imdbId": "tt29714073",
     "titoloInglese": "Bad Apples",
+    "titoloOriginale": "Bad Apples",
     "uscitaMondo": "2026-09-10",
-    "v": 4,
-    "controllatoIl": "2026-09-23T13:48:12.003Z",
+    "v": 5,
+    "controllatoIl": "2026-09-23T14:19:33.040Z",
     "letterboxd": {
       "voto": 7.4,
       "il": "2026-09-23T13:30:10.377Z"
@@ -455,27 +502,30 @@
     "imdb": {
       "voto": 7.2,
       "voti": 1168,
-      "il": "2026-09-23T14:09:24.979Z"
+      "il": "2026-09-23T14:20:09.350Z"
+    },
+    "mubi": {
+      "voto": 6.9,
+      "il": "2026-09-23T14:19:34.325Z"
     }
   },
   "due ladri in fuga": {
     "id": null,
-    "v": 4,
-    "controllatoIl": "2026-09-23T13:48:13.552Z"
+    "v": 5,
+    "controllatoIl": "2026-09-23T14:19:34.354Z"
   },
   "heart of the beast": {
     "id": 1263337,
     "titolo": "Heart of the Beast - Nel profondo selvaggio",
     "esatto": true,
     "poster": "https://image.tmdb.org/t/p/w185/yiqRtrbY63aSPLinH5IsJwKHzZN.jpg",
-    "tmdb": 7.8,
-    "votiTmdb": 20,
     "uscita": "2026-09-24",
     "imdbId": "tt7526136",
     "titoloInglese": "Heart of the Beast",
+    "titoloOriginale": "Heart of the Beast",
     "uscitaMondo": "2026-09-19",
-    "v": 4,
-    "controllatoIl": "2026-09-23T13:48:13.578Z",
+    "v": 5,
+    "controllatoIl": "2026-09-23T14:19:34.365Z",
     "letterboxd": {
       "voto": 6.3,
       "il": "2026-09-23T13:30:13.302Z"
@@ -487,7 +537,11 @@
     "imdb": {
       "voto": 7.2,
       "voti": 1025,
-      "il": "2026-09-23T14:09:24.979Z"
+      "il": "2026-09-23T14:20:09.350Z"
+    },
+    "mubi": {
+      "voto": null,
+      "il": "2026-09-23T14:19:36.034Z"
     }
   },
   "insidious fuori dall altrove": {
@@ -495,14 +549,13 @@
     "titolo": "Insidious - Fuori dall’Altrove",
     "esatto": true,
     "poster": "https://image.tmdb.org/t/p/w185/eszahdPOeElmK3DSNXW44Qb0aNh.jpg",
-    "tmdb": 6.5,
-    "votiTmdb": 162,
     "uscita": "2026-08-19",
     "imdbId": "tt32393988",
     "titoloInglese": "Insidious: Out of the Further",
+    "titoloOriginale": "Insidious: Out of the Further",
     "uscitaMondo": "2026-08-19",
-    "v": 4,
-    "controllatoIl": "2026-09-23T13:48:14.648Z",
+    "v": 5,
+    "controllatoIl": "2026-09-23T14:19:36.050Z",
     "letterboxd": {
       "voto": 5.4,
       "il": "2026-09-23T13:30:16.202Z"
@@ -514,7 +567,11 @@
     "imdb": {
       "voto": 6.2,
       "voti": 15854,
-      "il": "2026-09-23T14:09:24.979Z"
+      "il": "2026-09-23T14:20:09.350Z"
+    },
+    "mubi": {
+      "voto": 4.9,
+      "il": "2026-09-23T14:19:37.776Z"
     }
   },
   "l isola dei ricordi": {
@@ -522,14 +579,13 @@
     "titolo": "L'isola dei ricordi",
     "esatto": true,
     "poster": "https://image.tmdb.org/t/p/w185/p8YpBFMmccQQoeQie9XKv6loDSa.jpg",
-    "tmdb": 7.6,
-    "votiTmdb": 12,
     "uscita": "2026-09-24",
     "imdbId": "tt36583977",
     "titoloInglese": "Forgotten Island",
+    "titoloOriginale": "Forgotten Island",
     "uscitaMondo": "2026-09-10",
-    "v": 4,
-    "controllatoIl": "2026-09-23T13:48:16.269Z",
+    "v": 5,
+    "controllatoIl": "2026-09-23T14:19:37.793Z",
     "letterboxd": {
       "voto": 7.6,
       "il": "2026-09-23T13:30:18.934Z"
@@ -541,7 +597,11 @@
     "imdb": {
       "voto": 7.6,
       "voti": 917,
-      "il": "2026-09-23T14:09:24.979Z"
+      "il": "2026-09-23T14:20:09.350Z"
+    },
+    "mubi": {
+      "voto": null,
+      "il": "2026-09-23T14:19:39.287Z"
     }
   },
   "maigret l amore e la morte": {
@@ -549,14 +609,13 @@
     "titolo": "Maigret - L'amore e la morte",
     "esatto": true,
     "poster": "https://image.tmdb.org/t/p/w185/gJVCjUPmzRPfrNlLWUcdOZuhuw2.jpg",
-    "tmdb": 6,
-    "votiTmdb": 37,
     "uscita": "2026-09-24",
     "imdbId": "tt33509147",
     "titoloInglese": "Maigret and the Dead Lover",
+    "titoloOriginale": "Maigret et le mort amoureux",
     "uscitaMondo": "2026-02-18",
-    "v": 4,
-    "controllatoIl": "2026-09-23T13:48:17.361Z",
+    "v": 5,
+    "controllatoIl": "2026-09-23T14:19:39.302Z",
     "letterboxd": {
       "voto": 5.6,
       "il": "2026-09-23T13:30:21.725Z"
@@ -568,7 +627,11 @@
     "imdb": {
       "voto": 5.9,
       "voti": 428,
-      "il": "2026-09-23T14:09:24.979Z"
+      "il": "2026-09-23T14:20:09.350Z"
+    },
+    "mubi": {
+      "voto": 5.4,
+      "il": "2026-09-23T14:19:41.074Z"
     }
   },
   "nessun dolore": {
@@ -576,14 +639,13 @@
     "titolo": "Nessun dolore",
     "esatto": true,
     "poster": "https://image.tmdb.org/t/p/w185/kPDyWzS020AvrvrTFDAJfhTgUbU.jpg",
-    "tmdb": null,
-    "votiTmdb": 0,
     "uscita": "2026-09-24",
     "imdbId": "tt39122516",
     "titoloInglese": "No Pain",
+    "titoloOriginale": "Nessun dolore",
     "uscitaMondo": "2026-09-24",
-    "v": 4,
-    "controllatoIl": "2026-09-23T13:48:19.801Z",
+    "v": 5,
+    "controllatoIl": "2026-09-23T14:19:41.088Z",
     "letterboxd": {
       "voto": 5.3,
       "il": "2026-09-23T13:30:24.529Z"
@@ -595,7 +657,11 @@
     "imdb": {
       "voto": 4.8,
       "voti": 30,
-      "il": "2026-09-23T14:09:24.979Z"
+      "il": "2026-09-23T14:20:09.350Z"
+    },
+    "mubi": {
+      "voto": null,
+      "il": "2026-09-23T14:19:43.540Z"
     }
   },
   "hokum": {
@@ -603,14 +669,13 @@
     "titolo": "Hokum",
     "esatto": true,
     "poster": "https://image.tmdb.org/t/p/w185/nhF54SQmeaMUODgRKEuMMJoTysT.jpg",
-    "tmdb": 6.9,
-    "votiTmdb": 876,
     "uscita": "2026-08-05",
     "imdbId": "tt35672862",
     "titoloInglese": "Hokum",
+    "titoloOriginale": "Hokum",
     "uscitaMondo": "2026-04-29",
-    "v": 4,
-    "controllatoIl": "2026-09-23T13:48:22.666Z",
+    "v": 5,
+    "controllatoIl": "2026-09-23T14:19:43.563Z",
     "letterboxd": {
       "voto": 6.6,
       "il": "2026-09-23T13:30:27.435Z"
@@ -622,7 +687,11 @@
     "imdb": {
       "voto": 6.7,
       "voti": 63945,
-      "il": "2026-09-23T14:09:24.979Z"
+      "il": "2026-09-23T14:20:09.350Z"
+    },
+    "mubi": {
+      "voto": 5.9,
+      "il": "2026-09-23T14:19:44.824Z"
     }
   },
   "super mario galaxy il film": {
@@ -630,14 +699,13 @@
     "titolo": "Super Mario Galaxy - Il film",
     "esatto": true,
     "poster": "https://image.tmdb.org/t/p/w185/3OfIG4QIEkumrWQXrcCq8bUlv01.jpg",
-    "tmdb": 8.2,
-    "votiTmdb": 3709,
     "uscita": "2026-04-01",
     "imdbId": "tt28650488",
     "titoloInglese": "The Super Mario Galaxy Movie",
+    "titoloOriginale": "The Super Mario Galaxy Movie",
     "uscitaMondo": "2026-04-01",
-    "v": 4,
-    "controllatoIl": "2026-09-23T13:48:24.194Z",
+    "v": 5,
+    "controllatoIl": "2026-09-23T14:19:44.837Z",
     "letterboxd": {
       "voto": 5.8,
       "il": "2026-09-23T13:30:30.389Z"
@@ -649,7 +717,11 @@
     "imdb": {
       "voto": 6.3,
       "voti": 75096,
-      "il": "2026-09-23T14:09:24.979Z"
+      "il": "2026-09-23T14:20:09.350Z"
+    },
+    "mubi": {
+      "voto": 5.3,
+      "il": "2026-09-23T14:19:46.642Z"
     }
   },
   "her private hell": {
@@ -657,14 +729,13 @@
     "titolo": "Her Private Hell",
     "esatto": true,
     "poster": "https://image.tmdb.org/t/p/w185/4tdT44N1on3Aj6q0e64ttY60HA4.jpg",
-    "tmdb": 5.1,
-    "votiTmdb": 63,
     "uscita": "2026-09-30",
     "imdbId": "tt36629665",
     "titoloInglese": "Her Private Hell",
+    "titoloOriginale": "Her Private Hell",
     "uscitaMondo": "2026-07-23",
-    "v": 4,
-    "controllatoIl": "2026-09-23T13:48:25.285Z",
+    "v": 5,
+    "controllatoIl": "2026-09-23T14:19:46.655Z",
     "letterboxd": {
       "voto": 4.5,
       "il": "2026-09-23T13:30:33.115Z"
@@ -676,7 +747,11 @@
     "imdb": {
       "voto": 4.4,
       "voti": 3780,
-      "il": "2026-09-23T14:09:24.979Z"
+      "il": "2026-09-23T14:20:09.350Z"
+    },
+    "mubi": {
+      "voto": 5.2,
+      "il": "2026-09-23T14:19:48.202Z"
     }
   },
   "naza": {
@@ -684,14 +759,13 @@
     "titolo": "NAZA",
     "esatto": true,
     "poster": "https://image.tmdb.org/t/p/w185/qfdNOEmMroHjPLpZhNkORcVzgrQ.jpg",
-    "tmdb": null,
-    "votiTmdb": 0,
     "uscita": "2026-09-25",
     "imdbId": "tt44766123",
     "titoloInglese": "NAZA",
+    "titoloOriginale": "NAZA",
     "uscitaMondo": "2026-09-25",
-    "v": 4,
-    "controllatoIl": "2026-09-23T13:48:27.258Z",
+    "v": 5,
+    "controllatoIl": "2026-09-23T14:19:48.218Z",
     "letterboxd": {
       "voto": 7.6,
       "il": "2026-09-23T13:30:35.885Z"
@@ -703,7 +777,11 @@
     "imdb": {
       "voto": 6.7,
       "voti": 1335,
-      "il": "2026-09-23T14:09:24.979Z"
+      "il": "2026-09-23T14:20:09.350Z"
+    },
+    "mubi": {
+      "voto": null,
+      "il": "2026-09-23T14:19:49.459Z"
     }
   },
   "the dog stars": {
@@ -711,14 +789,13 @@
     "titolo": "The Dog Stars - Le stelle dopo la fine",
     "esatto": true,
     "poster": "https://image.tmdb.org/t/p/w185/2QUzsotrBTMF78xwmePCTX7EqpX.jpg",
-    "tmdb": 6.6,
-    "votiTmdb": 284,
     "uscita": "2026-08-26",
     "imdbId": "tt21285562",
     "titoloInglese": "The Dog Stars",
+    "titoloOriginale": "The Dog Stars",
     "uscitaMondo": "2026-08-26",
-    "v": 4,
-    "controllatoIl": "2026-09-23T13:48:28.910Z",
+    "v": 5,
+    "controllatoIl": "2026-09-23T14:19:49.473Z",
     "letterboxd": {
       "voto": 5.7,
       "il": "2026-09-23T13:30:38.789Z"
@@ -730,7 +807,11 @@
     "imdb": {
       "voto": 6.4,
       "voti": 16651,
-      "il": "2026-09-23T14:09:24.979Z"
+      "il": "2026-09-23T14:20:09.350Z"
+    },
+    "mubi": {
+      "voto": 5.4,
+      "il": "2026-09-23T14:19:51.030Z"
     }
   },
   "en el camino": {
@@ -738,14 +819,13 @@
     "titolo": "En el camino",
     "esatto": true,
     "poster": "https://image.tmdb.org/t/p/w185/7tBqPnIbdw9r5C8thiUGQokIbTF.jpg",
-    "tmdb": 8,
-    "votiTmdb": 29,
     "uscita": "2026-09-24",
     "imdbId": "tt37660509",
     "titoloInglese": "On the Road",
+    "titoloOriginale": "En el camino",
     "uscitaMondo": "2026-06-03",
-    "v": 4,
-    "controllatoIl": "2026-09-23T13:48:30.916Z",
+    "v": 5,
+    "controllatoIl": "2026-09-23T14:19:51.045Z",
     "letterboxd": {
       "voto": 7,
       "il": "2026-09-23T13:30:41.655Z"
@@ -757,7 +837,11 @@
     "imdb": {
       "voto": 7.2,
       "voti": 1254,
-      "il": "2026-09-23T14:09:24.979Z"
+      "il": "2026-09-23T14:20:09.350Z"
+    },
+    "mubi": {
+      "voto": 8.3,
+      "il": "2026-09-23T14:19:52.604Z"
     }
   },
   "mulan": {
@@ -765,14 +849,13 @@
     "titolo": "Mulan",
     "esatto": true,
     "poster": "https://image.tmdb.org/t/p/w185/jAbexAtB0aSfP5Ay4TpWHARyVnG.jpg",
-    "tmdb": 7.9,
-    "votiTmdb": 10687,
     "uscita": "1998-12-04",
     "imdbId": "tt0120762",
     "titoloInglese": "Mulan",
+    "titoloOriginale": "Mulan",
     "uscitaMondo": "1998-06-18",
-    "v": 4,
-    "controllatoIl": "2026-09-23T13:48:33.451Z",
+    "v": 5,
+    "controllatoIl": "2026-09-23T14:19:52.620Z",
     "letterboxd": {
       "voto": 8.4,
       "il": "2026-09-23T13:30:44.488Z"
@@ -784,7 +867,11 @@
     "imdb": {
       "voto": 7.7,
       "voti": 351302,
-      "il": "2026-09-23T14:09:24.979Z"
+      "il": "2026-09-23T14:20:09.350Z"
+    },
+    "mubi": {
+      "voto": 7.2,
+      "il": "2026-09-23T14:19:53.831Z"
     }
   },
   "my own private river": {
@@ -792,14 +879,13 @@
     "titolo": "My Own Private River",
     "esatto": true,
     "poster": "https://image.tmdb.org/t/p/w185/sPxozaB7Mj3U2adg2bULQRYyE78.jpg",
-    "tmdb": 7.4,
-    "votiTmdb": 15,
     "uscita": "2012-02-19",
     "imdbId": "tt2261871",
     "titoloInglese": "My Own Private River",
+    "titoloOriginale": "My Own Private River",
     "uscitaMondo": "2012-02-19",
-    "v": 4,
-    "controllatoIl": "2026-09-23T13:48:35.295Z",
+    "v": 5,
+    "controllatoIl": "2026-09-23T14:19:53.846Z",
     "letterboxd": {
       "voto": 7.7,
       "il": "2026-09-23T13:30:47.296Z"
@@ -811,7 +897,11 @@
     "imdb": {
       "voto": 7.3,
       "voti": 553,
-      "il": "2026-09-23T14:09:24.979Z"
+      "il": "2026-09-23T14:20:09.350Z"
+    },
+    "mubi": {
+      "voto": 8.1,
+      "il": "2026-09-23T14:19:55.465Z"
     }
   },
   "pusher ii with blood on my hands": {
@@ -819,14 +909,13 @@
     "titolo": "Pusher II - Sangue sulle mie mani",
     "esatto": false,
     "poster": "https://image.tmdb.org/t/p/w185/k4gdrx0hrQVKSPOohtWzQsSaPcp.jpg",
-    "tmdb": 7.2,
-    "votiTmdb": 555,
     "uscita": "2004-12-25",
     "imdbId": "tt0396184",
     "titoloInglese": "Pusher II",
+    "titoloOriginale": "Pusher II",
     "uscitaMondo": "2004-12-25",
-    "v": 4,
-    "controllatoIl": "2026-09-23T13:48:50.079Z",
+    "v": 5,
+    "controllatoIl": "2026-09-23T14:19:55.484Z",
     "letterboxd": {
       "voto": 8.1,
       "il": "2026-09-23T13:30:50.283Z"
@@ -838,7 +927,11 @@
     "imdb": {
       "voto": 7.3,
       "voti": 30325,
-      "il": "2026-09-23T14:09:24.979Z"
+      "il": "2026-09-23T14:20:09.350Z"
+    },
+    "mubi": {
+      "voto": 8.5,
+      "il": "2026-09-23T14:19:56.789Z"
     }
   },
   "teenage sex and death at camp miasma": {
@@ -846,14 +939,13 @@
     "titolo": "Camp Miasma - Adolescenza, sesso e morte",
     "esatto": true,
     "poster": "https://image.tmdb.org/t/p/w185/oSbPv3AbfXKEoboItK2DeDK397S.jpg",
-    "tmdb": 6.5,
-    "votiTmdb": 167,
     "uscita": "2026-08-19",
     "imdbId": "tt35298123",
     "titoloInglese": "Teenage Sex and Death at Camp Miasma",
+    "titoloOriginale": "Teenage Sex and Death at Camp Miasma",
     "uscitaMondo": "2026-08-06",
-    "v": 4,
-    "controllatoIl": "2026-09-23T13:48:55.756Z",
+    "v": 5,
+    "controllatoIl": "2026-09-23T14:19:56.803Z",
     "letterboxd": {
       "voto": 7.5,
       "il": "2026-09-23T13:30:53.116Z"
@@ -865,7 +957,11 @@
     "imdb": {
       "voto": 6.8,
       "voti": 13374,
-      "il": "2026-09-23T14:09:24.979Z"
+      "il": "2026-09-23T14:20:09.350Z"
+    },
+    "mubi": {
+      "voto": 8,
+      "il": "2026-09-23T14:19:58.406Z"
     }
   },
   "the dreamers i sognatori": {
@@ -873,14 +969,13 @@
     "titolo": "The Dreamers - I sognatori",
     "esatto": true,
     "poster": "https://image.tmdb.org/t/p/w185/pinNViE433kLUrJppjFAOzgWxdl.jpg",
-    "tmdb": 7.2,
-    "votiTmdb": 3171,
     "uscita": "2003-10-10",
     "imdbId": "tt0309987",
     "titoloInglese": "The Dreamers",
+    "titoloOriginale": "The Dreamers",
     "uscitaMondo": "2003-10-10",
-    "v": 4,
-    "controllatoIl": "2026-09-23T13:48:56.837Z",
+    "v": 5,
+    "controllatoIl": "2026-09-23T14:19:58.421Z",
     "letterboxd": {
       "voto": 7.1,
       "il": "2026-09-23T13:30:55.994Z"
@@ -892,7 +987,11 @@
     "imdb": {
       "voto": 7.1,
       "voti": 142393,
-      "il": "2026-09-23T14:09:24.979Z"
+      "il": "2026-09-23T14:20:09.350Z"
+    },
+    "mubi": {
+      "voto": 8.1,
+      "il": "2026-09-23T14:20:00.016Z"
     }
   },
   "the invite il piacere e tutto nostro": {
@@ -900,14 +999,13 @@
     "titolo": "The Invite - Il piacere è tutto nostro",
     "esatto": true,
     "poster": "https://image.tmdb.org/t/p/w185/p9kaEC6mE6oNFhZjkbA1ALuvv2q.jpg",
-    "tmdb": 7.2,
-    "votiTmdb": 614,
     "uscita": "2026-09-16",
     "imdbId": "tt14173636",
     "titoloInglese": "The Invite",
+    "titoloOriginale": "The Invite",
     "uscitaMondo": "2026-06-25",
-    "v": 4,
-    "controllatoIl": "2026-09-23T13:48:58.659Z",
+    "v": 5,
+    "controllatoIl": "2026-09-23T14:20:00.027Z",
     "letterboxd": {
       "voto": 7.9,
       "il": "2026-09-23T13:30:58.654Z"
@@ -919,7 +1017,11 @@
     "imdb": {
       "voto": 7.5,
       "voti": 72737,
-      "il": "2026-09-23T14:09:24.979Z"
+      "il": "2026-09-23T14:20:09.350Z"
+    },
+    "mubi": {
+      "voto": 7,
+      "il": "2026-09-23T14:20:01.035Z"
     }
   },
   "we re all going to the world s fair": {
@@ -927,14 +1029,13 @@
     "titolo": "We're All Going to the World's Fair",
     "esatto": true,
     "poster": "https://image.tmdb.org/t/p/w185/fXn4Nz1WCTEmzAFvwgEZoPHvptR.jpg",
-    "tmdb": 5.5,
-    "votiTmdb": 172,
     "uscita": "2022-04-15",
     "imdbId": "tt13648224",
     "titoloInglese": "We're All Going to the World's Fair",
+    "titoloOriginale": "We're All Going to the World's Fair",
     "uscitaMondo": "2022-04-15",
-    "v": 4,
-    "controllatoIl": "2026-09-23T13:48:59.791Z",
+    "v": 5,
+    "controllatoIl": "2026-09-23T14:20:01.048Z",
     "letterboxd": {
       "voto": 6.3,
       "il": "2026-09-23T13:31:01.435Z"
@@ -946,7 +1047,11 @@
     "imdb": {
       "voto": 5.5,
       "voti": 9539,
-      "il": "2026-09-23T14:09:24.979Z"
+      "il": "2026-09-23T14:20:09.350Z"
+    },
+    "mubi": {
+      "voto": 6.5,
+      "il": "2026-09-23T14:20:02.685Z"
     }
   },
   "avengers endgame extra infinity vision": {
@@ -954,14 +1059,13 @@
     "titolo": "Avengers: Endgame",
     "esatto": false,
     "poster": "https://image.tmdb.org/t/p/w185/hj1xaEUGMiUxaFYoutlljtlkHSG.jpg",
-    "tmdb": 8.2,
-    "votiTmdb": 28740,
     "uscita": "2019-04-24",
     "imdbId": "tt4154796",
     "titoloInglese": "Avengers: Endgame",
+    "titoloOriginale": "Avengers: Endgame",
     "uscitaMondo": "2019-04-24",
-    "v": 4,
-    "controllatoIl": "2026-09-23T13:49:01.583Z",
+    "v": 5,
+    "controllatoIl": "2026-09-23T14:20:02.703Z",
     "letterboxd": {
       "voto": 8,
       "il": "2026-09-23T13:31:04.169Z"
@@ -973,7 +1077,11 @@
     "imdb": {
       "voto": 8.4,
       "voti": 1489574,
-      "il": "2026-09-23T14:09:24.979Z"
+      "il": "2026-09-23T14:20:09.350Z"
+    },
+    "mubi": {
+      "voto": 6.5,
+      "il": "2026-09-23T14:20:03.708Z"
     }
   },
   "cars motori ruggenti 20 anni": {
@@ -981,14 +1089,13 @@
     "titolo": "Cars - Motori ruggenti",
     "esatto": false,
     "poster": "https://image.tmdb.org/t/p/w185/moXcMQ1GdVPnQfX5qnJ0pZkJifJ.jpg",
-    "tmdb": 7.1,
-    "votiTmdb": 15544,
     "uscita": "2006-08-23",
     "imdbId": "tt0317219",
     "titoloInglese": "Cars",
+    "titoloOriginale": "Cars",
     "uscitaMondo": "2006-06-08",
-    "v": 4,
-    "controllatoIl": "2026-09-23T13:49:03.154Z",
+    "v": 5,
+    "controllatoIl": "2026-09-23T14:20:03.725Z",
     "letterboxd": {
       "voto": 7.9,
       "il": "2026-09-23T13:31:07.057Z"
@@ -1000,27 +1107,30 @@
     "imdb": {
       "voto": 7.3,
       "voti": 549884,
-      "il": "2026-09-23T14:09:24.979Z"
+      "il": "2026-09-23T14:20:09.350Z"
+    },
+    "mubi": {
+      "voto": 5.6,
+      "il": "2026-09-23T14:20:04.732Z"
     }
   },
   "refn celebration": {
     "id": null,
-    "v": 4,
-    "controllatoIl": "2026-09-23T13:49:04.650Z"
+    "v": 5,
+    "controllatoIl": "2026-09-23T14:20:04.738Z"
   },
   "heart of the beast nel profondo selvaggio": {
     "id": 1263337,
     "titolo": "Heart of the Beast - Nel profondo selvaggio",
     "esatto": true,
     "poster": "https://image.tmdb.org/t/p/w185/yiqRtrbY63aSPLinH5IsJwKHzZN.jpg",
-    "tmdb": 7.8,
-    "votiTmdb": 20,
     "uscita": "2026-09-24",
     "imdbId": "tt7526136",
     "titoloInglese": "Heart of the Beast",
+    "titoloOriginale": "Heart of the Beast",
     "uscitaMondo": "2026-09-19",
-    "v": 4,
-    "controllatoIl": "2026-09-23T13:49:04.668Z",
+    "v": 5,
+    "controllatoIl": "2026-09-23T14:20:04.750Z",
     "letterboxd": {
       "voto": 6.3,
       "il": "2026-09-23T13:31:09.785Z"
@@ -1032,7 +1142,11 @@
     "imdb": {
       "voto": 7.2,
       "voti": 1025,
-      "il": "2026-09-23T14:09:24.979Z"
+      "il": "2026-09-23T14:20:09.350Z"
+    },
+    "mubi": {
+      "voto": null,
+      "il": "2026-09-23T14:20:05.758Z"
     }
   },
   "digger": {
@@ -1040,14 +1154,13 @@
     "titolo": "Digger",
     "esatto": true,
     "poster": "https://image.tmdb.org/t/p/w185/1ATXKrIPJyKNwnJ6lcG088Sa6zi.jpg",
-    "tmdb": null,
-    "votiTmdb": 0,
     "uscita": "2026-10-01",
     "imdbId": "tt31450459",
     "titoloInglese": "Digger",
+    "titoloOriginale": "Digger",
     "uscitaMondo": "2026-09-30",
-    "v": 4,
-    "controllatoIl": "2026-09-23T13:49:05.739Z",
+    "v": 5,
+    "controllatoIl": "2026-09-23T14:20:05.773Z",
     "letterboxd": {
       "voto": null,
       "il": "2026-09-23T13:31:12.509Z"
@@ -1059,7 +1172,11 @@
     "imdb": {
       "voto": null,
       "voti": 0,
-      "il": "2026-09-23T14:09:24.979Z"
+      "il": "2026-09-23T14:20:09.350Z"
+    },
+    "mubi": {
+      "voto": null,
+      "il": "2026-09-23T14:20:07.047Z"
     }
   },
   "dune parte tre": {
@@ -1067,14 +1184,13 @@
     "titolo": "Dune - Parte tre",
     "esatto": true,
     "poster": "https://image.tmdb.org/t/p/w185/qgIxezW3yRGmVFnk3gsQaM35Qjx.jpg",
-    "tmdb": null,
-    "votiTmdb": 0,
     "uscita": "2026-12-16",
     "imdbId": "tt31378509",
     "titoloInglese": "Dune: Part Three",
+    "titoloOriginale": "Dune: Part Three",
     "uscitaMondo": "2026-12-15",
-    "v": 4,
-    "controllatoIl": "2026-09-23T13:49:07.691Z",
+    "v": 5,
+    "controllatoIl": "2026-09-23T14:20:07.063Z",
     "letterboxd": {
       "voto": null,
       "il": "2026-09-23T13:31:15.258Z"
@@ -1086,7 +1202,11 @@
     "imdb": {
       "voto": null,
       "voti": 0,
-      "il": "2026-09-23T14:09:24.979Z"
+      "il": "2026-09-23T14:20:09.350Z"
+    },
+    "mubi": {
+      "voto": null,
+      "il": "2026-09-23T14:20:08.601Z"
     }
   }
 }
