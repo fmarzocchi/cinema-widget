@@ -533,7 +533,7 @@ const GIORNI_CACHE_TROVATO = 7; // i voti cambiano: ogni film viene ricontrollat
 const GIORNI_CACHE_NON_TROVATO = 2;
 const VOTI_MINIMI_UTENTI = 10; // IMDb e Letterboxd: sotto questa soglia il voto è rumore
 // Cambia quando cambiano le regole di abbinamento: le voci vecchie vengono ricontrollate.
-const VERSIONE_CACHE = 4;
+const VERSIONE_CACHE = 5;
 
 const arrotonda1 = (n) => Math.round(n * 10) / 10;
 
@@ -662,6 +662,47 @@ async function votoMetacritic(titoloInglese, anni) {
   return null;
 }
 
+/**
+ * MUBI: tra i risultati della ricerca vale solo un film con lo stesso titolo (inglese, originale
+ * o italiano) e l'anno giusto (±1: MUBI usa l'anno del festival). A parità, quello con più voti.
+ * Restituisce { voto } (voto in decimi o null se ha troppi pochi voti) oppure null se non c'è.
+ */
+export function scegliMubi(films, titoli, anni) {
+  const chiavi = new Set(titoli.map(chiaveTitolo).filter(Boolean));
+  const annoGiusto = (a) => Boolean(a) && anni.some((x) => Math.abs(x - a) <= 1);
+  const candidati = (Array.isArray(films) ? films : []).filter((f) => {
+    // "수유천  | Suyoocheon": titolo originale e traslitterazione separati da "|".
+    const nomi = [f?.title, ...String(f?.original_title || '').split('|')].map(chiaveTitolo).filter(Boolean);
+    return annoGiusto(Number(f?.year)) && nomi.some((n) => chiavi.has(n));
+  });
+  if (!candidati.length) return null;
+  candidati.sort((a, b) => (Number(b.number_of_ratings) || 0) - (Number(a.number_of_ratings) || 0));
+  const f = candidati[0];
+  const voti = Number(f.number_of_ratings) || 0;
+  const valore = Number(f.average_rating_out_of_ten) || (Number(f.average_rating) > 0 ? Number(f.average_rating) * 2 : 0);
+  return { voto: valore > 0 && voti >= VOTI_MINIMI_UTENTI ? arrotonda1(valore) : null };
+}
+
+const MUBI_RICERCA = 'https://api.mubi.com/v3/search/films';
+
+async function votoMubi(titoli, anni) {
+  const ricerche = unici(titoli.slice(0, 2).filter(Boolean));
+  if (!anni.length || !ricerche.length) return null;
+  for (const [i, q] of ricerche.entries()) {
+    if (i > 0) await sleep(500);
+    const dati = JSON.parse(
+      await fetchText(`${MUBI_RICERCA}?query=${encodeURIComponent(q)}&per_page=10`, {
+        retries: 1,
+        accept: 'application/json',
+        headers: { Client: 'web', 'Client-Country': 'IT' },
+      }),
+    );
+    const scelta = scegliMubi(dati?.films, titoli, anni);
+    if (scelta) return scelta.voto;
+  }
+  return null;
+}
+
 async function votoLetterboxd(tmdbId) {
   // Letterboxd ha un indirizzo che dall'id TMDB porta alla scheda del film.
   try {
@@ -749,10 +790,11 @@ async function dettagliTmdb(id, key, ripiegoUscita) {
       uscita: uscitaItaliana(d.release_dates) || ripiegoUscita || null,
       imdbId: /^tt\d+$/.test(imdbId || '') ? imdbId : null,
       titoloInglese: titoloInglese(d),
+      titoloOriginale: d.original_title || null,
       uscitaMondo: d.release_date || null,
     };
   } catch {
-    return { uscita: ripiegoUscita || null, imdbId: null, titoloInglese: null, uscitaMondo: ripiegoUscita || null };
+    return { uscita: ripiegoUscita || null, imdbId: null, titoloInglese: null, titoloOriginale: null, uscitaMondo: ripiegoUscita || null };
   }
 }
 
@@ -792,6 +834,7 @@ export function fontiVoto(e) {
     letterboxd: e?.letterboxd?.voto ?? null,
     imdb: e?.imdb?.voto ?? null,
     metacritic: e?.metacritic?.voto ?? null,
+    mubi: e?.mubi?.voto ?? null,
   };
 }
 
@@ -849,6 +892,7 @@ async function arricchisci(titoli, oggi) {
 
   const letterboxd = fonteEsterna('Letterboxd', Number(process.env.PAUSA_LETTERBOXD_MS ?? 1000));
   const metacritic = fonteEsterna('Metacritic', Number(process.env.PAUSA_METACRITIC_MS ?? 1000));
+  const mubi = fonteEsterna('MUBI', Number(process.env.PAUSA_MUBI_MS ?? 1000));
   const anno = (iso) => Number(String(iso || '').slice(0, 4)) || null;
 
   for (const [chiave, titolo] of distinti) {
@@ -864,6 +908,7 @@ async function arricchisci(titoli, oggi) {
         if (nuova.id && vecchia?.id === nuova.id) {
           if (vecchia.letterboxd) nuova.letterboxd = vecchia.letterboxd;
           if (vecchia.metacritic) nuova.metacritic = vecchia.metacritic;
+          if (vecchia.mubi) nuova.mubi = vecchia.mubi;
           if (vecchia.imdb?.voti != null) nuova.imdb = vecchia.imdb;
         }
         cache[chiave] = nuova;
@@ -884,6 +929,12 @@ async function arricchisci(titoli, oggi) {
       const voto = await chiedi(metacritic, () => votoMetacritic(e.titoloInglese, anni));
       if (voto !== undefined) e.metacritic = { voto, il: new Date().toISOString() };
     }
+    if ((e.titoloInglese || e.titoloOriginale) && scaduto(e.mubi)) {
+      const anni = unici([anno(e.uscitaMondo), anno(e.uscita)].filter(Boolean));
+      const titoli = [e.titoloInglese, e.titoloOriginale, e.titolo];
+      const voto = await chiedi(mubi, () => votoMubi(titoli, anni));
+      if (voto !== undefined) e.mubi = { voto, il: new Date().toISOString() };
+    }
   }
 
   // IMDb: un solo download del dataset per tutti i film, a ogni giro (i voti cambiano ogni giorno).
@@ -898,7 +949,7 @@ async function arricchisci(titoli, oggi) {
     }
   }
 
-  for (const fonte of [letterboxd, metacritic]) {
+  for (const fonte of [letterboxd, metacritic, mubi]) {
     if (fonte.errori) {
       avvisi.push(
         `${fonte.nome}: ${fonte.errori} richieste fallite (${fonte.ultimoErrore})${fonte.spenta ? ', sospesa per questo giro' : ''}`,
@@ -907,7 +958,7 @@ async function arricchisci(titoli, oggi) {
   }
 
   // Quanti film hanno un voto da ciascuna fonte: finisce in status.json per controllo.
-  const riepilogo = { film: 0, letterboxd: 0, imdb: 0, metacritic: 0, media: 0 };
+  const riepilogo = { film: 0, letterboxd: 0, imdb: 0, metacritic: 0, mubi: 0, media: 0 };
   for (const [chiave] of distinti) {
     const e = cache[chiave];
     if (!e) continue;
@@ -1041,7 +1092,7 @@ export function costruisciFeed(film, { oggi, info = new Map(), titoli = new Map(
       title: titoloDaMostrare(f.titolo, dati, titoli),
       poster: poster || null,
       rating,
-      ratings: dati?.fonti || { letterboxd: null, imdb: null, metacritic: null },
+      ratings: dati?.fonti || { letterboxd: null, imdb: null, metacritic: null, mubi: null },
       releaseDate: dati?.uscita || null,
       showtimes: perGiorno[giornoMostrato],
       showtimesDate: giornoMostrato,
