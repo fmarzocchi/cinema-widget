@@ -4,165 +4,310 @@
     "titolo": "Resident Evil",
     "esatto": true,
     "poster": "https://image.tmdb.org/t/p/w185/D8rnntI88rgzWKDK2yuxm25HTQ.jpg",
-    "voto": 7.3,
-    "voti": 348,
+    "tmdb": 7.3,
+    "votiTmdb": 348,
     "uscita": "2026-09-17",
-    "v": 2,
-    "controllatoIl": "2026-09-23T12:53:23.300Z"
+    "imdbId": "tt35538033",
+    "v": 3,
+    "controllatoIl": "2026-09-23T13:29:20.882Z",
+    "letterboxd": {
+      "voto": 7.6,
+      "il": "2026-09-23T13:29:21.991Z"
+    },
+    "imdb": {
+      "voto": null,
+      "metacritic": null,
+      "il": "2026-09-23T13:29:28.700Z"
+    }
   },
   "the invite": {
     "id": 950028,
     "titolo": "The Invite - Il piacere è tutto nostro",
     "esatto": true,
     "poster": "https://image.tmdb.org/t/p/w185/p9kaEC6mE6oNFhZjkbA1ALuvv2q.jpg",
-    "voto": 7.2,
-    "voti": 614,
+    "tmdb": 7.2,
+    "votiTmdb": 614,
     "uscita": "2026-09-16",
-    "v": 2,
-    "controllatoIl": "2026-09-23T12:53:23.405Z"
+    "imdbId": "tt14173636",
+    "v": 3,
+    "controllatoIl": "2026-09-23T13:29:28.856Z",
+    "letterboxd": {
+      "voto": 7.9,
+      "il": "2026-09-23T13:29:29.954Z"
+    },
+    "imdb": {
+      "voto": null,
+      "metacritic": null,
+      "il": "2026-09-23T13:29:31.588Z"
+    }
   },
   "ultimo tutto live a tor vergata": {
     "id": 1740126,
     "titolo": "Ultimo - Tutto. Live a Tor Vergata",
     "esatto": true,
     "poster": "https://image.tmdb.org/t/p/w185/ntM0voyewKJn6L59MDAcyVu8ft.jpg",
-    "voto": null,
-    "voti": 0,
+    "tmdb": null,
+    "votiTmdb": 0,
     "uscita": "2026-09-22",
-    "v": 2,
-    "controllatoIl": "2026-09-23T12:53:23.551Z"
+    "imdbId": null,
+    "v": 3,
+    "controllatoIl": "2026-09-23T13:29:31.741Z",
+    "letterboxd": {
+      "voto": null,
+      "il": "2026-09-23T13:29:32.823Z"
+    }
   },
   "amori e incantesimi 2": {
     "id": 1302904,
     "titolo": "Amori & incantesimi 2",
     "esatto": true,
     "poster": "https://image.tmdb.org/t/p/w185/q5teI4VZ2gxQnDWlMhDkcn9P805.jpg",
-    "voto": 6.2,
-    "voti": 80,
+    "tmdb": 6.2,
+    "votiTmdb": 80,
     "uscita": "2026-09-10",
-    "v": 2,
-    "controllatoIl": "2026-09-23T12:53:23.653Z"
+    "imdbId": "tt32588798",
+    "v": 3,
+    "controllatoIl": "2026-09-23T13:29:32.963Z",
+    "letterboxd": {
+      "voto": 5.8,
+      "il": "2026-09-23T13:29:34.082Z"
+    },
+    "imdb": {
+      "voto": null,
+      "metacritic": null,
+      "il": "2026-09-23T13:29:35.858Z"
+    }
   },
   "cars motori ruggenti": {
     "id": 920,
     "titolo": "Cars - Motori ruggenti",
     "esatto": true,
     "poster": "https://image.tmdb.org/t/p/w185/moXcMQ1GdVPnQfX5qnJ0pZkJifJ.jpg",
-    "voto": 7.1,
-    "voti": 15544,
+    "tmdb": 7.1,
+    "votiTmdb": 15544,
     "uscita": "2006-08-23",
-    "v": 2,
-    "controllatoIl": "2026-09-23T12:53:23.759Z"
+    "imdbId": "tt0317219",
+    "v": 3,
+    "controllatoIl": "2026-09-23T13:29:35.998Z",
+    "letterboxd": {
+      "voto": 7.9,
+      "il": "2026-09-23T13:29:37.162Z"
+    },
+    "imdb": {
+      "voto": null,
+      "metacritic": null,
+      "il": "2026-09-23T13:29:38.684Z"
+    }
   },
   "coyote vs acme": {
     "id": 1204680,
     "titolo": "Coyote vs. Acme",
     "esatto": true,
     "poster": "https://image.tmdb.org/t/p/w185/x2AtkVKU8IDgeScz354aqoYjUQG.jpg",
-    "voto": 7.5,
-    "voti": 489,
+    "tmdb": 7.5,
+    "votiTmdb": 489,
     "uscita": "2026-09-02",
-    "v": 2,
-    "controllatoIl": "2026-09-23T12:53:23.861Z"
+    "imdbId": "tt1756855",
+    "v": 3,
+    "controllatoIl": "2026-09-23T13:29:38.828Z",
+    "letterboxd": {
+      "voto": 7.7,
+      "il": "2026-09-23T13:29:39.899Z"
+    },
+    "imdb": {
+      "voto": null,
+      "metacritic": null,
+      "il": "2026-09-23T13:29:41.420Z"
+    }
   },
   "dov e la fiesta": {
     "id": 1723662,
     "titolo": "Dov’è la fiesta?",
     "esatto": true,
     "poster": "https://image.tmdb.org/t/p/w185/gtTw3Pbf0jj69Xq1nnHDXRztpEb.jpg",
-    "voto": 4.9,
-    "voti": 6,
+    "tmdb": 4.9,
+    "votiTmdb": 6,
     "uscita": "2026-09-17",
-    "v": 2,
-    "controllatoIl": "2026-09-23T12:53:23.962Z"
+    "imdbId": "tt40071798",
+    "v": 3,
+    "controllatoIl": "2026-09-23T13:29:41.567Z",
+    "letterboxd": {
+      "voto": null,
+      "il": "2026-09-23T13:29:42.708Z"
+    },
+    "imdb": {
+      "voto": null,
+      "metacritic": null,
+      "il": "2026-09-23T13:29:44.221Z"
+    }
   },
   "i figli della scimmia": {
     "id": 1554129,
     "titolo": "I figli della scimmia",
     "esatto": true,
     "poster": "https://image.tmdb.org/t/p/w185/c5tEquC2cAfxfFNIs86QmGzabmU.jpg",
-    "voto": null,
-    "voti": 4,
+    "tmdb": null,
+    "votiTmdb": 4,
     "uscita": "2026-09-17",
-    "v": 2,
-    "controllatoIl": "2026-09-23T12:53:24.069Z"
+    "imdbId": "tt39390583",
+    "v": 3,
+    "controllatoIl": "2026-09-23T13:29:44.366Z",
+    "letterboxd": {
+      "voto": 6.8,
+      "il": "2026-09-23T13:29:45.497Z"
+    },
+    "imdb": {
+      "voto": null,
+      "metacritic": null,
+      "il": "2026-09-23T13:29:47.004Z"
+    }
   },
   "mutiny": {
     "id": 1288445,
     "titolo": "Mutiny - Inverti la rotta",
     "esatto": true,
     "poster": "https://image.tmdb.org/t/p/w185/o4MXnSWwOnA4kftJ3NwZTIw2PuY.jpg",
-    "voto": 6.4,
-    "voti": 433,
+    "tmdb": 6.4,
+    "votiTmdb": 433,
     "uscita": "2026-09-10",
-    "v": 2,
-    "controllatoIl": "2026-09-23T12:53:24.196Z"
+    "imdbId": "tt32338669",
+    "v": 3,
+    "controllatoIl": "2026-09-23T13:29:47.147Z",
+    "letterboxd": {
+      "voto": 5.1,
+      "il": "2026-09-23T13:29:48.270Z"
+    },
+    "imdb": {
+      "voto": null,
+      "metacritic": null,
+      "il": "2026-09-23T13:29:49.787Z"
+    }
   },
   "normal": {
     "id": 1242332,
     "titolo": "Normal",
     "esatto": true,
     "poster": "https://image.tmdb.org/t/p/w185/t13MdGCKRZvkmrFW2A7Vih3QjwD.jpg",
-    "voto": 7.3,
-    "voti": 598,
+    "tmdb": 7.3,
+    "votiTmdb": 598,
     "uscita": "2026-09-17",
-    "v": 2,
-    "controllatoIl": "2026-09-23T12:53:24.349Z"
+    "imdbId": "tt31195136",
+    "v": 3,
+    "controllatoIl": "2026-09-23T13:29:49.935Z",
+    "letterboxd": {
+      "voto": 5.9,
+      "il": "2026-09-23T13:29:51.002Z"
+    },
+    "imdb": {
+      "voto": null,
+      "metacritic": null,
+      "il": "2026-09-23T13:29:52.515Z"
+    }
   },
   "oceania": {
     "id": 1108427,
     "titolo": "Oceania",
     "esatto": true,
     "poster": "https://image.tmdb.org/t/p/w185/g4zumtvkkH5QbyXyL0mO8HpCSaw.jpg",
-    "voto": 7.4,
-    "voti": 751,
+    "tmdb": 7.4,
+    "votiTmdb": 751,
     "uscita": "2026-08-19",
-    "v": 2,
-    "controllatoIl": "2026-09-23T12:53:24.452Z"
+    "imdbId": "tt27419466",
+    "v": 3,
+    "controllatoIl": "2026-09-23T13:29:52.662Z",
+    "letterboxd": {
+      "voto": 5.4,
+      "il": "2026-09-23T13:29:53.727Z"
+    },
+    "imdb": {
+      "voto": null,
+      "metacritic": null,
+      "il": "2026-09-23T13:29:55.245Z"
+    }
   },
   "odissea": {
     "id": 1368337,
     "titolo": "Odissea",
     "esatto": true,
     "poster": "https://image.tmdb.org/t/p/w185/qQhInj9fw3S2bMbiEujVldthgKe.jpg",
-    "voto": 8,
-    "voti": 3865,
+    "tmdb": 8,
+    "votiTmdb": 3865,
     "uscita": "2026-07-16",
-    "v": 2,
-    "controllatoIl": "2026-09-23T12:53:24.605Z"
+    "imdbId": "tt33764258",
+    "v": 3,
+    "controllatoIl": "2026-09-23T13:29:55.394Z",
+    "letterboxd": {
+      "voto": 8.7,
+      "il": "2026-09-23T13:29:56.464Z"
+    },
+    "imdb": {
+      "voto": null,
+      "metacritic": null,
+      "il": "2026-09-23T13:29:57.977Z"
+    }
   },
   "paw patrol missione dinosauri": {
     "id": 1185806,
     "titolo": "PAW Patrol - Missione Dinosauri",
     "esatto": true,
     "poster": "https://image.tmdb.org/t/p/w185/r5XkrcTtb7O2YeblRDpkuwh9ued.jpg",
-    "voto": 8,
-    "voti": 132,
+    "tmdb": 8,
+    "votiTmdb": 132,
     "uscita": "2026-09-09",
-    "v": 2,
-    "controllatoIl": "2026-09-23T12:53:24.713Z"
+    "imdbId": "tt29356163",
+    "v": 3,
+    "controllatoIl": "2026-09-23T13:29:58.118Z",
+    "letterboxd": {
+      "voto": 5.7,
+      "il": "2026-09-23T13:29:59.186Z"
+    },
+    "imdb": {
+      "voto": null,
+      "metacritic": null,
+      "il": "2026-09-23T13:30:00.699Z"
+    }
   },
   "ritorno a buenos aires": {
     "id": 1597199,
     "titolo": "Ritorno a Buenos Aires",
     "esatto": true,
     "poster": "https://image.tmdb.org/t/p/w185/42yQnX3vuZkxSo44KmL051xCTKN.jpg",
-    "voto": 7,
-    "voti": 13,
+    "tmdb": 7,
+    "votiTmdb": 13,
     "uscita": "2026-09-11",
-    "v": 2,
-    "controllatoIl": "2026-09-23T12:53:24.815Z"
+    "imdbId": "tt39239726",
+    "v": 3,
+    "controllatoIl": "2026-09-23T13:30:00.850Z",
+    "letterboxd": {
+      "voto": null,
+      "il": "2026-09-23T13:30:01.983Z"
+    },
+    "imdb": {
+      "voto": null,
+      "metacritic": null,
+      "il": "2026-09-23T13:30:03.498Z"
+    }
   },
   "spider man brand new day": {
     "id": 969681,
     "titolo": "Spider-Man: Brand New Day",
     "esatto": true,
     "poster": "https://image.tmdb.org/t/p/w185/vKHjwe9tSPWSkiv3m8Iq1nVedOT.jpg",
-    "voto": 7.9,
-    "voti": 2829,
+    "tmdb": 7.9,
+    "votiTmdb": 2829,
     "uscita": "2026-07-29",
-    "v": 2,
-    "controllatoIl": "2026-09-23T12:53:24.965Z"
+    "imdbId": "tt22084616",
+    "v": 3,
+    "controllatoIl": "2026-09-23T13:30:03.650Z",
+    "letterboxd": {
+      "voto": 8.1,
+      "il": "2026-09-23T13:30:04.718Z"
+    },
+    "imdb": {
+      "voto": null,
+      "metacritic": null,
+      "il": "2026-09-23T13:30:06.347Z"
+    }
   },
   "talking tom heroes super amici": {
     "id": null,
@@ -174,284 +319,534 @@
     "titolo": "Avengers: Endgame",
     "esatto": false,
     "poster": "https://image.tmdb.org/t/p/w185/hj1xaEUGMiUxaFYoutlljtlkHSG.jpg",
-    "voto": 8.2,
-    "voti": 28741,
+    "tmdb": 8.2,
+    "votiTmdb": 28741,
     "uscita": "2019-04-24",
-    "v": 2,
-    "controllatoIl": "2026-09-23T12:53:25.707Z"
+    "imdbId": "tt4154796",
+    "v": 3,
+    "controllatoIl": "2026-09-23T13:30:06.536Z",
+    "letterboxd": {
+      "voto": 8,
+      "il": "2026-09-23T13:30:07.611Z"
+    },
+    "imdb": {
+      "voto": null,
+      "metacritic": null,
+      "il": "2026-09-23T13:30:09.126Z"
+    }
   },
   "bad apples": {
     "id": 1198654,
     "titolo": "Bad Apples",
     "esatto": true,
     "poster": "https://image.tmdb.org/t/p/w185/sDgb5jVuZ6ZOh4YjtSMMnbovkCi.jpg",
-    "voto": 7,
-    "voti": 23,
+    "tmdb": 7,
+    "votiTmdb": 23,
     "uscita": "2026-09-10",
-    "v": 2,
-    "controllatoIl": "2026-09-23T12:53:25.862Z"
+    "imdbId": "tt29714073",
+    "v": 3,
+    "controllatoIl": "2026-09-23T13:30:09.265Z",
+    "letterboxd": {
+      "voto": 7.4,
+      "il": "2026-09-23T13:30:10.377Z"
+    },
+    "imdb": {
+      "voto": null,
+      "metacritic": null,
+      "il": "2026-09-23T13:30:11.993Z"
+    }
   },
   "due ladri in fuga": {
     "id": null,
-    "v": 2,
-    "controllatoIl": "2026-09-23T12:53:25.915Z"
+    "v": 3,
+    "controllatoIl": "2026-09-23T13:30:12.067Z"
   },
   "heart of the beast": {
     "id": 1263337,
     "titolo": "Heart of the Beast - Nel profondo selvaggio",
     "esatto": true,
     "poster": "https://image.tmdb.org/t/p/w185/yiqRtrbY63aSPLinH5IsJwKHzZN.jpg",
-    "voto": 7.8,
-    "voti": 20,
+    "tmdb": 7.8,
+    "votiTmdb": 20,
     "uscita": "2026-09-24",
-    "v": 2,
-    "controllatoIl": "2026-09-23T12:53:26.018Z"
+    "imdbId": "tt7526136",
+    "v": 3,
+    "controllatoIl": "2026-09-23T13:30:12.213Z",
+    "letterboxd": {
+      "voto": 6.3,
+      "il": "2026-09-23T13:30:13.302Z"
+    },
+    "imdb": {
+      "voto": null,
+      "metacritic": null,
+      "il": "2026-09-23T13:30:14.931Z"
+    }
   },
   "insidious fuori dall altrove": {
     "id": 1291595,
     "titolo": "Insidious - Fuori dall’Altrove",
     "esatto": true,
     "poster": "https://image.tmdb.org/t/p/w185/eszahdPOeElmK3DSNXW44Qb0aNh.jpg",
-    "voto": 6.5,
-    "voti": 162,
+    "tmdb": 6.5,
+    "votiTmdb": 162,
     "uscita": "2026-08-19",
-    "v": 2,
-    "controllatoIl": "2026-09-23T12:53:26.123Z"
+    "imdbId": "tt32393988",
+    "v": 3,
+    "controllatoIl": "2026-09-23T13:30:15.077Z",
+    "letterboxd": {
+      "voto": 5.4,
+      "il": "2026-09-23T13:30:16.202Z"
+    },
+    "imdb": {
+      "voto": null,
+      "metacritic": null,
+      "il": "2026-09-23T13:30:17.717Z"
+    }
   },
   "l isola dei ricordi": {
     "id": 1465063,
     "titolo": "L'isola dei ricordi",
     "esatto": true,
     "poster": "https://image.tmdb.org/t/p/w185/p8YpBFMmccQQoeQie9XKv6loDSa.jpg",
-    "voto": 7.6,
-    "voti": 12,
+    "tmdb": 7.6,
+    "votiTmdb": 12,
     "uscita": "2026-09-24",
-    "v": 2,
-    "controllatoIl": "2026-09-23T12:53:26.271Z"
+    "imdbId": "tt36583977",
+    "v": 3,
+    "controllatoIl": "2026-09-23T13:30:17.861Z",
+    "letterboxd": {
+      "voto": 7.6,
+      "il": "2026-09-23T13:30:18.934Z"
+    },
+    "imdb": {
+      "voto": null,
+      "metacritic": null,
+      "il": "2026-09-23T13:30:20.445Z"
+    }
   },
   "maigret l amore e la morte": {
     "id": 1398486,
     "titolo": "Maigret - L'amore e la morte",
     "esatto": true,
     "poster": "https://image.tmdb.org/t/p/w185/gJVCjUPmzRPfrNlLWUcdOZuhuw2.jpg",
-    "voto": 6,
-    "voti": 37,
+    "tmdb": 6,
+    "votiTmdb": 37,
     "uscita": "2026-09-24",
-    "v": 2,
-    "controllatoIl": "2026-09-23T12:53:26.369Z"
+    "imdbId": "tt33509147",
+    "v": 3,
+    "controllatoIl": "2026-09-23T13:30:20.592Z",
+    "letterboxd": {
+      "voto": 5.6,
+      "il": "2026-09-23T13:30:21.725Z"
+    },
+    "imdb": {
+      "voto": null,
+      "metacritic": null,
+      "il": "2026-09-23T13:30:23.234Z"
+    }
   },
   "nessun dolore": {
     "id": 1594043,
     "titolo": "Nessun dolore",
     "esatto": true,
     "poster": "https://image.tmdb.org/t/p/w185/kPDyWzS020AvrvrTFDAJfhTgUbU.jpg",
-    "voto": null,
-    "voti": 0,
+    "tmdb": null,
+    "votiTmdb": 0,
     "uscita": "2026-09-24",
-    "v": 2,
-    "controllatoIl": "2026-09-23T12:53:26.473Z"
+    "imdbId": "tt39122516",
+    "v": 3,
+    "controllatoIl": "2026-09-23T13:30:23.388Z",
+    "letterboxd": {
+      "voto": 5.3,
+      "il": "2026-09-23T13:30:24.529Z"
+    },
+    "imdb": {
+      "voto": null,
+      "metacritic": null,
+      "il": "2026-09-23T13:30:26.163Z"
+    }
   },
   "hokum": {
     "id": 1430077,
     "titolo": "Hokum",
     "esatto": true,
     "poster": "https://image.tmdb.org/t/p/w185/nhF54SQmeaMUODgRKEuMMJoTysT.jpg",
-    "voto": 6.9,
-    "voti": 876,
+    "tmdb": 6.9,
+    "votiTmdb": 876,
     "uscita": "2026-08-05",
-    "v": 2,
-    "controllatoIl": "2026-09-23T12:53:26.577Z"
+    "imdbId": "tt35672862",
+    "v": 3,
+    "controllatoIl": "2026-09-23T13:30:26.306Z",
+    "letterboxd": {
+      "voto": 6.6,
+      "il": "2026-09-23T13:30:27.435Z"
+    },
+    "imdb": {
+      "voto": null,
+      "metacritic": null,
+      "il": "2026-09-23T13:30:29.181Z"
+    }
   },
   "super mario galaxy il film": {
     "id": 1226863,
     "titolo": "Super Mario Galaxy - Il film",
     "esatto": true,
     "poster": "https://image.tmdb.org/t/p/w185/3OfIG4QIEkumrWQXrcCq8bUlv01.jpg",
-    "voto": 8.2,
-    "voti": 3709,
+    "tmdb": 8.2,
+    "votiTmdb": 3709,
     "uscita": "2026-04-01",
-    "v": 2,
-    "controllatoIl": "2026-09-23T12:53:26.728Z"
+    "imdbId": "tt28650488",
+    "v": 3,
+    "controllatoIl": "2026-09-23T13:30:29.321Z",
+    "letterboxd": {
+      "voto": 5.8,
+      "il": "2026-09-23T13:30:30.389Z"
+    },
+    "imdb": {
+      "voto": null,
+      "metacritic": null,
+      "il": "2026-09-23T13:30:31.900Z"
+    }
   },
   "her private hell": {
     "id": 1469342,
     "titolo": "Her Private Hell",
     "esatto": true,
     "poster": "https://image.tmdb.org/t/p/w185/4tdT44N1on3Aj6q0e64ttY60HA4.jpg",
-    "voto": 5.1,
-    "voti": 63,
+    "tmdb": 5.1,
+    "votiTmdb": 63,
     "uscita": "2026-09-30",
-    "v": 2,
-    "controllatoIl": "2026-09-23T12:53:26.829Z"
+    "imdbId": "tt36629665",
+    "v": 3,
+    "controllatoIl": "2026-09-23T13:30:32.048Z",
+    "letterboxd": {
+      "voto": 4.5,
+      "il": "2026-09-23T13:30:33.115Z"
+    },
+    "imdb": {
+      "voto": null,
+      "metacritic": null,
+      "il": "2026-09-23T13:30:34.624Z"
+    }
   },
   "naza": {
     "id": 1755291,
     "titolo": "NAZA",
     "esatto": true,
     "poster": "https://image.tmdb.org/t/p/w185/qfdNOEmMroHjPLpZhNkORcVzgrQ.jpg",
-    "voto": null,
-    "voti": 0,
+    "tmdb": null,
+    "votiTmdb": 0,
     "uscita": "2026-09-25",
-    "v": 2,
-    "controllatoIl": "2026-09-23T12:53:27.387Z"
+    "imdbId": "tt44766123",
+    "v": 3,
+    "controllatoIl": "2026-09-23T13:30:34.770Z",
+    "letterboxd": {
+      "voto": 7.6,
+      "il": "2026-09-23T13:30:35.885Z"
+    },
+    "imdb": {
+      "voto": null,
+      "metacritic": null,
+      "il": "2026-09-23T13:30:37.521Z"
+    }
   },
   "the dog stars": {
     "id": 1384216,
     "titolo": "The Dog Stars - Le stelle dopo la fine",
     "esatto": true,
     "poster": "https://image.tmdb.org/t/p/w185/2QUzsotrBTMF78xwmePCTX7EqpX.jpg",
-    "voto": 6.6,
-    "voti": 284,
+    "tmdb": 6.6,
+    "votiTmdb": 284,
     "uscita": "2026-08-26",
-    "v": 2,
-    "controllatoIl": "2026-09-23T12:53:27.489Z"
+    "imdbId": "tt21285562",
+    "v": 3,
+    "controllatoIl": "2026-09-23T13:30:37.664Z",
+    "letterboxd": {
+      "voto": 5.7,
+      "il": "2026-09-23T13:30:38.789Z"
+    },
+    "imdb": {
+      "voto": null,
+      "metacritic": null,
+      "il": "2026-09-23T13:30:40.300Z"
+    }
   },
   "en el camino": {
     "id": 1517123,
     "titolo": "En el camino",
     "esatto": true,
     "poster": "https://image.tmdb.org/t/p/w185/7tBqPnIbdw9r5C8thiUGQokIbTF.jpg",
-    "voto": 8,
-    "voti": 29,
+    "tmdb": 8,
+    "votiTmdb": 29,
     "uscita": "2026-09-24",
-    "v": 2,
-    "controllatoIl": "2026-09-23T12:53:27.593Z"
+    "imdbId": "tt37660509",
+    "v": 3,
+    "controllatoIl": "2026-09-23T13:30:40.446Z",
+    "letterboxd": {
+      "voto": 7,
+      "il": "2026-09-23T13:30:41.655Z"
+    },
+    "imdb": {
+      "voto": null,
+      "metacritic": null,
+      "il": "2026-09-23T13:30:43.280Z"
+    }
   },
   "mulan": {
     "id": 10674,
     "titolo": "Mulan",
     "esatto": true,
     "poster": "https://image.tmdb.org/t/p/w185/jAbexAtB0aSfP5Ay4TpWHARyVnG.jpg",
-    "voto": 7.9,
-    "voti": 10687,
+    "tmdb": 7.9,
+    "votiTmdb": 10687,
     "uscita": "1998-12-04",
-    "v": 2,
-    "controllatoIl": "2026-09-23T12:53:27.705Z"
+    "imdbId": "tt0120762",
+    "v": 3,
+    "controllatoIl": "2026-09-23T13:30:43.424Z",
+    "letterboxd": {
+      "voto": 8.4,
+      "il": "2026-09-23T13:30:44.488Z"
+    },
+    "imdb": {
+      "voto": null,
+      "metacritic": null,
+      "il": "2026-09-23T13:30:46.009Z"
+    }
   },
   "my own private river": {
     "id": 164183,
     "titolo": "My Own Private River",
     "esatto": true,
     "poster": "https://image.tmdb.org/t/p/w185/sPxozaB7Mj3U2adg2bULQRYyE78.jpg",
-    "voto": 7.4,
-    "voti": 15,
+    "tmdb": 7.4,
+    "votiTmdb": 15,
     "uscita": "2012-02-19",
-    "v": 2,
-    "controllatoIl": "2026-09-23T12:53:27.808Z"
+    "imdbId": "tt2261871",
+    "v": 3,
+    "controllatoIl": "2026-09-23T13:30:46.153Z",
+    "letterboxd": {
+      "voto": 7.7,
+      "il": "2026-09-23T13:30:47.296Z"
+    },
+    "imdb": {
+      "voto": null,
+      "metacritic": null,
+      "il": "2026-09-23T13:30:48.926Z"
+    }
   },
   "pusher ii with blood on my hands": {
     "id": 11328,
     "titolo": "Pusher II - Sangue sulle mie mani",
     "esatto": false,
     "poster": "https://image.tmdb.org/t/p/w185/k4gdrx0hrQVKSPOohtWzQsSaPcp.jpg",
-    "voto": 7.2,
-    "voti": 555,
+    "tmdb": 7.2,
+    "votiTmdb": 555,
     "uscita": "2004-12-25",
-    "v": 2,
-    "controllatoIl": "2026-09-23T12:53:28.008Z"
+    "imdbId": "tt0396184",
+    "v": 3,
+    "controllatoIl": "2026-09-23T13:30:49.138Z",
+    "letterboxd": {
+      "voto": 8.1,
+      "il": "2026-09-23T13:30:50.283Z"
+    },
+    "imdb": {
+      "voto": null,
+      "metacritic": null,
+      "il": "2026-09-23T13:30:51.908Z"
+    }
   },
   "teenage sex and death at camp miasma": {
     "id": 1240889,
     "titolo": "Camp Miasma - Adolescenza, sesso e morte",
     "esatto": true,
     "poster": "https://image.tmdb.org/t/p/w185/oSbPv3AbfXKEoboItK2DeDK397S.jpg",
-    "voto": 6.5,
-    "voti": 167,
+    "tmdb": 6.5,
+    "votiTmdb": 167,
     "uscita": "2026-08-19",
-    "v": 2,
-    "controllatoIl": "2026-09-23T12:53:28.162Z"
+    "imdbId": "tt35298123",
+    "v": 3,
+    "controllatoIl": "2026-09-23T13:30:52.046Z",
+    "letterboxd": {
+      "voto": 7.5,
+      "il": "2026-09-23T13:30:53.116Z"
+    },
+    "imdb": {
+      "voto": null,
+      "metacritic": null,
+      "il": "2026-09-23T13:30:54.626Z"
+    }
   },
   "the dreamers i sognatori": {
     "id": 1278,
     "titolo": "The Dreamers - I sognatori",
     "esatto": true,
     "poster": "https://image.tmdb.org/t/p/w185/pinNViE433kLUrJppjFAOzgWxdl.jpg",
-    "voto": 7.2,
-    "voti": 3171,
+    "tmdb": 7.2,
+    "votiTmdb": 3171,
     "uscita": "2003-10-10",
-    "v": 2,
-    "controllatoIl": "2026-09-23T12:53:28.265Z"
+    "imdbId": "tt0309987",
+    "v": 3,
+    "controllatoIl": "2026-09-23T13:30:54.819Z",
+    "letterboxd": {
+      "voto": 7.1,
+      "il": "2026-09-23T13:30:55.994Z"
+    },
+    "imdb": {
+      "voto": null,
+      "metacritic": null,
+      "il": "2026-09-23T13:30:57.509Z"
+    }
   },
   "the invite il piacere e tutto nostro": {
     "id": 950028,
     "titolo": "The Invite - Il piacere è tutto nostro",
     "esatto": true,
     "poster": "https://image.tmdb.org/t/p/w185/p9kaEC6mE6oNFhZjkbA1ALuvv2q.jpg",
-    "voto": 7.2,
-    "voti": 614,
+    "tmdb": 7.2,
+    "votiTmdb": 614,
     "uscita": "2026-09-16",
-    "v": 2,
-    "controllatoIl": "2026-09-23T12:53:28.354Z"
+    "imdbId": "tt14173636",
+    "v": 3,
+    "controllatoIl": "2026-09-23T13:30:57.585Z",
+    "letterboxd": {
+      "voto": 7.9,
+      "il": "2026-09-23T13:30:58.654Z"
+    },
+    "imdb": {
+      "voto": null,
+      "metacritic": null,
+      "il": "2026-09-23T13:31:00.164Z"
+    }
   },
   "we re all going to the world s fair": {
     "id": 776501,
     "titolo": "We're All Going to the World's Fair",
     "esatto": true,
     "poster": "https://image.tmdb.org/t/p/w185/fXn4Nz1WCTEmzAFvwgEZoPHvptR.jpg",
-    "voto": 5.5,
-    "voti": 172,
+    "tmdb": 5.5,
+    "votiTmdb": 172,
     "uscita": "2022-04-15",
-    "v": 2,
-    "controllatoIl": "2026-09-23T12:53:28.456Z"
+    "imdbId": "tt13648224",
+    "v": 3,
+    "controllatoIl": "2026-09-23T13:31:00.311Z",
+    "letterboxd": {
+      "voto": 6.3,
+      "il": "2026-09-23T13:31:01.435Z"
+    },
+    "imdb": {
+      "voto": null,
+      "metacritic": null,
+      "il": "2026-09-23T13:31:02.951Z"
+    }
   },
   "avengers endgame extra infinity vision": {
     "id": 299534,
     "titolo": "Avengers: Endgame",
     "esatto": false,
     "poster": "https://image.tmdb.org/t/p/w185/hj1xaEUGMiUxaFYoutlljtlkHSG.jpg",
-    "voto": 8.2,
-    "voti": 28740,
+    "tmdb": 8.2,
+    "votiTmdb": 28740,
     "uscita": "2019-04-24",
-    "v": 2,
-    "controllatoIl": "2026-09-23T12:53:28.644Z"
+    "imdbId": "tt4154796",
+    "v": 3,
+    "controllatoIl": "2026-09-23T13:31:03.095Z",
+    "letterboxd": {
+      "voto": 8,
+      "il": "2026-09-23T13:31:04.169Z"
+    },
+    "imdb": {
+      "voto": null,
+      "metacritic": null,
+      "il": "2026-09-23T13:31:05.796Z"
+    }
   },
   "cars motori ruggenti 20 anni": {
     "id": 920,
     "titolo": "Cars - Motori ruggenti",
     "esatto": false,
     "poster": "https://image.tmdb.org/t/p/w185/moXcMQ1GdVPnQfX5qnJ0pZkJifJ.jpg",
-    "voto": 7.1,
-    "voti": 15544,
+    "tmdb": 7.1,
+    "votiTmdb": 15544,
     "uscita": "2006-08-23",
-    "v": 2,
-    "controllatoIl": "2026-09-23T12:53:28.790Z"
+    "imdbId": "tt0317219",
+    "v": 3,
+    "controllatoIl": "2026-09-23T13:31:05.943Z",
+    "letterboxd": {
+      "voto": 7.9,
+      "il": "2026-09-23T13:31:07.057Z"
+    },
+    "imdb": {
+      "voto": null,
+      "metacritic": null,
+      "il": "2026-09-23T13:31:08.572Z"
+    }
   },
   "refn celebration": {
     "id": null,
-    "v": 2,
-    "controllatoIl": "2026-09-23T12:53:28.843Z"
+    "v": 3,
+    "controllatoIl": "2026-09-23T13:31:08.644Z"
   },
   "heart of the beast nel profondo selvaggio": {
     "id": 1263337,
     "titolo": "Heart of the Beast - Nel profondo selvaggio",
     "esatto": true,
     "poster": "https://image.tmdb.org/t/p/w185/yiqRtrbY63aSPLinH5IsJwKHzZN.jpg",
-    "voto": 7.8,
-    "voti": 20,
+    "tmdb": 7.8,
+    "votiTmdb": 20,
     "uscita": "2026-09-24",
-    "v": 2,
-    "controllatoIl": "2026-09-23T12:53:28.930Z"
+    "imdbId": "tt7526136",
+    "v": 3,
+    "controllatoIl": "2026-09-23T13:31:08.720Z",
+    "letterboxd": {
+      "voto": 6.3,
+      "il": "2026-09-23T13:31:09.785Z"
+    },
+    "imdb": {
+      "voto": null,
+      "metacritic": null,
+      "il": "2026-09-23T13:31:11.299Z"
+    }
   },
   "digger": {
     "id": 1248832,
     "titolo": "Digger",
     "esatto": true,
     "poster": "https://image.tmdb.org/t/p/w185/1ATXKrIPJyKNwnJ6lcG088Sa6zi.jpg",
-    "voto": null,
-    "voti": 0,
+    "tmdb": null,
+    "votiTmdb": 0,
     "uscita": "2026-10-01",
-    "v": 2,
-    "controllatoIl": "2026-09-23T12:53:29.034Z"
+    "imdbId": "tt31450459",
+    "v": 3,
+    "controllatoIl": "2026-09-23T13:31:11.445Z",
+    "letterboxd": {
+      "voto": null,
+      "il": "2026-09-23T13:31:12.509Z"
+    },
+    "imdb": {
+      "voto": null,
+      "metacritic": null,
+      "il": "2026-09-23T13:31:14.026Z"
+    }
   },
   "dune parte tre": {
     "id": 1170608,
     "titolo": "Dune - Parte tre",
     "esatto": true,
     "poster": "https://image.tmdb.org/t/p/w185/qgIxezW3yRGmVFnk3gsQaM35Qjx.jpg",
-    "voto": null,
-    "voti": 0,
+    "tmdb": null,
+    "votiTmdb": 0,
     "uscita": "2026-12-16",
-    "v": 2,
-    "controllatoIl": "2026-09-23T12:53:29.209Z"
+    "imdbId": "tt31378509",
+    "v": 3,
+    "controllatoIl": "2026-09-23T13:31:14.168Z",
+    "letterboxd": {
+      "voto": null,
+      "il": "2026-09-23T13:31:15.258Z"
+    },
+    "imdb": {
+      "voto": null,
+      "metacritic": null,
+      "il": "2026-09-23T13:31:16.769Z"
+    }
   }
 }

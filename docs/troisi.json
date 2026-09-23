@@ -1,34 +1,14 @@
 [
   {
-    "title": "En el camino",
-    "poster": "https://image.tmdb.org/t/p/w185/7tBqPnIbdw9r5C8thiUGQokIbTF.jpg",
-    "rating": 8,
-    "releaseDate": "2026-09-24",
-    "showtimes": [
-      "15:00"
-    ],
-    "showtimesDate": "2026-09-24",
-    "days": {
-      "2026-09-24": [
-        "15:00"
-      ],
-      "2026-09-25": [
-        "18:30"
-      ],
-      "2026-09-27": [
-        "20:30"
-      ]
-    },
-    "room": null,
-    "vo": false,
-    "url": "https://www.liveticket.it/opera.aspx?Id=695495",
-    "rankUscita": 1,
-    "rankVoto": 0
-  },
-  {
     "title": "Odissea (V.O.)",
     "poster": "https://image.tmdb.org/t/p/w185/qQhInj9fw3S2bMbiEujVldthgKe.jpg",
-    "rating": 8,
+    "rating": 8.4,
+    "ratings": {
+      "tmdb": 8,
+      "letterboxd": 8.7,
+      "imdb": null,
+      "metacritic": null
+    },
     "releaseDate": "2026-07-16",
     "showtimes": [
       "13:30"
@@ -58,13 +38,27 @@
     "room": null,
     "vo": true,
     "url": "https://www.liveticket.it/opera.aspx?Id=695487",
+    "smart": {
+      "2026-09-23": 73,
+      "2026-09-24": 59,
+      "2026-09-25": 59,
+      "2026-09-26": 73,
+      "2026-09-27": 59,
+      "2026-09-28": 59
+    },
     "rankUscita": 5,
-    "rankVoto": 1
+    "rankVoto": 0
   },
   {
     "title": "Mulan",
     "poster": "https://image.tmdb.org/t/p/w185/jAbexAtB0aSfP5Ay4TpWHARyVnG.jpg",
-    "rating": 7.9,
+    "rating": 8.2,
+    "ratings": {
+      "tmdb": 7.9,
+      "letterboxd": 8.4,
+      "imdb": null,
+      "metacritic": null
+    },
     "releaseDate": "1998-12-04",
     "showtimes": [
       "11:00"
@@ -78,33 +72,86 @@
     "room": null,
     "vo": false,
     "url": "https://www.liveticket.it/opera.aspx?Id=695505",
+    "smart": {
+      "2026-09-27": 53
+    },
     "rankUscita": 10,
-    "rankVoto": 2
+    "rankVoto": 1
   },
   {
-    "title": "My Own Private River (V.O.)",
-    "poster": "https://image.tmdb.org/t/p/w185/sPxozaB7Mj3U2adg2bULQRYyE78.jpg",
-    "rating": 7.4,
-    "releaseDate": "2012-02-19",
+    "title": "Pusher II - With Blood on My Hands (V.O.)",
+    "poster": "https://cinematroisi.liveticket.it/wp-content/uploads/sites/48/00306290-180x257.jpg",
+    "rating": 7.7,
+    "ratings": {
+      "tmdb": 7.2,
+      "letterboxd": 8.1,
+      "imdb": null,
+      "metacritic": null
+    },
+    "releaseDate": "2004-12-25",
     "showtimes": [
-      "21:00"
+      "11:00"
     ],
-    "showtimesDate": "2026-09-28",
+    "showtimesDate": "2026-09-26",
     "days": {
-      "2026-09-28": [
-        "21:00"
+      "2026-09-26": [
+        "11:00"
       ]
     },
     "room": null,
     "vo": true,
-    "url": "https://www.liveticket.it/opera.aspx?Id=695516",
-    "rankUscita": 7,
+    "url": "https://www.liveticket.it/opera.aspx?Id=694366",
+    "smart": {
+      "2026-09-26": 47
+    },
+    "rankUscita": 8,
+    "rankVoto": 2
+  },
+  {
+    "title": "NAZA (V.O.)",
+    "poster": "https://image.tmdb.org/t/p/w185/qfdNOEmMroHjPLpZhNkORcVzgrQ.jpg",
+    "rating": 7.6,
+    "ratings": {
+      "tmdb": null,
+      "letterboxd": 7.6,
+      "imdb": null,
+      "metacritic": null
+    },
+    "releaseDate": "2026-09-25",
+    "showtimes": [
+      "11:00",
+      "19:00"
+    ],
+    "showtimesDate": "2026-09-28",
+    "days": {
+      "2026-09-28": [
+        "11:00",
+        "19:00"
+      ],
+      "2026-09-29": [
+        "17:00"
+      ]
+    },
+    "room": null,
+    "vo": true,
+    "url": "https://www.liveticket.it/opera.aspx?Id=695512",
+    "smart": {
+      "2026-09-28": 89,
+      "2026-09-29": 89
+    },
+    "rankUscita": 0,
     "rankVoto": 3
   },
   {
     "title": "The Invite - Il piacere è tutto nostro",
     "poster": "https://image.tmdb.org/t/p/w185/p9kaEC6mE6oNFhZjkbA1ALuvv2q.jpg",
-    "rating": 7.2,
+    "rating": 7.6,
+    "ratings": {
+      "tmdb": 7.2,
+      "letterboxd": 7.9,
+      "imdb": null,
+      "metacritic": null
+    },
     "releaseDate": "2026-09-16",
     "showtimes": [
       "17:00"
@@ -140,33 +187,94 @@
     "room": null,
     "vo": false,
     "url": "https://www.liveticket.it/opera.aspx?Id=692494",
+    "smart": {
+      "2026-09-23": 83,
+      "2026-09-24": 83,
+      "2026-09-25": 83,
+      "2026-09-26": 83,
+      "2026-09-27": 83,
+      "2026-09-28": 69,
+      "2026-09-29": 83
+    },
     "rankUscita": 3,
     "rankVoto": 4
   },
   {
-    "title": "Pusher II - With Blood on My Hands (V.O.)",
-    "poster": "https://cinematroisi.liveticket.it/wp-content/uploads/sites/48/00306290-180x257.jpg",
-    "rating": 7.2,
-    "releaseDate": "2004-12-25",
+    "title": "My Own Private River (V.O.)",
+    "poster": "https://image.tmdb.org/t/p/w185/sPxozaB7Mj3U2adg2bULQRYyE78.jpg",
+    "rating": 7.6,
+    "ratings": {
+      "tmdb": 7.4,
+      "letterboxd": 7.7,
+      "imdb": null,
+      "metacritic": null
+    },
+    "releaseDate": "2012-02-19",
     "showtimes": [
-      "11:00"
+      "21:00"
     ],
-    "showtimesDate": "2026-09-26",
+    "showtimesDate": "2026-09-28",
     "days": {
-      "2026-09-26": [
-        "11:00"
+      "2026-09-28": [
+        "21:00"
       ]
     },
     "room": null,
     "vo": true,
-    "url": "https://www.liveticket.it/opera.aspx?Id=694366",
-    "rankUscita": 8,
+    "url": "https://www.liveticket.it/opera.aspx?Id=695516",
+    "smart": {
+      "2026-09-28": 46
+    },
+    "rankUscita": 7,
     "rankVoto": 5
+  },
+  {
+    "title": "En el camino",
+    "poster": "https://image.tmdb.org/t/p/w185/7tBqPnIbdw9r5C8thiUGQokIbTF.jpg",
+    "rating": 7.5,
+    "ratings": {
+      "tmdb": 8,
+      "letterboxd": 7,
+      "imdb": null,
+      "metacritic": null
+    },
+    "releaseDate": "2026-09-24",
+    "showtimes": [
+      "15:00"
+    ],
+    "showtimesDate": "2026-09-24",
+    "days": {
+      "2026-09-24": [
+        "15:00"
+      ],
+      "2026-09-25": [
+        "18:30"
+      ],
+      "2026-09-27": [
+        "20:30"
+      ]
+    },
+    "room": null,
+    "vo": false,
+    "url": "https://www.liveticket.it/opera.aspx?Id=695495",
+    "smart": {
+      "2026-09-24": 73,
+      "2026-09-25": 73,
+      "2026-09-27": 73
+    },
+    "rankUscita": 1,
+    "rankVoto": 6
   },
   {
     "title": "The Dreamers - I sognatori (V.O.)",
     "poster": "https://image.tmdb.org/t/p/w185/pinNViE433kLUrJppjFAOzgWxdl.jpg",
     "rating": 7.2,
+    "ratings": {
+      "tmdb": 7.2,
+      "letterboxd": 7.1,
+      "imdb": null,
+      "metacritic": null
+    },
     "releaseDate": "2003-10-10",
     "showtimes": [
       "23:59"
@@ -180,13 +288,22 @@
     "room": null,
     "vo": true,
     "url": "https://www.liveticket.it/opera.aspx?Id=638825",
+    "smart": {
+      "2026-09-28": 41
+    },
     "rankUscita": 9,
-    "rankVoto": 6
+    "rankVoto": 7
   },
   {
     "title": "Camp Miasma - Adolescenza, sesso e morte (V.O.)",
     "poster": "https://image.tmdb.org/t/p/w185/oSbPv3AbfXKEoboItK2DeDK397S.jpg",
-    "rating": 6.5,
+    "rating": 7,
+    "ratings": {
+      "tmdb": 6.5,
+      "letterboxd": 7.5,
+      "imdb": null,
+      "metacritic": null
+    },
     "releaseDate": "2026-08-19",
     "showtimes": [
       "11:00"
@@ -212,58 +329,26 @@
     "room": null,
     "vo": true,
     "url": "https://www.liveticket.it/opera.aspx?Id=687649",
+    "smart": {
+      "2026-09-25": 48,
+      "2026-09-26": 48,
+      "2026-09-27": 48,
+      "2026-09-28": 48,
+      "2026-09-29": 62
+    },
     "rankUscita": 4,
-    "rankVoto": 7
-  },
-  {
-    "title": "We're All Going to the World's Fair (V.O.)",
-    "poster": "https://image.tmdb.org/t/p/w185/fXn4Nz1WCTEmzAFvwgEZoPHvptR.jpg",
-    "rating": 5.5,
-    "releaseDate": "2022-04-15",
-    "showtimes": [
-      "21:45"
-    ],
-    "showtimesDate": "2026-09-29",
-    "days": {
-      "2026-09-29": [
-        "21:45"
-      ]
-    },
-    "room": null,
-    "vo": true,
-    "url": "https://www.liveticket.it/opera.aspx?Id=695520",
-    "rankUscita": 6,
     "rankVoto": 8
-  },
-  {
-    "title": "NAZA (V.O.)",
-    "poster": "https://image.tmdb.org/t/p/w185/qfdNOEmMroHjPLpZhNkORcVzgrQ.jpg",
-    "rating": null,
-    "releaseDate": "2026-09-25",
-    "showtimes": [
-      "11:00",
-      "19:00"
-    ],
-    "showtimesDate": "2026-09-28",
-    "days": {
-      "2026-09-28": [
-        "11:00",
-        "19:00"
-      ],
-      "2026-09-29": [
-        "17:00"
-      ]
-    },
-    "room": null,
-    "vo": true,
-    "url": "https://www.liveticket.it/opera.aspx?Id=695512",
-    "rankUscita": 0,
-    "rankVoto": 9
   },
   {
     "title": "I figli della scimmia",
     "poster": "https://image.tmdb.org/t/p/w185/c5tEquC2cAfxfFNIs86QmGzabmU.jpg",
-    "rating": null,
+    "rating": 6.8,
+    "ratings": {
+      "tmdb": null,
+      "letterboxd": 6.8,
+      "imdb": null,
+      "metacritic": null
+    },
     "releaseDate": "2026-09-17",
     "showtimes": [
       "11:00"
@@ -297,13 +382,57 @@
     "room": null,
     "vo": false,
     "url": "https://www.liveticket.it/opera.aspx?Id=695443",
+    "smart": {
+      "2026-09-23": 74,
+      "2026-09-24": 74,
+      "2026-09-25": 74,
+      "2026-09-26": 60,
+      "2026-09-27": 60,
+      "2026-09-28": 60,
+      "2026-09-29": 74
+    },
     "rankUscita": 2,
+    "rankVoto": 9
+  },
+  {
+    "title": "We're All Going to the World's Fair (V.O.)",
+    "poster": "https://image.tmdb.org/t/p/w185/fXn4Nz1WCTEmzAFvwgEZoPHvptR.jpg",
+    "rating": 5.9,
+    "ratings": {
+      "tmdb": 5.5,
+      "letterboxd": 6.3,
+      "imdb": null,
+      "metacritic": null
+    },
+    "releaseDate": "2022-04-15",
+    "showtimes": [
+      "21:45"
+    ],
+    "showtimesDate": "2026-09-29",
+    "days": {
+      "2026-09-29": [
+        "21:45"
+      ]
+    },
+    "room": null,
+    "vo": true,
+    "url": "https://www.liveticket.it/opera.aspx?Id=695520",
+    "smart": {
+      "2026-09-29": 40
+    },
+    "rankUscita": 6,
     "rankVoto": 10
   },
   {
     "title": "Un Prophète - ep. 1-4 (V.O.)",
     "poster": "https://cinematroisi.liveticket.it/wp-content/uploads/sites/48/00306838-180x257.jpg",
     "rating": null,
+    "ratings": {
+      "tmdb": null,
+      "letterboxd": null,
+      "imdb": null,
+      "metacritic": null
+    },
     "releaseDate": null,
     "showtimes": [
       "19:30"
@@ -317,6 +446,9 @@
     "room": null,
     "vo": true,
     "url": "https://www.liveticket.it/opera.aspx?Id=695493",
+    "smart": {
+      "2026-09-23": 64
+    },
     "rankUscita": 11,
     "rankVoto": 11
   }

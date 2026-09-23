@@ -1,34 +1,72 @@
 [
   {
-    "title": "Super Mario Galaxy - Il film",
-    "poster": "https://image.tmdb.org/t/p/w185/3OfIG4QIEkumrWQXrcCq8bUlv01.jpg",
-    "rating": 8.2,
-    "releaseDate": "2026-04-01",
+    "title": "Odissea",
+    "poster": "https://image.tmdb.org/t/p/w185/qQhInj9fw3S2bMbiEujVldthgKe.jpg",
+    "rating": 8.4,
+    "ratings": {
+      "tmdb": 8,
+      "letterboxd": 8.7,
+      "imdb": null,
+      "metacritic": null
+    },
+    "releaseDate": "2026-07-16",
     "showtimes": [
-      "11:40",
-      "11:50"
+      "16:50",
+      "20:50",
+      "22:00"
     ],
-    "showtimesDate": "2026-09-26",
+    "showtimesDate": "2026-09-23",
     "days": {
+      "2026-09-23": [
+        "16:50",
+        "20:50",
+        "22:00"
+      ],
+      "2026-09-24": [
+        "10:30",
+        "21:10"
+      ],
+      "2026-09-25": [
+        "21:10"
+      ],
       "2026-09-26": [
-        "11:40",
-        "11:50"
+        "21:10"
       ],
       "2026-09-27": [
-        "11:40",
-        "11:50"
+        "21:10"
+      ],
+      "2026-09-28": [
+        "21:10"
+      ],
+      "2026-09-29": [
+        "20:10"
       ]
     },
     "room": "2D",
     "vo": false,
-    "url": "https://ucicinemas.it/film/super-mario-galaxy-il-film/",
-    "rankUscita": 24,
+    "url": "https://ucicinemas.it/film/odissea/",
+    "smart": {
+      "2026-09-23": 55,
+      "2026-09-24": 48,
+      "2026-09-25": 47,
+      "2026-09-26": 46,
+      "2026-09-27": 46,
+      "2026-09-28": 49,
+      "2026-09-29": 49
+    },
+    "rankUscita": 23,
     "rankVoto": 0
   },
   {
     "title": "Avengers: Endgame Extra",
     "poster": "https://storage.googleapis.com/uci-infrastructure-bucket/Common/Movies/Posters/01M1C9FY1S1MH2G1XDXH1WQD4D_resized_at_20260831181232.jpg",
-    "rating": 8.2,
+    "rating": 8.1,
+    "ratings": {
+      "tmdb": 8.2,
+      "letterboxd": 8,
+      "imdb": null,
+      "metacritic": null
+    },
     "releaseDate": "2019-04-24",
     "showtimes": [
       "10:00",
@@ -142,99 +180,27 @@
     "room": "XL",
     "vo": false,
     "url": "https://ucicinemas.it/film/avengers-endgame-extra/",
+    "smart": {
+      "2026-09-24": 67,
+      "2026-09-25": 67,
+      "2026-09-26": 67,
+      "2026-09-27": 67,
+      "2026-09-28": 67,
+      "2026-09-29": 67
+    },
     "rankUscita": 25,
     "rankVoto": 1
   },
   {
-    "title": "PAW Patrol - Missione Dinosauri",
-    "poster": "https://image.tmdb.org/t/p/w185/r5XkrcTtb7O2YeblRDpkuwh9ued.jpg",
-    "rating": 8,
-    "releaseDate": "2026-09-09",
-    "showtimes": [
-      "16:50"
-    ],
-    "showtimesDate": "2026-09-23",
-    "days": {
-      "2026-09-23": [
-        "16:50"
-      ],
-      "2026-09-24": [
-        "10:10"
-      ],
-      "2026-09-25": [
-        "10:10",
-        "13:45"
-      ],
-      "2026-09-26": [
-        "10:10",
-        "13:45"
-      ],
-      "2026-09-27": [
-        "10:10",
-        "13:20"
-      ],
-      "2026-09-28": [
-        "14:20"
-      ],
-      "2026-09-29": [
-        "14:20"
-      ]
-    },
-    "room": "2D",
-    "vo": false,
-    "url": "https://ucicinemas.it/film/paw-patrol-missione-dinosauri/",
-    "rankUscita": 16,
-    "rankVoto": 2
-  },
-  {
-    "title": "Odissea",
-    "poster": "https://image.tmdb.org/t/p/w185/qQhInj9fw3S2bMbiEujVldthgKe.jpg",
-    "rating": 8,
-    "releaseDate": "2026-07-16",
-    "showtimes": [
-      "14:20",
-      "16:50",
-      "20:50",
-      "22:00"
-    ],
-    "showtimesDate": "2026-09-23",
-    "days": {
-      "2026-09-23": [
-        "14:20",
-        "16:50",
-        "20:50",
-        "22:00"
-      ],
-      "2026-09-24": [
-        "10:30",
-        "21:10"
-      ],
-      "2026-09-25": [
-        "21:10"
-      ],
-      "2026-09-26": [
-        "21:10"
-      ],
-      "2026-09-27": [
-        "21:10"
-      ],
-      "2026-09-28": [
-        "21:10"
-      ],
-      "2026-09-29": [
-        "20:10"
-      ]
-    },
-    "room": "IMAX",
-    "vo": false,
-    "url": "https://ucicinemas.it/film/odissea/",
-    "rankUscita": 23,
-    "rankVoto": 3
-  },
-  {
     "title": "Spider-Man: Brand New Day",
     "poster": "https://image.tmdb.org/t/p/w185/vKHjwe9tSPWSkiv3m8Iq1nVedOT.jpg",
-    "rating": 7.9,
+    "rating": 8,
+    "ratings": {
+      "tmdb": 7.9,
+      "letterboxd": 8.1,
+      "imdb": null,
+      "metacritic": null
+    },
     "releaseDate": "2026-07-29",
     "showtimes": [
       "22:40"
@@ -261,65 +227,59 @@
     "room": "2D",
     "vo": false,
     "url": "https://ucicinemas.it/film/spider-man-brand-new-day/",
+    "smart": {
+      "2026-09-23": 45,
+      "2026-09-24": 43,
+      "2026-09-25": 43,
+      "2026-09-26": 45,
+      "2026-09-27": 43
+    },
     "rankUscita": 22,
-    "rankVoto": 4
+    "rankVoto": 2
   },
   {
-    "title": "Heart of the Beast - Nel profondo selvaggio",
-    "poster": "https://image.tmdb.org/t/p/w185/yiqRtrbY63aSPLinH5IsJwKHzZN.jpg",
-    "rating": 7.8,
-    "releaseDate": "2026-09-24",
+    "title": "NAZA",
+    "poster": "https://image.tmdb.org/t/p/w185/qfdNOEmMroHjPLpZhNkORcVzgrQ.jpg",
+    "rating": 7.6,
+    "ratings": {
+      "tmdb": null,
+      "letterboxd": 7.6,
+      "imdb": null,
+      "metacritic": null
+    },
+    "releaseDate": "2026-09-25",
     "showtimes": [
-      "00:30",
-      "16:50",
-      "19:20",
-      "22:00"
+      "20:15"
     ],
-    "showtimesDate": "2026-09-24",
+    "showtimesDate": "2026-09-28",
     "days": {
-      "2026-09-24": [
-        "00:30",
-        "16:50",
-        "19:20",
-        "22:00"
-      ],
-      "2026-09-25": [
-        "16:50",
-        "19:20",
-        "22:00"
-      ],
-      "2026-09-26": [
-        "16:50",
-        "19:20",
-        "22:00"
-      ],
-      "2026-09-27": [
-        "16:50",
-        "22:00"
-      ],
       "2026-09-28": [
-        "16:50",
-        "19:20",
-        "21:50",
-        "22:30"
+        "20:15"
       ],
       "2026-09-29": [
-        "16:50",
-        "19:20",
-        "22:00",
-        "22:40"
+        "20:15"
       ]
     },
     "room": "2D",
     "vo": false,
-    "url": "https://ucicinemas.it/film/heart-of-the-beast/",
-    "rankUscita": 2,
-    "rankVoto": 5
+    "url": "https://ucicinemas.it/film/naza/",
+    "smart": {
+      "2026-09-28": 64,
+      "2026-09-29": 64
+    },
+    "rankUscita": 1,
+    "rankVoto": 3
   },
   {
     "title": "L'isola dei ricordi",
     "poster": "https://image.tmdb.org/t/p/w185/p8YpBFMmccQQoeQie9XKv6loDSa.jpg",
     "rating": 7.6,
+    "ratings": {
+      "tmdb": 7.6,
+      "letterboxd": 7.6,
+      "imdb": null,
+      "metacritic": null
+    },
     "releaseDate": "2026-09-24",
     "showtimes": [
       "11:30",
@@ -386,13 +346,82 @@
     "room": "3D",
     "vo": false,
     "url": "https://ucicinemas.it/film/lisola-dei-ricordi/",
-    "rankUscita": 3,
-    "rankVoto": 6
+    "smart": {
+      "2026-09-24": 70,
+      "2026-09-25": 75,
+      "2026-09-26": 76,
+      "2026-09-27": 76,
+      "2026-09-28": 81,
+      "2026-09-29": 81
+    },
+    "rankUscita": 2,
+    "rankVoto": 4
+  },
+  {
+    "title": "The Invite - Il piacere è tutto nostro",
+    "poster": "https://image.tmdb.org/t/p/w185/p9kaEC6mE6oNFhZjkbA1ALuvv2q.jpg",
+    "rating": 7.6,
+    "ratings": {
+      "tmdb": 7.2,
+      "letterboxd": 7.9,
+      "imdb": null,
+      "metacritic": null
+    },
+    "releaseDate": "2026-09-16",
+    "showtimes": [
+      "19:20",
+      "22:10"
+    ],
+    "showtimesDate": "2026-09-23",
+    "days": {
+      "2026-09-23": [
+        "19:20",
+        "22:10"
+      ],
+      "2026-09-24": [
+        "12:20"
+      ],
+      "2026-09-25": [
+        "13:20"
+      ],
+      "2026-09-26": [
+        "12:00"
+      ],
+      "2026-09-27": [
+        "12:00"
+      ],
+      "2026-09-28": [
+        "13:50"
+      ],
+      "2026-09-29": [
+        "13:50"
+      ]
+    },
+    "room": "2D",
+    "vo": false,
+    "url": "https://ucicinemas.it/film/the-invite/",
+    "smart": {
+      "2026-09-23": 62,
+      "2026-09-24": 56,
+      "2026-09-25": 57,
+      "2026-09-26": 56,
+      "2026-09-27": 56,
+      "2026-09-28": 59,
+      "2026-09-29": 59
+    },
+    "rankUscita": 11,
+    "rankVoto": 5
   },
   {
     "title": "Coyote vs. Acme",
     "poster": "https://image.tmdb.org/t/p/w185/x2AtkVKU8IDgeScz354aqoYjUQG.jpg",
-    "rating": 7.5,
+    "rating": 7.6,
+    "ratings": {
+      "tmdb": 7.5,
+      "letterboxd": 7.7,
+      "imdb": null,
+      "metacritic": null
+    },
     "releaseDate": "2026-09-02",
     "showtimes": [
       "15:10",
@@ -439,75 +468,28 @@
     "room": "2D",
     "vo": false,
     "url": "https://ucicinemas.it/film/coyote-vs-acme/",
+    "smart": {
+      "2026-09-23": 64,
+      "2026-09-24": 49,
+      "2026-09-25": 52,
+      "2026-09-26": 52,
+      "2026-09-27": 52,
+      "2026-09-28": 50,
+      "2026-09-29": 50
+    },
     "rankUscita": 17,
-    "rankVoto": 7
-  },
-  {
-    "title": "Oceania",
-    "poster": "https://image.tmdb.org/t/p/w185/g4zumtvkkH5QbyXyL0mO8HpCSaw.jpg",
-    "rating": 7.4,
-    "releaseDate": "2026-08-19",
-    "showtimes": [
-      "14:20",
-      "16:30",
-      "17:00",
-      "18:40",
-      "20:00"
-    ],
-    "showtimesDate": "2026-09-23",
-    "days": {
-      "2026-09-23": [
-        "14:20",
-        "16:30",
-        "17:00",
-        "18:40",
-        "20:00"
-      ],
-      "2026-09-24": [
-        "14:50"
-      ],
-      "2026-09-25": [
-        "10:40"
-      ],
-      "2026-09-26": [
-        "10:40"
-      ],
-      "2026-09-27": [
-        "10:40"
-      ]
-    },
-    "room": "2D",
-    "vo": false,
-    "url": "https://ucicinemas.it/film/oceania/",
-    "rankUscita": 19,
-    "rankVoto": 8
-  },
-  {
-    "title": "Normal",
-    "poster": "https://image.tmdb.org/t/p/w185/t13MdGCKRZvkmrFW2A7Vih3QjwD.jpg",
-    "rating": 7.3,
-    "releaseDate": "2026-09-17",
-    "showtimes": [
-      "14:35",
-      "22:50"
-    ],
-    "showtimesDate": "2026-09-23",
-    "days": {
-      "2026-09-23": [
-        "14:35",
-        "22:50"
-      ]
-    },
-    "room": "2D",
-    "vo": false,
-    "url": "https://ucicinemas.it/film/normal/",
-    "rankUscita": 7,
-    "rankVoto": 9
+    "rankVoto": 6
   },
   {
     "title": "Resident Evil",
     "poster": "https://image.tmdb.org/t/p/w185/D8rnntI88rgzWKDK2yuxm25HTQ.jpg",
-    "rating": 7.3,
+    "rating": 7.5,
+    "ratings": {
+      "tmdb": 7.3,
+      "letterboxd": 7.6,
+      "imdb": null,
+      "metacritic": null
+    },
     "releaseDate": "2026-09-17",
     "showtimes": [
       "17:30",
@@ -568,56 +550,30 @@
     "room": "IMAX",
     "vo": false,
     "url": "https://ucicinemas.it/film/resident-evil/",
-    "rankUscita": 8,
-    "rankVoto": 10
-  },
-  {
-    "title": "The Invite - Il piacere è tutto nostro",
-    "poster": "https://image.tmdb.org/t/p/w185/p9kaEC6mE6oNFhZjkbA1ALuvv2q.jpg",
-    "rating": 7.2,
-    "releaseDate": "2026-09-16",
-    "showtimes": [
-      "19:20",
-      "22:10"
-    ],
-    "showtimesDate": "2026-09-23",
-    "days": {
-      "2026-09-23": [
-        "19:20",
-        "22:10"
-      ],
-      "2026-09-24": [
-        "12:20"
-      ],
-      "2026-09-25": [
-        "13:20"
-      ],
-      "2026-09-26": [
-        "12:00"
-      ],
-      "2026-09-27": [
-        "12:00"
-      ],
-      "2026-09-28": [
-        "13:50"
-      ],
-      "2026-09-29": [
-        "13:50"
-      ]
+    "smart": {
+      "2026-09-23": 83,
+      "2026-09-24": 61,
+      "2026-09-25": 64,
+      "2026-09-26": 64,
+      "2026-09-27": 60,
+      "2026-09-28": 62,
+      "2026-09-29": 62
     },
-    "room": "2D",
-    "vo": false,
-    "url": "https://ucicinemas.it/film/the-invite/",
-    "rankUscita": 11,
-    "rankVoto": 11
+    "rankUscita": 7,
+    "rankVoto": 7
   },
   {
     "title": "Cars - Motori ruggenti",
     "poster": "https://image.tmdb.org/t/p/w185/moXcMQ1GdVPnQfX5qnJ0pZkJifJ.jpg",
-    "rating": 7.1,
+    "rating": 7.5,
+    "ratings": {
+      "tmdb": 7.1,
+      "letterboxd": 7.9,
+      "imdb": null,
+      "metacritic": null
+    },
     "releaseDate": "2006-08-23",
     "showtimes": [
-      "14:21",
       "15:20",
       "16:20",
       "17:00",
@@ -627,7 +583,6 @@
     "showtimesDate": "2026-09-23",
     "days": {
       "2026-09-23": [
-        "14:21",
         "15:20",
         "16:20",
         "17:00",
@@ -667,33 +622,28 @@
     "room": "2D",
     "vo": false,
     "url": "https://ucicinemas.it/film/cars-motori-ruggenti/",
-    "rankUscita": 26,
-    "rankVoto": 12
-  },
-  {
-    "title": "Ritorno a Buenos Aires",
-    "poster": "https://image.tmdb.org/t/p/w185/42yQnX3vuZkxSo44KmL051xCTKN.jpg",
-    "rating": 7,
-    "releaseDate": "2026-09-11",
-    "showtimes": [
-      "18:10"
-    ],
-    "showtimesDate": "2026-09-23",
-    "days": {
-      "2026-09-23": [
-        "18:10"
-      ]
+    "smart": {
+      "2026-09-23": 48,
+      "2026-09-24": 36,
+      "2026-09-25": 37,
+      "2026-09-26": 36,
+      "2026-09-27": 38,
+      "2026-09-28": 39,
+      "2026-09-29": 39
     },
-    "room": "2D",
-    "vo": false,
-    "url": "https://ucicinemas.it/film/ritorno-a-buenos-aires/",
-    "rankUscita": 12,
-    "rankVoto": 13
+    "rankUscita": 26,
+    "rankVoto": 8
   },
   {
     "title": "Bad Apples",
     "poster": "https://image.tmdb.org/t/p/w185/sDgb5jVuZ6ZOh4YjtSMMnbovkCi.jpg",
-    "rating": 7,
+    "rating": 7.2,
+    "ratings": {
+      "tmdb": 7,
+      "letterboxd": 7.4,
+      "imdb": null,
+      "metacritic": null
+    },
     "releaseDate": "2026-09-10",
     "showtimes": [
       "11:20"
@@ -707,13 +657,238 @@
     "room": "2D",
     "vo": false,
     "url": "https://ucicinemas.it/film/bad-apples/",
+    "smart": {
+      "2026-09-24": 47
+    },
     "rankUscita": 13,
+    "rankVoto": 9
+  },
+  {
+    "title": "Heart of the Beast - Nel profondo selvaggio",
+    "poster": "https://image.tmdb.org/t/p/w185/yiqRtrbY63aSPLinH5IsJwKHzZN.jpg",
+    "rating": 7.1,
+    "ratings": {
+      "tmdb": 7.8,
+      "letterboxd": 6.3,
+      "imdb": null,
+      "metacritic": null
+    },
+    "releaseDate": "2026-09-24",
+    "showtimes": [
+      "00:30",
+      "16:50",
+      "19:20",
+      "22:00"
+    ],
+    "showtimesDate": "2026-09-24",
+    "days": {
+      "2026-09-24": [
+        "00:30",
+        "16:50",
+        "19:20",
+        "22:00"
+      ],
+      "2026-09-25": [
+        "16:50",
+        "19:20",
+        "22:00"
+      ],
+      "2026-09-26": [
+        "16:50",
+        "19:20",
+        "22:00"
+      ],
+      "2026-09-27": [
+        "16:50",
+        "22:00"
+      ],
+      "2026-09-28": [
+        "16:50",
+        "19:20",
+        "21:50",
+        "22:30"
+      ],
+      "2026-09-29": [
+        "16:50",
+        "19:20",
+        "22:00",
+        "22:40"
+      ]
+    },
+    "room": "2D",
+    "vo": false,
+    "url": "https://ucicinemas.it/film/heart-of-the-beast/",
+    "smart": {
+      "2026-09-24": 61,
+      "2026-09-25": 60,
+      "2026-09-26": 60,
+      "2026-09-27": 58,
+      "2026-09-28": 71,
+      "2026-09-29": 71
+    },
+    "rankUscita": 3,
+    "rankVoto": 10
+  },
+  {
+    "title": "Ritorno a Buenos Aires",
+    "poster": "https://image.tmdb.org/t/p/w185/42yQnX3vuZkxSo44KmL051xCTKN.jpg",
+    "rating": 7,
+    "ratings": {
+      "tmdb": 7,
+      "letterboxd": null,
+      "imdb": null,
+      "metacritic": null
+    },
+    "releaseDate": "2026-09-11",
+    "showtimes": [
+      "18:10"
+    ],
+    "showtimesDate": "2026-09-23",
+    "days": {
+      "2026-09-23": [
+        "18:10"
+      ]
+    },
+    "room": "2D",
+    "vo": false,
+    "url": "https://ucicinemas.it/film/ritorno-a-buenos-aires/",
+    "smart": {
+      "2026-09-23": 47
+    },
+    "rankUscita": 12,
+    "rankVoto": 11
+  },
+  {
+    "title": "Super Mario Galaxy - Il film",
+    "poster": "https://image.tmdb.org/t/p/w185/3OfIG4QIEkumrWQXrcCq8bUlv01.jpg",
+    "rating": 7,
+    "ratings": {
+      "tmdb": 8.2,
+      "letterboxd": 5.8,
+      "imdb": null,
+      "metacritic": null
+    },
+    "releaseDate": "2026-04-01",
+    "showtimes": [
+      "11:40",
+      "11:50"
+    ],
+    "showtimesDate": "2026-09-26",
+    "days": {
+      "2026-09-26": [
+        "11:40",
+        "11:50"
+      ],
+      "2026-09-27": [
+        "11:40",
+        "11:50"
+      ]
+    },
+    "room": "2D",
+    "vo": false,
+    "url": "https://ucicinemas.it/film/super-mario-galaxy-il-film/",
+    "smart": {
+      "2026-09-26": 28,
+      "2026-09-27": 28
+    },
+    "rankUscita": 24,
+    "rankVoto": 12
+  },
+  {
+    "title": "PAW Patrol - Missione Dinosauri",
+    "poster": "https://image.tmdb.org/t/p/w185/r5XkrcTtb7O2YeblRDpkuwh9ued.jpg",
+    "rating": 6.9,
+    "ratings": {
+      "tmdb": 8,
+      "letterboxd": 5.7,
+      "imdb": null,
+      "metacritic": null
+    },
+    "releaseDate": "2026-09-09",
+    "showtimes": [
+      "16:50"
+    ],
+    "showtimesDate": "2026-09-23",
+    "days": {
+      "2026-09-23": [
+        "16:50"
+      ],
+      "2026-09-24": [
+        "10:10"
+      ],
+      "2026-09-25": [
+        "10:10",
+        "13:45"
+      ],
+      "2026-09-26": [
+        "10:10",
+        "13:45"
+      ],
+      "2026-09-27": [
+        "10:10",
+        "13:20"
+      ],
+      "2026-09-28": [
+        "14:20"
+      ],
+      "2026-09-29": [
+        "14:20"
+      ]
+    },
+    "room": "2D",
+    "vo": false,
+    "url": "https://ucicinemas.it/film/paw-patrol-missione-dinosauri/",
+    "smart": {
+      "2026-09-23": 45,
+      "2026-09-24": 43,
+      "2026-09-25": 45,
+      "2026-09-26": 45,
+      "2026-09-27": 45,
+      "2026-09-28": 45,
+      "2026-09-29": 45
+    },
+    "rankUscita": 16,
+    "rankVoto": 13
+  },
+  {
+    "title": "I figli della scimmia",
+    "poster": "https://image.tmdb.org/t/p/w185/c5tEquC2cAfxfFNIs86QmGzabmU.jpg",
+    "rating": 6.8,
+    "ratings": {
+      "tmdb": null,
+      "letterboxd": 6.8,
+      "imdb": null,
+      "metacritic": null
+    },
+    "releaseDate": "2026-09-17",
+    "showtimes": [
+      "19:10"
+    ],
+    "showtimesDate": "2026-09-23",
+    "days": {
+      "2026-09-23": [
+        "19:10"
+      ]
+    },
+    "room": "2D",
+    "vo": false,
+    "url": "https://ucicinemas.it/film/i-figli-della-scimmia/",
+    "smart": {
+      "2026-09-23": 49
+    },
+    "rankUscita": 8,
     "rankVoto": 14
   },
   {
     "title": "Hokum",
     "poster": "https://image.tmdb.org/t/p/w185/nhF54SQmeaMUODgRKEuMMJoTysT.jpg",
-    "rating": 6.9,
+    "rating": 6.8,
+    "ratings": {
+      "tmdb": 6.9,
+      "letterboxd": 6.6,
+      "imdb": null,
+      "metacritic": null
+    },
     "releaseDate": "2026-08-05",
     "showtimes": [
       "00:50"
@@ -733,13 +908,104 @@
     "room": "2D",
     "vo": false,
     "url": "https://ucicinemas.it/film/hokum/",
+    "smart": {
+      "2026-09-25": 30,
+      "2026-09-26": 30,
+      "2026-09-28": 32
+    },
     "rankUscita": 21,
     "rankVoto": 15
   },
   {
+    "title": "Normal",
+    "poster": "https://image.tmdb.org/t/p/w185/t13MdGCKRZvkmrFW2A7Vih3QjwD.jpg",
+    "rating": 6.6,
+    "ratings": {
+      "tmdb": 7.3,
+      "letterboxd": 5.9,
+      "imdb": null,
+      "metacritic": null
+    },
+    "releaseDate": "2026-09-17",
+    "showtimes": [
+      "22:50"
+    ],
+    "showtimesDate": "2026-09-23",
+    "days": {
+      "2026-09-23": [
+        "22:50"
+      ]
+    },
+    "room": "2D",
+    "vo": false,
+    "url": "https://ucicinemas.it/film/normal/",
+    "smart": {
+      "2026-09-23": 47
+    },
+    "rankUscita": 9,
+    "rankVoto": 16
+  },
+  {
+    "title": "Oceania",
+    "poster": "https://image.tmdb.org/t/p/w185/g4zumtvkkH5QbyXyL0mO8HpCSaw.jpg",
+    "rating": 6.4,
+    "ratings": {
+      "tmdb": 7.4,
+      "letterboxd": 5.4,
+      "imdb": null,
+      "metacritic": null
+    },
+    "releaseDate": "2026-08-19",
+    "showtimes": [
+      "16:30",
+      "17:00",
+      "18:40",
+      "20:00"
+    ],
+    "showtimesDate": "2026-09-23",
+    "days": {
+      "2026-09-23": [
+        "16:30",
+        "17:00",
+        "18:40",
+        "20:00"
+      ],
+      "2026-09-24": [
+        "14:50"
+      ],
+      "2026-09-25": [
+        "10:40"
+      ],
+      "2026-09-26": [
+        "10:40"
+      ],
+      "2026-09-27": [
+        "10:40"
+      ]
+    },
+    "room": "2D",
+    "vo": false,
+    "url": "https://ucicinemas.it/film/oceania/",
+    "smart": {
+      "2026-09-23": 40,
+      "2026-09-24": 28,
+      "2026-09-25": 28,
+      "2026-09-26": 28,
+      "2026-09-27": 28
+    },
+    "rankUscita": 19,
+    "rankVoto": 17
+  },
+  {
     "title": "The Dog Stars - Le stelle dopo la fine",
     "poster": "https://image.tmdb.org/t/p/w185/2QUzsotrBTMF78xwmePCTX7EqpX.jpg",
-    "rating": 6.6,
+    "rating": 6.2,
+    "ratings": {
+      "tmdb": 6.6,
+      "letterboxd": 5.7,
+      "imdb": null,
+      "metacritic": null
+    },
     "releaseDate": "2026-08-26",
     "showtimes": [
       "21:10"
@@ -753,13 +1019,75 @@
     "room": "2D",
     "vo": false,
     "url": "https://ucicinemas.it/film/the-dog-stars/",
+    "smart": {
+      "2026-09-29": 30
+    },
     "rankUscita": 18,
-    "rankVoto": 16
+    "rankVoto": 18
+  },
+  {
+    "title": "Amori & incantesimi 2",
+    "poster": "https://image.tmdb.org/t/p/w185/q5teI4VZ2gxQnDWlMhDkcn9P805.jpg",
+    "rating": 6,
+    "ratings": {
+      "tmdb": 6.2,
+      "letterboxd": 5.8,
+      "imdb": null,
+      "metacritic": null
+    },
+    "releaseDate": "2026-09-10",
+    "showtimes": [
+      "22:30"
+    ],
+    "showtimesDate": "2026-09-23",
+    "days": {
+      "2026-09-23": [
+        "22:30"
+      ],
+      "2026-09-24": [
+        "11:00"
+      ],
+      "2026-09-25": [
+        "11:00"
+      ],
+      "2026-09-26": [
+        "11:00"
+      ],
+      "2026-09-27": [
+        "11:00"
+      ],
+      "2026-09-28": [
+        "14:15"
+      ],
+      "2026-09-29": [
+        "14:15"
+      ]
+    },
+    "room": "2D",
+    "vo": false,
+    "url": "https://ucicinemas.it/film/amori-e-incantesimi-2/",
+    "smart": {
+      "2026-09-23": 34,
+      "2026-09-24": 33,
+      "2026-09-25": 33,
+      "2026-09-26": 33,
+      "2026-09-27": 33,
+      "2026-09-28": 35,
+      "2026-09-29": 35
+    },
+    "rankUscita": 14,
+    "rankVoto": 19
   },
   {
     "title": "Insidious - Fuori dall’Altrove",
     "poster": "https://image.tmdb.org/t/p/w185/eszahdPOeElmK3DSNXW44Qb0aNh.jpg",
-    "rating": 6.5,
+    "rating": 6,
+    "ratings": {
+      "tmdb": 6.5,
+      "letterboxd": 5.4,
+      "imdb": null,
+      "metacritic": null
+    },
     "releaseDate": "2026-08-19",
     "showtimes": [
       "00:20"
@@ -785,82 +1113,26 @@
     "room": "2D",
     "vo": false,
     "url": "https://ucicinemas.it/film/insidious-fuori-dallaltrove/",
+    "smart": {
+      "2026-09-24": 23,
+      "2026-09-25": 23,
+      "2026-09-26": 23,
+      "2026-09-27": 23,
+      "2026-09-29": 25
+    },
     "rankUscita": 20,
-    "rankVoto": 17
-  },
-  {
-    "title": "Mutiny - Inverti la rotta",
-    "poster": "https://image.tmdb.org/t/p/w185/o4MXnSWwOnA4kftJ3NwZTIw2PuY.jpg",
-    "rating": 6.4,
-    "releaseDate": "2026-09-10",
-    "showtimes": [
-      "22:40"
-    ],
-    "showtimesDate": "2026-09-23",
-    "days": {
-      "2026-09-23": [
-        "22:40"
-      ],
-      "2026-09-24": [
-        "00:50"
-      ],
-      "2026-09-25": [
-        "00:10"
-      ],
-      "2026-09-26": [
-        "00:10"
-      ]
-    },
-    "room": "2D",
-    "vo": false,
-    "url": "https://ucicinemas.it/film/mutiny/",
-    "rankUscita": 14,
-    "rankVoto": 18
-  },
-  {
-    "title": "Amori & incantesimi 2",
-    "poster": "https://image.tmdb.org/t/p/w185/q5teI4VZ2gxQnDWlMhDkcn9P805.jpg",
-    "rating": 6.2,
-    "releaseDate": "2026-09-10",
-    "showtimes": [
-      "14:40",
-      "22:30"
-    ],
-    "showtimesDate": "2026-09-23",
-    "days": {
-      "2026-09-23": [
-        "14:40",
-        "22:30"
-      ],
-      "2026-09-24": [
-        "11:00"
-      ],
-      "2026-09-25": [
-        "11:00"
-      ],
-      "2026-09-26": [
-        "11:00"
-      ],
-      "2026-09-27": [
-        "11:00"
-      ],
-      "2026-09-28": [
-        "14:15"
-      ],
-      "2026-09-29": [
-        "14:15"
-      ]
-    },
-    "room": "2D",
-    "vo": false,
-    "url": "https://ucicinemas.it/film/amori-e-incantesimi-2/",
-    "rankUscita": 15,
-    "rankVoto": 19
+    "rankVoto": 20
   },
   {
     "title": "Maigret - L'amore e la morte",
     "poster": "https://image.tmdb.org/t/p/w185/gJVCjUPmzRPfrNlLWUcdOZuhuw2.jpg",
-    "rating": 6,
+    "rating": 5.8,
+    "ratings": {
+      "tmdb": 6,
+      "letterboxd": 5.6,
+      "imdb": null,
+      "metacritic": null
+    },
     "releaseDate": "2026-09-24",
     "showtimes": [
       "15:00"
@@ -883,7 +1155,8 @@
         "19:50"
       ],
       "2026-09-28": [
-        "14:50"
+        "14:50",
+        "19:50"
       ],
       "2026-09-29": [
         "14:50",
@@ -893,33 +1166,131 @@
     "room": "2D",
     "vo": false,
     "url": "https://ucicinemas.it/film/maigret-lamore-e-la-morte/",
+    "smart": {
+      "2026-09-24": 40,
+      "2026-09-25": 42,
+      "2026-09-26": 42,
+      "2026-09-27": 42,
+      "2026-09-28": 47,
+      "2026-09-29": 47
+    },
     "rankUscita": 4,
-    "rankVoto": 20
+    "rankVoto": 21
   },
   {
-    "title": "Her Private Hell",
-    "poster": "https://image.tmdb.org/t/p/w185/4tdT44N1on3Aj6q0e64ttY60HA4.jpg",
-    "rating": 5.1,
-    "releaseDate": "2026-09-30",
+    "title": "Mutiny - Inverti la rotta",
+    "poster": "https://image.tmdb.org/t/p/w185/o4MXnSWwOnA4kftJ3NwZTIw2PuY.jpg",
+    "rating": 5.8,
+    "ratings": {
+      "tmdb": 6.4,
+      "letterboxd": 5.1,
+      "imdb": null,
+      "metacritic": null
+    },
+    "releaseDate": "2026-09-10",
     "showtimes": [
-      "22:00"
+      "22:40"
     ],
-    "showtimesDate": "2026-09-28",
+    "showtimesDate": "2026-09-23",
     "days": {
-      "2026-09-28": [
-        "22:00"
+      "2026-09-23": [
+        "22:40"
+      ],
+      "2026-09-24": [
+        "00:50"
+      ],
+      "2026-09-25": [
+        "00:10"
+      ],
+      "2026-09-26": [
+        "00:10"
       ]
     },
     "room": "2D",
     "vo": false,
-    "url": "https://ucicinemas.it/film/her-private-hell/",
-    "rankUscita": 0,
-    "rankVoto": 21
+    "url": "https://ucicinemas.it/film/mutiny/",
+    "smart": {
+      "2026-09-23": 32,
+      "2026-09-24": 30,
+      "2026-09-25": 30,
+      "2026-09-26": 30
+    },
+    "rankUscita": 15,
+    "rankVoto": 22
+  },
+  {
+    "title": "Nessun dolore",
+    "poster": "https://image.tmdb.org/t/p/w185/kPDyWzS020AvrvrTFDAJfhTgUbU.jpg",
+    "rating": 5.3,
+    "ratings": {
+      "tmdb": null,
+      "letterboxd": 5.3,
+      "imdb": null,
+      "metacritic": null
+    },
+    "releaseDate": "2026-09-24",
+    "showtimes": [
+      "14:10",
+      "16:30",
+      "18:30"
+    ],
+    "showtimesDate": "2026-09-24",
+    "days": {
+      "2026-09-24": [
+        "14:10",
+        "16:30",
+        "18:30"
+      ],
+      "2026-09-25": [
+        "16:30",
+        "18:50"
+      ],
+      "2026-09-26": [
+        "14:10",
+        "18:50",
+        "21:50"
+      ],
+      "2026-09-27": [
+        "16:30",
+        "18:50"
+      ],
+      "2026-09-28": [
+        "14:10",
+        "16:30",
+        "18:50",
+        "22:10"
+      ],
+      "2026-09-29": [
+        "14:10",
+        "16:30",
+        "18:50",
+        "22:10"
+      ]
+    },
+    "room": "2D",
+    "vo": false,
+    "url": "https://ucicinemas.it/film/nessun-dolore/",
+    "smart": {
+      "2026-09-24": 37,
+      "2026-09-25": 36,
+      "2026-09-26": 38,
+      "2026-09-27": 36,
+      "2026-09-28": 49,
+      "2026-09-29": 49
+    },
+    "rankUscita": 5,
+    "rankVoto": 23
   },
   {
     "title": "Dov’è la fiesta?",
     "poster": "https://image.tmdb.org/t/p/w185/gtTw3Pbf0jj69Xq1nnHDXRztpEb.jpg",
     "rating": 4.9,
+    "ratings": {
+      "tmdb": 4.9,
+      "letterboxd": null,
+      "imdb": null,
+      "metacritic": null
+    },
     "releaseDate": "2026-09-17",
     "showtimes": [
       "20:30"
@@ -950,84 +1321,56 @@
     "room": "2D",
     "vo": false,
     "url": "https://ucicinemas.it/film/dove-la-fiesta/",
-    "rankUscita": 9,
-    "rankVoto": 22
+    "smart": {
+      "2026-09-23": 27,
+      "2026-09-25": 25,
+      "2026-09-26": 25,
+      "2026-09-27": 25,
+      "2026-09-28": 32,
+      "2026-09-29": 32
+    },
+    "rankUscita": 10,
+    "rankVoto": 24
   },
   {
-    "title": "NAZA",
-    "poster": "https://image.tmdb.org/t/p/w185/qfdNOEmMroHjPLpZhNkORcVzgrQ.jpg",
-    "rating": null,
-    "releaseDate": "2026-09-25",
+    "title": "Her Private Hell",
+    "poster": "https://image.tmdb.org/t/p/w185/4tdT44N1on3Aj6q0e64ttY60HA4.jpg",
+    "rating": 4.8,
+    "ratings": {
+      "tmdb": 5.1,
+      "letterboxd": 4.5,
+      "imdb": null,
+      "metacritic": null
+    },
+    "releaseDate": "2026-09-30",
     "showtimes": [
-      "20:15"
+      "22:00"
     ],
     "showtimesDate": "2026-09-28",
     "days": {
       "2026-09-28": [
-        "20:15"
-      ],
-      "2026-09-29": [
-        "20:15"
+        "22:00"
       ]
     },
     "room": "2D",
     "vo": false,
-    "url": "https://ucicinemas.it/film/naza/",
-    "rankUscita": 1,
-    "rankVoto": 23
-  },
-  {
-    "title": "Nessun dolore",
-    "poster": "https://image.tmdb.org/t/p/w185/kPDyWzS020AvrvrTFDAJfhTgUbU.jpg",
-    "rating": null,
-    "releaseDate": "2026-09-24",
-    "showtimes": [
-      "14:10",
-      "16:30",
-      "18:30"
-    ],
-    "showtimesDate": "2026-09-24",
-    "days": {
-      "2026-09-24": [
-        "14:10",
-        "16:30",
-        "18:30"
-      ],
-      "2026-09-25": [
-        "16:30",
-        "18:50"
-      ],
-      "2026-09-26": [
-        "14:10",
-        "18:50",
-        "21:50"
-      ],
-      "2026-09-27": [
-        "16:30",
-        "18:50"
-      ],
-      "2026-09-28": [
-        "14:10",
-        "16:30",
-        "18:50"
-      ],
-      "2026-09-29": [
-        "14:10",
-        "16:30",
-        "18:50",
-        "22:10"
-      ]
+    "url": "https://ucicinemas.it/film/her-private-hell/",
+    "smart": {
+      "2026-09-28": 33
     },
-    "room": "2D",
-    "vo": false,
-    "url": "https://ucicinemas.it/film/nessun-dolore/",
-    "rankUscita": 5,
-    "rankVoto": 24
+    "rankUscita": 0,
+    "rankVoto": 25
   },
   {
     "title": "Ultimo - Tutto. Live a Tor Vergata",
     "poster": "https://image.tmdb.org/t/p/w185/ntM0voyewKJn6L59MDAcyVu8ft.jpg",
     "rating": null,
+    "ratings": {
+      "tmdb": null,
+      "letterboxd": null,
+      "imdb": null,
+      "metacritic": null
+    },
     "releaseDate": "2026-09-22",
     "showtimes": [
       "15:00",
@@ -1101,33 +1444,28 @@
     "room": "XL",
     "vo": false,
     "url": "https://ucicinemas.it/film/ultimo-tutto-live-a-tor-vergata/",
-    "rankUscita": 6,
-    "rankVoto": 25
-  },
-  {
-    "title": "I figli della scimmia",
-    "poster": "https://image.tmdb.org/t/p/w185/c5tEquC2cAfxfFNIs86QmGzabmU.jpg",
-    "rating": null,
-    "releaseDate": "2026-09-17",
-    "showtimes": [
-      "19:10"
-    ],
-    "showtimesDate": "2026-09-23",
-    "days": {
-      "2026-09-23": [
-        "19:10"
-      ]
+    "smart": {
+      "2026-09-23": 74,
+      "2026-09-24": 59,
+      "2026-09-25": 63,
+      "2026-09-26": 64,
+      "2026-09-27": 62,
+      "2026-09-28": 65,
+      "2026-09-29": 65
     },
-    "room": "2D",
-    "vo": false,
-    "url": "https://ucicinemas.it/film/i-figli-della-scimmia/",
-    "rankUscita": 10,
+    "rankUscita": 6,
     "rankVoto": 26
   },
   {
     "title": "Due ladri in fuga",
     "poster": "https://storage.googleapis.com/uci-infrastructure-bucket/Common/Movies/Posters/01M34VVG0ZF84FRDAPHHJ2N5H3_resized_at_20260922173054.jpg",
     "rating": null,
+    "ratings": {
+      "tmdb": null,
+      "letterboxd": null,
+      "imdb": null,
+      "metacritic": null
+    },
     "releaseDate": null,
     "showtimes": [
       "13:10",
@@ -1159,27 +1497,14 @@
     "room": "2D",
     "vo": false,
     "url": "https://ucicinemas.it/film/due-ladri-in-fuga/",
+    "smart": {
+      "2026-09-24": 39,
+      "2026-09-25": 40,
+      "2026-09-26": 40,
+      "2026-09-28": 44,
+      "2026-09-29": 44
+    },
     "rankUscita": 27,
     "rankVoto": 27
-  },
-  {
-    "title": "Talking Tom Heroes - Super amici",
-    "poster": "https://storage.googleapis.com/uci-infrastructure-bucket/Common/Movies/Posters/01M1EWAM5H9Z4HB0R4RT9SG9Z9.jpg",
-    "rating": null,
-    "releaseDate": null,
-    "showtimes": [
-      "14:30"
-    ],
-    "showtimesDate": "2026-09-23",
-    "days": {
-      "2026-09-23": [
-        "14:30"
-      ]
-    },
-    "room": "2D",
-    "vo": false,
-    "url": "https://ucicinemas.it/film/talking-tom-heroes-super-amici/",
-    "rankUscita": 28,
-    "rankVoto": 28
   }
 ]
