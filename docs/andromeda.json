@@ -129,16 +129,14 @@
     },
     "releaseDate": "2026-09-16",
     "showtimes": [
-      "18:50",
-      "21:10",
-      "21:20"
+      "16:45",
+      "19:15"
     ],
-    "showtimesDate": "2026-09-23",
+    "showtimesDate": "2026-09-24",
     "days": {
-      "2026-09-23": [
-        "18:50",
-        "21:10",
-        "21:20"
+      "2026-09-24": [
+        "16:45",
+        "19:15"
       ],
       "2026-09-25": [
         "16:45",
@@ -146,19 +144,13 @@
       ]
     },
     "shows": {
-      "2026-09-23": [
+      "2026-09-24": [
         {
-          "time": "18:50",
+          "time": "16:45",
           "tags": []
         },
         {
-          "time": "21:10",
-          "tags": [
-            "VO"
-          ]
-        },
-        {
-          "time": "21:20",
+          "time": "19:15",
           "tags": []
         }
       ],
@@ -177,7 +169,7 @@
     "vo": false,
     "url": "https://roma.andromeda.18tickets.it/film/76984",
     "smart": {
-      "2026-09-23": 84,
+      "2026-09-24": 75,
       "2026-09-25": 75
     },
     "rankUscita": 6,
@@ -223,7 +215,7 @@
     "smart": {
       "2026-09-24": 52
     },
-    "rankUscita": 11,
+    "rankUscita": 9,
     "rankVoto": 3
   },
   {
@@ -262,7 +254,7 @@
     "smart": {
       "2026-09-24": 43
     },
-    "rankUscita": 12,
+    "rankUscita": 10,
     "rankVoto": 4
   },
   {
@@ -277,27 +269,21 @@
     },
     "releaseDate": "2026-09-17",
     "showtimes": [
-      "19:15",
-      "21:15"
+      "21:20"
     ],
-    "showtimesDate": "2026-09-23",
+    "showtimesDate": "2026-09-24",
     "days": {
-      "2026-09-23": [
-        "19:15",
-        "21:15"
+      "2026-09-24": [
+        "21:20"
       ],
       "2026-09-25": [
         "21:20"
       ]
     },
     "shows": {
-      "2026-09-23": [
+      "2026-09-24": [
         {
-          "time": "19:15",
-          "tags": []
-        },
-        {
-          "time": "21:15",
+          "time": "21:20",
           "tags": []
         }
       ],
@@ -312,7 +298,7 @@
     "vo": false,
     "url": "https://roma.andromeda.18tickets.it/film/76981",
     "smart": {
-      "2026-09-23": 74,
+      "2026-09-24": 65,
       "2026-09-25": 65
     },
     "rankUscita": 4,
@@ -330,13 +316,13 @@
     },
     "releaseDate": "2026-09-02",
     "showtimes": [
-      "19:15",
+      "16:45",
       "21:20"
     ],
-    "showtimesDate": "2026-09-23",
+    "showtimesDate": "2026-09-24",
     "days": {
-      "2026-09-23": [
-        "19:15",
+      "2026-09-24": [
+        "16:45",
         "21:20"
       ],
       "2026-09-25": [
@@ -345,9 +331,9 @@
       ]
     },
     "shows": {
-      "2026-09-23": [
+      "2026-09-24": [
         {
-          "time": "19:15",
+          "time": "16:45",
           "tags": []
         },
         {
@@ -370,10 +356,10 @@
     "vo": false,
     "url": "https://roma.andromeda.18tickets.it/film/77708",
     "smart": {
-      "2026-09-23": 64,
+      "2026-09-24": 64,
       "2026-09-25": 64
     },
-    "rankUscita": 9,
+    "rankUscita": 8,
     "rankVoto": 6
   },
   {
@@ -390,9 +376,9 @@
     "showtimes": [
       "17:30"
     ],
-    "showtimesDate": "2026-09-23",
+    "showtimesDate": "2026-09-24",
     "days": {
-      "2026-09-23": [
+      "2026-09-24": [
         "17:30"
       ],
       "2026-09-25": [
@@ -400,7 +386,7 @@
       ]
     },
     "shows": {
-      "2026-09-23": [
+      "2026-09-24": [
         {
           "time": "17:30",
           "tags": []
@@ -417,10 +403,10 @@
     "vo": false,
     "url": "https://roma.andromeda.18tickets.it/film/76985",
     "smart": {
-      "2026-09-23": 34,
+      "2026-09-24": 34,
       "2026-09-25": 34
     },
-    "rankUscita": 13,
+    "rankUscita": 11,
     "rankVoto": 7
   },
   {
@@ -493,21 +479,21 @@
     },
     "releaseDate": "2026-09-09",
     "showtimes": [
-      "17:20"
+      "17:00"
     ],
-    "showtimesDate": "2026-09-23",
+    "showtimesDate": "2026-09-24",
     "days": {
-      "2026-09-23": [
-        "17:20"
+      "2026-09-24": [
+        "17:00"
       ],
       "2026-09-25": [
         "17:00"
       ]
     },
     "shows": {
-      "2026-09-23": [
+      "2026-09-24": [
         {
-          "time": "17:20",
+          "time": "17:00",
           "tags": []
         }
       ],
@@ -522,85 +508,11 @@
     "vo": false,
     "url": "https://roma.andromeda.18tickets.it/film/77707",
     "smart": {
-      "2026-09-23": 34,
+      "2026-09-24": 34,
       "2026-09-25": 34
     },
-    "rankUscita": 8,
-    "rankVoto": 9
-  },
-  {
-    "title": "Amori & incantesimi 2",
-    "poster": "https://image.tmdb.org/t/p/w185/q5teI4VZ2gxQnDWlMhDkcn9P805.jpg",
-    "rating": 5.2,
-    "ratings": {
-      "letterboxd": 5.8,
-      "imdb": 6.3,
-      "metacritic": 4.4,
-      "mubi": 4.2
-    },
-    "releaseDate": "2026-09-10",
-    "showtimes": [
-      "21:00"
-    ],
-    "showtimesDate": "2026-09-23",
-    "days": {
-      "2026-09-23": [
-        "21:00"
-      ]
-    },
-    "shows": {
-      "2026-09-23": [
-        {
-          "time": "21:00",
-          "tags": []
-        }
-      ]
-    },
-    "room": null,
-    "vo": false,
-    "url": "https://roma.andromeda.18tickets.it/film/77711",
-    "smart": {
-      "2026-09-23": 31
-    },
     "rankUscita": 7,
-    "rankVoto": 10
-  },
-  {
-    "title": "Oceania",
-    "poster": "https://image.tmdb.org/t/p/w185/g4zumtvkkH5QbyXyL0mO8HpCSaw.jpg",
-    "rating": 5.1,
-    "ratings": {
-      "letterboxd": 5.4,
-      "imdb": 5.8,
-      "metacritic": 4.2,
-      "mubi": null
-    },
-    "releaseDate": "2026-08-19",
-    "showtimes": [
-      "17:30"
-    ],
-    "showtimesDate": "2026-09-23",
-    "days": {
-      "2026-09-23": [
-        "17:30"
-      ]
-    },
-    "shows": {
-      "2026-09-23": [
-        {
-          "time": "17:30",
-          "tags": []
-        }
-      ]
-    },
-    "room": null,
-    "vo": false,
-    "url": "https://roma.andromeda.18tickets.it/film/77709",
-    "smart": {
-      "2026-09-23": 20
-    },
-    "rankUscita": 10,
-    "rankVoto": 11
+    "rankVoto": 9
   },
   {
     "title": "Ultimo - Tutto. Live a Tor Vergata",
@@ -617,15 +529,15 @@
       "17:30",
       "21:00"
     ],
-    "showtimesDate": "2026-09-23",
+    "showtimesDate": "2026-09-24",
     "days": {
-      "2026-09-23": [
+      "2026-09-24": [
         "17:30",
         "21:00"
       ]
     },
     "shows": {
-      "2026-09-23": [
+      "2026-09-24": [
         {
           "time": "17:30",
           "tags": []
@@ -640,10 +552,10 @@
     "vo": false,
     "url": "https://roma.andromeda.18tickets.it/film/68069",
     "smart": {
-      "2026-09-23": 68
+      "2026-09-24": 68
     },
     "rankUscita": 3,
-    "rankVoto": 12
+    "rankVoto": 10
   },
   {
     "title": "Dov’è la fiesta?",
@@ -657,27 +569,21 @@
     },
     "releaseDate": "2026-09-17",
     "showtimes": [
-      "18:45",
-      "21:10"
+      "18:45"
     ],
-    "showtimesDate": "2026-09-23",
+    "showtimesDate": "2026-09-24",
     "days": {
-      "2026-09-23": [
-        "18:45",
-        "21:10"
+      "2026-09-24": [
+        "18:45"
       ],
       "2026-09-25": [
         "18:45"
       ]
     },
     "shows": {
-      "2026-09-23": [
+      "2026-09-24": [
         {
           "time": "18:45",
-          "tags": []
-        },
-        {
-          "time": "21:10",
           "tags": []
         }
       ],
@@ -692,11 +598,11 @@
     "vo": false,
     "url": "https://roma.andromeda.18tickets.it/film/76982",
     "smart": {
-      "2026-09-23": 64,
+      "2026-09-24": 54,
       "2026-09-25": 54
     },
     "rankUscita": 5,
-    "rankVoto": 13
+    "rankVoto": 11
   },
   {
     "title": "Refn Celebration",
@@ -732,7 +638,7 @@
     "smart": {
       "2026-09-28": 45
     },
-    "rankUscita": 14,
-    "rankVoto": 14
+    "rankUscita": 12,
+    "rankVoto": 12
   }
 ]
