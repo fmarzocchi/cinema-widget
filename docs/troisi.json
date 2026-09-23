@@ -82,26 +82,6 @@
     "rankVoto": 2
   },
   {
-    "title": "Un Prophète - ep. 1-4 (V.O.)",
-    "poster": "https://cinematroisi.liveticket.it/wp-content/uploads/sites/48/00306838-180x257.jpg",
-    "rating": 7.6,
-    "releaseDate": "2010-03-19",
-    "showtimes": [
-      "19:30"
-    ],
-    "showtimesDate": "2026-09-23",
-    "days": {
-      "2026-09-23": [
-        "19:30"
-      ]
-    },
-    "room": null,
-    "vo": true,
-    "url": "https://www.liveticket.it/opera.aspx?Id=695493",
-    "rankUscita": 8,
-    "rankVoto": 3
-  },
-  {
     "title": "My Own Private River (V.O.)",
     "poster": "https://image.tmdb.org/t/p/w185/sPxozaB7Mj3U2adg2bULQRYyE78.jpg",
     "rating": 7.4,
@@ -119,7 +99,7 @@
     "vo": true,
     "url": "https://www.liveticket.it/opera.aspx?Id=695516",
     "rankUscita": 7,
-    "rankVoto": 4
+    "rankVoto": 3
   },
   {
     "title": "The Invite - Il piacere è tutto nostro",
@@ -161,6 +141,26 @@
     "vo": false,
     "url": "https://www.liveticket.it/opera.aspx?Id=692494",
     "rankUscita": 3,
+    "rankVoto": 4
+  },
+  {
+    "title": "Pusher II - With Blood on My Hands (V.O.)",
+    "poster": "https://cinematroisi.liveticket.it/wp-content/uploads/sites/48/00306290-180x257.jpg",
+    "rating": 7.2,
+    "releaseDate": "2004-12-25",
+    "showtimes": [
+      "11:00"
+    ],
+    "showtimesDate": "2026-09-26",
+    "days": {
+      "2026-09-26": [
+        "11:00"
+      ]
+    },
+    "room": null,
+    "vo": true,
+    "url": "https://www.liveticket.it/opera.aspx?Id=694366",
+    "rankUscita": 8,
     "rankVoto": 5
   },
   {
@@ -301,22 +301,22 @@
     "rankVoto": 10
   },
   {
-    "title": "Pusher II - With Blood on My Hands (V.O.)",
-    "poster": "https://cinematroisi.liveticket.it/wp-content/uploads/sites/48/00306290-180x257.jpg",
+    "title": "Un Prophète - ep. 1-4 (V.O.)",
+    "poster": "https://cinematroisi.liveticket.it/wp-content/uploads/sites/48/00306838-180x257.jpg",
     "rating": null,
     "releaseDate": null,
     "showtimes": [
-      "11:00"
+      "19:30"
     ],
-    "showtimesDate": "2026-09-26",
+    "showtimesDate": "2026-09-23",
     "days": {
-      "2026-09-26": [
-        "11:00"
+      "2026-09-23": [
+        "19:30"
       ]
     },
     "room": null,
     "vo": true,
-    "url": "https://www.liveticket.it/opera.aspx?Id=694366",
+    "url": "https://www.liveticket.it/opera.aspx?Id=695493",
     "rankUscita": 11,
     "rankVoto": 11
   }

@@ -7,7 +7,8 @@
     "voto": 7.3,
     "voti": 348,
     "uscita": "2026-09-17",
-    "controllatoIl": "2026-09-23T12:45:47.231Z"
+    "v": 2,
+    "controllatoIl": "2026-09-23T12:53:23.300Z"
   },
   "the invite": {
     "id": 950028,
@@ -17,7 +18,8 @@
     "voto": 7.2,
     "voti": 614,
     "uscita": "2026-09-16",
-    "controllatoIl": "2026-09-23T12:45:47.280Z"
+    "v": 2,
+    "controllatoIl": "2026-09-23T12:53:23.405Z"
   },
   "ultimo tutto live a tor vergata": {
     "id": 1740126,
@@ -27,7 +29,8 @@
     "voto": null,
     "voti": 0,
     "uscita": "2026-09-22",
-    "controllatoIl": "2026-09-23T12:45:47.317Z"
+    "v": 2,
+    "controllatoIl": "2026-09-23T12:53:23.551Z"
   },
   "amori e incantesimi 2": {
     "id": 1302904,
@@ -37,7 +40,8 @@
     "voto": 6.2,
     "voti": 80,
     "uscita": "2026-09-10",
-    "controllatoIl": "2026-09-23T12:45:47.360Z"
+    "v": 2,
+    "controllatoIl": "2026-09-23T12:53:23.653Z"
   },
   "cars motori ruggenti": {
     "id": 920,
@@ -47,7 +51,8 @@
     "voto": 7.1,
     "voti": 15544,
     "uscita": "2006-08-23",
-    "controllatoIl": "2026-09-23T12:45:47.397Z"
+    "v": 2,
+    "controllatoIl": "2026-09-23T12:53:23.759Z"
   },
   "coyote vs acme": {
     "id": 1204680,
@@ -57,7 +62,8 @@
     "voto": 7.5,
     "voti": 489,
     "uscita": "2026-09-02",
-    "controllatoIl": "2026-09-23T12:45:47.427Z"
+    "v": 2,
+    "controllatoIl": "2026-09-23T12:53:23.861Z"
   },
   "dov e la fiesta": {
     "id": 1723662,
@@ -67,7 +73,8 @@
     "voto": 4.9,
     "voti": 6,
     "uscita": "2026-09-17",
-    "controllatoIl": "2026-09-23T12:45:47.479Z"
+    "v": 2,
+    "controllatoIl": "2026-09-23T12:53:23.962Z"
   },
   "i figli della scimmia": {
     "id": 1554129,
@@ -77,7 +84,8 @@
     "voto": null,
     "voti": 4,
     "uscita": "2026-09-17",
-    "controllatoIl": "2026-09-23T12:45:47.514Z"
+    "v": 2,
+    "controllatoIl": "2026-09-23T12:53:24.069Z"
   },
   "mutiny": {
     "id": 1288445,
@@ -87,7 +95,8 @@
     "voto": 6.4,
     "voti": 433,
     "uscita": "2026-09-10",
-    "controllatoIl": "2026-09-23T12:45:47.543Z"
+    "v": 2,
+    "controllatoIl": "2026-09-23T12:53:24.196Z"
   },
   "normal": {
     "id": 1242332,
@@ -97,7 +106,8 @@
     "voto": 7.3,
     "voti": 598,
     "uscita": "2026-09-17",
-    "controllatoIl": "2026-09-23T12:45:47.566Z"
+    "v": 2,
+    "controllatoIl": "2026-09-23T12:53:24.349Z"
   },
   "oceania": {
     "id": 1108427,
@@ -107,7 +117,8 @@
     "voto": 7.4,
     "voti": 751,
     "uscita": "2026-08-19",
-    "controllatoIl": "2026-09-23T12:45:47.617Z"
+    "v": 2,
+    "controllatoIl": "2026-09-23T12:53:24.452Z"
   },
   "odissea": {
     "id": 1368337,
@@ -117,7 +128,8 @@
     "voto": 8,
     "voti": 3865,
     "uscita": "2026-07-16",
-    "controllatoIl": "2026-09-23T12:45:48.110Z"
+    "v": 2,
+    "controllatoIl": "2026-09-23T12:53:24.605Z"
   },
   "paw patrol missione dinosauri": {
     "id": 1185806,
@@ -127,7 +139,8 @@
     "voto": 8,
     "voti": 132,
     "uscita": "2026-09-09",
-    "controllatoIl": "2026-09-23T12:45:48.148Z"
+    "v": 2,
+    "controllatoIl": "2026-09-23T12:53:24.713Z"
   },
   "ritorno a buenos aires": {
     "id": 1597199,
@@ -137,7 +150,8 @@
     "voto": 7,
     "voti": 13,
     "uscita": "2026-09-11",
-    "controllatoIl": "2026-09-23T12:45:48.182Z"
+    "v": 2,
+    "controllatoIl": "2026-09-23T12:53:24.815Z"
   },
   "spider man brand new day": {
     "id": 969681,
@@ -147,11 +161,13 @@
     "voto": 7.9,
     "voti": 2829,
     "uscita": "2026-07-29",
-    "controllatoIl": "2026-09-23T12:45:48.207Z"
+    "v": 2,
+    "controllatoIl": "2026-09-23T12:53:24.965Z"
   },
   "talking tom heroes super amici": {
     "id": null,
-    "controllatoIl": "2026-09-23T12:45:48.257Z"
+    "v": 2,
+    "controllatoIl": "2026-09-23T12:53:25.558Z"
   },
   "avengers endgame extra": {
     "id": 299534,
@@ -161,7 +177,8 @@
     "voto": 8.2,
     "voti": 28741,
     "uscita": "2019-04-24",
-    "controllatoIl": "2026-09-23T12:45:48.290Z"
+    "v": 2,
+    "controllatoIl": "2026-09-23T12:53:25.707Z"
   },
   "bad apples": {
     "id": 1198654,
@@ -171,11 +188,13 @@
     "voto": 7,
     "voti": 23,
     "uscita": "2026-09-10",
-    "controllatoIl": "2026-09-23T12:45:48.318Z"
+    "v": 2,
+    "controllatoIl": "2026-09-23T12:53:25.862Z"
   },
   "due ladri in fuga": {
     "id": null,
-    "controllatoIl": "2026-09-23T12:45:48.336Z"
+    "v": 2,
+    "controllatoIl": "2026-09-23T12:53:25.915Z"
   },
   "heart of the beast": {
     "id": 1263337,
@@ -185,7 +204,8 @@
     "voto": 7.8,
     "voti": 20,
     "uscita": "2026-09-24",
-    "controllatoIl": "2026-09-23T12:45:48.381Z"
+    "v": 2,
+    "controllatoIl": "2026-09-23T12:53:26.018Z"
   },
   "insidious fuori dall altrove": {
     "id": 1291595,
@@ -195,7 +215,8 @@
     "voto": 6.5,
     "voti": 162,
     "uscita": "2026-08-19",
-    "controllatoIl": "2026-09-23T12:45:48.417Z"
+    "v": 2,
+    "controllatoIl": "2026-09-23T12:53:26.123Z"
   },
   "l isola dei ricordi": {
     "id": 1465063,
@@ -205,7 +226,8 @@
     "voto": 7.6,
     "voti": 12,
     "uscita": "2026-09-24",
-    "controllatoIl": "2026-09-23T12:45:48.445Z"
+    "v": 2,
+    "controllatoIl": "2026-09-23T12:53:26.271Z"
   },
   "maigret l amore e la morte": {
     "id": 1398486,
@@ -215,7 +237,8 @@
     "voto": 6,
     "voti": 37,
     "uscita": "2026-09-24",
-    "controllatoIl": "2026-09-23T12:45:48.901Z"
+    "v": 2,
+    "controllatoIl": "2026-09-23T12:53:26.369Z"
   },
   "nessun dolore": {
     "id": 1594043,
@@ -225,7 +248,8 @@
     "voto": null,
     "voti": 0,
     "uscita": "2026-09-24",
-    "controllatoIl": "2026-09-23T12:45:49.657Z"
+    "v": 2,
+    "controllatoIl": "2026-09-23T12:53:26.473Z"
   },
   "hokum": {
     "id": 1430077,
@@ -235,7 +259,8 @@
     "voto": 6.9,
     "voti": 876,
     "uscita": "2026-08-05",
-    "controllatoIl": "2026-09-23T12:45:49.698Z"
+    "v": 2,
+    "controllatoIl": "2026-09-23T12:53:26.577Z"
   },
   "super mario galaxy il film": {
     "id": 1226863,
@@ -245,7 +270,8 @@
     "voto": 8.2,
     "voti": 3709,
     "uscita": "2026-04-01",
-    "controllatoIl": "2026-09-23T12:45:49.764Z"
+    "v": 2,
+    "controllatoIl": "2026-09-23T12:53:26.728Z"
   },
   "her private hell": {
     "id": 1469342,
@@ -255,7 +281,8 @@
     "voto": 5.1,
     "voti": 63,
     "uscita": "2026-09-30",
-    "controllatoIl": "2026-09-23T12:45:49.799Z"
+    "v": 2,
+    "controllatoIl": "2026-09-23T12:53:26.829Z"
   },
   "naza": {
     "id": 1755291,
@@ -265,7 +292,8 @@
     "voto": null,
     "voti": 0,
     "uscita": "2026-09-25",
-    "controllatoIl": "2026-09-23T12:45:49.831Z"
+    "v": 2,
+    "controllatoIl": "2026-09-23T12:53:27.387Z"
   },
   "the dog stars": {
     "id": 1384216,
@@ -275,7 +303,8 @@
     "voto": 6.6,
     "voti": 284,
     "uscita": "2026-08-26",
-    "controllatoIl": "2026-09-23T12:45:49.867Z"
+    "v": 2,
+    "controllatoIl": "2026-09-23T12:53:27.489Z"
   },
   "en el camino": {
     "id": 1517123,
@@ -285,7 +314,8 @@
     "voto": 8,
     "voti": 29,
     "uscita": "2026-09-24",
-    "controllatoIl": "2026-09-23T12:45:49.906Z"
+    "v": 2,
+    "controllatoIl": "2026-09-23T12:53:27.593Z"
   },
   "mulan": {
     "id": 10674,
@@ -295,7 +325,8 @@
     "voto": 7.9,
     "voti": 10687,
     "uscita": "1998-12-04",
-    "controllatoIl": "2026-09-23T12:45:49.947Z"
+    "v": 2,
+    "controllatoIl": "2026-09-23T12:53:27.705Z"
   },
   "my own private river": {
     "id": 164183,
@@ -305,11 +336,19 @@
     "voto": 7.4,
     "voti": 15,
     "uscita": "2012-02-19",
-    "controllatoIl": "2026-09-23T12:45:50.304Z"
+    "v": 2,
+    "controllatoIl": "2026-09-23T12:53:27.808Z"
   },
   "pusher ii with blood on my hands": {
-    "id": null,
-    "controllatoIl": "2026-09-23T12:45:50.345Z"
+    "id": 11328,
+    "titolo": "Pusher II - Sangue sulle mie mani",
+    "esatto": false,
+    "poster": "https://image.tmdb.org/t/p/w185/k4gdrx0hrQVKSPOohtWzQsSaPcp.jpg",
+    "voto": 7.2,
+    "voti": 555,
+    "uscita": "2004-12-25",
+    "v": 2,
+    "controllatoIl": "2026-09-23T12:53:28.008Z"
   },
   "teenage sex and death at camp miasma": {
     "id": 1240889,
@@ -319,7 +358,8 @@
     "voto": 6.5,
     "voti": 167,
     "uscita": "2026-08-19",
-    "controllatoIl": "2026-09-23T12:45:50.381Z"
+    "v": 2,
+    "controllatoIl": "2026-09-23T12:53:28.162Z"
   },
   "the dreamers i sognatori": {
     "id": 1278,
@@ -329,7 +369,8 @@
     "voto": 7.2,
     "voti": 3171,
     "uscita": "2003-10-10",
-    "controllatoIl": "2026-09-23T12:45:50.421Z"
+    "v": 2,
+    "controllatoIl": "2026-09-23T12:53:28.265Z"
   },
   "the invite il piacere e tutto nostro": {
     "id": 950028,
@@ -339,17 +380,8 @@
     "voto": 7.2,
     "voti": 614,
     "uscita": "2026-09-16",
-    "controllatoIl": "2026-09-23T12:45:50.454Z"
-  },
-  "un prophete ep 1 4": {
-    "id": 21575,
-    "titolo": "Il profeta",
-    "esatto": false,
-    "poster": "https://image.tmdb.org/t/p/w185/7ZtVeZg3Ye9IdxWxYBJjp8WWykK.jpg",
-    "voto": 7.6,
-    "voti": 1784,
-    "uscita": "2010-03-19",
-    "controllatoIl": "2026-09-23T12:45:50.507Z"
+    "v": 2,
+    "controllatoIl": "2026-09-23T12:53:28.354Z"
   },
   "we re all going to the world s fair": {
     "id": 776501,
@@ -359,7 +391,8 @@
     "voto": 5.5,
     "voti": 172,
     "uscita": "2022-04-15",
-    "controllatoIl": "2026-09-23T12:45:50.549Z"
+    "v": 2,
+    "controllatoIl": "2026-09-23T12:53:28.456Z"
   },
   "avengers endgame extra infinity vision": {
     "id": 299534,
@@ -369,7 +402,8 @@
     "voto": 8.2,
     "voti": 28740,
     "uscita": "2019-04-24",
-    "controllatoIl": "2026-09-23T12:45:50.596Z"
+    "v": 2,
+    "controllatoIl": "2026-09-23T12:53:28.644Z"
   },
   "cars motori ruggenti 20 anni": {
     "id": 920,
@@ -379,11 +413,13 @@
     "voto": 7.1,
     "voti": 15544,
     "uscita": "2006-08-23",
-    "controllatoIl": "2026-09-23T12:45:50.722Z"
+    "v": 2,
+    "controllatoIl": "2026-09-23T12:53:28.790Z"
   },
   "refn celebration": {
     "id": null,
-    "controllatoIl": "2026-09-23T12:45:50.746Z"
+    "v": 2,
+    "controllatoIl": "2026-09-23T12:53:28.843Z"
   },
   "heart of the beast nel profondo selvaggio": {
     "id": 1263337,
@@ -393,7 +429,8 @@
     "voto": 7.8,
     "voti": 20,
     "uscita": "2026-09-24",
-    "controllatoIl": "2026-09-23T12:45:51.113Z"
+    "v": 2,
+    "controllatoIl": "2026-09-23T12:53:28.930Z"
   },
   "digger": {
     "id": 1248832,
@@ -403,7 +440,8 @@
     "voto": null,
     "voti": 0,
     "uscita": "2026-10-01",
-    "controllatoIl": "2026-09-23T12:45:51.149Z"
+    "v": 2,
+    "controllatoIl": "2026-09-23T12:53:29.034Z"
   },
   "dune parte tre": {
     "id": 1170608,
@@ -413,6 +451,7 @@
     "voto": null,
     "voti": 0,
     "uscita": "2026-12-16",
-    "controllatoIl": "2026-09-23T12:45:51.194Z"
+    "v": 2,
+    "controllatoIl": "2026-09-23T12:53:29.209Z"
   }
 }
