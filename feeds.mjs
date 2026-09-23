@@ -531,7 +531,6 @@ async function scaricaAndromeda() {
 const TMDB = 'https://api.themoviedb.org/3';
 const GIORNI_CACHE_TROVATO = 7; // i voti cambiano: ogni film viene ricontrollato una volta a settimana
 const GIORNI_CACHE_NON_TROVATO = 2;
-const VOTI_MINIMI = 5; // con meno voti la media TMDB non vuol dire nulla (3 voti = 10.0)
 const VOTI_MINIMI_UTENTI = 10; // IMDb e Letterboxd: sotto questa soglia il voto è rumore
 // Cambia quando cambiano le regole di abbinamento: le voci vecchie vengono ricontrollate.
 const VERSIONE_CACHE = 4;
@@ -778,18 +777,18 @@ async function cercaSuTmdb(titolo, key, oggi) {
       esatto: scelta.esatto,
       // w185: sul widget la locandina è larga ~70dp e la cache immagini non è persistente.
       poster: s.poster_path ? `https://image.tmdb.org/t/p/w185${s.poster_path}` : null,
-      tmdb: Number.isFinite(s.vote_average) && (s.vote_count || 0) >= VOTI_MINIMI ? arrotonda1(s.vote_average) : null,
-      votiTmdb: s.vote_count || 0,
       ...(await dettagliTmdb(s.id, key, s.release_date)),
     };
   }
   return { id: null };
 }
 
-/** I quattro voti di una voce della cache, tutti in decimi (null = non disponibile). */
+/**
+ * I voti che entrano nella media, tutti in decimi (null = non disponibile). TMDB serve solo
+ * per riconoscere il film (locandina, date, collegamenti agli altri siti): il suo voto non conta.
+ */
 export function fontiVoto(e) {
   return {
-    tmdb: e?.tmdb ?? null,
     letterboxd: e?.letterboxd?.voto ?? null,
     imdb: e?.imdb?.voto ?? null,
     metacritic: e?.metacritic?.voto ?? null,
@@ -908,7 +907,7 @@ async function arricchisci(titoli, oggi) {
   }
 
   // Quanti film hanno un voto da ciascuna fonte: finisce in status.json per controllo.
-  const riepilogo = { film: 0, tmdb: 0, letterboxd: 0, imdb: 0, metacritic: 0, media: 0 };
+  const riepilogo = { film: 0, letterboxd: 0, imdb: 0, metacritic: 0, media: 0 };
   for (const [chiave] of distinti) {
     const e = cache[chiave];
     if (!e) continue;
@@ -1042,7 +1041,7 @@ export function costruisciFeed(film, { oggi, info = new Map(), titoli = new Map(
       title: titoloDaMostrare(f.titolo, dati, titoli),
       poster: poster || null,
       rating,
-      ratings: dati?.fonti || { tmdb: null, letterboxd: null, imdb: null, metacritic: null },
+      ratings: dati?.fonti || { letterboxd: null, imdb: null, metacritic: null },
       releaseDate: dati?.uscita || null,
       showtimes: perGiorno[giornoMostrato],
       showtimesDate: giornoMostrato,
