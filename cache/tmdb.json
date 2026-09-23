@@ -1,0 +1,418 @@
+{
+  "resident evil": {
+    "id": 1423191,
+    "titolo": "Resident Evil",
+    "esatto": true,
+    "poster": "https://image.tmdb.org/t/p/w185/D8rnntI88rgzWKDK2yuxm25HTQ.jpg",
+    "voto": 7.3,
+    "voti": 348,
+    "uscita": "2026-09-17",
+    "controllatoIl": "2026-09-23T12:45:47.231Z"
+  },
+  "the invite": {
+    "id": 950028,
+    "titolo": "The Invite - Il piacere è tutto nostro",
+    "esatto": true,
+    "poster": "https://image.tmdb.org/t/p/w185/p9kaEC6mE6oNFhZjkbA1ALuvv2q.jpg",
+    "voto": 7.2,
+    "voti": 614,
+    "uscita": "2026-09-16",
+    "controllatoIl": "2026-09-23T12:45:47.280Z"
+  },
+  "ultimo tutto live a tor vergata": {
+    "id": 1740126,
+    "titolo": "Ultimo - Tutto. Live a Tor Vergata",
+    "esatto": true,
+    "poster": "https://image.tmdb.org/t/p/w185/ntM0voyewKJn6L59MDAcyVu8ft.jpg",
+    "voto": null,
+    "voti": 0,
+    "uscita": "2026-09-22",
+    "controllatoIl": "2026-09-23T12:45:47.317Z"
+  },
+  "amori e incantesimi 2": {
+    "id": 1302904,
+    "titolo": "Amori & incantesimi 2",
+    "esatto": true,
+    "poster": "https://image.tmdb.org/t/p/w185/q5teI4VZ2gxQnDWlMhDkcn9P805.jpg",
+    "voto": 6.2,
+    "voti": 80,
+    "uscita": "2026-09-10",
+    "controllatoIl": "2026-09-23T12:45:47.360Z"
+  },
+  "cars motori ruggenti": {
+    "id": 920,
+    "titolo": "Cars - Motori ruggenti",
+    "esatto": true,
+    "poster": "https://image.tmdb.org/t/p/w185/moXcMQ1GdVPnQfX5qnJ0pZkJifJ.jpg",
+    "voto": 7.1,
+    "voti": 15544,
+    "uscita": "2006-08-23",
+    "controllatoIl": "2026-09-23T12:45:47.397Z"
+  },
+  "coyote vs acme": {
+    "id": 1204680,
+    "titolo": "Coyote vs. Acme",
+    "esatto": true,
+    "poster": "https://image.tmdb.org/t/p/w185/x2AtkVKU8IDgeScz354aqoYjUQG.jpg",
+    "voto": 7.5,
+    "voti": 489,
+    "uscita": "2026-09-02",
+    "controllatoIl": "2026-09-23T12:45:47.427Z"
+  },
+  "dov e la fiesta": {
+    "id": 1723662,
+    "titolo": "Dov’è la fiesta?",
+    "esatto": true,
+    "poster": "https://image.tmdb.org/t/p/w185/gtTw3Pbf0jj69Xq1nnHDXRztpEb.jpg",
+    "voto": 4.9,
+    "voti": 6,
+    "uscita": "2026-09-17",
+    "controllatoIl": "2026-09-23T12:45:47.479Z"
+  },
+  "i figli della scimmia": {
+    "id": 1554129,
+    "titolo": "I figli della scimmia",
+    "esatto": true,
+    "poster": "https://image.tmdb.org/t/p/w185/c5tEquC2cAfxfFNIs86QmGzabmU.jpg",
+    "voto": null,
+    "voti": 4,
+    "uscita": "2026-09-17",
+    "controllatoIl": "2026-09-23T12:45:47.514Z"
+  },
+  "mutiny": {
+    "id": 1288445,
+    "titolo": "Mutiny - Inverti la rotta",
+    "esatto": true,
+    "poster": "https://image.tmdb.org/t/p/w185/o4MXnSWwOnA4kftJ3NwZTIw2PuY.jpg",
+    "voto": 6.4,
+    "voti": 433,
+    "uscita": "2026-09-10",
+    "controllatoIl": "2026-09-23T12:45:47.543Z"
+  },
+  "normal": {
+    "id": 1242332,
+    "titolo": "Normal",
+    "esatto": true,
+    "poster": "https://image.tmdb.org/t/p/w185/t13MdGCKRZvkmrFW2A7Vih3QjwD.jpg",
+    "voto": 7.3,
+    "voti": 598,
+    "uscita": "2026-09-17",
+    "controllatoIl": "2026-09-23T12:45:47.566Z"
+  },
+  "oceania": {
+    "id": 1108427,
+    "titolo": "Oceania",
+    "esatto": true,
+    "poster": "https://image.tmdb.org/t/p/w185/g4zumtvkkH5QbyXyL0mO8HpCSaw.jpg",
+    "voto": 7.4,
+    "voti": 751,
+    "uscita": "2026-08-19",
+    "controllatoIl": "2026-09-23T12:45:47.617Z"
+  },
+  "odissea": {
+    "id": 1368337,
+    "titolo": "Odissea",
+    "esatto": true,
+    "poster": "https://image.tmdb.org/t/p/w185/qQhInj9fw3S2bMbiEujVldthgKe.jpg",
+    "voto": 8,
+    "voti": 3865,
+    "uscita": "2026-07-16",
+    "controllatoIl": "2026-09-23T12:45:48.110Z"
+  },
+  "paw patrol missione dinosauri": {
+    "id": 1185806,
+    "titolo": "PAW Patrol - Missione Dinosauri",
+    "esatto": true,
+    "poster": "https://image.tmdb.org/t/p/w185/r5XkrcTtb7O2YeblRDpkuwh9ued.jpg",
+    "voto": 8,
+    "voti": 132,
+    "uscita": "2026-09-09",
+    "controllatoIl": "2026-09-23T12:45:48.148Z"
+  },
+  "ritorno a buenos aires": {
+    "id": 1597199,
+    "titolo": "Ritorno a Buenos Aires",
+    "esatto": true,
+    "poster": "https://image.tmdb.org/t/p/w185/42yQnX3vuZkxSo44KmL051xCTKN.jpg",
+    "voto": 7,
+    "voti": 13,
+    "uscita": "2026-09-11",
+    "controllatoIl": "2026-09-23T12:45:48.182Z"
+  },
+  "spider man brand new day": {
+    "id": 969681,
+    "titolo": "Spider-Man: Brand New Day",
+    "esatto": true,
+    "poster": "https://image.tmdb.org/t/p/w185/vKHjwe9tSPWSkiv3m8Iq1nVedOT.jpg",
+    "voto": 7.9,
+    "voti": 2829,
+    "uscita": "2026-07-29",
+    "controllatoIl": "2026-09-23T12:45:48.207Z"
+  },
+  "talking tom heroes super amici": {
+    "id": null,
+    "controllatoIl": "2026-09-23T12:45:48.257Z"
+  },
+  "avengers endgame extra": {
+    "id": 299534,
+    "titolo": "Avengers: Endgame",
+    "esatto": false,
+    "poster": "https://image.tmdb.org/t/p/w185/hj1xaEUGMiUxaFYoutlljtlkHSG.jpg",
+    "voto": 8.2,
+    "voti": 28741,
+    "uscita": "2019-04-24",
+    "controllatoIl": "2026-09-23T12:45:48.290Z"
+  },
+  "bad apples": {
+    "id": 1198654,
+    "titolo": "Bad Apples",
+    "esatto": true,
+    "poster": "https://image.tmdb.org/t/p/w185/sDgb5jVuZ6ZOh4YjtSMMnbovkCi.jpg",
+    "voto": 7,
+    "voti": 23,
+    "uscita": "2026-09-10",
+    "controllatoIl": "2026-09-23T12:45:48.318Z"
+  },
+  "due ladri in fuga": {
+    "id": null,
+    "controllatoIl": "2026-09-23T12:45:48.336Z"
+  },
+  "heart of the beast": {
+    "id": 1263337,
+    "titolo": "Heart of the Beast - Nel profondo selvaggio",
+    "esatto": true,
+    "poster": "https://image.tmdb.org/t/p/w185/yiqRtrbY63aSPLinH5IsJwKHzZN.jpg",
+    "voto": 7.8,
+    "voti": 20,
+    "uscita": "2026-09-24",
+    "controllatoIl": "2026-09-23T12:45:48.381Z"
+  },
+  "insidious fuori dall altrove": {
+    "id": 1291595,
+    "titolo": "Insidious - Fuori dall’Altrove",
+    "esatto": true,
+    "poster": "https://image.tmdb.org/t/p/w185/eszahdPOeElmK3DSNXW44Qb0aNh.jpg",
+    "voto": 6.5,
+    "voti": 162,
+    "uscita": "2026-08-19",
+    "controllatoIl": "2026-09-23T12:45:48.417Z"
+  },
+  "l isola dei ricordi": {
+    "id": 1465063,
+    "titolo": "L'isola dei ricordi",
+    "esatto": true,
+    "poster": "https://image.tmdb.org/t/p/w185/p8YpBFMmccQQoeQie9XKv6loDSa.jpg",
+    "voto": 7.6,
+    "voti": 12,
+    "uscita": "2026-09-24",
+    "controllatoIl": "2026-09-23T12:45:48.445Z"
+  },
+  "maigret l amore e la morte": {
+    "id": 1398486,
+    "titolo": "Maigret - L'amore e la morte",
+    "esatto": true,
+    "poster": "https://image.tmdb.org/t/p/w185/gJVCjUPmzRPfrNlLWUcdOZuhuw2.jpg",
+    "voto": 6,
+    "voti": 37,
+    "uscita": "2026-09-24",
+    "controllatoIl": "2026-09-23T12:45:48.901Z"
+  },
+  "nessun dolore": {
+    "id": 1594043,
+    "titolo": "Nessun dolore",
+    "esatto": true,
+    "poster": "https://image.tmdb.org/t/p/w185/kPDyWzS020AvrvrTFDAJfhTgUbU.jpg",
+    "voto": null,
+    "voti": 0,
+    "uscita": "2026-09-24",
+    "controllatoIl": "2026-09-23T12:45:49.657Z"
+  },
+  "hokum": {
+    "id": 1430077,
+    "titolo": "Hokum",
+    "esatto": true,
+    "poster": "https://image.tmdb.org/t/p/w185/nhF54SQmeaMUODgRKEuMMJoTysT.jpg",
+    "voto": 6.9,
+    "voti": 876,
+    "uscita": "2026-08-05",
+    "controllatoIl": "2026-09-23T12:45:49.698Z"
+  },
+  "super mario galaxy il film": {
+    "id": 1226863,
+    "titolo": "Super Mario Galaxy - Il film",
+    "esatto": true,
+    "poster": "https://image.tmdb.org/t/p/w185/3OfIG4QIEkumrWQXrcCq8bUlv01.jpg",
+    "voto": 8.2,
+    "voti": 3709,
+    "uscita": "2026-04-01",
+    "controllatoIl": "2026-09-23T12:45:49.764Z"
+  },
+  "her private hell": {
+    "id": 1469342,
+    "titolo": "Her Private Hell",
+    "esatto": true,
+    "poster": "https://image.tmdb.org/t/p/w185/4tdT44N1on3Aj6q0e64ttY60HA4.jpg",
+    "voto": 5.1,
+    "voti": 63,
+    "uscita": "2026-09-30",
+    "controllatoIl": "2026-09-23T12:45:49.799Z"
+  },
+  "naza": {
+    "id": 1755291,
+    "titolo": "NAZA",
+    "esatto": true,
+    "poster": "https://image.tmdb.org/t/p/w185/qfdNOEmMroHjPLpZhNkORcVzgrQ.jpg",
+    "voto": null,
+    "voti": 0,
+    "uscita": "2026-09-25",
+    "controllatoIl": "2026-09-23T12:45:49.831Z"
+  },
+  "the dog stars": {
+    "id": 1384216,
+    "titolo": "The Dog Stars - Le stelle dopo la fine",
+    "esatto": true,
+    "poster": "https://image.tmdb.org/t/p/w185/2QUzsotrBTMF78xwmePCTX7EqpX.jpg",
+    "voto": 6.6,
+    "voti": 284,
+    "uscita": "2026-08-26",
+    "controllatoIl": "2026-09-23T12:45:49.867Z"
+  },
+  "en el camino": {
+    "id": 1517123,
+    "titolo": "En el camino",
+    "esatto": true,
+    "poster": "https://image.tmdb.org/t/p/w185/7tBqPnIbdw9r5C8thiUGQokIbTF.jpg",
+    "voto": 8,
+    "voti": 29,
+    "uscita": "2026-09-24",
+    "controllatoIl": "2026-09-23T12:45:49.906Z"
+  },
+  "mulan": {
+    "id": 10674,
+    "titolo": "Mulan",
+    "esatto": true,
+    "poster": "https://image.tmdb.org/t/p/w185/jAbexAtB0aSfP5Ay4TpWHARyVnG.jpg",
+    "voto": 7.9,
+    "voti": 10687,
+    "uscita": "1998-12-04",
+    "controllatoIl": "2026-09-23T12:45:49.947Z"
+  },
+  "my own private river": {
+    "id": 164183,
+    "titolo": "My Own Private River",
+    "esatto": true,
+    "poster": "https://image.tmdb.org/t/p/w185/sPxozaB7Mj3U2adg2bULQRYyE78.jpg",
+    "voto": 7.4,
+    "voti": 15,
+    "uscita": "2012-02-19",
+    "controllatoIl": "2026-09-23T12:45:50.304Z"
+  },
+  "pusher ii with blood on my hands": {
+    "id": null,
+    "controllatoIl": "2026-09-23T12:45:50.345Z"
+  },
+  "teenage sex and death at camp miasma": {
+    "id": 1240889,
+    "titolo": "Camp Miasma - Adolescenza, sesso e morte",
+    "esatto": true,
+    "poster": "https://image.tmdb.org/t/p/w185/oSbPv3AbfXKEoboItK2DeDK397S.jpg",
+    "voto": 6.5,
+    "voti": 167,
+    "uscita": "2026-08-19",
+    "controllatoIl": "2026-09-23T12:45:50.381Z"
+  },
+  "the dreamers i sognatori": {
+    "id": 1278,
+    "titolo": "The Dreamers - I sognatori",
+    "esatto": true,
+    "poster": "https://image.tmdb.org/t/p/w185/pinNViE433kLUrJppjFAOzgWxdl.jpg",
+    "voto": 7.2,
+    "voti": 3171,
+    "uscita": "2003-10-10",
+    "controllatoIl": "2026-09-23T12:45:50.421Z"
+  },
+  "the invite il piacere e tutto nostro": {
+    "id": 950028,
+    "titolo": "The Invite - Il piacere è tutto nostro",
+    "esatto": true,
+    "poster": "https://image.tmdb.org/t/p/w185/p9kaEC6mE6oNFhZjkbA1ALuvv2q.jpg",
+    "voto": 7.2,
+    "voti": 614,
+    "uscita": "2026-09-16",
+    "controllatoIl": "2026-09-23T12:45:50.454Z"
+  },
+  "un prophete ep 1 4": {
+    "id": 21575,
+    "titolo": "Il profeta",
+    "esatto": false,
+    "poster": "https://image.tmdb.org/t/p/w185/7ZtVeZg3Ye9IdxWxYBJjp8WWykK.jpg",
+    "voto": 7.6,
+    "voti": 1784,
+    "uscita": "2010-03-19",
+    "controllatoIl": "2026-09-23T12:45:50.507Z"
+  },
+  "we re all going to the world s fair": {
+    "id": 776501,
+    "titolo": "We're All Going to the World's Fair",
+    "esatto": true,
+    "poster": "https://image.tmdb.org/t/p/w185/fXn4Nz1WCTEmzAFvwgEZoPHvptR.jpg",
+    "voto": 5.5,
+    "voti": 172,
+    "uscita": "2022-04-15",
+    "controllatoIl": "2026-09-23T12:45:50.549Z"
+  },
+  "avengers endgame extra infinity vision": {
+    "id": 299534,
+    "titolo": "Avengers: Endgame",
+    "esatto": false,
+    "poster": "https://image.tmdb.org/t/p/w185/hj1xaEUGMiUxaFYoutlljtlkHSG.jpg",
+    "voto": 8.2,
+    "voti": 28740,
+    "uscita": "2019-04-24",
+    "controllatoIl": "2026-09-23T12:45:50.596Z"
+  },
+  "cars motori ruggenti 20 anni": {
+    "id": 920,
+    "titolo": "Cars - Motori ruggenti",
+    "esatto": false,
+    "poster": "https://image.tmdb.org/t/p/w185/moXcMQ1GdVPnQfX5qnJ0pZkJifJ.jpg",
+    "voto": 7.1,
+    "voti": 15544,
+    "uscita": "2006-08-23",
+    "controllatoIl": "2026-09-23T12:45:50.722Z"
+  },
+  "refn celebration": {
+    "id": null,
+    "controllatoIl": "2026-09-23T12:45:50.746Z"
+  },
+  "heart of the beast nel profondo selvaggio": {
+    "id": 1263337,
+    "titolo": "Heart of the Beast - Nel profondo selvaggio",
+    "esatto": true,
+    "poster": "https://image.tmdb.org/t/p/w185/yiqRtrbY63aSPLinH5IsJwKHzZN.jpg",
+    "voto": 7.8,
+    "voti": 20,
+    "uscita": "2026-09-24",
+    "controllatoIl": "2026-09-23T12:45:51.113Z"
+  },
+  "digger": {
+    "id": 1248832,
+    "titolo": "Digger",
+    "esatto": true,
+    "poster": "https://image.tmdb.org/t/p/w185/1ATXKrIPJyKNwnJ6lcG088Sa6zi.jpg",
+    "voto": null,
+    "voti": 0,
+    "uscita": "2026-10-01",
+    "controllatoIl": "2026-09-23T12:45:51.149Z"
+  },
+  "dune parte tre": {
+    "id": 1170608,
+    "titolo": "Dune - Parte tre",
+    "esatto": true,
+    "poster": "https://image.tmdb.org/t/p/w185/qgIxezW3yRGmVFnk3gsQaM35Qjx.jpg",
+    "voto": null,
+    "voti": 0,
+    "uscita": "2026-12-16",
+    "controllatoIl": "2026-09-23T12:45:51.194Z"
+  }
+}

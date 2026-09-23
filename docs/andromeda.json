@@ -1,123 +1,51 @@
 [
   {
-    "title": "Amori e incantesimi 2",
-    "poster": "https://cdn.18tickets.net/ccroma/uploads/film/playbill/77711/standard_f09ef374-86fc-4b8c-9220-a25d93048430.jpeg",
-    "rating": null,
-    "releaseDate": null,
-    "score": 0.5,
+    "title": "Avengers Endgame Extra - Infinity Vision",
+    "poster": "https://cdn.18tickets.net/ccroma/uploads/film/playbill/74606/standard_b8f608bb-f0d7-4872-917a-8e721fdea11c.jpg",
+    "rating": 8.2,
+    "releaseDate": "2019-04-24",
     "showtimes": [
-      "21:00"
+      "17:30",
+      "20:50"
     ],
-    "showtimesDate": "2026-09-23",
+    "showtimesDate": "2026-09-24",
     "days": {
-      "2026-09-23": [
-        "21:00"
+      "2026-09-24": [
+        "17:30",
+        "20:50"
       ]
     },
     "room": null,
     "vo": false,
-    "url": "https://roma.andromeda.18tickets.it/film/77711"
+    "url": "https://roma.andromeda.18tickets.it/film/74606",
+    "rankUscita": 12,
+    "rankVoto": 0
   },
   {
-    "title": "Cars:motori Ruggenti - 20 Anni",
-    "poster": "https://cdn.18tickets.net/ccroma/uploads/film/playbill/76985/standard_00d0c4f0-9003-40b9-af5e-fc05c9f568fe.jpg",
-    "rating": null,
-    "releaseDate": null,
-    "score": 0.5,
+    "title": "Avengers: Endgame Extra (V.O.)",
+    "poster": "https://cdn.18tickets.net/ccroma/uploads/film/playbill/74669/standard_081d3934-ed08-44c4-8e8b-7a91ded17e8a.jpg",
+    "rating": 8.2,
+    "releaseDate": "2019-04-24",
     "showtimes": [
-      "17:30"
+      "20:20"
     ],
-    "showtimesDate": "2026-09-23",
+    "showtimesDate": "2026-09-24",
     "days": {
-      "2026-09-23": [
-        "17:30"
-      ],
-      "2026-09-25": [
-        "17:30"
+      "2026-09-24": [
+        "20:20"
       ]
     },
     "room": null,
-    "vo": false,
-    "url": "https://roma.andromeda.18tickets.it/film/76985"
+    "vo": true,
+    "url": "https://roma.andromeda.18tickets.it/film/74669",
+    "rankUscita": 13,
+    "rankVoto": 1
   },
   {
-    "title": "Coyote vs ACME",
-    "poster": "https://cdn.18tickets.net/ccroma/uploads/film/playbill/77708/standard_4141fc0b-9e80-4a8b-bcf8-ead9253c637a.jpg",
-    "rating": null,
-    "releaseDate": null,
-    "score": 0.5,
-    "showtimes": [
-      "17:10",
-      "19:15",
-      "21:20"
-    ],
-    "showtimesDate": "2026-09-23",
-    "days": {
-      "2026-09-23": [
-        "17:10",
-        "19:15",
-        "21:20"
-      ],
-      "2026-09-25": [
-        "16:45",
-        "21:20"
-      ]
-    },
-    "room": null,
-    "vo": false,
-    "url": "https://roma.andromeda.18tickets.it/film/77708"
-  },
-  {
-    "title": "Dov’è la fiesta?",
-    "poster": "https://cdn.18tickets.net/ccroma/uploads/film/playbill/76982/standard_9f67bfa3-c771-4fa8-b143-2f06b8797a5c.jpg",
-    "rating": null,
-    "releaseDate": null,
-    "score": 0.5,
-    "showtimes": [
-      "16:50",
-      "18:45",
-      "21:10"
-    ],
-    "showtimesDate": "2026-09-23",
-    "days": {
-      "2026-09-23": [
-        "16:50",
-        "18:45",
-        "21:10"
-      ],
-      "2026-09-25": [
-        "18:45"
-      ]
-    },
-    "room": null,
-    "vo": false,
-    "url": "https://roma.andromeda.18tickets.it/film/76982"
-  },
-  {
-    "title": "Oceania",
-    "poster": "https://cdn.18tickets.net/ccroma/uploads/film/playbill/77709/standard_aafe18e9-1bd8-4ee4-b913-e59f4d517ea9.jpg",
-    "rating": null,
-    "releaseDate": null,
-    "score": 0.5,
-    "showtimes": [
-      "17:30"
-    ],
-    "showtimesDate": "2026-09-23",
-    "days": {
-      "2026-09-23": [
-        "17:30"
-      ]
-    },
-    "room": null,
-    "vo": false,
-    "url": "https://roma.andromeda.18tickets.it/film/77709"
-  },
-  {
-    "title": "PAW Patrol: Missione dinosauri",
-    "poster": "https://cdn.18tickets.net/ccroma/uploads/film/playbill/77707/standard_1aedab31-d3c7-4ac9-bb9f-d9d31224dcb4.jpeg",
-    "rating": null,
-    "releaseDate": null,
-    "score": 0.5,
+    "title": "PAW Patrol - Missione Dinosauri",
+    "poster": "https://image.tmdb.org/t/p/w185/r5XkrcTtb7O2YeblRDpkuwh9ued.jpg",
+    "rating": 8,
+    "releaseDate": "2026-09-09",
     "showtimes": [
       "17:20"
     ],
@@ -132,145 +60,15 @@
     },
     "room": null,
     "vo": false,
-    "url": "https://roma.andromeda.18tickets.it/film/77707"
+    "url": "https://roma.andromeda.18tickets.it/film/77707",
+    "rankUscita": 9,
+    "rankVoto": 2
   },
   {
-    "title": "Resident Evil",
-    "poster": "https://cdn.18tickets.net/ccroma/uploads/film/playbill/76981/standard_7d52fcbb-5940-4cff-b617-0f9b66734d2f.jpg",
-    "rating": null,
-    "releaseDate": null,
-    "score": 0.5,
-    "showtimes": [
-      "19:15",
-      "21:15"
-    ],
-    "showtimesDate": "2026-09-23",
-    "days": {
-      "2026-09-23": [
-        "19:15",
-        "21:15"
-      ],
-      "2026-09-25": [
-        "21:20"
-      ]
-    },
-    "room": null,
-    "vo": false,
-    "url": "https://roma.andromeda.18tickets.it/film/76981"
-  },
-  {
-    "title": "The Invite - Il piacere è tutto nostro",
-    "poster": "https://cdn.18tickets.net/ccroma/uploads/film/playbill/76984/standard_cf4da03e-7f1f-43a9-a501-502976f8d1b4.jpg",
-    "rating": null,
-    "releaseDate": null,
-    "score": 0.5,
-    "showtimes": [
-      "16:45",
-      "18:50",
-      "21:20"
-    ],
-    "showtimesDate": "2026-09-23",
-    "days": {
-      "2026-09-23": [
-        "16:45",
-        "18:50",
-        "21:20"
-      ],
-      "2026-09-25": [
-        "16:45",
-        "19:15"
-      ]
-    },
-    "room": null,
-    "vo": false,
-    "url": "https://roma.andromeda.18tickets.it/film/76984"
-  },
-  {
-    "title": "The Invite - Il piacere è tutto nostro (V.O.)",
-    "poster": "https://cdn.18tickets.net/ccroma/uploads/film/playbill/76983/standard_32e73c4d-81fb-4984-a86c-6099a42717a1.jpg",
-    "rating": null,
-    "releaseDate": null,
-    "score": 0.5,
-    "showtimes": [
-      "21:10"
-    ],
-    "showtimesDate": "2026-09-23",
-    "days": {
-      "2026-09-23": [
-        "21:10"
-      ]
-    },
-    "room": null,
-    "vo": true,
-    "url": "https://roma.andromeda.18tickets.it/film/76983"
-  },
-  {
-    "title": "Ultimo - Tutto: Live a Tor Vergata",
-    "poster": "https://cdn.18tickets.net/ccroma/uploads/film/playbill/68069/standard_45c652b0-afd8-4808-b05d-1e0d11d500de.png",
-    "rating": null,
-    "releaseDate": null,
-    "score": 0.5,
-    "showtimes": [
-      "17:30",
-      "21:00"
-    ],
-    "showtimesDate": "2026-09-23",
-    "days": {
-      "2026-09-23": [
-        "17:30",
-        "21:00"
-      ]
-    },
-    "room": null,
-    "vo": false,
-    "url": "https://roma.andromeda.18tickets.it/film/68069"
-  },
-  {
-    "title": "Avengers Endgame Extra - Infinity Vision",
-    "poster": "https://cdn.18tickets.net/ccroma/uploads/film/playbill/74606/standard_b8f608bb-f0d7-4872-917a-8e721fdea11c.jpg",
-    "rating": null,
-    "releaseDate": null,
-    "score": 0.5,
-    "showtimes": [
-      "17:30",
-      "20:50"
-    ],
-    "showtimesDate": "2026-09-24",
-    "days": {
-      "2026-09-24": [
-        "17:30",
-        "20:50"
-      ]
-    },
-    "room": null,
-    "vo": false,
-    "url": "https://roma.andromeda.18tickets.it/film/74606"
-  },
-  {
-    "title": "Avengers: Endgame Extra (V.O.)",
-    "poster": "https://cdn.18tickets.net/ccroma/uploads/film/playbill/74669/standard_081d3934-ed08-44c4-8e8b-7a91ded17e8a.jpg",
-    "rating": null,
-    "releaseDate": null,
-    "score": 0.5,
-    "showtimes": [
-      "20:20"
-    ],
-    "showtimesDate": "2026-09-24",
-    "days": {
-      "2026-09-24": [
-        "20:20"
-      ]
-    },
-    "room": null,
-    "vo": true,
-    "url": "https://roma.andromeda.18tickets.it/film/74669"
-  },
-  {
-    "title": "Heart of the Beast - Nel Profondo Selvaggio",
-    "poster": "https://cdn.18tickets.net/ccroma/uploads/film/playbill/76987/standard_360cc01b-ef89-4e63-aa05-3c88d3cdf344.jpg",
-    "rating": null,
-    "releaseDate": null,
-    "score": 0.5,
+    "title": "Heart of the Beast - Nel profondo selvaggio",
+    "poster": "https://image.tmdb.org/t/p/w185/yiqRtrbY63aSPLinH5IsJwKHzZN.jpg",
+    "rating": 7.8,
+    "releaseDate": "2026-09-24",
     "showtimes": [
       "19:00",
       "21:20"
@@ -288,14 +86,15 @@
     },
     "room": null,
     "vo": false,
-    "url": "https://roma.andromeda.18tickets.it/film/76987"
+    "url": "https://roma.andromeda.18tickets.it/film/76987",
+    "rankUscita": 1,
+    "rankVoto": 3
   },
   {
     "title": "L'isola dei ricordi",
-    "poster": "https://cdn.18tickets.net/ccroma/uploads/film/playbill/78267/standard_5c7279c3-f282-4eb5-b6d7-5608604d4879.jpg",
-    "rating": null,
-    "releaseDate": null,
-    "score": 0.5,
+    "poster": "https://image.tmdb.org/t/p/w185/p8YpBFMmccQQoeQie9XKv6loDSa.jpg",
+    "rating": 7.6,
+    "releaseDate": "2026-09-24",
     "showtimes": [
       "17:15",
       "18:45",
@@ -316,14 +115,206 @@
     },
     "room": null,
     "vo": false,
-    "url": "https://roma.andromeda.18tickets.it/film/78267"
+    "url": "https://roma.andromeda.18tickets.it/film/78267",
+    "rankUscita": 2,
+    "rankVoto": 4
   },
   {
-    "title": "Naza",
-    "poster": "https://cdn.18tickets.net/ccroma/uploads/film/playbill/77608/standard_28ba5ace-2f50-4856-bea8-c1c15cfbd7ed.jpg",
+    "title": "Coyote vs. Acme",
+    "poster": "https://image.tmdb.org/t/p/w185/x2AtkVKU8IDgeScz354aqoYjUQG.jpg",
+    "rating": 7.5,
+    "releaseDate": "2026-09-02",
+    "showtimes": [
+      "17:10",
+      "19:15",
+      "21:20"
+    ],
+    "showtimesDate": "2026-09-23",
+    "days": {
+      "2026-09-23": [
+        "17:10",
+        "19:15",
+        "21:20"
+      ],
+      "2026-09-25": [
+        "16:45",
+        "21:20"
+      ]
+    },
+    "room": null,
+    "vo": false,
+    "url": "https://roma.andromeda.18tickets.it/film/77708",
+    "rankUscita": 10,
+    "rankVoto": 5
+  },
+  {
+    "title": "Oceania",
+    "poster": "https://image.tmdb.org/t/p/w185/g4zumtvkkH5QbyXyL0mO8HpCSaw.jpg",
+    "rating": 7.4,
+    "releaseDate": "2026-08-19",
+    "showtimes": [
+      "17:30"
+    ],
+    "showtimesDate": "2026-09-23",
+    "days": {
+      "2026-09-23": [
+        "17:30"
+      ]
+    },
+    "room": null,
+    "vo": false,
+    "url": "https://roma.andromeda.18tickets.it/film/77709",
+    "rankUscita": 11,
+    "rankVoto": 6
+  },
+  {
+    "title": "Resident Evil",
+    "poster": "https://image.tmdb.org/t/p/w185/D8rnntI88rgzWKDK2yuxm25HTQ.jpg",
+    "rating": 7.3,
+    "releaseDate": "2026-09-17",
+    "showtimes": [
+      "19:15",
+      "21:15"
+    ],
+    "showtimesDate": "2026-09-23",
+    "days": {
+      "2026-09-23": [
+        "19:15",
+        "21:15"
+      ],
+      "2026-09-25": [
+        "21:20"
+      ]
+    },
+    "room": null,
+    "vo": false,
+    "url": "https://roma.andromeda.18tickets.it/film/76981",
+    "rankUscita": 4,
+    "rankVoto": 7
+  },
+  {
+    "title": "The Invite - Il piacere è tutto nostro",
+    "poster": "https://image.tmdb.org/t/p/w185/p9kaEC6mE6oNFhZjkbA1ALuvv2q.jpg",
+    "rating": 7.2,
+    "releaseDate": "2026-09-16",
+    "showtimes": [
+      "16:45",
+      "18:50",
+      "21:20"
+    ],
+    "showtimesDate": "2026-09-23",
+    "days": {
+      "2026-09-23": [
+        "16:45",
+        "18:50",
+        "21:20"
+      ],
+      "2026-09-25": [
+        "16:45",
+        "19:15"
+      ]
+    },
+    "room": null,
+    "vo": false,
+    "url": "https://roma.andromeda.18tickets.it/film/76984",
+    "rankUscita": 6,
+    "rankVoto": 8
+  },
+  {
+    "title": "The Invite - Il piacere è tutto nostro (V.O.)",
+    "poster": "https://image.tmdb.org/t/p/w185/p9kaEC6mE6oNFhZjkbA1ALuvv2q.jpg",
+    "rating": 7.2,
+    "releaseDate": "2026-09-16",
+    "showtimes": [
+      "21:10"
+    ],
+    "showtimesDate": "2026-09-23",
+    "days": {
+      "2026-09-23": [
+        "21:10"
+      ]
+    },
+    "room": null,
+    "vo": true,
+    "url": "https://roma.andromeda.18tickets.it/film/76983",
+    "rankUscita": 7,
+    "rankVoto": 9
+  },
+  {
+    "title": "Cars: Motori Ruggenti - 20 Anni",
+    "poster": "https://cdn.18tickets.net/ccroma/uploads/film/playbill/76985/standard_00d0c4f0-9003-40b9-af5e-fc05c9f568fe.jpg",
+    "rating": 7.1,
+    "releaseDate": "2006-08-23",
+    "showtimes": [
+      "17:30"
+    ],
+    "showtimesDate": "2026-09-23",
+    "days": {
+      "2026-09-23": [
+        "17:30"
+      ],
+      "2026-09-25": [
+        "17:30"
+      ]
+    },
+    "room": null,
+    "vo": false,
+    "url": "https://roma.andromeda.18tickets.it/film/76985",
+    "rankUscita": 14,
+    "rankVoto": 10
+  },
+  {
+    "title": "Amori & incantesimi 2",
+    "poster": "https://image.tmdb.org/t/p/w185/q5teI4VZ2gxQnDWlMhDkcn9P805.jpg",
+    "rating": 6.2,
+    "releaseDate": "2026-09-10",
+    "showtimes": [
+      "21:00"
+    ],
+    "showtimesDate": "2026-09-23",
+    "days": {
+      "2026-09-23": [
+        "21:00"
+      ]
+    },
+    "room": null,
+    "vo": false,
+    "url": "https://roma.andromeda.18tickets.it/film/77711",
+    "rankUscita": 8,
+    "rankVoto": 11
+  },
+  {
+    "title": "Dov’è la fiesta?",
+    "poster": "https://image.tmdb.org/t/p/w185/gtTw3Pbf0jj69Xq1nnHDXRztpEb.jpg",
+    "rating": 4.9,
+    "releaseDate": "2026-09-17",
+    "showtimes": [
+      "16:50",
+      "18:45",
+      "21:10"
+    ],
+    "showtimesDate": "2026-09-23",
+    "days": {
+      "2026-09-23": [
+        "16:50",
+        "18:45",
+        "21:10"
+      ],
+      "2026-09-25": [
+        "18:45"
+      ]
+    },
+    "room": null,
+    "vo": false,
+    "url": "https://roma.andromeda.18tickets.it/film/76982",
+    "rankUscita": 5,
+    "rankVoto": 12
+  },
+  {
+    "title": "NAZA",
+    "poster": "https://image.tmdb.org/t/p/w185/qfdNOEmMroHjPLpZhNkORcVzgrQ.jpg",
     "rating": null,
-    "releaseDate": null,
-    "score": 0.5,
+    "releaseDate": "2026-09-25",
     "showtimes": [
       "17:00",
       "18:45",
@@ -339,14 +330,37 @@
     },
     "room": null,
     "vo": false,
-    "url": "https://roma.andromeda.18tickets.it/film/77608"
+    "url": "https://roma.andromeda.18tickets.it/film/77608",
+    "rankUscita": 0,
+    "rankVoto": 13
+  },
+  {
+    "title": "Ultimo - Tutto. Live a Tor Vergata",
+    "poster": "https://image.tmdb.org/t/p/w185/ntM0voyewKJn6L59MDAcyVu8ft.jpg",
+    "rating": null,
+    "releaseDate": "2026-09-22",
+    "showtimes": [
+      "17:30",
+      "21:00"
+    ],
+    "showtimesDate": "2026-09-23",
+    "days": {
+      "2026-09-23": [
+        "17:30",
+        "21:00"
+      ]
+    },
+    "room": null,
+    "vo": false,
+    "url": "https://roma.andromeda.18tickets.it/film/68069",
+    "rankUscita": 3,
+    "rankVoto": 14
   },
   {
     "title": "Refn Celebration",
     "poster": "https://cdn.18tickets.net/ccroma/uploads/film/playbill/76715/standard_312824d6-1610-47ba-8058-299fb96b9bb1.jpg",
     "rating": null,
     "releaseDate": null,
-    "score": 0.5,
     "showtimes": [
       "20:00"
     ],
@@ -358,6 +372,8 @@
     },
     "room": null,
     "vo": false,
-    "url": "https://roma.andromeda.18tickets.it/film/76715"
+    "url": "https://roma.andromeda.18tickets.it/film/76715",
+    "rankUscita": 15,
+    "rankVoto": 15
   }
 ]
