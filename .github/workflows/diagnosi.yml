@@ -1,0 +1,32 @@
+name: Diagnosi fonti voti
+on: workflow_dispatch
+permissions:
+  contents: read
+jobs:
+  prova:
+    runs-on: ubuntu-latest
+    timeout-minutes: 6
+    steps:
+      - name: Prova MUBI, AlloCine, FilmAffinity, Douban
+        run: |
+          UA='Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0 Safari/537.36'
+          S="$GITHUB_STEP_SUMMARY"
+          prova() {
+            nome="$1"; url="$2"; shift 2
+            curl -sL -A "$UA" -H 'Accept-Language: en-US,en;q=0.8' "$@" -o /tmp/p -w "%{http_code} %{size_download} %{url_effective}" --max-time 25 "$url" > /tmp/w || true
+            echo "### $nome: $(cat /tmp/w)" >> "$S"
+            echo '```' >> "$S"
+            if head -c 1 /tmp/p | grep -q '[{[]'; then head -c 1500 /tmp/p >> "$S"; else
+              grep -ao '"ratingValue":[^,}]*\|"ratingCount":[^,}]*\|"average_rating[a-z_]*":[^,}]*\|"number_of_ratings":[^,}]*\|stareval-note[^<]\{0,20\}<[^<]\{0,20\}\|id="movie-rat-avg"[^<]\{0,40\}\|avgrat[^<]\{0,60\}\|rating_num[^<]\{0,40\}\|fichefilm_gen_cfilm=[0-9]*\|/films/[a-z0-9-]*\|film[0-9]\{4,8\}\.html' /tmp/p | sort | uniq -c | sort -rn | head -12 >> "$S"
+            fi
+            echo '```' >> "$S"
+          }
+          MUBI=(-H 'Client: web' -H 'Client-Country: IT' -H 'Accept: application/json')
+          prova "MUBI api search/films" "https://api.mubi.com/v3/search/films?query=by%20the%20stream&per_page=5" "${MUBI[@]}"
+          prova "MUBI api search" "https://api.mubi.com/v3/search?query=by%20the%20stream&per_page=5" "${MUBI[@]}"
+          prova "MUBI pagina film" "https://mubi.com/en/films/oppenheimer"
+          prova "AlloCine ricerca" "https://www.allocine.fr/rechercher/movie/?q=oppenheimer"
+          prova "AlloCine scheda" "https://www.allocine.fr/film/fichefilm_gen_cfilm=291032.html"
+          prova "FilmAffinity ricerca" "https://www.filmaffinity.com/en/search.php?stext=oppenheimer"
+          prova "Douban suggerimenti" "https://movie.douban.com/j/subject_suggest?q=oppenheimer"
+          prova "Douban scheda" "https://movie.douban.com/subject/35593344/"
