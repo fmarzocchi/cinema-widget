@@ -21,7 +21,7 @@ const DOCS = join(ROOT, 'docs');
 const DEBUG = join(ROOT, 'debug');
 const CACHE = join(ROOT, 'cache', 'tmdb.json');
 
-const RATING_SCALE = Number(process.env.RATING_SCALE || 5); // 5 = voti tipo 3.8, 10 = voti tipo 7.6
+const RATING_SCALE = Number(process.env.RATING_SCALE || 10); // 10 = voto come su TMDB (7.6), 5 = diviso a metà (3.8)
 const GIORNI = 7; // quanti giorni di programmazione raccogliere
 
 const UA =
@@ -121,6 +121,7 @@ export function titoloPulito(raw) {
   let t = String(raw || '').replace(/\s+/g, ' ').trim();
   for (const re of RUMORE) t = t.replace(re, ' ');
   return t
+    .replace(/:(?=\p{L})/gu, ': ') // "CARS:MOTORI" -> "CARS: MOTORI"
     .replace(/\s*\(\s*\)\s*/g, ' ')
     .replace(/\s{2,}/g, ' ')
     .trim()
@@ -507,16 +508,49 @@ async function scaricaAndromeda() {
 /* ===================================== locandine, voti e date (TMDB, opz.) == */
 
 const TMDB = 'https://api.themoviedb.org/3';
-const GIORNI_CACHE_TROVATO = 30;
-const GIORNI_CACHE_NON_TROVATO = 3;
+const GIORNI_CACHE_TROVATO = 7; // i voti cambiano: ogni film viene ricontrollato una volta a settimana
+const GIORNI_CACHE_NON_TROVATO = 2;
+const VOTI_MINIMI = 5; // con meno voti la media TMDB non vuol dire nulla (3 voti = 10.0)
 
-function scegliMigliore(risultati, chiave) {
-  if (!risultati?.length) return null;
-  return (
-    risultati.find((r) => chiaveTitolo(r.title) === chiave || chiaveTitolo(r.original_title) === chiave) ||
-    risultati.find((r) => chiaveTitolo(r.title).startsWith(chiave)) ||
-    [...risultati].sort((a, b) => (b.popularity || 0) - (a.popularity || 0))[0]
+/**
+ * Sceglie il film giusto tra i risultati di TMDB, con prudenza: meglio nessun voto che il
+ * voto di un altro film. Valgono solo i titoli uguali, oppure uno che inizia con l'altro e ne
+ * copre almeno il 40% ("Avengers: Endgame Extra" -> "Avengers: Endgame", ma "Ultimo - Tutto:
+ * Live a Tor Vergata" non diventa il film "Ultimo"). A parità vince il titolo esatto, poi il
+ * film uscito negli ultimi due anni (quelli in sala), poi il più popolare.
+ */
+export function scegliMigliore(risultati, chiave, oggi) {
+  if (!Array.isArray(risultati) || !risultati.length || !chiave) return null;
+  const candidati = [];
+  for (const r of risultati) {
+    const chiavi = [chiaveTitolo(r.title), chiaveTitolo(r.original_title)].filter(Boolean);
+    const esatto = chiavi.includes(chiave);
+    const prefisso =
+      !esatto &&
+      chiavi.some((k) => {
+        const [corta, lunga] = k.length < chiave.length ? [k, chiave] : [chiave, k];
+        return corta.length >= 4 && lunga.startsWith(`${corta} `) && corta.length / lunga.length >= 0.4;
+      });
+    if (esatto || prefisso) candidati.push({ r, esatto });
+  }
+  if (!candidati.length) return null;
+
+  const da = piuGiorni(oggi, -730);
+  const a = piuGiorni(oggi, 365);
+  const recente = (c) => Boolean(c.r.release_date && c.r.release_date >= da && c.r.release_date <= a);
+  candidati.sort(
+    (x, y) =>
+      Number(y.esatto) - Number(x.esatto) ||
+      Number(recente(y)) - Number(recente(x)) ||
+      (y.r.popularity || 0) - (x.r.popularity || 0),
   );
+  return candidati[0];
+}
+
+/** Ricerche da tentare in ordine: titolo intero, poi la parte prima di " - " e prima di ":". */
+export function ricercheTmdb(titolo) {
+  const base = titoloPulito(titolo);
+  return unici([base, base.split(/\s[-–—]\s/)[0], base.split(':')[0]].map((q) => q.trim()).filter((q) => q.length >= 3));
 }
 
 /** Data di uscita italiana in sala; se manca, quella globale di TMDB. */
@@ -539,26 +573,30 @@ async function uscitaItaliana(id, key, ripiego) {
   return ripiego || null;
 }
 
-async function cercaSuTmdb(titolo, key) {
-  const query = titoloPulito(titolo);
-  if (!query) return { id: null };
-  const dati = await fetchJson(
-    `${TMDB}/search/movie?api_key=${key}&language=it-IT&region=IT&include_adult=false&query=${encodeURIComponent(query)}`,
-  );
-  const scelto = scegliMigliore(dati.results, chiaveTitolo(titolo));
-  if (!scelto) return { id: null };
-  return {
-    id: scelto.id,
-    titolo: scelto.title || null,
-    // w185: sul widget la locandina è larga ~70dp e la cache immagini non è persistente,
-    // quindi conviene un file leggero che si riscarica in fretta.
-    poster: scelto.poster_path ? `https://image.tmdb.org/t/p/w185${scelto.poster_path}` : null,
-    voto: Number.isFinite(scelto.vote_average) && scelto.vote_count > 0 ? scelto.vote_average : null,
-    uscita: await uscitaItaliana(scelto.id, key, scelto.release_date),
-  };
+async function cercaSuTmdb(titolo, key, oggi) {
+  const chiave = chiaveTitolo(titolo);
+  for (const query of ricercheTmdb(titolo)) {
+    const dati = await fetchJson(
+      `${TMDB}/search/movie?api_key=${key}&language=it-IT&region=IT&include_adult=false&query=${encodeURIComponent(query)}`,
+    );
+    const scelta = scegliMigliore(dati.results, chiave, oggi);
+    if (!scelta) continue;
+    const s = scelta.r;
+    return {
+      id: s.id,
+      titolo: s.title || null,
+      esatto: scelta.esatto,
+      // w185: sul widget la locandina è larga ~70dp e la cache immagini non è persistente.
+      poster: s.poster_path ? `https://image.tmdb.org/t/p/w185${s.poster_path}` : null,
+      voto: Number.isFinite(s.vote_average) && (s.vote_count || 0) >= VOTI_MINIMI ? Math.round(s.vote_average * 10) / 10 : null,
+      voti: s.vote_count || 0,
+      uscita: await uscitaItaliana(s.id, key, s.release_date),
+    };
+  }
+  return { id: null };
 }
 
-async function arricchisci(titoli) {
+async function arricchisci(titoli, oggi) {
   const avvisi = [];
   const mappa = new Map();
   const key = process.env.TMDB_API_KEY;
@@ -579,12 +617,13 @@ async function arricchisci(titoli) {
   const adesso = Date.now();
   const fresca = (e) =>
     e?.controllatoIl &&
+    'esatto' in e === Boolean(e.id) &&
     adesso - Date.parse(e.controllatoIl) < (e.id ? GIORNI_CACHE_TROVATO : GIORNI_CACHE_NON_TROVATO) * 86400000;
 
   for (const [chiave, titolo] of distinti) {
     if (fresca(cache[chiave])) continue;
     try {
-      cache[chiave] = { ...(await cercaSuTmdb(titolo, key)), controllatoIl: new Date().toISOString() };
+      cache[chiave] = { ...(await cercaSuTmdb(titolo, key, oggi)), controllatoIl: new Date().toISOString() };
     } catch (err) {
       avvisi.push(`TMDB "${titolo}": ${err.message}`);
     }
@@ -598,21 +637,6 @@ async function arricchisci(titoli) {
 }
 
 /* ========================================== costruzione del JSON del widget == */
-
-/**
- * Punteggio "smart" 0–1: 60% voto, 40% novità (un film perde freschezza in 60 giorni).
- * Sta qui e non nel widget: cambiare la formula costa una riga qui, mentre ogni
- * modifica al widget costa un giro di iterazioni con l'AI di Essential Apps.
- */
-export function punteggio({ rating, releaseDate }, oggi, scalaVoto = 5) {
-  const voto = Number.isFinite(rating) ? Math.min(1, Math.max(0, rating / scalaVoto)) : 0.5;
-  let novita = 0.5;
-  if (releaseDate) {
-    const giorni = Math.round((Date.parse(oggi) - Date.parse(releaseDate)) / 86400000);
-    if (Number.isFinite(giorni)) novita = giorni < 0 ? 1 : Math.max(0, 1 - giorni / 60);
-  }
-  return Math.round((0.6 * voto + 0.4 * novita) * 1000) / 1000;
-}
 
 /**
  * Per ogni film, il titolo "scritto meglio" tra tutte le sale: l'Andromeda scrive tutto in
@@ -632,7 +656,9 @@ export function titoliMigliori(elenchiDiFilm) {
 }
 
 function titoloDaMostrare(raw, info, titoli) {
-  const base = (info?.titolo || capitalizza(titoli?.get(chiaveTitolo(raw)) || titoloPulito(raw)) || raw).trim();
+  // Il titolo di TMDB solo se l'abbinamento è esatto: "Avengers: Endgame Extra" resta com'è.
+  const tmdb = info?.esatto ? info.titolo : null;
+  const base = (tmdb || capitalizza(titoli?.get(chiaveTitolo(raw)) || titoloPulito(raw)) || raw).trim();
   if (!inLinguaOriginale(raw)) return base;
   return /\bv\.?\s?o\.?/i.test(base) ? base : `${base} (V.O.)`;
 }
@@ -659,7 +685,25 @@ export function unisciDoppioni(film) {
   return [...perChiave.values()];
 }
 
-export function costruisciFeed(film, { oggi, info = new Map(), titoli = new Map(), scalaVoto = 5, giorni = GIORNI } = {}) {
+/** Valori più alti prima, null sempre in fondo (vale per numeri e date ISO). */
+export function discendente(a, b) {
+  if (a == null && b == null) return 0;
+  if (a == null) return 1;
+  if (b == null) return -1;
+  return a > b ? -1 : a < b ? 1 : 0;
+}
+
+const perVoto = (x, y) => discendente(x.rating, y.rating) || discendente(x.releaseDate, y.releaseDate) || x.title.localeCompare(y.title, 'it');
+const perUscita = (x, y) => discendente(x.releaseDate, y.releaseDate) || discendente(x.rating, y.rating) || x.title.localeCompare(y.title, 'it');
+
+/**
+ * Ogni film porta due posizioni in classifica, calcolate qui una volta per tutte:
+ *   rankVoto    voto TMDB dal più alto, a parità uscita più recente
+ *   rankUscita  uscita in Italia dalla più recente, a parità voto più alto
+ * Il widget raggruppa per giorno e dentro ogni giorno ordina per una delle due.
+ * L'array arriva già ordinato per rankVoto.
+ */
+export function costruisciFeed(film, { oggi, info = new Map(), titoli = new Map(), scalaVoto = 10, giorni = GIORNI } = {}) {
   const ammesse = new Set(intervallo(oggi, giorni));
   const voci = [];
 
@@ -678,16 +722,16 @@ export function costruisciFeed(film, { oggi, info = new Map(), titoli = new Map(
     // Se oggi non proietta, si mostra il primo giorno utile dichiarandolo.
     const giornoMostrato = perGiorno[oggi]?.length ? oggi : date[0];
     const voto = dati?.voto;
-
-    const rating = Number.isFinite(voto) ? Math.round((scalaVoto === 10 ? voto : voto / 2) * 10) / 10 : null;
-    const releaseDate = dati?.uscita || null;
+    const rating = Number.isFinite(voto) ? Math.round((scalaVoto === 5 ? voto / 2 : voto) * 10) / 10 : null;
+    // Locandina: quella di TMDB se il film è proprio quello, altrimenti quella della sala
+    // (per riedizioni ed eventi è la locandina giusta).
+    const poster = dati?.esatto ? dati.poster || f.poster : f.poster || dati?.poster;
 
     voci.push({
       title: titoloDaMostrare(f.titolo, dati, titoli),
-      poster: dati?.poster || f.poster || null,
+      poster: poster || null,
       rating,
-      releaseDate,
-      score: punteggio({ rating, releaseDate }, oggi, scalaVoto),
+      releaseDate: dati?.uscita || null,
       showtimes: perGiorno[giornoMostrato],
       showtimesDate: giornoMostrato,
       days: perGiorno,
@@ -697,17 +741,12 @@ export function costruisciFeed(film, { oggi, info = new Map(), titoli = new Map(
     });
   }
 
-  // Ordine di default = ordine "smart": prima chi proietta oggi, poi per punteggio.
-  // Così anche un widget che non riordina nulla mostra la lista giusta.
-  voci.sort((a, b) => {
-    const ax = a.showtimesDate === oggi ? 0 : 1;
-    const bx = b.showtimesDate === oggi ? 0 : 1;
-    if (ax !== bx) return ax - bx;
-    if (ax === 1 && a.showtimesDate !== b.showtimesDate) return a.showtimesDate < b.showtimesDate ? -1 : 1;
-    if (b.score !== a.score) return b.score - a.score;
-    return a.title.localeCompare(b.title, 'it');
+  [...voci].sort(perUscita).forEach((v, i) => {
+    v.rankUscita = i;
   });
-
+  voci.sort(perVoto).forEach((v, i) => {
+    v.rankVoto = i;
+  });
   return voci;
 }
 
@@ -802,7 +841,7 @@ async function main() {
     }),
   );
 
-  const { mappa: info, avvisi: avvisiTmdb } = await arricchisci(risultati.flatMap((r) => r.film.map((f) => f.titolo)));
+  const { mappa: info, avvisi: avvisiTmdb } = await arricchisci(risultati.flatMap((r) => r.film.map((f) => f.titolo)), oggi);
 
   const titoli = titoliMigliori(risultati.map((r) => r.film));
   const avvisi = [...avvisiTmdb];
