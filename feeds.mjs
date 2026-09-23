@@ -114,16 +114,47 @@ const RUMORE = [
   /\bcinema in festa\b/gi,
   /\bevento\s*\d*\b/gi,
   /\(\s*\d+\s*h\s*\d{0,2}\s*['’]?\s*\)/gi, // durata tipo "(1H50')" nei titoli dell'Andromeda
+  /\bc\.a\.(?=\s|$)/gi, // "Contenuto Alternativo": così UCI marca concerti ed eventi
 ];
 
 export function titoloPulito(raw) {
   let t = String(raw || '').replace(/\s+/g, ' ').trim();
   for (const re of RUMORE) t = t.replace(re, ' ');
-  return t.replace(/\s*[-–—]\s*$/, '').replace(/\s*\(\s*\)\s*/g, ' ').replace(/\s{2,}/g, ' ').trim();
+  return t
+    .replace(/\s*\(\s*\)\s*/g, ' ')
+    .replace(/\s{2,}/g, ' ')
+    .trim()
+    .replace(/[\s\-–—.,:;·]+$/, ''); // resti come "- ." dopo aver tolto "V. O."
+}
+
+// Parole che in un titolo restano minuscole (tranne all'inizio o dopo ":" e " - ").
+const PAROLE_PICCOLE = new Set(
+  ('a ad al allo alla ai agli alle e ed di da dal dallo dalla dai dagli dalle del dello della dei degli delle ' +
+    'in nel nello nella nei negli nelle con su sul sullo sulla sui sugli sulle per tra fra il lo la i gli le un uno una o ' +
+    'of the and to on at for vs')
+    .split(' '),
+);
+
+/** Titoli TUTTI MAIUSCOLI -> maiuscole sensate. Quelli che hanno già minuscole restano com'erano. */
+export function capitalizza(titolo) {
+  const t = String(titolo || '');
+  if (!t || /\p{Ll}/u.test(t)) return t;
+  let inizio = true;
+  return t
+    .toLowerCase()
+    .split(' ')
+    .map((parola) => {
+      const nuda = parola.replace(/[^\p{L}']/gu, '');
+      const risultato = !inizio && PAROLE_PICCOLE.has(nuda) ? parola : parola.replace(/\p{L}/u, (c) => c.toUpperCase());
+      inizio = parola === '-' || parola === '–' || /[:.?!]$/.test(parola);
+      return risultato;
+    })
+    .join(' ');
 }
 
 export function chiaveTitolo(raw) {
   return titoloPulito(raw)
+    .replace(/&/g, ' e ')
     .normalize('NFD')
     .replace(/[̀-ͯ]/g, '')
     .toLowerCase()
@@ -583,8 +614,25 @@ export function punteggio({ rating, releaseDate }, oggi, scalaVoto = 5) {
   return Math.round((0.6 * voto + 0.4 * novita) * 1000) / 1000;
 }
 
-function titoloDaMostrare(raw, info) {
-  const base = (info?.titolo || titoloPulito(raw) || raw).trim();
+/**
+ * Per ogni film, il titolo "scritto meglio" tra tutte le sale: l'Andromeda scrive tutto in
+ * maiuscolo, UCI e Troisi di solito no. Si preferisce una versione con le minuscole.
+ */
+export function titoliMigliori(elenchiDiFilm) {
+  const migliori = new Map();
+  for (const film of elenchiDiFilm.flat()) {
+    const pulito = titoloPulito(film.titolo);
+    const chiave = chiaveTitolo(film.titolo);
+    if (!chiave || !pulito) continue;
+    const attuale = migliori.get(chiave);
+    const haMinuscole = /\p{Ll}/u.test(pulito);
+    if (!attuale || (haMinuscole && !/\p{Ll}/u.test(attuale))) migliori.set(chiave, pulito);
+  }
+  return migliori;
+}
+
+function titoloDaMostrare(raw, info, titoli) {
+  const base = (info?.titolo || capitalizza(titoli?.get(chiaveTitolo(raw)) || titoloPulito(raw)) || raw).trim();
   if (!inLinguaOriginale(raw)) return base;
   return /\bv\.?\s?o\.?/i.test(base) ? base : `${base} (V.O.)`;
 }
@@ -611,7 +659,7 @@ export function unisciDoppioni(film) {
   return [...perChiave.values()];
 }
 
-export function costruisciFeed(film, { oggi, info = new Map(), scalaVoto = 5, giorni = GIORNI } = {}) {
+export function costruisciFeed(film, { oggi, info = new Map(), titoli = new Map(), scalaVoto = 5, giorni = GIORNI } = {}) {
   const ammesse = new Set(intervallo(oggi, giorni));
   const voci = [];
 
@@ -635,7 +683,7 @@ export function costruisciFeed(film, { oggi, info = new Map(), scalaVoto = 5, gi
     const releaseDate = dati?.uscita || null;
 
     voci.push({
-      title: titoloDaMostrare(f.titolo, dati),
+      title: titoloDaMostrare(f.titolo, dati, titoli),
       poster: dati?.poster || f.poster || null,
       rating,
       releaseDate,
@@ -756,6 +804,7 @@ async function main() {
 
   const { mappa: info, avvisi: avvisiTmdb } = await arricchisci(risultati.flatMap((r) => r.film.map((f) => f.titolo)));
 
+  const titoli = titoliMigliori(risultati.map((r) => r.film));
   const avvisi = [...avvisiTmdb];
   const feeds = [];
   const perSala = {};
@@ -772,7 +821,7 @@ async function main() {
       await mkdir(DEBUG, { recursive: true });
       await writeFile(join(DEBUG, `${r.sala.key}.html`), r.grezzo, 'utf8');
     }
-    const voci = costruisciFeed(r.film, { oggi, info, scalaVoto: RATING_SCALE });
+    const voci = costruisciFeed(r.film, { oggi, info, titoli, scalaVoto: RATING_SCALE });
     const percorso = join(DOCS, `${r.sala.key}.json`);
 
     let pubblicato = voci;
