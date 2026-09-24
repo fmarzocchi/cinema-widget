@@ -11,13 +11,10 @@
     },
     "releaseDate": "2026-07-16",
     "showtimes": [
-      "13:30"
+      "21:15"
     ],
-    "showtimesDate": "2026-09-23",
+    "showtimesDate": "2026-09-24",
     "days": {
-      "2026-09-23": [
-        "13:30"
-      ],
       "2026-09-24": [
         "21:15"
       ],
@@ -36,14 +33,6 @@
       ]
     },
     "shows": {
-      "2026-09-23": [
-        {
-          "time": "13:30",
-          "tags": [
-            "VO"
-          ]
-        }
-      ],
       "2026-09-24": [
         {
           "time": "21:15",
@@ -95,7 +84,6 @@
     "vo": true,
     "url": "https://www.liveticket.it/opera.aspx?Id=695487",
     "smart": {
-      "2026-09-23": 72,
       "2026-09-24": 58,
       "2026-09-25": 58,
       "2026-09-26": 72,
@@ -104,6 +92,84 @@
     },
     "rankUscita": 5,
     "rankVoto": 0
+  },
+  {
+    "title": "NAZA",
+    "poster": "https://image.tmdb.org/t/p/w185/qfdNOEmMroHjPLpZhNkORcVzgrQ.jpg",
+    "rating": 8,
+    "ratings": {
+      "letterboxd": 7.6,
+      "imdb": 6.8,
+      "metacritic": 9.5,
+      "mubi": null
+    },
+    "releaseDate": "2026-09-25",
+    "showtimes": [
+      "11:00",
+      "19:00"
+    ],
+    "showtimesDate": "2026-09-28",
+    "days": {
+      "2026-09-28": [
+        "11:00",
+        "19:00"
+      ],
+      "2026-09-29": [
+        "17:00"
+      ],
+      "2026-09-30": [
+        "14:00",
+        "18:00"
+      ]
+    },
+    "shows": {
+      "2026-09-28": [
+        {
+          "time": "11:00",
+          "tags": [
+            "VO"
+          ]
+        },
+        {
+          "time": "19:00",
+          "tags": [
+            "VO"
+          ]
+        }
+      ],
+      "2026-09-29": [
+        {
+          "time": "17:00",
+          "tags": [
+            "VO"
+          ]
+        }
+      ],
+      "2026-09-30": [
+        {
+          "time": "14:00",
+          "tags": [
+            "VO"
+          ]
+        },
+        {
+          "time": "18:00",
+          "tags": [
+            "VO"
+          ]
+        }
+      ]
+    },
+    "room": null,
+    "vo": true,
+    "url": "https://www.liveticket.it/opera.aspx?Id=695512",
+    "smart": {
+      "2026-09-28": 94,
+      "2026-09-29": 94,
+      "2026-09-30": 94
+    },
+    "rankUscita": 0,
+    "rankVoto": 1
   },
   {
     "title": "Pusher II - With Blood on My Hands",
@@ -142,65 +208,6 @@
       "2026-09-26": 51
     },
     "rankUscita": 8,
-    "rankVoto": 1
-  },
-  {
-    "title": "NAZA",
-    "poster": "https://image.tmdb.org/t/p/w185/qfdNOEmMroHjPLpZhNkORcVzgrQ.jpg",
-    "rating": 7.9,
-    "ratings": {
-      "letterboxd": 7.6,
-      "imdb": 6.7,
-      "metacritic": 9.5,
-      "mubi": null
-    },
-    "releaseDate": "2026-09-25",
-    "showtimes": [
-      "11:00",
-      "19:00"
-    ],
-    "showtimesDate": "2026-09-28",
-    "days": {
-      "2026-09-28": [
-        "11:00",
-        "19:00"
-      ],
-      "2026-09-29": [
-        "17:00"
-      ]
-    },
-    "shows": {
-      "2026-09-28": [
-        {
-          "time": "11:00",
-          "tags": [
-            "VO"
-          ]
-        },
-        {
-          "time": "19:00",
-          "tags": [
-            "VO"
-          ]
-        }
-      ],
-      "2026-09-29": [
-        {
-          "time": "17:00",
-          "tags": [
-            "VO"
-          ]
-        }
-      ]
-    },
-    "room": null,
-    "vo": true,
-    "url": "https://www.liveticket.it/opera.aspx?Id=695512",
-    "smart": {
-      "2026-09-28": 93,
-      "2026-09-29": 93
-    },
-    "rankUscita": 0,
     "rankVoto": 2
   },
   {
@@ -281,10 +288,10 @@
     "vo": true,
     "url": "https://www.liveticket.it/opera.aspx?Id=687649",
     "smart": {
-      "2026-09-25": 58,
-      "2026-09-26": 58,
-      "2026-09-27": 58,
-      "2026-09-28": 58,
+      "2026-09-25": 57,
+      "2026-09-26": 57,
+      "2026-09-27": 57,
+      "2026-09-28": 57,
       "2026-09-29": 72
     },
     "rankUscita": 4,
@@ -302,13 +309,11 @@
     },
     "releaseDate": "2026-09-16",
     "showtimes": [
-      "17:00"
+      "11:00",
+      "19:00"
     ],
-    "showtimesDate": "2026-09-23",
+    "showtimesDate": "2026-09-24",
     "days": {
-      "2026-09-23": [
-        "17:00"
-      ],
       "2026-09-24": [
         "11:00",
         "19:00"
@@ -330,15 +335,12 @@
       ],
       "2026-09-29": [
         "13:00"
+      ],
+      "2026-09-30": [
+        "11:00"
       ]
     },
     "shows": {
-      "2026-09-23": [
-        {
-          "time": "17:00",
-          "tags": []
-        }
-      ],
       "2026-09-24": [
         {
           "time": "11:00",
@@ -390,19 +392,25 @@
           "time": "13:00",
           "tags": []
         }
+      ],
+      "2026-09-30": [
+        {
+          "time": "11:00",
+          "tags": []
+        }
       ]
     },
     "room": null,
     "vo": false,
     "url": "https://www.liveticket.it/opera.aspx?Id=692494",
     "smart": {
-      "2026-09-23": 84,
       "2026-09-24": 84,
       "2026-09-25": 84,
       "2026-09-26": 84,
       "2026-09-27": 84,
-      "2026-09-28": 70,
-      "2026-09-29": 84
+      "2026-09-28": 69,
+      "2026-09-29": 84,
+      "2026-09-30": 69
     },
     "rankUscita": 3,
     "rankVoto": 4
@@ -507,6 +515,9 @@
       ],
       "2026-09-27": [
         "20:30"
+      ],
+      "2026-09-30": [
+        "16:00"
       ]
     },
     "shows": {
@@ -527,6 +538,12 @@
           "time": "20:30",
           "tags": []
         }
+      ],
+      "2026-09-30": [
+        {
+          "time": "16:00",
+          "tags": []
+        }
       ]
     },
     "room": null,
@@ -535,7 +552,8 @@
     "smart": {
       "2026-09-24": 73,
       "2026-09-25": 73,
-      "2026-09-27": 73
+      "2026-09-27": 73,
+      "2026-09-30": 73
     },
     "rankUscita": 1,
     "rankVoto": 7
@@ -591,13 +609,11 @@
     },
     "releaseDate": "2026-09-17",
     "showtimes": [
-      "11:00"
+      "13:00",
+      "17:00"
     ],
-    "showtimesDate": "2026-09-23",
+    "showtimesDate": "2026-09-24",
     "days": {
-      "2026-09-23": [
-        "11:00"
-      ],
       "2026-09-24": [
         "13:00",
         "17:00"
@@ -620,12 +636,6 @@
       ]
     },
     "shows": {
-      "2026-09-23": [
-        {
-          "time": "11:00",
-          "tags": []
-        }
-      ],
       "2026-09-24": [
         {
           "time": "13:00",
@@ -675,13 +685,12 @@
     "vo": false,
     "url": "https://www.liveticket.it/opera.aspx?Id=695443",
     "smart": {
-      "2026-09-23": 78,
-      "2026-09-24": 78,
-      "2026-09-25": 78,
+      "2026-09-24": 77,
+      "2026-09-25": 77,
       "2026-09-26": 63,
       "2026-09-27": 63,
       "2026-09-28": 63,
-      "2026-09-29": 78
+      "2026-09-29": 77
     },
     "rankUscita": 2,
     "rankVoto": 9
@@ -726,8 +735,8 @@
     "rankVoto": 10
   },
   {
-    "title": "Un Prophète - ep. 1-4",
-    "poster": "https://cinematroisi.liveticket.it/wp-content/uploads/sites/48/00306838-180x257.jpg",
+    "title": "Un Prophète - ep. 5-8",
+    "poster": "https://cinematroisi.liveticket.it/wp-content/uploads/sites/48/00306859-180x257.jpg",
     "rating": null,
     "ratings": {
       "letterboxd": null,
@@ -739,14 +748,14 @@
     "showtimes": [
       "19:30"
     ],
-    "showtimesDate": "2026-09-23",
+    "showtimesDate": "2026-09-30",
     "days": {
-      "2026-09-23": [
+      "2026-09-30": [
         "19:30"
       ]
     },
     "shows": {
-      "2026-09-23": [
+      "2026-09-30": [
         {
           "time": "19:30",
           "tags": [
@@ -757,9 +766,9 @@
     },
     "room": null,
     "vo": true,
-    "url": "https://www.liveticket.it/opera.aspx?Id=695493",
+    "url": "https://www.liveticket.it/opera.aspx?Id=695525",
     "smart": {
-      "2026-09-23": 64
+      "2026-09-30": 50
     },
     "rankUscita": 11,
     "rankVoto": 11

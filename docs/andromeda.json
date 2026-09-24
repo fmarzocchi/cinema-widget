@@ -2,10 +2,10 @@
   {
     "title": "NAZA",
     "poster": "https://image.tmdb.org/t/p/w185/qfdNOEmMroHjPLpZhNkORcVzgrQ.jpg",
-    "rating": 7.9,
+    "rating": 8,
     "ratings": {
       "letterboxd": 7.6,
-      "imdb": 6.7,
+      "imdb": 6.8,
       "metacritic": 9.5,
       "mubi": null
     },
@@ -43,7 +43,7 @@
     "vo": false,
     "url": "https://roma.andromeda.18tickets.it/film/77608",
     "smart": {
-      "2026-09-28": 93
+      "2026-09-28": 94
     },
     "rankUscita": 0,
     "rankVoto": 0
@@ -169,8 +169,8 @@
     "vo": false,
     "url": "https://roma.andromeda.18tickets.it/film/76984",
     "smart": {
-      "2026-09-24": 75,
-      "2026-09-25": 75
+      "2026-09-24": 74,
+      "2026-09-25": 74
     },
     "rankUscita": 6,
     "rankVoto": 2
@@ -298,8 +298,8 @@
     "vo": false,
     "url": "https://roma.andromeda.18tickets.it/film/76981",
     "smart": {
-      "2026-09-24": 65,
-      "2026-09-25": 65
+      "2026-09-24": 64,
+      "2026-09-25": 64
     },
     "rankUscita": 4,
     "rankVoto": 5
@@ -356,8 +356,8 @@
     "vo": false,
     "url": "https://roma.andromeda.18tickets.it/film/77708",
     "smart": {
-      "2026-09-24": 64,
-      "2026-09-25": 64
+      "2026-09-24": 63,
+      "2026-09-25": 63
     },
     "rankUscita": 8,
     "rankVoto": 6
@@ -508,8 +508,8 @@
     "vo": false,
     "url": "https://roma.andromeda.18tickets.it/film/77707",
     "smart": {
-      "2026-09-24": 34,
-      "2026-09-25": 34
+      "2026-09-24": 33,
+      "2026-09-25": 33
     },
     "rankUscita": 7,
     "rankVoto": 9
@@ -552,7 +552,7 @@
     "vo": false,
     "url": "https://roma.andromeda.18tickets.it/film/68069",
     "smart": {
-      "2026-09-24": 68
+      "2026-09-24": 67
     },
     "rankUscita": 3,
     "rankVoto": 10
