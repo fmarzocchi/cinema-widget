@@ -45,7 +45,7 @@
     "smart": {
       "2026-09-28": 94
     },
-    "rankUscita": 0,
+    "rankUscita": 1,
     "rankVoto": 0
   },
   {
@@ -92,9 +92,9 @@
     "vo": false,
     "url": "https://roma.andromeda.18tickets.it/film/78266",
     "smart": {
-      "2026-09-25": 90
+      "2026-09-25": 89
     },
-    "rankUscita": 1,
+    "rankUscita": 2,
     "rankVoto": 1
   },
   {
@@ -135,9 +135,9 @@
     "vo": false,
     "url": "https://roma.andromeda.18tickets.it/film/73085",
     "smart": {
-      "2026-09-25": 74
+      "2026-09-25": 73
     },
-    "rankUscita": 6,
+    "rankUscita": 7,
     "rankVoto": 2
   },
   {
@@ -180,7 +180,7 @@
     "smart": {
       "2026-09-25": 52
     },
-    "rankUscita": 9,
+    "rankUscita": 10,
     "rankVoto": 3
   },
   {
@@ -219,7 +219,7 @@
     "smart": {
       "2026-09-25": 43
     },
-    "rankUscita": 10,
+    "rankUscita": 11,
     "rankVoto": 4
   },
   {
@@ -254,9 +254,9 @@
     "vo": false,
     "url": "https://roma.andromeda.18tickets.it/film/75263",
     "smart": {
-      "2026-09-25": 64
+      "2026-09-25": 63
     },
-    "rankUscita": 4,
+    "rankUscita": 5,
     "rankVoto": 5
   },
   {
@@ -299,7 +299,7 @@
     "smart": {
       "2026-09-25": 63
     },
-    "rankUscita": 8,
+    "rankUscita": 9,
     "rankVoto": 6
   },
   {
@@ -336,7 +336,7 @@
     "smart": {
       "2026-09-25": 34
     },
-    "rankUscita": 11,
+    "rankUscita": 12,
     "rankVoto": 7
   },
   {
@@ -377,9 +377,9 @@
     "vo": false,
     "url": "https://roma.andromeda.18tickets.it/film/76986",
     "smart": {
-      "2026-09-25": 70
+      "2026-09-25": 69
     },
-    "rankUscita": 2,
+    "rankUscita": 3,
     "rankVoto": 8
   },
   {
@@ -414,10 +414,67 @@
     "vo": false,
     "url": "https://roma.andromeda.18tickets.it/film/73580",
     "smart": {
-      "2026-09-25": 33
+      "2026-09-25": 32
     },
-    "rankUscita": 7,
+    "rankUscita": 8,
     "rankVoto": 9
+  },
+  {
+    "title": "Digger",
+    "poster": "https://image.tmdb.org/t/p/w185/1ATXKrIPJyKNwnJ6lcG088Sa6zi.jpg",
+    "rating": null,
+    "ratings": {
+      "letterboxd": null,
+      "imdb": null,
+      "metacritic": null,
+      "mubi": null
+    },
+    "releaseDate": "2026-10-01",
+    "showtimes": [
+      "17:10",
+      "18:45",
+      "20:30",
+      "21:20"
+    ],
+    "showtimesDate": "2026-10-01",
+    "days": {
+      "2026-10-01": [
+        "17:10",
+        "18:45",
+        "20:30",
+        "21:20"
+      ]
+    },
+    "shows": {
+      "2026-10-01": [
+        {
+          "time": "17:10",
+          "tags": []
+        },
+        {
+          "time": "18:45",
+          "tags": []
+        },
+        {
+          "time": "20:30",
+          "tags": [
+            "VO"
+          ]
+        },
+        {
+          "time": "21:20",
+          "tags": []
+        }
+      ]
+    },
+    "room": "Sala 2",
+    "vo": false,
+    "url": "https://roma.andromeda.18tickets.it/film/78828",
+    "smart": {
+      "2026-10-01": 79
+    },
+    "rankUscita": 0,
+    "rankVoto": 10
   },
   {
     "title": "Ultimo - Tutto. Live a Tor Vergata",
@@ -457,10 +514,10 @@
     "vo": false,
     "url": "https://roma.andromeda.18tickets.it/film/68069",
     "smart": {
-      "2026-09-25": 67
+      "2026-09-25": 66
     },
-    "rankUscita": 3,
-    "rankVoto": 10
+    "rankUscita": 4,
+    "rankVoto": 11
   },
   {
     "title": "Dov’è la fiesta?",
@@ -494,10 +551,10 @@
     "vo": false,
     "url": "https://roma.andromeda.18tickets.it/film/76979",
     "smart": {
-      "2026-09-25": 54
+      "2026-09-25": 53
     },
-    "rankUscita": 5,
-    "rankVoto": 11
+    "rankUscita": 6,
+    "rankVoto": 12
   },
   {
     "title": "Refn Celebration",
@@ -533,7 +590,7 @@
     "smart": {
       "2026-09-28": 45
     },
-    "rankUscita": 12,
-    "rankVoto": 12
+    "rankUscita": 13,
+    "rankVoto": 13
   }
 ]
