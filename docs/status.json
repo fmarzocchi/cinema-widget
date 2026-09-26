@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-09-25T19:50:29.098Z",
-  "today": "2026-09-25",
+  "updatedAt": "2026-09-26T00:23:01.233Z",
+  "today": "2026-09-26",
   "ratingScale": 10,
   "ratingSources": {
     "film": 42,
@@ -24,7 +24,7 @@
       "key": "troisi",
       "label": "TROISI",
       "cinema": "Cinema Troisi",
-      "count": 13,
+      "count": 14,
       "state": "ok",
       "url": "https://fmarzocchi.github.io/cinema-widget/troisi.json"
     },
