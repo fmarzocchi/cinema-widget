@@ -5,7 +5,7 @@
     "rating": 8,
     "ratings": {
       "letterboxd": 7.6,
-      "imdb": 6.8,
+      "imdb": 6.9,
       "metacritic": 9.5,
       "mubi": null
     },
@@ -54,7 +54,7 @@
     "rating": 7.7,
     "ratings": {
       "letterboxd": 7.6,
-      "imdb": 7.6,
+      "imdb": 7.7,
       "metacritic": 7.9,
       "mubi": null
     },
@@ -379,10 +379,10 @@
   {
     "title": "Dov’è la fiesta?",
     "poster": "https://image.tmdb.org/t/p/w185/gtTw3Pbf0jj69Xq1nnHDXRztpEb.jpg",
-    "rating": 6.8,
+    "rating": 6.7,
     "ratings": {
       "letterboxd": null,
-      "imdb": 6.8,
+      "imdb": 6.7,
       "metacritic": null,
       "mubi": null
     },
@@ -408,7 +408,7 @@
     "vo": false,
     "url": "https://roma.andromeda.18tickets.it/film/76979",
     "smart": {
-      "2026-09-26": 53
+      "2026-09-26": 52
     },
     "rankUscita": 6,
     "rankVoto": 9

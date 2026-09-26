@@ -82,7 +82,7 @@
     "rating": 8,
     "ratings": {
       "letterboxd": 7.6,
-      "imdb": 6.8,
+      "imdb": 6.9,
       "metacritic": 9.5,
       "mubi": null
     },
@@ -139,7 +139,7 @@
     "rating": 7.7,
     "ratings": {
       "letterboxd": 7.6,
-      "imdb": 7.6,
+      "imdb": 7.7,
       "metacritic": 7.9,
       "mubi": null
     },
@@ -335,7 +335,7 @@
     "vo": false,
     "url": "https://ucicinemas.it/film/lisola-dei-ricordi/",
     "smart": {
-      "2026-09-26": 74,
+      "2026-09-26": 76,
       "2026-09-27": 72,
       "2026-09-28": 76,
       "2026-09-29": 76,
@@ -433,8 +433,6 @@
     },
     "releaseDate": "2019-04-24",
     "showtimes": [
-      "10:00",
-      "10:15",
       "11:10",
       "12:50",
       "13:30",
@@ -451,8 +449,6 @@
     "showtimesDate": "2026-09-26",
     "days": {
       "2026-09-26": [
-        "10:00",
-        "10:15",
         "11:10",
         "12:50",
         "13:30",
@@ -521,16 +517,6 @@
     },
     "shows": {
       "2026-09-26": [
-        {
-          "time": "10:00",
-          "tags": []
-        },
-        {
-          "time": "10:15",
-          "tags": [
-            "IMAX"
-          ]
-        },
         {
           "time": "11:10",
           "tags": [
@@ -1015,7 +1001,7 @@
     "vo": false,
     "url": "https://ucicinemas.it/film/resident-evil/",
     "smart": {
-      "2026-09-26": 67,
+      "2026-09-26": 70,
       "2026-09-27": 60,
       "2026-09-28": 63,
       "2026-09-29": 63,
@@ -1114,7 +1100,7 @@
     "vo": false,
     "url": "https://ucicinemas.it/film/coyote-vs-acme/",
     "smart": {
-      "2026-09-26": 50,
+      "2026-09-26": 51,
       "2026-09-27": 49,
       "2026-09-28": 47,
       "2026-09-29": 47,
@@ -1135,13 +1121,11 @@
     },
     "releaseDate": "2026-07-29",
     "showtimes": [
-      "10:10",
       "22:40"
     ],
     "showtimesDate": "2026-09-26",
     "days": {
       "2026-09-26": [
-        "10:10",
         "22:40"
       ],
       "2026-09-27": [
@@ -1150,10 +1134,6 @@
     },
     "shows": {
       "2026-09-26": [
-        {
-          "time": "10:10",
-          "tags": []
-        },
         {
           "time": "22:40",
           "tags": []
@@ -1166,11 +1146,11 @@
         }
       ]
     },
-    "room": "Sala 12",
+    "room": "Sala 11",
     "vo": false,
     "url": "https://ucicinemas.it/film/spider-man-brand-new-day/",
     "smart": {
-      "2026-09-26": 36,
+      "2026-09-26": 35,
       "2026-09-27": 34
     },
     "rankUscita": 22,
@@ -1188,14 +1168,12 @@
     },
     "releaseDate": "2006-08-23",
     "showtimes": [
-      "10:30",
       "14:40",
       "18:20"
     ],
     "showtimesDate": "2026-09-26",
     "days": {
       "2026-09-26": [
-        "10:30",
         "14:40",
         "18:20"
       ],
@@ -1220,10 +1198,6 @@
     "shows": {
       "2026-09-26": [
         {
-          "time": "10:30",
-          "tags": []
-        },
-        {
           "time": "14:40",
           "tags": []
         },
@@ -1277,11 +1251,11 @@
         }
       ]
     },
-    "room": "Sala 2",
+    "room": "Sala 10",
     "vo": false,
     "url": "https://ucicinemas.it/film/cars-motori-ruggenti/",
     "smart": {
-      "2026-09-26": 31,
+      "2026-09-26": 29,
       "2026-09-27": 30,
       "2026-09-28": 31,
       "2026-09-29": 31,
@@ -1459,7 +1433,7 @@
     "vo": false,
     "url": "https://ucicinemas.it/film/heart-of-the-beast/",
     "smart": {
-      "2026-09-26": 63,
+      "2026-09-26": 65,
       "2026-09-27": 61,
       "2026-09-28": 61,
       "2026-09-29": 61,
@@ -1471,10 +1445,10 @@
   {
     "title": "Dov’è la fiesta?",
     "poster": "https://image.tmdb.org/t/p/w185/gtTw3Pbf0jj69Xq1nnHDXRztpEb.jpg",
-    "rating": 6.8,
+    "rating": 6.7,
     "ratings": {
       "letterboxd": null,
-      "imdb": 6.8,
+      "imdb": 6.7,
       "metacritic": null,
       "mubi": null
     },
@@ -1551,11 +1525,11 @@
     "vo": false,
     "url": "https://ucicinemas.it/film/dove-la-fiesta/",
     "smart": {
-      "2026-09-26": 45,
-      "2026-09-27": 45,
-      "2026-09-28": 50,
-      "2026-09-29": 50,
-      "2026-09-30": 50
+      "2026-09-26": 44,
+      "2026-09-27": 44,
+      "2026-09-28": 48,
+      "2026-09-29": 48,
+      "2026-09-30": 48
     },
     "rankUscita": 12,
     "rankVoto": 10
@@ -1795,13 +1769,11 @@
     },
     "releaseDate": "2026-09-09",
     "showtimes": [
-      "10:10",
       "13:45"
     ],
     "showtimesDate": "2026-09-26",
     "days": {
       "2026-09-26": [
-        "10:10",
         "13:45"
       ],
       "2026-09-27": [
@@ -1820,10 +1792,6 @@
     },
     "shows": {
       "2026-09-26": [
-        {
-          "time": "10:10",
-          "tags": []
-        },
         {
           "time": "13:45",
           "tags": []
@@ -1858,11 +1826,11 @@
         }
       ]
     },
-    "room": "Sala 9",
+    "room": "Sala 7",
     "vo": false,
     "url": "https://ucicinemas.it/film/paw-patrol-missione-dinosauri/",
     "smart": {
-      "2026-09-26": 27,
+      "2026-09-26": 25,
       "2026-09-27": 26,
       "2026-09-28": 26,
       "2026-09-29": 26,
@@ -2031,7 +1999,7 @@
     "vo": false,
     "url": "https://ucicinemas.it/film/super-mario-galaxy-il-film/",
     "smart": {
-      "2026-09-26": 8,
+      "2026-09-26": 9,
       "2026-09-27": 7
     },
     "rankUscita": 24,
@@ -2105,7 +2073,7 @@
     "vo": false,
     "url": "https://ucicinemas.it/film/amori-e-incantesimi-2/",
     "smart": {
-      "2026-09-26": 21,
+      "2026-09-26": 22,
       "2026-09-27": 21,
       "2026-09-28": 22,
       "2026-09-29": 22,
@@ -2120,7 +2088,7 @@
     "rating": 5.1,
     "ratings": {
       "letterboxd": 5.3,
-      "imdb": 4.8,
+      "imdb": 4.9,
       "metacritic": null,
       "mubi": null
     },
@@ -2260,7 +2228,7 @@
     "vo": false,
     "url": "https://ucicinemas.it/film/nessun-dolore/",
     "smart": {
-      "2026-09-26": 36,
+      "2026-09-26": 37,
       "2026-09-27": 35,
       "2026-09-28": 41,
       "2026-09-29": 41,
@@ -2314,7 +2282,7 @@
     "vo": false,
     "url": "https://ucicinemas.it/film/oceania/",
     "smart": {
-      "2026-09-26": 11,
+      "2026-09-26": 12,
       "2026-09-27": 11
     },
     "rankUscita": 20,
@@ -2803,7 +2771,7 @@
     "vo": false,
     "url": "https://ucicinemas.it/film/ultimo-tutto-live-a-tor-vergata/",
     "smart": {
-      "2026-09-26": 63,
+      "2026-09-26": 66,
       "2026-09-27": 58,
       "2026-09-28": 59,
       "2026-09-29": 59,

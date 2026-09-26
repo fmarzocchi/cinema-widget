@@ -68,7 +68,7 @@
     "rating": 8,
     "ratings": {
       "letterboxd": 7.6,
-      "imdb": 6.8,
+      "imdb": 6.9,
       "metacritic": 9.5,
       "mubi": null
     },
@@ -466,12 +466,51 @@
     "rankVoto": 7
   },
   {
-    "title": "I figli della scimmia",
-    "poster": "https://image.tmdb.org/t/p/w185/c5tEquC2cAfxfFNIs86QmGzabmU.jpg",
+    "title": "The Dreamers - I sognatori",
+    "poster": "https://image.tmdb.org/t/p/w185/pinNViE433kLUrJppjFAOzgWxdl.jpg",
     "rating": 7.2,
     "ratings": {
+      "letterboxd": 7.1,
+      "imdb": 7.1,
+      "metacritic": 6.3,
+      "mubi": 8.1
+    },
+    "releaseDate": "2003-10-10",
+    "showtimes": [
+      "23:59"
+    ],
+    "showtimesDate": "2026-09-28",
+    "days": {
+      "2026-09-28": [
+        "23:59"
+      ]
+    },
+    "shows": {
+      "2026-09-28": [
+        {
+          "time": "23:59",
+          "tags": [
+            "VO"
+          ]
+        }
+      ]
+    },
+    "room": null,
+    "vo": true,
+    "url": "https://www.liveticket.it/opera.aspx?Id=638825",
+    "smart": {
+      "2026-09-28": 41
+    },
+    "rankUscita": 11,
+    "rankVoto": 8
+  },
+  {
+    "title": "I figli della scimmia",
+    "poster": "https://image.tmdb.org/t/p/w185/c5tEquC2cAfxfFNIs86QmGzabmU.jpg",
+    "rating": 7.1,
+    "ratings": {
       "letterboxd": 6.8,
-      "imdb": 7.5,
+      "imdb": 7.4,
       "metacritic": null,
       "mubi": null
     },
@@ -524,51 +563,12 @@
     "vo": false,
     "url": "https://www.liveticket.it/opera.aspx?Id=695443",
     "smart": {
-      "2026-09-26": 62,
-      "2026-09-27": 62,
-      "2026-09-28": 62,
-      "2026-09-29": 77
+      "2026-09-26": 61,
+      "2026-09-27": 61,
+      "2026-09-28": 61,
+      "2026-09-29": 76
     },
     "rankUscita": 4,
-    "rankVoto": 8
-  },
-  {
-    "title": "The Dreamers - I sognatori",
-    "poster": "https://image.tmdb.org/t/p/w185/pinNViE433kLUrJppjFAOzgWxdl.jpg",
-    "rating": 7.2,
-    "ratings": {
-      "letterboxd": 7.1,
-      "imdb": 7.1,
-      "metacritic": 6.3,
-      "mubi": 8.1
-    },
-    "releaseDate": "2003-10-10",
-    "showtimes": [
-      "23:59"
-    ],
-    "showtimesDate": "2026-09-28",
-    "days": {
-      "2026-09-28": [
-        "23:59"
-      ]
-    },
-    "shows": {
-      "2026-09-28": [
-        {
-          "time": "23:59",
-          "tags": [
-            "VO"
-          ]
-        }
-      ]
-    },
-    "room": null,
-    "vo": true,
-    "url": "https://www.liveticket.it/opera.aspx?Id=638825",
-    "smart": {
-      "2026-09-28": 41
-    },
-    "rankUscita": 11,
     "rankVoto": 9
   },
   {
