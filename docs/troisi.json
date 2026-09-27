@@ -11,37 +11,15 @@
     },
     "releaseDate": "2026-07-16",
     "showtimes": [
-      "13:00"
+      "00:30"
     ],
-    "showtimesDate": "2026-09-26",
+    "showtimesDate": "2026-09-28",
     "days": {
-      "2026-09-26": [
-        "13:00"
-      ],
-      "2026-09-27": [
-        "00:30"
-      ],
       "2026-09-28": [
         "00:30"
       ]
     },
     "shows": {
-      "2026-09-26": [
-        {
-          "time": "13:00",
-          "tags": [
-            "VO"
-          ]
-        }
-      ],
-      "2026-09-27": [
-        {
-          "time": "00:30",
-          "tags": [
-            "VO"
-          ]
-        }
-      ],
       "2026-09-28": [
         {
           "time": "00:30",
@@ -53,10 +31,8 @@
     },
     "room": null,
     "vo": true,
-    "url": "https://www.liveticket.it/opera.aspx?Id=695487",
+    "url": "https://www.liveticket.it/opera.aspx?Id=695498",
     "smart": {
-      "2026-09-26": 57,
-      "2026-09-27": 57,
       "2026-09-28": 57
     },
     "rankUscita": 7,
@@ -133,35 +109,35 @@
     "vo": true,
     "url": "https://www.liveticket.it/opera.aspx?Id=695512",
     "smart": {
-      "2026-09-28": 93,
-      "2026-09-29": 93,
-      "2026-09-30": 93
+      "2026-09-28": 92,
+      "2026-09-29": 92,
+      "2026-09-30": 92
     },
     "rankUscita": 2,
     "rankVoto": 1
   },
   {
-    "title": "Pusher II - With Blood on My Hands",
-    "poster": "https://cinematroisi.liveticket.it/wp-content/uploads/sites/48/00306290-180x257.jpg",
-    "rating": 8,
+    "title": "Drive",
+    "poster": "https://image.tmdb.org/t/p/w185/scTZGnrw4Rh9qm94LID6uxiTUHN.jpg",
+    "rating": 7.9,
     "ratings": {
-      "letterboxd": 8.1,
-      "imdb": 7.3,
-      "metacritic": null,
-      "mubi": 8.5
+      "letterboxd": 7.8,
+      "imdb": 7.8,
+      "metacritic": 7.9,
+      "mubi": 8
     },
-    "releaseDate": "2004-12-25",
+    "releaseDate": "2011-09-30",
     "showtimes": [
       "11:00"
     ],
-    "showtimesDate": "2026-09-26",
+    "showtimesDate": "2026-10-03",
     "days": {
-      "2026-09-26": [
+      "2026-10-03": [
         "11:00"
       ]
     },
     "shows": {
-      "2026-09-26": [
+      "2026-10-03": [
         {
           "time": "11:00",
           "tags": [
@@ -172,9 +148,9 @@
     },
     "room": null,
     "vo": true,
-    "url": "https://www.liveticket.it/opera.aspx?Id=694366",
+    "url": "https://www.liveticket.it/opera.aspx?Id=694368",
     "smart": {
-      "2026-09-26": 51
+      "2026-10-03": 50
     },
     "rankUscita": 10,
     "rankVoto": 2
@@ -191,13 +167,10 @@
     },
     "releaseDate": "2026-08-19",
     "showtimes": [
-      "22:30"
+      "16:00"
     ],
-    "showtimesDate": "2026-09-26",
+    "showtimesDate": "2026-09-27",
     "days": {
-      "2026-09-26": [
-        "22:30"
-      ],
       "2026-09-27": [
         "16:00"
       ],
@@ -209,14 +182,6 @@
       ]
     },
     "shows": {
-      "2026-09-26": [
-        {
-          "time": "22:30",
-          "tags": [
-            "VO"
-          ]
-        }
-      ],
       "2026-09-27": [
         {
           "time": "16:00",
@@ -246,9 +211,8 @@
     "vo": true,
     "url": "https://www.liveticket.it/opera.aspx?Id=687649",
     "smart": {
-      "2026-09-26": 57,
-      "2026-09-27": 57,
-      "2026-09-28": 57,
+      "2026-09-27": 56,
+      "2026-09-28": 56,
       "2026-09-29": 71
     },
     "rankUscita": 6,
@@ -266,15 +230,11 @@
     },
     "releaseDate": "2026-09-16",
     "showtimes": [
-      "16:00",
-      "20:15"
+      "13:30",
+      "18:30"
     ],
-    "showtimesDate": "2026-09-26",
+    "showtimesDate": "2026-09-27",
     "days": {
-      "2026-09-26": [
-        "16:00",
-        "20:15"
-      ],
       "2026-09-27": [
         "13:30",
         "18:30"
@@ -290,16 +250,6 @@
       ]
     },
     "shows": {
-      "2026-09-26": [
-        {
-          "time": "16:00",
-          "tags": []
-        },
-        {
-          "time": "20:15",
-          "tags": []
-        }
-      ],
       "2026-09-27": [
         {
           "time": "13:30",
@@ -333,11 +283,10 @@
     "vo": false,
     "url": "https://www.liveticket.it/opera.aspx?Id=692494",
     "smart": {
-      "2026-09-26": 82,
       "2026-09-27": 82,
-      "2026-09-28": 68,
+      "2026-09-28": 67,
       "2026-09-29": 82,
-      "2026-09-30": 68
+      "2026-09-30": 67
     },
     "rankUscita": 5,
     "rankVoto": 4
@@ -459,8 +408,8 @@
     "vo": false,
     "url": "https://www.liveticket.it/opera.aspx?Id=695495",
     "smart": {
-      "2026-09-27": 72,
-      "2026-09-30": 72
+      "2026-09-27": 71,
+      "2026-09-30": 71
     },
     "rankUscita": 3,
     "rankVoto": 7
@@ -516,13 +465,10 @@
     },
     "releaseDate": "2026-09-17",
     "showtimes": [
-      "18:00"
+      "22:30"
     ],
-    "showtimesDate": "2026-09-26",
+    "showtimesDate": "2026-09-27",
     "days": {
-      "2026-09-26": [
-        "18:00"
-      ],
       "2026-09-27": [
         "22:30"
       ],
@@ -534,12 +480,6 @@
       ]
     },
     "shows": {
-      "2026-09-26": [
-        {
-          "time": "18:00",
-          "tags": []
-        }
-      ],
       "2026-09-27": [
         {
           "time": "22:30",
@@ -563,10 +503,9 @@
     "vo": false,
     "url": "https://www.liveticket.it/opera.aspx?Id=695443",
     "smart": {
-      "2026-09-26": 61,
       "2026-09-27": 61,
       "2026-09-28": 61,
-      "2026-09-29": 76
+      "2026-09-29": 75
     },
     "rankUscita": 4,
     "rankVoto": 9
@@ -673,6 +612,10 @@
       "2026-10-02": [
         "14:00",
         "21:30"
+      ],
+      "2026-10-03": [
+        "16:00",
+        "21:00"
       ]
     },
     "shows": {
@@ -703,6 +646,20 @@
             "VO"
           ]
         }
+      ],
+      "2026-10-03": [
+        {
+          "time": "16:00",
+          "tags": [
+            "VO"
+          ]
+        },
+        {
+          "time": "21:00",
+          "tags": [
+            "VO"
+          ]
+        }
       ]
     },
     "room": null,
@@ -710,7 +667,8 @@
     "url": "https://www.liveticket.it/opera.aspx?Id=697046",
     "smart": {
       "2026-10-01": 79,
-      "2026-10-02": 79
+      "2026-10-02": 79,
+      "2026-10-03": 79
     },
     "rankUscita": 0,
     "rankVoto": 12
