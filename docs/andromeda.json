@@ -5,7 +5,7 @@
     "rating": 8,
     "ratings": {
       "letterboxd": 7.6,
-      "imdb": 6.9,
+      "imdb": 7,
       "metacritic": 9.5,
       "mubi": null
     },
@@ -225,10 +225,10 @@
   {
     "title": "Resident Evil",
     "poster": "https://image.tmdb.org/t/p/w185/D8rnntI88rgzWKDK2yuxm25HTQ.jpg",
-    "rating": 7.6,
+    "rating": 7.5,
     "ratings": {
       "letterboxd": 7.6,
-      "imdb": 7.7,
+      "imdb": 7.6,
       "metacritic": 8.1,
       "mubi": 6.9
     },
@@ -254,7 +254,7 @@
     "vo": false,
     "url": "https://roma.andromeda.18tickets.it/film/75263",
     "smart": {
-      "2026-09-27": 62
+      "2026-09-27": 61
     },
     "rankUscita": 5,
     "rankVoto": 5
@@ -262,10 +262,10 @@
   {
     "title": "Coyote vs. Acme",
     "poster": "https://image.tmdb.org/t/p/w185/x2AtkVKU8IDgeScz354aqoYjUQG.jpg",
-    "rating": 7.5,
+    "rating": 7.4,
     "ratings": {
       "letterboxd": 7.7,
-      "imdb": 7.5,
+      "imdb": 7.4,
       "metacritic": 7.7,
       "mubi": 6.9
     },
@@ -297,7 +297,7 @@
     "vo": false,
     "url": "https://roma.andromeda.18tickets.it/film/71469",
     "smart": {
-      "2026-09-27": 62
+      "2026-09-27": 61
     },
     "rankUscita": 9,
     "rankVoto": 6
@@ -340,6 +340,43 @@
     "rankVoto": 7
   },
   {
+    "title": "Dov’è la fiesta?",
+    "poster": "https://image.tmdb.org/t/p/w185/gtTw3Pbf0jj69Xq1nnHDXRztpEb.jpg",
+    "rating": 6.9,
+    "ratings": {
+      "letterboxd": null,
+      "imdb": 6.9,
+      "metacritic": null,
+      "mubi": null
+    },
+    "releaseDate": "2026-09-17",
+    "showtimes": [
+      "18:45"
+    ],
+    "showtimesDate": "2026-09-27",
+    "days": {
+      "2026-09-27": [
+        "18:45"
+      ]
+    },
+    "shows": {
+      "2026-09-27": [
+        {
+          "time": "18:45",
+          "tags": []
+        }
+      ]
+    },
+    "room": null,
+    "vo": false,
+    "url": "https://roma.andromeda.18tickets.it/film/76979",
+    "smart": {
+      "2026-09-27": 53
+    },
+    "rankUscita": 6,
+    "rankVoto": 8
+  },
+  {
     "title": "Heart of the Beast - Nel profondo selvaggio",
     "poster": "https://image.tmdb.org/t/p/w185/yiqRtrbY63aSPLinH5IsJwKHzZN.jpg",
     "rating": 6.8,
@@ -380,43 +417,6 @@
       "2026-09-27": 67
     },
     "rankUscita": 3,
-    "rankVoto": 8
-  },
-  {
-    "title": "Dov’è la fiesta?",
-    "poster": "https://image.tmdb.org/t/p/w185/gtTw3Pbf0jj69Xq1nnHDXRztpEb.jpg",
-    "rating": 6.7,
-    "ratings": {
-      "letterboxd": null,
-      "imdb": 6.7,
-      "metacritic": null,
-      "mubi": null
-    },
-    "releaseDate": "2026-09-17",
-    "showtimes": [
-      "18:45"
-    ],
-    "showtimesDate": "2026-09-27",
-    "days": {
-      "2026-09-27": [
-        "18:45"
-      ]
-    },
-    "shows": {
-      "2026-09-27": [
-        {
-          "time": "18:45",
-          "tags": []
-        }
-      ]
-    },
-    "room": null,
-    "vo": false,
-    "url": "https://roma.andromeda.18tickets.it/film/76979",
-    "smart": {
-      "2026-09-27": 51
-    },
-    "rankUscita": 6,
     "rankVoto": 9
   },
   {
