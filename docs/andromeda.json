@@ -13,14 +13,16 @@
     "showtimes": [
       "17:00",
       "18:45",
-      "21:00"
+      "21:00",
+      "21:20"
     ],
     "showtimesDate": "2026-09-28",
     "days": {
       "2026-09-28": [
         "17:00",
         "18:45",
-        "21:00"
+        "21:00",
+        "21:20"
       ]
     },
     "shows": {
@@ -35,6 +37,10 @@
         },
         {
           "time": "21:00",
+          "tags": []
+        },
+        {
+          "time": "21:20",
           "tags": []
         }
       ]
@@ -61,29 +67,23 @@
     "releaseDate": "2026-09-24",
     "showtimes": [
       "17:15",
-      "18:45",
-      "21:00"
+      "18:45"
     ],
-    "showtimesDate": "2026-09-27",
+    "showtimesDate": "2026-09-28",
     "days": {
-      "2026-09-27": [
+      "2026-09-28": [
         "17:15",
-        "18:45",
-        "21:00"
+        "18:45"
       ]
     },
     "shows": {
-      "2026-09-27": [
+      "2026-09-28": [
         {
           "time": "17:15",
           "tags": []
         },
         {
           "time": "18:45",
-          "tags": []
-        },
-        {
-          "time": "21:00",
           "tags": []
         }
       ]
@@ -92,47 +92,10 @@
     "vo": false,
     "url": "https://roma.andromeda.18tickets.it/film/78266",
     "smart": {
-      "2026-09-27": 88
+      "2026-09-28": 73
     },
     "rankUscita": 2,
     "rankVoto": 1
-  },
-  {
-    "title": "The Invite - Il piacere è tutto nostro",
-    "poster": "https://image.tmdb.org/t/p/w185/p9kaEC6mE6oNFhZjkbA1ALuvv2q.jpg",
-    "rating": 7.7,
-    "ratings": {
-      "letterboxd": 7.9,
-      "imdb": 7.5,
-      "metacritic": 8.2,
-      "mubi": 7
-    },
-    "releaseDate": "2026-09-16",
-    "showtimes": [
-      "19:15"
-    ],
-    "showtimesDate": "2026-09-27",
-    "days": {
-      "2026-09-27": [
-        "19:15"
-      ]
-    },
-    "shows": {
-      "2026-09-27": [
-        {
-          "time": "19:15",
-          "tags": []
-        }
-      ]
-    },
-    "room": null,
-    "vo": false,
-    "url": "https://roma.andromeda.18tickets.it/film/73085",
-    "smart": {
-      "2026-09-27": 62
-    },
-    "rankUscita": 7,
-    "rankVoto": 2
   },
   {
     "title": "Avengers Endgame Extra - Infinity Vision",
@@ -149,15 +112,15 @@
       "17:00",
       "20:50"
     ],
-    "showtimesDate": "2026-09-27",
+    "showtimesDate": "2026-09-28",
     "days": {
-      "2026-09-27": [
+      "2026-09-28": [
         "17:00",
         "20:50"
       ]
     },
     "shows": {
-      "2026-09-27": [
+      "2026-09-28": [
         {
           "time": "17:00",
           "tags": []
@@ -172,10 +135,10 @@
     "vo": false,
     "url": "https://roma.andromeda.18tickets.it/film/74606",
     "smart": {
-      "2026-09-27": 52
+      "2026-09-28": 47
     },
-    "rankUscita": 10,
-    "rankVoto": 3
+    "rankUscita": 9,
+    "rankVoto": 2
   },
   {
     "title": "Avengers: Endgame Extra",
@@ -191,14 +154,14 @@
     "showtimes": [
       "20:20"
     ],
-    "showtimesDate": "2026-09-27",
+    "showtimesDate": "2026-09-28",
     "days": {
-      "2026-09-27": [
+      "2026-09-28": [
         "20:20"
       ]
     },
     "shows": {
-      "2026-09-27": [
+      "2026-09-28": [
         {
           "time": "20:20",
           "tags": [
@@ -211,9 +174,46 @@
     "vo": true,
     "url": "https://roma.andromeda.18tickets.it/film/74669",
     "smart": {
-      "2026-09-27": 43
+      "2026-09-28": 40
     },
-    "rankUscita": 11,
+    "rankUscita": 10,
+    "rankVoto": 3
+  },
+  {
+    "title": "The Invite - Il piacere è tutto nostro",
+    "poster": "https://image.tmdb.org/t/p/w185/p9kaEC6mE6oNFhZjkbA1ALuvv2q.jpg",
+    "rating": 7.6,
+    "ratings": {
+      "letterboxd": 7.9,
+      "imdb": 7.4,
+      "metacritic": 8.2,
+      "mubi": 7
+    },
+    "releaseDate": "2026-09-16",
+    "showtimes": [
+      "16:45"
+    ],
+    "showtimesDate": "2026-09-28",
+    "days": {
+      "2026-09-28": [
+        "16:45"
+      ]
+    },
+    "shows": {
+      "2026-09-28": [
+        {
+          "time": "16:45",
+          "tags": []
+        }
+      ]
+    },
+    "room": null,
+    "vo": false,
+    "url": "https://roma.andromeda.18tickets.it/film/73085",
+    "smart": {
+      "2026-09-28": 59
+    },
+    "rankUscita": 6,
     "rankVoto": 4
   },
   {
@@ -230,14 +230,14 @@
     "showtimes": [
       "21:20"
     ],
-    "showtimesDate": "2026-09-27",
+    "showtimesDate": "2026-09-29",
     "days": {
-      "2026-09-27": [
+      "2026-09-29": [
         "21:20"
       ]
     },
     "shows": {
-      "2026-09-27": [
+      "2026-09-29": [
         {
           "time": "21:20",
           "tags": []
@@ -248,7 +248,7 @@
     "vo": false,
     "url": "https://roma.andromeda.18tickets.it/film/75263",
     "smart": {
-      "2026-09-27": 61
+      "2026-09-29": 80
     },
     "rankUscita": 5,
     "rankVoto": 5
@@ -265,35 +265,29 @@
     },
     "releaseDate": "2026-09-02",
     "showtimes": [
-      "17:00",
-      "21:20"
+      "16:45"
     ],
-    "showtimesDate": "2026-09-27",
+    "showtimesDate": "2026-09-28",
     "days": {
-      "2026-09-27": [
-        "17:00",
-        "21:20"
+      "2026-09-28": [
+        "16:45"
       ]
     },
     "shows": {
-      "2026-09-27": [
+      "2026-09-28": [
         {
-          "time": "17:00",
-          "tags": []
-        },
-        {
-          "time": "21:20",
+          "time": "16:45",
           "tags": []
         }
       ]
     },
-    "room": "Sala 4",
+    "room": null,
     "vo": false,
     "url": "https://roma.andromeda.18tickets.it/film/71469",
     "smart": {
-      "2026-09-27": 61
+      "2026-09-28": 49
     },
-    "rankUscita": 9,
+    "rankUscita": 8,
     "rankVoto": 6
   },
   {
@@ -310,14 +304,14 @@
     "showtimes": [
       "17:30"
     ],
-    "showtimesDate": "2026-09-27",
+    "showtimesDate": "2026-09-28",
     "days": {
-      "2026-09-27": [
+      "2026-09-28": [
         "17:30"
       ]
     },
     "shows": {
-      "2026-09-27": [
+      "2026-09-28": [
         {
           "time": "17:30",
           "tags": []
@@ -328,47 +322,10 @@
     "vo": false,
     "url": "https://roma.andromeda.18tickets.it/film/74735",
     "smart": {
-      "2026-09-27": 34
+      "2026-09-28": 32
     },
-    "rankUscita": 12,
+    "rankUscita": 11,
     "rankVoto": 7
-  },
-  {
-    "title": "Dov’è la fiesta?",
-    "poster": "https://image.tmdb.org/t/p/w185/gtTw3Pbf0jj69Xq1nnHDXRztpEb.jpg",
-    "rating": 6.9,
-    "ratings": {
-      "letterboxd": null,
-      "imdb": 6.9,
-      "metacritic": null,
-      "mubi": null
-    },
-    "releaseDate": "2026-09-17",
-    "showtimes": [
-      "18:45"
-    ],
-    "showtimesDate": "2026-09-27",
-    "days": {
-      "2026-09-27": [
-        "18:45"
-      ]
-    },
-    "shows": {
-      "2026-09-27": [
-        {
-          "time": "18:45",
-          "tags": []
-        }
-      ]
-    },
-    "room": null,
-    "vo": false,
-    "url": "https://roma.andromeda.18tickets.it/film/76979",
-    "smart": {
-      "2026-09-27": 53
-    },
-    "rankUscita": 6,
-    "rankVoto": 8
   },
   {
     "title": "Heart of the Beast - Nel profondo selvaggio",
@@ -385,15 +342,15 @@
       "19:00",
       "21:20"
     ],
-    "showtimesDate": "2026-09-27",
+    "showtimesDate": "2026-09-28",
     "days": {
-      "2026-09-27": [
+      "2026-09-28": [
         "19:00",
         "21:20"
       ]
     },
     "shows": {
-      "2026-09-27": [
+      "2026-09-28": [
         {
           "time": "19:00",
           "tags": []
@@ -404,14 +361,14 @@
         }
       ]
     },
-    "room": "Sala 7",
+    "room": "Sala 8",
     "vo": false,
     "url": "https://roma.andromeda.18tickets.it/film/76986",
     "smart": {
-      "2026-09-27": 67
+      "2026-09-28": 62
     },
     "rankUscita": 3,
-    "rankVoto": 9
+    "rankVoto": 8
   },
   {
     "title": "PAW Patrol - Missione Dinosauri",
@@ -427,14 +384,14 @@
     "showtimes": [
       "17:00"
     ],
-    "showtimesDate": "2026-09-27",
+    "showtimesDate": "2026-09-28",
     "days": {
-      "2026-09-27": [
+      "2026-09-28": [
         "17:00"
       ]
     },
     "shows": {
-      "2026-09-27": [
+      "2026-09-28": [
         {
           "time": "17:00",
           "tags": []
@@ -445,10 +402,10 @@
     "vo": false,
     "url": "https://roma.andromeda.18tickets.it/film/73580",
     "smart": {
-      "2026-09-27": 31
+      "2026-09-28": 29
     },
-    "rankUscita": 8,
-    "rankVoto": 10
+    "rankUscita": 7,
+    "rankVoto": 9
   },
   {
     "title": "Digger",
@@ -505,7 +462,7 @@
       "2026-10-01": 79
     },
     "rankUscita": 0,
-    "rankVoto": 11
+    "rankVoto": 10
   },
   {
     "title": "Ultimo - Tutto. Live a Tor Vergata",
@@ -519,22 +476,16 @@
     },
     "releaseDate": "2026-09-22",
     "showtimes": [
-      "18:00",
       "21:00"
     ],
-    "showtimesDate": "2026-09-27",
+    "showtimesDate": "2026-09-28",
     "days": {
-      "2026-09-27": [
-        "18:00",
+      "2026-09-28": [
         "21:00"
       ]
     },
     "shows": {
-      "2026-09-27": [
-        {
-          "time": "18:00",
-          "tags": []
-        },
+      "2026-09-28": [
         {
           "time": "21:00",
           "tags": []
@@ -545,10 +496,10 @@
     "vo": false,
     "url": "https://roma.andromeda.18tickets.it/film/68069",
     "smart": {
-      "2026-09-27": 65
+      "2026-09-28": 53
     },
     "rankUscita": 4,
-    "rankVoto": 12
+    "rankVoto": 11
   },
   {
     "title": "Refn Celebration",
@@ -582,9 +533,9 @@
     "vo": false,
     "url": "https://roma.andromeda.18tickets.it/film/76715",
     "smart": {
-      "2026-09-28": 45
+      "2026-09-28": 43
     },
-    "rankUscita": 13,
-    "rankVoto": 13
+    "rankUscita": 12,
+    "rankVoto": 12
   }
 ]

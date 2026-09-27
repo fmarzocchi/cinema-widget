@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-27T15:00:22.020Z",
+  "updatedAt": "2026-09-27T19:32:38.949Z",
   "today": "2026-09-27",
   "ratingScale": 10,
   "ratingSources": {
@@ -32,7 +32,7 @@
       "key": "andromeda",
       "label": "ANDROMEDA",
       "cinema": "Multisala Andromeda",
-      "count": 14,
+      "count": 13,
       "state": "ok",
       "url": "https://fmarzocchi.github.io/cinema-widget/andromeda.json"
     }
