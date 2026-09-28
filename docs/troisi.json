@@ -1,44 +1,5 @@
 [
   {
-    "title": "Odissea",
-    "poster": "https://image.tmdb.org/t/p/w185/qQhInj9fw3S2bMbiEujVldthgKe.jpg",
-    "rating": 8.3,
-    "ratings": {
-      "letterboxd": 8.7,
-      "imdb": 8.4,
-      "metacritic": 8.8,
-      "mubi": 7.1
-    },
-    "releaseDate": "2026-07-16",
-    "showtimes": [
-      "00:30"
-    ],
-    "showtimesDate": "2026-09-28",
-    "days": {
-      "2026-09-28": [
-        "00:30"
-      ]
-    },
-    "shows": {
-      "2026-09-28": [
-        {
-          "time": "00:30",
-          "tags": [
-            "VO"
-          ]
-        }
-      ]
-    },
-    "room": null,
-    "vo": true,
-    "url": "https://www.liveticket.it/opera.aspx?Id=695498",
-    "smart": {
-      "2026-09-28": 57
-    },
-    "rankUscita": 7,
-    "rankVoto": 0
-  },
-  {
     "title": "NAZA",
     "poster": "https://image.tmdb.org/t/p/w185/qfdNOEmMroHjPLpZhNkORcVzgrQ.jpg",
     "rating": 8,
@@ -109,12 +70,12 @@
     "vo": true,
     "url": "https://www.liveticket.it/opera.aspx?Id=695512",
     "smart": {
-      "2026-09-28": 92,
-      "2026-09-29": 92,
-      "2026-09-30": 92
+      "2026-09-28": 91,
+      "2026-09-29": 91,
+      "2026-09-30": 91
     },
     "rankUscita": 2,
-    "rankVoto": 1
+    "rankVoto": 0
   },
   {
     "title": "Drive",
@@ -153,7 +114,7 @@
       "2026-10-03": 50
     },
     "rankUscita": 10,
-    "rankVoto": 2
+    "rankVoto": 1
   },
   {
     "title": "Camp Miasma - Adolescenza, sesso e morte",
@@ -167,13 +128,10 @@
     },
     "releaseDate": "2026-08-19",
     "showtimes": [
-      "16:00"
+      "13:00"
     ],
-    "showtimesDate": "2026-09-27",
+    "showtimesDate": "2026-09-28",
     "days": {
-      "2026-09-27": [
-        "16:00"
-      ],
       "2026-09-28": [
         "13:00"
       ],
@@ -182,14 +140,6 @@
       ]
     },
     "shows": {
-      "2026-09-27": [
-        {
-          "time": "16:00",
-          "tags": [
-            "VO"
-          ]
-        }
-      ],
       "2026-09-28": [
         {
           "time": "13:00",
@@ -211,12 +161,11 @@
     "vo": true,
     "url": "https://www.liveticket.it/opera.aspx?Id=687649",
     "smart": {
-      "2026-09-27": 56,
       "2026-09-28": 56,
-      "2026-09-29": 71
+      "2026-09-29": 70
     },
     "rankUscita": 6,
-    "rankVoto": 3
+    "rankVoto": 2
   },
   {
     "title": "My Own Private River",
@@ -255,7 +204,7 @@
       "2026-09-28": 47
     },
     "rankUscita": 9,
-    "rankVoto": 4
+    "rankVoto": 3
   },
   {
     "title": "The Invite - Il piacere è tutto nostro",
@@ -269,15 +218,10 @@
     },
     "releaseDate": "2026-09-16",
     "showtimes": [
-      "13:30",
-      "18:30"
+      "17:00"
     ],
-    "showtimesDate": "2026-09-27",
+    "showtimesDate": "2026-09-28",
     "days": {
-      "2026-09-27": [
-        "13:30",
-        "18:30"
-      ],
       "2026-09-28": [
         "17:00"
       ],
@@ -289,16 +233,6 @@
       ]
     },
     "shows": {
-      "2026-09-27": [
-        {
-          "time": "13:30",
-          "tags": []
-        },
-        {
-          "time": "18:30",
-          "tags": []
-        }
-      ],
       "2026-09-28": [
         {
           "time": "17:00",
@@ -322,50 +256,12 @@
     "vo": false,
     "url": "https://www.liveticket.it/opera.aspx?Id=692494",
     "smart": {
-      "2026-09-27": 80,
-      "2026-09-28": 66,
+      "2026-09-28": 65,
       "2026-09-29": 80,
-      "2026-09-30": 66
+      "2026-09-30": 65
     },
     "rankUscita": 5,
-    "rankVoto": 5
-  },
-  {
-    "title": "Mulan",
-    "poster": "https://image.tmdb.org/t/p/w185/jAbexAtB0aSfP5Ay4TpWHARyVnG.jpg",
-    "rating": 7.6,
-    "ratings": {
-      "letterboxd": 8.4,
-      "imdb": 7.7,
-      "metacritic": 7.2,
-      "mubi": 7.2
-    },
-    "releaseDate": "1998-12-04",
-    "showtimes": [
-      "11:00"
-    ],
-    "showtimesDate": "2026-09-27",
-    "days": {
-      "2026-09-27": [
-        "11:00"
-      ]
-    },
-    "shows": {
-      "2026-09-27": [
-        {
-          "time": "11:00",
-          "tags": []
-        }
-      ]
-    },
-    "room": null,
-    "vo": false,
-    "url": "https://www.liveticket.it/opera.aspx?Id=695505",
-    "smart": {
-      "2026-09-27": 46
-    },
-    "rankUscita": 12,
-    "rankVoto": 6
+    "rankVoto": 4
   },
   {
     "title": "En el camino",
@@ -379,24 +275,15 @@
     },
     "releaseDate": "2026-09-24",
     "showtimes": [
-      "20:30"
+      "16:00"
     ],
-    "showtimesDate": "2026-09-27",
+    "showtimesDate": "2026-09-30",
     "days": {
-      "2026-09-27": [
-        "20:30"
-      ],
       "2026-09-30": [
         "16:00"
       ]
     },
     "shows": {
-      "2026-09-27": [
-        {
-          "time": "20:30",
-          "tags": []
-        }
-      ],
       "2026-09-30": [
         {
           "time": "16:00",
@@ -408,11 +295,47 @@
     "vo": false,
     "url": "https://www.liveticket.it/opera.aspx?Id=695495",
     "smart": {
-      "2026-09-27": 71,
-      "2026-09-30": 71
+      "2026-09-30": 70
     },
     "rankUscita": 3,
-    "rankVoto": 7
+    "rankVoto": 5
+  },
+  {
+    "title": "Le follie dell'imperatore",
+    "poster": "https://image.tmdb.org/t/p/w185/r7qMa2WuiNquuq3Cv3CLLLyusnN.jpg",
+    "rating": 7.3,
+    "ratings": {
+      "letterboxd": 7.9,
+      "imdb": 7.4,
+      "metacritic": 7,
+      "mubi": 7
+    },
+    "releaseDate": "2001-04-06",
+    "showtimes": [
+      "11:00"
+    ],
+    "showtimesDate": "2026-10-04",
+    "days": {
+      "2026-10-04": [
+        "11:00"
+      ]
+    },
+    "shows": {
+      "2026-10-04": [
+        {
+          "time": "11:00",
+          "tags": []
+        }
+      ]
+    },
+    "room": null,
+    "vo": false,
+    "url": "https://www.liveticket.it/opera.aspx?Id=696615",
+    "smart": {
+      "2026-10-04": 42
+    },
+    "rankUscita": 12,
+    "rankVoto": 6
   },
   {
     "title": "The Dreamers - I sognatori",
@@ -451,7 +374,7 @@
       "2026-09-28": 41
     },
     "rankUscita": 11,
-    "rankVoto": 8
+    "rankVoto": 7
   },
   {
     "title": "I figli della scimmia",
@@ -465,13 +388,10 @@
     },
     "releaseDate": "2026-09-17",
     "showtimes": [
-      "22:30"
+      "15:00"
     ],
-    "showtimesDate": "2026-09-27",
+    "showtimesDate": "2026-09-28",
     "days": {
-      "2026-09-27": [
-        "22:30"
-      ],
       "2026-09-28": [
         "15:00"
       ],
@@ -480,12 +400,6 @@
       ]
     },
     "shows": {
-      "2026-09-27": [
-        {
-          "time": "22:30",
-          "tags": []
-        }
-      ],
       "2026-09-28": [
         {
           "time": "15:00",
@@ -503,12 +417,11 @@
     "vo": false,
     "url": "https://www.liveticket.it/opera.aspx?Id=695443",
     "smart": {
-      "2026-09-27": 61,
-      "2026-09-28": 61,
-      "2026-09-29": 75
+      "2026-09-28": 60,
+      "2026-09-29": 74
     },
     "rankUscita": 4,
-    "rankVoto": 9
+    "rankVoto": 8
   },
   {
     "title": "We're All Going to the World's Fair",
@@ -547,6 +460,43 @@
       "2026-09-29": 47
     },
     "rankUscita": 8,
+    "rankVoto": 9
+  },
+  {
+    "title": "Rider",
+    "poster": "https://image.tmdb.org/t/p/w185/n6ZXNMyx9XVZah6Nni9TDuAALBu.jpg",
+    "rating": 5.6,
+    "ratings": {
+      "letterboxd": null,
+      "imdb": 5.6,
+      "metacritic": null,
+      "mubi": null
+    },
+    "releaseDate": "2025-06-13",
+    "showtimes": [
+      "16:00"
+    ],
+    "showtimesDate": "2026-10-04",
+    "days": {
+      "2026-10-04": [
+        "16:00"
+      ]
+    },
+    "shows": {
+      "2026-10-04": [
+        {
+          "time": "16:00",
+          "tags": []
+        }
+      ]
+    },
+    "room": null,
+    "vo": false,
+    "url": "https://www.liveticket.it/opera.aspx?Id=695175",
+    "smart": {
+      "2026-10-04": 22
+    },
+    "rankUscita": 7,
     "rankVoto": 10
   },
   {
@@ -616,6 +566,10 @@
       "2026-10-03": [
         "16:00",
         "21:00"
+      ],
+      "2026-10-04": [
+        "13:30",
+        "20:30"
       ]
     },
     "shows": {
@@ -660,6 +614,20 @@
             "VO"
           ]
         }
+      ],
+      "2026-10-04": [
+        {
+          "time": "13:30",
+          "tags": [
+            "VO"
+          ]
+        },
+        {
+          "time": "20:30",
+          "tags": [
+            "VO"
+          ]
+        }
       ]
     },
     "room": null,
@@ -668,7 +636,8 @@
     "smart": {
       "2026-10-01": 79,
       "2026-10-02": 79,
-      "2026-10-03": 79
+      "2026-10-03": 79,
+      "2026-10-04": 79
     },
     "rankUscita": 0,
     "rankVoto": 12
