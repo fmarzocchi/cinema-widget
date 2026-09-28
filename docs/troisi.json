@@ -2,10 +2,10 @@
   {
     "title": "NAZA",
     "poster": "https://image.tmdb.org/t/p/w185/qfdNOEmMroHjPLpZhNkORcVzgrQ.jpg",
-    "rating": 8,
+    "rating": 8.1,
     "ratings": {
       "letterboxd": 7.6,
-      "imdb": 7,
+      "imdb": 7.1,
       "metacritic": 9.5,
       "mubi": null
     },
@@ -21,9 +21,11 @@
         "19:00"
       ],
       "2026-09-29": [
+        "11:00",
         "17:00"
       ],
       "2026-09-30": [
+        "11:00",
         "14:00",
         "18:00"
       ]
@@ -45,6 +47,12 @@
       ],
       "2026-09-29": [
         {
+          "time": "11:00",
+          "tags": [
+            "VO"
+          ]
+        },
+        {
           "time": "17:00",
           "tags": [
             "VO"
@@ -52,6 +60,12 @@
         }
       ],
       "2026-09-30": [
+        {
+          "time": "11:00",
+          "tags": [
+            "VO"
+          ]
+        },
         {
           "time": "14:00",
           "tags": [
@@ -70,9 +84,9 @@
     "vo": true,
     "url": "https://www.liveticket.it/opera.aspx?Id=695512",
     "smart": {
-      "2026-09-28": 91,
-      "2026-09-29": 91,
-      "2026-09-30": 91
+      "2026-09-28": 92,
+      "2026-09-29": 92,
+      "2026-09-30": 92
     },
     "rankUscita": 2,
     "rankVoto": 0
@@ -122,7 +136,7 @@
     "rating": 7.8,
     "ratings": {
       "letterboxd": 7.5,
-      "imdb": 6.7,
+      "imdb": 6.6,
       "metacritic": 8.9,
       "mubi": 8
     },
@@ -162,7 +176,7 @@
     "url": "https://www.liveticket.it/opera.aspx?Id=687649",
     "smart": {
       "2026-09-28": 56,
-      "2026-09-29": 70
+      "2026-09-29": 56
     },
     "rankUscita": 6,
     "rankVoto": 2
@@ -227,9 +241,6 @@
       ],
       "2026-09-29": [
         "13:00"
-      ],
-      "2026-09-30": [
-        "11:00"
       ]
     },
     "shows": {
@@ -244,12 +255,6 @@
           "time": "13:00",
           "tags": []
         }
-      ],
-      "2026-09-30": [
-        {
-          "time": "11:00",
-          "tags": []
-        }
       ]
     },
     "room": null,
@@ -257,8 +262,7 @@
     "url": "https://www.liveticket.it/opera.aspx?Id=692494",
     "smart": {
       "2026-09-28": 65,
-      "2026-09-29": 80,
-      "2026-09-30": 65
+      "2026-09-29": 65
     },
     "rankUscita": 5,
     "rankVoto": 4
@@ -295,7 +299,7 @@
     "vo": false,
     "url": "https://www.liveticket.it/opera.aspx?Id=695495",
     "smart": {
-      "2026-09-30": 70
+      "2026-09-30": 65
     },
     "rankUscita": 3,
     "rankVoto": 5
@@ -418,7 +422,7 @@
     "url": "https://www.liveticket.it/opera.aspx?Id=695443",
     "smart": {
       "2026-09-28": 60,
-      "2026-09-29": 74
+      "2026-09-29": 60
     },
     "rankUscita": 4,
     "rankVoto": 8
@@ -457,7 +461,7 @@
     "vo": true,
     "url": "https://www.liveticket.it/opera.aspx?Id=695520",
     "smart": {
-      "2026-09-29": 47
+      "2026-09-29": 33
     },
     "rankUscita": 8,
     "rankVoto": 9
@@ -676,7 +680,7 @@
     "vo": true,
     "url": "https://www.liveticket.it/opera.aspx?Id=695525",
     "smart": {
-      "2026-09-30": 50
+      "2026-09-30": 45
     },
     "rankUscita": 13,
     "rankVoto": 13

@@ -2,10 +2,10 @@
   {
     "title": "NAZA",
     "poster": "https://image.tmdb.org/t/p/w185/qfdNOEmMroHjPLpZhNkORcVzgrQ.jpg",
-    "rating": 8,
+    "rating": 8.1,
     "ratings": {
       "letterboxd": 7.6,
-      "imdb": 7,
+      "imdb": 7.1,
       "metacritic": 9.5,
       "mubi": null
     },
@@ -49,7 +49,7 @@
     "vo": false,
     "url": "https://roma.andromeda.18tickets.it/film/77608",
     "smart": {
-      "2026-09-28": 91
+      "2026-09-28": 92
     },
     "rankUscita": 1,
     "rankVoto": 0
@@ -57,10 +57,10 @@
   {
     "title": "L'isola dei ricordi",
     "poster": "https://image.tmdb.org/t/p/w185/p8YpBFMmccQQoeQie9XKv6loDSa.jpg",
-    "rating": 7.7,
+    "rating": 7.8,
     "ratings": {
       "letterboxd": 7.6,
-      "imdb": 7.7,
+      "imdb": 7.8,
       "metacritic": 7.9,
       "mubi": null
     },
@@ -92,7 +92,7 @@
     "vo": false,
     "url": "https://roma.andromeda.18tickets.it/film/78266",
     "smart": {
-      "2026-09-28": 72
+      "2026-09-28": 74
     },
     "rankUscita": 2,
     "rankVoto": 1

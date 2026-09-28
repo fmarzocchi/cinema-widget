@@ -65,10 +65,10 @@
   {
     "title": "NAZA",
     "poster": "https://image.tmdb.org/t/p/w185/qfdNOEmMroHjPLpZhNkORcVzgrQ.jpg",
-    "rating": 8,
+    "rating": 8.1,
     "ratings": {
       "letterboxd": 7.6,
-      "imdb": 7,
+      "imdb": 7.1,
       "metacritic": 9.5,
       "mubi": null
     },
@@ -123,9 +123,9 @@
     "vo": false,
     "url": "https://ucicinemas.it/film/naza/",
     "smart": {
-      "2026-09-28": 69,
-      "2026-09-29": 69,
-      "2026-09-30": 66
+      "2026-09-28": 70,
+      "2026-09-29": 70,
+      "2026-09-30": 67
     },
     "rankUscita": 5,
     "rankVoto": 1
@@ -133,10 +133,10 @@
   {
     "title": "L'isola dei ricordi",
     "poster": "https://image.tmdb.org/t/p/w185/p8YpBFMmccQQoeQie9XKv6loDSa.jpg",
-    "rating": 7.7,
+    "rating": 7.8,
     "ratings": {
       "letterboxd": 7.6,
-      "imdb": 7.7,
+      "imdb": 7.8,
       "metacritic": 7.9,
       "mubi": null
     },
@@ -237,9 +237,9 @@
     "vo": false,
     "url": "https://ucicinemas.it/film/lisola-dei-ricordi/",
     "smart": {
-      "2026-09-28": 71,
-      "2026-09-29": 74,
-      "2026-09-30": 71
+      "2026-09-28": 72,
+      "2026-09-29": 75,
+      "2026-09-30": 72
     },
     "rankUscita": 6,
     "rankVoto": 2
@@ -878,12 +878,49 @@
     "rankVoto": 8
   },
   {
-    "title": "Dov’è la fiesta?",
-    "poster": "https://image.tmdb.org/t/p/w185/gtTw3Pbf0jj69Xq1nnHDXRztpEb.jpg",
+    "title": "Hokum",
+    "poster": "https://image.tmdb.org/t/p/w185/nhF54SQmeaMUODgRKEuMMJoTysT.jpg",
     "rating": 6.7,
     "ratings": {
-      "letterboxd": null,
+      "letterboxd": 6.6,
       "imdb": 6.7,
+      "metacritic": 7.6,
+      "mubi": 5.9
+    },
+    "releaseDate": "2026-08-05",
+    "showtimes": [
+      "23:00"
+    ],
+    "showtimesDate": "2026-09-28",
+    "days": {
+      "2026-09-28": [
+        "23:00"
+      ]
+    },
+    "shows": {
+      "2026-09-28": [
+        {
+          "time": "23:00",
+          "tags": []
+        }
+      ]
+    },
+    "room": "Sala 11",
+    "vo": false,
+    "url": "https://ucicinemas.it/film/hokum/",
+    "smart": {
+      "2026-09-28": 29
+    },
+    "rankUscita": 19,
+    "rankVoto": 9
+  },
+  {
+    "title": "Dov’è la fiesta?",
+    "poster": "https://image.tmdb.org/t/p/w185/gtTw3Pbf0jj69Xq1nnHDXRztpEb.jpg",
+    "rating": 6.3,
+    "ratings": {
+      "letterboxd": null,
+      "imdb": 6.3,
       "metacritic": null,
       "mubi": null
     },
@@ -943,48 +980,11 @@
     "vo": false,
     "url": "https://ucicinemas.it/film/dove-la-fiesta/",
     "smart": {
-      "2026-09-28": 47,
-      "2026-09-29": 47,
-      "2026-09-30": 47
+      "2026-09-28": 42,
+      "2026-09-29": 42,
+      "2026-09-30": 42
     },
     "rankUscita": 12,
-    "rankVoto": 9
-  },
-  {
-    "title": "Hokum",
-    "poster": "https://image.tmdb.org/t/p/w185/nhF54SQmeaMUODgRKEuMMJoTysT.jpg",
-    "rating": 6.7,
-    "ratings": {
-      "letterboxd": 6.6,
-      "imdb": 6.7,
-      "metacritic": 7.6,
-      "mubi": 5.9
-    },
-    "releaseDate": "2026-08-05",
-    "showtimes": [
-      "23:00"
-    ],
-    "showtimesDate": "2026-09-28",
-    "days": {
-      "2026-09-28": [
-        "23:00"
-      ]
-    },
-    "shows": {
-      "2026-09-28": [
-        {
-          "time": "23:00",
-          "tags": []
-        }
-      ]
-    },
-    "room": "Sala 11",
-    "vo": false,
-    "url": "https://ucicinemas.it/film/hokum/",
-    "smart": {
-      "2026-09-28": 29
-    },
-    "rankUscita": 19,
     "rankVoto": 10
   },
   {
@@ -1013,8 +1013,7 @@
         "19:50"
       ],
       "2026-09-30": [
-        "14:50",
-        "19:50"
+        "14:50"
       ]
     },
     "shows": {
@@ -1042,10 +1041,6 @@
         {
           "time": "14:50",
           "tags": []
-        },
-        {
-          "time": "19:50",
-          "tags": []
         }
       ]
     },
@@ -1055,7 +1050,7 @@
     "smart": {
       "2026-09-28": 39,
       "2026-09-29": 39,
-      "2026-09-30": 39
+      "2026-09-30": 36
     },
     "rankUscita": 8,
     "rankVoto": 11
