@@ -12,14 +12,10 @@
     "releaseDate": "2026-09-25",
     "showtimes": [
       "11:00",
-      "19:00"
+      "17:00"
     ],
-    "showtimesDate": "2026-09-28",
+    "showtimesDate": "2026-09-29",
     "days": {
-      "2026-09-28": [
-        "11:00",
-        "19:00"
-      ],
       "2026-09-29": [
         "11:00",
         "17:00"
@@ -31,20 +27,6 @@
       ]
     },
     "shows": {
-      "2026-09-28": [
-        {
-          "time": "11:00",
-          "tags": [
-            "VO"
-          ]
-        },
-        {
-          "time": "19:00",
-          "tags": [
-            "VO"
-          ]
-        }
-      ],
       "2026-09-29": [
         {
           "time": "11:00",
@@ -84,7 +66,6 @@
     "vo": true,
     "url": "https://www.liveticket.it/opera.aspx?Id=695512",
     "smart": {
-      "2026-09-28": 92,
       "2026-09-29": 92,
       "2026-09-30": 92
     },
@@ -127,7 +108,7 @@
     "smart": {
       "2026-10-03": 50
     },
-    "rankUscita": 10,
+    "rankUscita": 9,
     "rankVoto": 1
   },
   {
@@ -142,26 +123,15 @@
     },
     "releaseDate": "2026-08-19",
     "showtimes": [
-      "13:00"
+      "15:00"
     ],
-    "showtimesDate": "2026-09-28",
+    "showtimesDate": "2026-09-29",
     "days": {
-      "2026-09-28": [
-        "13:00"
-      ],
       "2026-09-29": [
         "15:00"
       ]
     },
     "shows": {
-      "2026-09-28": [
-        {
-          "time": "13:00",
-          "tags": [
-            "VO"
-          ]
-        }
-      ],
       "2026-09-29": [
         {
           "time": "15:00",
@@ -175,50 +145,10 @@
     "vo": true,
     "url": "https://www.liveticket.it/opera.aspx?Id=687649",
     "smart": {
-      "2026-09-28": 56,
       "2026-09-29": 56
     },
     "rankUscita": 6,
     "rankVoto": 2
-  },
-  {
-    "title": "My Own Private River",
-    "poster": "https://image.tmdb.org/t/p/w185/sPxozaB7Mj3U2adg2bULQRYyE78.jpg",
-    "rating": 7.7,
-    "ratings": {
-      "letterboxd": 7.7,
-      "imdb": 7.3,
-      "metacritic": null,
-      "mubi": 8.1
-    },
-    "releaseDate": "2012-02-19",
-    "showtimes": [
-      "21:00"
-    ],
-    "showtimesDate": "2026-09-28",
-    "days": {
-      "2026-09-28": [
-        "21:00"
-      ]
-    },
-    "shows": {
-      "2026-09-28": [
-        {
-          "time": "21:00",
-          "tags": [
-            "VO"
-          ]
-        }
-      ]
-    },
-    "room": null,
-    "vo": true,
-    "url": "https://www.liveticket.it/opera.aspx?Id=695516",
-    "smart": {
-      "2026-09-28": 47
-    },
-    "rankUscita": 9,
-    "rankVoto": 3
   },
   {
     "title": "The Invite - Il piacere è tutto nostro",
@@ -232,24 +162,15 @@
     },
     "releaseDate": "2026-09-16",
     "showtimes": [
-      "17:00"
+      "13:00"
     ],
-    "showtimesDate": "2026-09-28",
+    "showtimesDate": "2026-09-29",
     "days": {
-      "2026-09-28": [
-        "17:00"
-      ],
       "2026-09-29": [
         "13:00"
       ]
     },
     "shows": {
-      "2026-09-28": [
-        {
-          "time": "17:00",
-          "tags": []
-        }
-      ],
       "2026-09-29": [
         {
           "time": "13:00",
@@ -261,11 +182,10 @@
     "vo": false,
     "url": "https://www.liveticket.it/opera.aspx?Id=692494",
     "smart": {
-      "2026-09-28": 65,
       "2026-09-29": 65
     },
     "rankUscita": 5,
-    "rankVoto": 4
+    "rankVoto": 3
   },
   {
     "title": "En el camino",
@@ -299,10 +219,10 @@
     "vo": false,
     "url": "https://www.liveticket.it/opera.aspx?Id=695495",
     "smart": {
-      "2026-09-30": 65
+      "2026-09-30": 64
     },
     "rankUscita": 3,
-    "rankVoto": 5
+    "rankVoto": 4
   },
   {
     "title": "Le follie dell'imperatore",
@@ -338,47 +258,8 @@
     "smart": {
       "2026-10-04": 42
     },
-    "rankUscita": 12,
-    "rankVoto": 6
-  },
-  {
-    "title": "The Dreamers - I sognatori",
-    "poster": "https://image.tmdb.org/t/p/w185/pinNViE433kLUrJppjFAOzgWxdl.jpg",
-    "rating": 7.2,
-    "ratings": {
-      "letterboxd": 7.1,
-      "imdb": 7.1,
-      "metacritic": 6.3,
-      "mubi": 8.1
-    },
-    "releaseDate": "2003-10-10",
-    "showtimes": [
-      "23:59"
-    ],
-    "showtimesDate": "2026-09-28",
-    "days": {
-      "2026-09-28": [
-        "23:59"
-      ]
-    },
-    "shows": {
-      "2026-09-28": [
-        {
-          "time": "23:59",
-          "tags": [
-            "VO"
-          ]
-        }
-      ]
-    },
-    "room": null,
-    "vo": true,
-    "url": "https://www.liveticket.it/opera.aspx?Id=638825",
-    "smart": {
-      "2026-09-28": 41
-    },
-    "rankUscita": 11,
-    "rankVoto": 7
+    "rankUscita": 10,
+    "rankVoto": 5
   },
   {
     "title": "I figli della scimmia",
@@ -392,24 +273,15 @@
     },
     "releaseDate": "2026-09-17",
     "showtimes": [
-      "15:00"
+      "11:00"
     ],
-    "showtimesDate": "2026-09-28",
+    "showtimesDate": "2026-09-29",
     "days": {
-      "2026-09-28": [
-        "15:00"
-      ],
       "2026-09-29": [
         "11:00"
       ]
     },
     "shows": {
-      "2026-09-28": [
-        {
-          "time": "15:00",
-          "tags": []
-        }
-      ],
       "2026-09-29": [
         {
           "time": "11:00",
@@ -419,13 +291,12 @@
     },
     "room": null,
     "vo": false,
-    "url": "https://www.liveticket.it/opera.aspx?Id=695443",
+    "url": "https://www.liveticket.it/opera.aspx?Id=695464",
     "smart": {
-      "2026-09-28": 60,
-      "2026-09-29": 60
+      "2026-09-29": 59
     },
     "rankUscita": 4,
-    "rankVoto": 8
+    "rankVoto": 6
   },
   {
     "title": "We're All Going to the World's Fair",
@@ -464,7 +335,7 @@
       "2026-09-29": 33
     },
     "rankUscita": 8,
-    "rankVoto": 9
+    "rankVoto": 7
   },
   {
     "title": "Rider",
@@ -501,7 +372,7 @@
       "2026-10-04": 22
     },
     "rankUscita": 7,
-    "rankVoto": 10
+    "rankVoto": 8
   },
   {
     "title": "Her Private Hell",
@@ -540,7 +411,7 @@
       "2026-10-02": 43
     },
     "rankUscita": 1,
-    "rankVoto": 11
+    "rankVoto": 9
   },
   {
     "title": "Digger",
@@ -574,6 +445,10 @@
       "2026-10-04": [
         "13:30",
         "20:30"
+      ],
+      "2026-10-05": [
+        "11:00",
+        "21:30"
       ]
     },
     "shows": {
@@ -632,6 +507,20 @@
             "VO"
           ]
         }
+      ],
+      "2026-10-05": [
+        {
+          "time": "11:00",
+          "tags": [
+            "VO"
+          ]
+        },
+        {
+          "time": "21:30",
+          "tags": [
+            "VO"
+          ]
+        }
       ]
     },
     "room": null,
@@ -641,10 +530,11 @@
       "2026-10-01": 79,
       "2026-10-02": 79,
       "2026-10-03": 79,
-      "2026-10-04": 79
+      "2026-10-04": 79,
+      "2026-10-05": 79
     },
     "rankUscita": 0,
-    "rankVoto": 12
+    "rankVoto": 10
   },
   {
     "title": "Un Prophète - ep. 5-8",
@@ -682,7 +572,7 @@
     "smart": {
       "2026-09-30": 45
     },
-    "rankUscita": 13,
-    "rankVoto": 13
+    "rankUscita": 11,
+    "rankVoto": 11
   }
 ]
