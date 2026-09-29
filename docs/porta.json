@@ -52,7 +52,7 @@
     "rating": 8.1,
     "ratings": {
       "letterboxd": 7.6,
-      "imdb": 7.1,
+      "imdb": 7.2,
       "metacritic": 9.5,
       "mubi": null
     },
@@ -93,7 +93,7 @@
     "vo": false,
     "url": "https://ucicinemas.it/film/naza/",
     "smart": {
-      "2026-09-29": 69,
+      "2026-09-29": 70,
       "2026-09-30": 66
     },
     "rankUscita": 5,
@@ -111,7 +111,6 @@
     },
     "releaseDate": "2026-09-24",
     "showtimes": [
-      "14:00",
       "14:30",
       "17:00",
       "19:40",
@@ -120,7 +119,6 @@
     "showtimesDate": "2026-09-29",
     "days": {
       "2026-09-29": [
-        "14:00",
         "14:30",
         "17:00",
         "19:40",
@@ -135,12 +133,6 @@
     },
     "shows": {
       "2026-09-29": [
-        {
-          "time": "14:00",
-          "tags": [
-            "3D"
-          ]
-        },
         {
           "time": "14:30",
           "tags": []
@@ -177,11 +169,11 @@
         }
       ]
     },
-    "room": "Sala 1",
+    "room": "Sala 3",
     "vo": false,
     "url": "https://ucicinemas.it/film/lisola-dei-ricordi/",
     "smart": {
-      "2026-09-29": 74,
+      "2026-09-29": 73,
       "2026-09-30": 71
     },
     "rankUscita": 6,
@@ -204,7 +196,6 @@
       "15:20",
       "16:40",
       "17:20",
-      "19:00",
       "20:30",
       "21:30",
       "22:20"
@@ -217,7 +208,6 @@
         "15:20",
         "16:40",
         "17:20",
-        "19:00",
         "20:30",
         "21:30",
         "22:20"
@@ -262,12 +252,6 @@
           "time": "17:20",
           "tags": [
             "XL"
-          ]
-        },
-        {
-          "time": "19:00",
-          "tags": [
-            "VO"
           ]
         },
         {
@@ -472,7 +456,7 @@
     "vo": false,
     "url": "https://ucicinemas.it/film/resident-evil/",
     "smart": {
-      "2026-09-29": 59,
+      "2026-09-29": 61,
       "2026-09-30": 66
     },
     "rankUscita": 11,
@@ -519,7 +503,7 @@
     "vo": false,
     "url": "https://ucicinemas.it/film/coyote-vs-acme/",
     "smart": {
-      "2026-09-29": 44,
+      "2026-09-29": 45,
       "2026-09-30": 44
     },
     "rankUscita": 16,
@@ -577,7 +561,7 @@
     "vo": false,
     "url": "https://ucicinemas.it/film/cars-motori-ruggenti/",
     "smart": {
-      "2026-09-29": 31,
+      "2026-09-29": 32,
       "2026-09-30": 31
     },
     "rankUscita": 21,
@@ -647,7 +631,7 @@
     "vo": false,
     "url": "https://ucicinemas.it/film/heart-of-the-beast/",
     "smart": {
-      "2026-09-29": 59,
+      "2026-09-29": 61,
       "2026-09-30": 53
     },
     "rankUscita": 7,
@@ -656,10 +640,10 @@
   {
     "title": "Dov’è la fiesta?",
     "poster": "https://image.tmdb.org/t/p/w185/gtTw3Pbf0jj69Xq1nnHDXRztpEb.jpg",
-    "rating": 6.3,
+    "rating": 6.4,
     "ratings": {
       "letterboxd": null,
-      "imdb": 6.3,
+      "imdb": 6.4,
       "metacritic": null,
       "mubi": null
     },
@@ -705,8 +689,8 @@
     "vo": false,
     "url": "https://ucicinemas.it/film/dove-la-fiesta/",
     "smart": {
-      "2026-09-29": 41,
-      "2026-09-30": 41
+      "2026-09-29": 44,
+      "2026-09-30": 43
     },
     "rankUscita": 12,
     "rankVoto": 9
@@ -758,7 +742,7 @@
     "vo": false,
     "url": "https://ucicinemas.it/film/maigret-lamore-e-la-morte/",
     "smart": {
-      "2026-09-29": 38,
+      "2026-09-29": 39,
       "2026-09-30": 35
     },
     "rankUscita": 8,
@@ -931,7 +915,7 @@
     "rating": 5.3,
     "ratings": {
       "letterboxd": 5.3,
-      "imdb": 5.3,
+      "imdb": 5.2,
       "metacritic": null,
       "mubi": null
     },
@@ -994,7 +978,7 @@
     "vo": false,
     "url": "https://ucicinemas.it/film/nessun-dolore/",
     "smart": {
-      "2026-09-29": 41,
+      "2026-09-29": 42,
       "2026-09-30": 37
     },
     "rankUscita": 9,
@@ -1012,12 +996,12 @@
     },
     "releaseDate": "2026-08-19",
     "showtimes": [
-      "23:00"
+      "23:30"
     ],
     "showtimesDate": "2026-09-29",
     "days": {
       "2026-09-29": [
-        "23:00"
+        "23:30"
       ],
       "2026-09-30": [
         "22:50"
@@ -1026,7 +1010,7 @@
     "shows": {
       "2026-09-29": [
         {
-          "time": "23:00",
+          "time": "23:30",
           "tags": []
         }
       ],
@@ -1041,7 +1025,7 @@
     "vo": false,
     "url": "https://ucicinemas.it/film/insidious-fuori-dallaltrove/",
     "smart": {
-      "2026-09-29": 14,
+      "2026-09-29": 15,
       "2026-09-30": 14
     },
     "rankUscita": 18,
@@ -1065,9 +1049,6 @@
     "days": {
       "2026-09-29": [
         "14:15"
-      ],
-      "2026-09-30": [
-        "14:15"
       ]
     },
     "shows": {
@@ -1076,20 +1057,13 @@
           "time": "14:15",
           "tags": []
         }
-      ],
-      "2026-09-30": [
-        {
-          "time": "14:15",
-          "tags": []
-        }
       ]
     },
-    "room": "Sala 7",
+    "room": "Sala 1",
     "vo": false,
     "url": "https://ucicinemas.it/film/amori-e-incantesimi-2/",
     "smart": {
-      "2026-09-29": 21,
-      "2026-09-30": 21
+      "2026-09-29": 21
     },
     "rankUscita": 14,
     "rankVoto": 16
@@ -1650,57 +1624,10 @@
     "vo": false,
     "url": "https://ucicinemas.it/film/ultimo-tutto-live-a-tor-vergata/",
     "smart": {
-      "2026-09-29": 57,
+      "2026-09-29": 58,
       "2026-09-30": 57
     },
     "rankUscita": 10,
     "rankVoto": 21
-  },
-  {
-    "title": "Due ladri in fuga",
-    "poster": "https://storage.googleapis.com/uci-infrastructure-bucket/Common/Movies/Posters/01M34VVG0ZF84FRDAPHHJ2N5H3_resized_at_20260922173054.jpg",
-    "rating": null,
-    "ratings": {
-      "letterboxd": null,
-      "imdb": null,
-      "metacritic": null,
-      "mubi": null
-    },
-    "releaseDate": null,
-    "showtimes": [
-      "17:15"
-    ],
-    "showtimesDate": "2026-09-29",
-    "days": {
-      "2026-09-29": [
-        "17:15"
-      ],
-      "2026-09-30": [
-        "17:15"
-      ]
-    },
-    "shows": {
-      "2026-09-29": [
-        {
-          "time": "17:15",
-          "tags": []
-        }
-      ],
-      "2026-09-30": [
-        {
-          "time": "17:15",
-          "tags": []
-        }
-      ]
-    },
-    "room": "Sala 7",
-    "vo": false,
-    "url": "https://ucicinemas.it/film/due-ladri-in-fuga/",
-    "smart": {
-      "2026-09-29": 39,
-      "2026-09-30": 39
-    },
-    "rankUscita": 22,
-    "rankVoto": 22
   }
 ]
