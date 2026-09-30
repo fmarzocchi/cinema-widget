@@ -5,7 +5,7 @@
     "rating": 8.1,
     "ratings": {
       "letterboxd": 7.6,
-      "imdb": 7.1,
+      "imdb": 7.3,
       "metacritic": 9.5,
       "mubi": null
     },
@@ -66,8 +66,8 @@
     "vo": false,
     "url": "https://roma.andromeda.18tickets.it/film/81368",
     "smart": {
-      "2026-09-30": 92,
-      "2026-10-01": 70
+      "2026-09-30": 91,
+      "2026-10-01": 69
     },
     "rankUscita": 5,
     "rankVoto": 0
@@ -110,7 +110,7 @@
     "vo": false,
     "url": "https://roma.andromeda.18tickets.it/film/78266",
     "smart": {
-      "2026-09-30": 70
+      "2026-09-30": 69
     },
     "rankUscita": 6,
     "rankVoto": 1
@@ -266,7 +266,7 @@
     "vo": false,
     "url": "https://roma.andromeda.18tickets.it/film/75263",
     "smart": {
-      "2026-09-30": 56
+      "2026-09-30": 55
     },
     "rankUscita": 9,
     "rankVoto": 5
@@ -303,7 +303,7 @@
     "vo": false,
     "url": "https://roma.andromeda.18tickets.it/film/71469",
     "smart": {
-      "2026-09-30": 47
+      "2026-09-30": 46
     },
     "rankUscita": 12,
     "rankVoto": 6
@@ -377,7 +377,7 @@
     "vo": false,
     "url": "https://roma.andromeda.18tickets.it/film/76986",
     "smart": {
-      "2026-09-30": 52
+      "2026-09-30": 51
     },
     "rankUscita": 7,
     "rankVoto": 8
@@ -385,10 +385,10 @@
   {
     "title": "La città dei vivi",
     "poster": "https://image.tmdb.org/t/p/w185/opBholBwfUmPISED5muouubQPq3.jpg",
-    "rating": 6,
+    "rating": 5.9,
     "ratings": {
       "letterboxd": 6.1,
-      "imdb": 5.9,
+      "imdb": 5.8,
       "metacritic": null,
       "mubi": null
     },
@@ -420,7 +420,7 @@
     "vo": false,
     "url": "https://roma.andromeda.18tickets.it/film/78728",
     "smart": {
-      "2026-10-01": 55
+      "2026-10-01": 54
     },
     "rankUscita": 0,
     "rankVoto": 9
@@ -457,7 +457,7 @@
     "vo": false,
     "url": "https://roma.andromeda.18tickets.it/film/73580",
     "smart": {
-      "2026-09-30": 27
+      "2026-09-30": 26
     },
     "rankUscita": 11,
     "rankVoto": 10
@@ -686,7 +686,7 @@
     "vo": false,
     "url": "https://roma.andromeda.18tickets.it/film/68069",
     "smart": {
-      "2026-09-30": 50
+      "2026-09-30": 49
     },
     "rankUscita": 8,
     "rankVoto": 15

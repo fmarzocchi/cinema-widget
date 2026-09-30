@@ -5,21 +5,18 @@
     "rating": 8.1,
     "ratings": {
       "letterboxd": 7.6,
-      "imdb": 7.1,
+      "imdb": 7.3,
       "metacritic": 9.5,
       "mubi": null
     },
     "releaseDate": "2026-09-25",
     "showtimes": [
       "11:00",
-      "17:00"
+      "14:00",
+      "18:00"
     ],
-    "showtimesDate": "2026-09-29",
+    "showtimesDate": "2026-09-30",
     "days": {
-      "2026-09-29": [
-        "11:00",
-        "17:00"
-      ],
       "2026-09-30": [
         "11:00",
         "14:00",
@@ -27,20 +24,6 @@
       ]
     },
     "shows": {
-      "2026-09-29": [
-        {
-          "time": "11:00",
-          "tags": [
-            "VO"
-          ]
-        },
-        {
-          "time": "17:00",
-          "tags": [
-            "VO"
-          ]
-        }
-      ],
       "2026-09-30": [
         {
           "time": "11:00",
@@ -66,8 +49,7 @@
     "vo": true,
     "url": "https://www.liveticket.it/opera.aspx?Id=695512",
     "smart": {
-      "2026-09-29": 92,
-      "2026-09-30": 92
+      "2026-09-30": 91
     },
     "rankUscita": 2,
     "rankVoto": 0
@@ -108,84 +90,8 @@
     "smart": {
       "2026-10-03": 50
     },
-    "rankUscita": 9,
-    "rankVoto": 1
-  },
-  {
-    "title": "Camp Miasma - Adolescenza, sesso e morte",
-    "poster": "https://image.tmdb.org/t/p/w185/oSbPv3AbfXKEoboItK2DeDK397S.jpg",
-    "rating": 7.8,
-    "ratings": {
-      "letterboxd": 7.5,
-      "imdb": 6.6,
-      "metacritic": 8.9,
-      "mubi": 8
-    },
-    "releaseDate": "2026-08-19",
-    "showtimes": [
-      "15:00"
-    ],
-    "showtimesDate": "2026-09-29",
-    "days": {
-      "2026-09-29": [
-        "15:00"
-      ]
-    },
-    "shows": {
-      "2026-09-29": [
-        {
-          "time": "15:00",
-          "tags": [
-            "VO"
-          ]
-        }
-      ]
-    },
-    "room": null,
-    "vo": true,
-    "url": "https://www.liveticket.it/opera.aspx?Id=687649",
-    "smart": {
-      "2026-09-29": 56
-    },
-    "rankUscita": 6,
-    "rankVoto": 2
-  },
-  {
-    "title": "The Invite - Il piacere è tutto nostro",
-    "poster": "https://image.tmdb.org/t/p/w185/p9kaEC6mE6oNFhZjkbA1ALuvv2q.jpg",
-    "rating": 7.6,
-    "ratings": {
-      "letterboxd": 7.9,
-      "imdb": 7.4,
-      "metacritic": 8.2,
-      "mubi": 7
-    },
-    "releaseDate": "2026-09-16",
-    "showtimes": [
-      "13:00"
-    ],
-    "showtimesDate": "2026-09-29",
-    "days": {
-      "2026-09-29": [
-        "13:00"
-      ]
-    },
-    "shows": {
-      "2026-09-29": [
-        {
-          "time": "13:00",
-          "tags": []
-        }
-      ]
-    },
-    "room": null,
-    "vo": false,
-    "url": "https://www.liveticket.it/opera.aspx?Id=692494",
-    "smart": {
-      "2026-09-29": 65
-    },
     "rankUscita": 5,
-    "rankVoto": 3
+    "rankVoto": 1
   },
   {
     "title": "En el camino",
@@ -222,7 +128,7 @@
       "2026-09-30": 64
     },
     "rankUscita": 3,
-    "rankVoto": 4
+    "rankVoto": 2
   },
   {
     "title": "Le follie dell'imperatore",
@@ -258,84 +164,8 @@
     "smart": {
       "2026-10-04": 42
     },
-    "rankUscita": 10,
-    "rankVoto": 5
-  },
-  {
-    "title": "I figli della scimmia",
-    "poster": "https://image.tmdb.org/t/p/w185/c5tEquC2cAfxfFNIs86QmGzabmU.jpg",
-    "rating": 7.1,
-    "ratings": {
-      "letterboxd": 6.8,
-      "imdb": 7.4,
-      "metacritic": null,
-      "mubi": null
-    },
-    "releaseDate": "2026-09-17",
-    "showtimes": [
-      "11:00"
-    ],
-    "showtimesDate": "2026-09-29",
-    "days": {
-      "2026-09-29": [
-        "11:00"
-      ]
-    },
-    "shows": {
-      "2026-09-29": [
-        {
-          "time": "11:00",
-          "tags": []
-        }
-      ]
-    },
-    "room": null,
-    "vo": false,
-    "url": "https://www.liveticket.it/opera.aspx?Id=695464",
-    "smart": {
-      "2026-09-29": 59
-    },
-    "rankUscita": 4,
-    "rankVoto": 6
-  },
-  {
-    "title": "We're All Going to the World's Fair",
-    "poster": "https://image.tmdb.org/t/p/w185/fXn4Nz1WCTEmzAFvwgEZoPHvptR.jpg",
-    "rating": 6.5,
-    "ratings": {
-      "letterboxd": 6.3,
-      "imdb": 5.5,
-      "metacritic": 7.8,
-      "mubi": 6.5
-    },
-    "releaseDate": "2022-04-15",
-    "showtimes": [
-      "21:45"
-    ],
-    "showtimesDate": "2026-09-29",
-    "days": {
-      "2026-09-29": [
-        "21:45"
-      ]
-    },
-    "shows": {
-      "2026-09-29": [
-        {
-          "time": "21:45",
-          "tags": [
-            "VO"
-          ]
-        }
-      ]
-    },
-    "room": null,
-    "vo": true,
-    "url": "https://www.liveticket.it/opera.aspx?Id=695520",
-    "smart": {
-      "2026-09-29": 33
-    },
-    "rankUscita": 8,
-    "rankVoto": 7
+    "rankUscita": 6,
+    "rankVoto": 3
   },
   {
     "title": "Rider",
@@ -371,8 +201,8 @@
     "smart": {
       "2026-10-04": 22
     },
-    "rankUscita": 7,
-    "rankVoto": 8
+    "rankUscita": 4,
+    "rankVoto": 4
   },
   {
     "title": "Her Private Hell",
@@ -411,7 +241,7 @@
       "2026-10-02": 43
     },
     "rankUscita": 1,
-    "rankVoto": 9
+    "rankVoto": 5
   },
   {
     "title": "Digger",
@@ -449,6 +279,10 @@
       "2026-10-05": [
         "11:00",
         "21:30"
+      ],
+      "2026-10-06": [
+        "13:30",
+        "20:00"
       ]
     },
     "shows": {
@@ -521,6 +355,20 @@
             "VO"
           ]
         }
+      ],
+      "2026-10-06": [
+        {
+          "time": "13:30",
+          "tags": [
+            "VO"
+          ]
+        },
+        {
+          "time": "20:00",
+          "tags": [
+            "VO"
+          ]
+        }
       ]
     },
     "room": null,
@@ -531,10 +379,11 @@
       "2026-10-02": 79,
       "2026-10-03": 79,
       "2026-10-04": 79,
-      "2026-10-05": 79
+      "2026-10-05": 79,
+      "2026-10-06": 79
     },
     "rankUscita": 0,
-    "rankVoto": 10
+    "rankVoto": 6
   },
   {
     "title": "Un Prophète - ep. 5-8",
@@ -572,7 +421,7 @@
     "smart": {
       "2026-09-30": 45
     },
-    "rankUscita": 11,
-    "rankVoto": 11
+    "rankUscita": 7,
+    "rankVoto": 7
   }
 ]
