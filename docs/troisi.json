@@ -21,6 +21,16 @@
         "11:00",
         "14:00",
         "18:00"
+      ],
+      "2026-10-01": [
+        "13:30",
+        "17:30"
+      ],
+      "2026-10-02": [
+        "17:00"
+      ],
+      "2026-10-06": [
+        "22:30"
       ]
     },
     "shows": {
@@ -43,13 +53,46 @@
             "VO"
           ]
         }
+      ],
+      "2026-10-01": [
+        {
+          "time": "13:30",
+          "tags": [
+            "VO"
+          ]
+        },
+        {
+          "time": "17:30",
+          "tags": [
+            "VO"
+          ]
+        }
+      ],
+      "2026-10-02": [
+        {
+          "time": "17:00",
+          "tags": [
+            "VO"
+          ]
+        }
+      ],
+      "2026-10-06": [
+        {
+          "time": "22:30",
+          "tags": [
+            "VO"
+          ]
+        }
       ]
     },
     "room": null,
     "vo": true,
     "url": "https://www.liveticket.it/opera.aspx?Id=695512",
     "smart": {
-      "2026-09-30": 91
+      "2026-09-30": 91,
+      "2026-10-01": 91,
+      "2026-10-02": 76,
+      "2026-10-06": 76
     },
     "rankUscita": 2,
     "rankVoto": 0
@@ -66,18 +109,58 @@
     },
     "releaseDate": "2011-09-30",
     "showtimes": [
-      "11:00"
+      "00:30"
     ],
-    "showtimesDate": "2026-10-03",
+    "showtimesDate": "2026-10-02",
     "days": {
+      "2026-10-02": [
+        "00:30"
+      ],
       "2026-10-03": [
+        "00:30",
         "11:00"
+      ],
+      "2026-10-04": [
+        "00:30"
+      ],
+      "2026-10-05": [
+        "00:45"
       ]
     },
     "shows": {
+      "2026-10-02": [
+        {
+          "time": "00:30",
+          "tags": [
+            "VO"
+          ]
+        }
+      ],
       "2026-10-03": [
         {
+          "time": "00:30",
+          "tags": [
+            "VO"
+          ]
+        },
+        {
           "time": "11:00",
+          "tags": [
+            "VO"
+          ]
+        }
+      ],
+      "2026-10-04": [
+        {
+          "time": "00:30",
+          "tags": [
+            "VO"
+          ]
+        }
+      ],
+      "2026-10-05": [
+        {
+          "time": "00:45",
           "tags": [
             "VO"
           ]
@@ -88,9 +171,12 @@
     "vo": true,
     "url": "https://www.liveticket.it/opera.aspx?Id=694368",
     "smart": {
-      "2026-10-03": 50
+      "2026-10-02": 50,
+      "2026-10-03": 64,
+      "2026-10-04": 50,
+      "2026-10-05": 50
     },
-    "rankUscita": 5,
+    "rankUscita": 6,
     "rankVoto": 1
   },
   {
@@ -131,6 +217,57 @@
     "rankVoto": 2
   },
   {
+    "title": "The Bibi Files",
+    "poster": "https://image.tmdb.org/t/p/w185/aZTt7g857dGU9YUIIMHd5yNSKnY.jpg",
+    "rating": 7.4,
+    "ratings": {
+      "letterboxd": 7,
+      "imdb": 7.6,
+      "metacritic": 7.3,
+      "mubi": 7.6
+    },
+    "releaseDate": "2024-12-13",
+    "showtimes": [
+      "17:00"
+    ],
+    "showtimesDate": "2026-10-05",
+    "days": {
+      "2026-10-05": [
+        "17:00"
+      ],
+      "2026-10-06": [
+        "18:15"
+      ]
+    },
+    "shows": {
+      "2026-10-05": [
+        {
+          "time": "17:00",
+          "tags": [
+            "VO"
+          ]
+        }
+      ],
+      "2026-10-06": [
+        {
+          "time": "18:15",
+          "tags": [
+            "VO"
+          ]
+        }
+      ]
+    },
+    "room": null,
+    "vo": true,
+    "url": "https://www.liveticket.it/opera.aspx?Id=699857",
+    "smart": {
+      "2026-10-05": 44,
+      "2026-10-06": 44
+    },
+    "rankUscita": 5,
+    "rankVoto": 3
+  },
+  {
     "title": "Le follie dell'imperatore",
     "poster": "https://image.tmdb.org/t/p/w185/r7qMa2WuiNquuq3Cv3CLLLyusnN.jpg",
     "rating": 7.3,
@@ -164,8 +301,47 @@
     "smart": {
       "2026-10-04": 42
     },
-    "rankUscita": 6,
-    "rankVoto": 3
+    "rankUscita": 8,
+    "rankVoto": 4
+  },
+  {
+    "title": "The Dreamers - I sognatori",
+    "poster": "https://image.tmdb.org/t/p/w185/pinNViE433kLUrJppjFAOzgWxdl.jpg",
+    "rating": 7.2,
+    "ratings": {
+      "letterboxd": 7.1,
+      "imdb": 7.1,
+      "metacritic": 6.3,
+      "mubi": 8.1
+    },
+    "releaseDate": "2003-10-10",
+    "showtimes": [
+      "23:59"
+    ],
+    "showtimesDate": "2026-10-05",
+    "days": {
+      "2026-10-05": [
+        "23:59"
+      ]
+    },
+    "shows": {
+      "2026-10-05": [
+        {
+          "time": "23:59",
+          "tags": [
+            "VO"
+          ]
+        }
+      ]
+    },
+    "room": null,
+    "vo": true,
+    "url": "https://www.liveticket.it/opera.aspx?Id=638825",
+    "smart": {
+      "2026-10-05": 41
+    },
+    "rankUscita": 7,
+    "rankVoto": 5
   },
   {
     "title": "Rider",
@@ -202,7 +378,7 @@
       "2026-10-04": 22
     },
     "rankUscita": 4,
-    "rankVoto": 4
+    "rankVoto": 6
   },
   {
     "title": "Her Private Hell",
@@ -216,18 +392,116 @@
     },
     "releaseDate": "2026-09-30",
     "showtimes": [
-      "19:00"
+      "15:15",
+      "21:30"
     ],
-    "showtimesDate": "2026-10-02",
+    "showtimesDate": "2026-10-01",
     "days": {
+      "2026-10-01": [
+        "15:15",
+        "21:30"
+      ],
       "2026-10-02": [
+        "11:00",
         "19:00"
+      ],
+      "2026-10-03": [
+        "13:30",
+        "18:30"
+      ],
+      "2026-10-04": [
+        "18:30",
+        "22:45"
+      ],
+      "2026-10-05": [
+        "14:30",
+        "19:00"
+      ],
+      "2026-10-06": [
+        "11:00",
+        "16:00"
       ]
     },
     "shows": {
+      "2026-10-01": [
+        {
+          "time": "15:15",
+          "tags": [
+            "VO"
+          ]
+        },
+        {
+          "time": "21:30",
+          "tags": [
+            "VO"
+          ]
+        }
+      ],
       "2026-10-02": [
         {
+          "time": "11:00",
+          "tags": [
+            "VO"
+          ]
+        },
+        {
           "time": "19:00",
+          "tags": [
+            "VO"
+          ]
+        }
+      ],
+      "2026-10-03": [
+        {
+          "time": "13:30",
+          "tags": [
+            "VO"
+          ]
+        },
+        {
+          "time": "18:30",
+          "tags": [
+            "VO"
+          ]
+        }
+      ],
+      "2026-10-04": [
+        {
+          "time": "18:30",
+          "tags": [
+            "VO"
+          ]
+        },
+        {
+          "time": "22:45",
+          "tags": [
+            "VO"
+          ]
+        }
+      ],
+      "2026-10-05": [
+        {
+          "time": "14:30",
+          "tags": [
+            "VO"
+          ]
+        },
+        {
+          "time": "19:00",
+          "tags": [
+            "VO"
+          ]
+        }
+      ],
+      "2026-10-06": [
+        {
+          "time": "11:00",
+          "tags": [
+            "VO"
+          ]
+        },
+        {
+          "time": "16:00",
           "tags": [
             "VO"
           ]
@@ -238,10 +512,15 @@
     "vo": true,
     "url": "https://www.liveticket.it/opera.aspx?Id=697451",
     "smart": {
-      "2026-10-02": 43
+      "2026-10-01": 57,
+      "2026-10-02": 57,
+      "2026-10-03": 57,
+      "2026-10-04": 57,
+      "2026-10-05": 57,
+      "2026-10-06": 57
     },
     "rankUscita": 1,
-    "rankVoto": 5
+    "rankVoto": 7
   },
   {
     "title": "Digger",
@@ -383,7 +662,7 @@
       "2026-10-06": 79
     },
     "rankUscita": 0,
-    "rankVoto": 6
+    "rankVoto": 8
   },
   {
     "title": "Un Prophète - ep. 5-8",
@@ -421,7 +700,7 @@
     "smart": {
       "2026-09-30": 45
     },
-    "rankUscita": 7,
-    "rankVoto": 7
+    "rankUscita": 9,
+    "rankVoto": 9
   }
 ]
