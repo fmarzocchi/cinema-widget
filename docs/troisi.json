@@ -2,12 +2,12 @@
   {
     "title": "NAZA",
     "poster": "https://image.tmdb.org/t/p/w185/qfdNOEmMroHjPLpZhNkORcVzgrQ.jpg",
-    "rating": 8.1,
+    "rating": 8.5,
     "ratings": {
-      "letterboxd": 7.6,
+      "letterboxd": 8.2,
       "imdb": 7.3,
       "metacritic": 9.5,
-      "mubi": null
+      "mubi": 8.9
     },
     "releaseDate": "2026-09-25",
     "showtimes": [
@@ -23,13 +23,22 @@
         "18:00"
       ],
       "2026-10-01": [
+        "09:00",
         "13:30",
         "17:30"
       ],
       "2026-10-02": [
         "17:00"
       ],
+      "2026-10-04": [
+        "09:00"
+      ],
+      "2026-10-05": [
+        "09:00",
+        "11:01"
+      ],
       "2026-10-06": [
+        "09:00",
         "22:30"
       ]
     },
@@ -56,6 +65,12 @@
       ],
       "2026-10-01": [
         {
+          "time": "09:00",
+          "tags": [
+            "VO"
+          ]
+        },
+        {
           "time": "13:30",
           "tags": [
             "VO"
@@ -76,7 +91,35 @@
           ]
         }
       ],
+      "2026-10-04": [
+        {
+          "time": "09:00",
+          "tags": [
+            "VO"
+          ]
+        }
+      ],
+      "2026-10-05": [
+        {
+          "time": "09:00",
+          "tags": [
+            "VO"
+          ]
+        },
+        {
+          "time": "11:01",
+          "tags": [
+            "VO"
+          ]
+        }
+      ],
       "2026-10-06": [
+        {
+          "time": "09:00",
+          "tags": [
+            "VO"
+          ]
+        },
         {
           "time": "22:30",
           "tags": [
@@ -89,10 +132,12 @@
     "vo": true,
     "url": "https://www.liveticket.it/opera.aspx?Id=695512",
     "smart": {
-      "2026-09-30": 91,
-      "2026-10-01": 91,
-      "2026-10-02": 76,
-      "2026-10-06": 76
+      "2026-09-30": 96,
+      "2026-10-01": 96,
+      "2026-10-02": 81,
+      "2026-10-04": 81,
+      "2026-10-05": 96,
+      "2026-10-06": 96
     },
     "rankUscita": 2,
     "rankVoto": 0
@@ -187,7 +232,7 @@
       "letterboxd": 7,
       "imdb": 7.2,
       "metacritic": null,
-      "mubi": 8.3
+      "mubi": 8.2
     },
     "releaseDate": "2026-09-24",
     "showtimes": [
@@ -344,6 +389,141 @@
     "rankVoto": 5
   },
   {
+    "title": "Digger",
+    "poster": "https://image.tmdb.org/t/p/w185/wisikjQcsvw0XqyQQYBsxudb38Z.jpg",
+    "rating": 5.9,
+    "ratings": {
+      "letterboxd": 7.3,
+      "imdb": null,
+      "metacritic": 4.4,
+      "mubi": null
+    },
+    "releaseDate": "2026-10-01",
+    "showtimes": [
+      "11:00",
+      "19:00"
+    ],
+    "showtimesDate": "2026-10-01",
+    "days": {
+      "2026-10-01": [
+        "11:00",
+        "19:00"
+      ],
+      "2026-10-02": [
+        "14:00",
+        "21:30"
+      ],
+      "2026-10-03": [
+        "16:00",
+        "21:00"
+      ],
+      "2026-10-04": [
+        "13:30",
+        "20:30"
+      ],
+      "2026-10-05": [
+        "21:30"
+      ],
+      "2026-10-06": [
+        "13:30",
+        "20:00"
+      ]
+    },
+    "shows": {
+      "2026-10-01": [
+        {
+          "time": "11:00",
+          "tags": [
+            "VO"
+          ]
+        },
+        {
+          "time": "19:00",
+          "tags": [
+            "VO"
+          ]
+        }
+      ],
+      "2026-10-02": [
+        {
+          "time": "14:00",
+          "tags": [
+            "VO"
+          ]
+        },
+        {
+          "time": "21:30",
+          "tags": [
+            "VO"
+          ]
+        }
+      ],
+      "2026-10-03": [
+        {
+          "time": "16:00",
+          "tags": [
+            "VO"
+          ]
+        },
+        {
+          "time": "21:00",
+          "tags": [
+            "VO"
+          ]
+        }
+      ],
+      "2026-10-04": [
+        {
+          "time": "13:30",
+          "tags": [
+            "VO"
+          ]
+        },
+        {
+          "time": "20:30",
+          "tags": [
+            "VO"
+          ]
+        }
+      ],
+      "2026-10-05": [
+        {
+          "time": "21:30",
+          "tags": [
+            "VO"
+          ]
+        }
+      ],
+      "2026-10-06": [
+        {
+          "time": "13:30",
+          "tags": [
+            "VO"
+          ]
+        },
+        {
+          "time": "20:00",
+          "tags": [
+            "VO"
+          ]
+        }
+      ]
+    },
+    "room": null,
+    "vo": true,
+    "url": "https://www.liveticket.it/opera.aspx?Id=697046",
+    "smart": {
+      "2026-10-01": 59,
+      "2026-10-02": 68,
+      "2026-10-03": 68,
+      "2026-10-04": 68,
+      "2026-10-05": 54,
+      "2026-10-06": 68
+    },
+    "rankUscita": 0,
+    "rankVoto": 6
+  },
+  {
     "title": "Rider",
     "poster": "https://image.tmdb.org/t/p/w185/n6ZXNMyx9XVZah6Nni9TDuAALBu.jpg",
     "rating": 5.6,
@@ -378,17 +558,17 @@
       "2026-10-04": 22
     },
     "rankUscita": 4,
-    "rankVoto": 6
+    "rankVoto": 7
   },
   {
     "title": "Her Private Hell",
     "poster": "https://image.tmdb.org/t/p/w185/4tdT44N1on3Aj6q0e64ttY60HA4.jpg",
     "rating": 4.6,
     "ratings": {
-      "letterboxd": 4.5,
+      "letterboxd": 4.4,
       "imdb": 4.4,
       "metacritic": 4.4,
-      "mubi": 5.2
+      "mubi": 5.1
     },
     "releaseDate": "2026-09-30",
     "showtimes": [
@@ -512,7 +692,7 @@
     "vo": true,
     "url": "https://www.liveticket.it/opera.aspx?Id=697451",
     "smart": {
-      "2026-10-01": 57,
+      "2026-10-01": 48,
       "2026-10-02": 57,
       "2026-10-03": 57,
       "2026-10-04": 57,
@@ -520,148 +700,6 @@
       "2026-10-06": 57
     },
     "rankUscita": 1,
-    "rankVoto": 7
-  },
-  {
-    "title": "Digger",
-    "poster": "https://image.tmdb.org/t/p/w185/1ATXKrIPJyKNwnJ6lcG088Sa6zi.jpg",
-    "rating": null,
-    "ratings": {
-      "letterboxd": null,
-      "imdb": null,
-      "metacritic": null,
-      "mubi": null
-    },
-    "releaseDate": "2026-10-01",
-    "showtimes": [
-      "11:00",
-      "19:00"
-    ],
-    "showtimesDate": "2026-10-01",
-    "days": {
-      "2026-10-01": [
-        "11:00",
-        "19:00"
-      ],
-      "2026-10-02": [
-        "14:00",
-        "21:30"
-      ],
-      "2026-10-03": [
-        "16:00",
-        "21:00"
-      ],
-      "2026-10-04": [
-        "13:30",
-        "20:30"
-      ],
-      "2026-10-05": [
-        "11:00",
-        "21:30"
-      ],
-      "2026-10-06": [
-        "13:30",
-        "20:00"
-      ]
-    },
-    "shows": {
-      "2026-10-01": [
-        {
-          "time": "11:00",
-          "tags": [
-            "VO"
-          ]
-        },
-        {
-          "time": "19:00",
-          "tags": [
-            "VO"
-          ]
-        }
-      ],
-      "2026-10-02": [
-        {
-          "time": "14:00",
-          "tags": [
-            "VO"
-          ]
-        },
-        {
-          "time": "21:30",
-          "tags": [
-            "VO"
-          ]
-        }
-      ],
-      "2026-10-03": [
-        {
-          "time": "16:00",
-          "tags": [
-            "VO"
-          ]
-        },
-        {
-          "time": "21:00",
-          "tags": [
-            "VO"
-          ]
-        }
-      ],
-      "2026-10-04": [
-        {
-          "time": "13:30",
-          "tags": [
-            "VO"
-          ]
-        },
-        {
-          "time": "20:30",
-          "tags": [
-            "VO"
-          ]
-        }
-      ],
-      "2026-10-05": [
-        {
-          "time": "11:00",
-          "tags": [
-            "VO"
-          ]
-        },
-        {
-          "time": "21:30",
-          "tags": [
-            "VO"
-          ]
-        }
-      ],
-      "2026-10-06": [
-        {
-          "time": "13:30",
-          "tags": [
-            "VO"
-          ]
-        },
-        {
-          "time": "20:00",
-          "tags": [
-            "VO"
-          ]
-        }
-      ]
-    },
-    "room": null,
-    "vo": true,
-    "url": "https://www.liveticket.it/opera.aspx?Id=697046",
-    "smart": {
-      "2026-10-01": 79,
-      "2026-10-02": 79,
-      "2026-10-03": 79,
-      "2026-10-04": 79,
-      "2026-10-05": 79,
-      "2026-10-06": 79
-    },
-    "rankUscita": 0,
     "rankVoto": 8
   },
   {

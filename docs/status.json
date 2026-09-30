@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-09-30T10:18:44.922Z",
+  "updatedAt": "2026-09-30T20:35:19.051Z",
   "today": "2026-09-30",
   "ratingScale": 10,
   "ratingSources": {
-    "film": 41,
-    "letterboxd": 32,
-    "imdb": 34,
-    "metacritic": 27,
+    "film": 36,
+    "letterboxd": 30,
+    "imdb": 30,
+    "metacritic": 25,
     "mubi": 23,
-    "media": 34
+    "media": 31
   },
   "widgetUrl": "https://fmarzocchi.github.io/cinema-widget/cinema.json",
   "feeds": [
@@ -16,7 +16,7 @@
       "key": "porta",
       "label": "PORTA",
       "cinema": "UCI Cinemas Porta di Roma",
-      "count": 30,
+      "count": 27,
       "state": "ok",
       "url": "https://fmarzocchi.github.io/cinema-widget/porta.json"
     },
@@ -32,7 +32,7 @@
       "key": "andromeda",
       "label": "ANDROMEDA",
       "cinema": "Multisala Andromeda",
-      "count": 16,
+      "count": 10,
       "state": "ok",
       "url": "https://fmarzocchi.github.io/cinema-widget/andromeda.json"
     }
