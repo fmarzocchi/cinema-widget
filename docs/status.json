@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-01T01:04:45.380Z",
+  "updatedAt": "2026-10-01T10:44:03.764Z",
   "today": "2026-10-01",
   "ratingScale": 10,
   "ratingSources": {
@@ -37,7 +37,5 @@
       "url": "https://fmarzocchi.github.io/cinema-widget/andromeda.json"
     }
   ],
-  "warnings": [
-    "Porta 2026-10-04: risposta senza film"
-  ]
+  "warnings": []
 }
