@@ -11,17 +11,12 @@
     },
     "releaseDate": "2026-09-25",
     "showtimes": [
-      "11:00",
-      "14:00",
-      "18:00"
+      "09:00",
+      "13:30",
+      "17:30"
     ],
-    "showtimesDate": "2026-09-30",
+    "showtimesDate": "2026-10-01",
     "days": {
-      "2026-09-30": [
-        "11:00",
-        "14:00",
-        "18:00"
-      ],
       "2026-10-01": [
         "09:00",
         "13:30",
@@ -40,29 +35,12 @@
       "2026-10-06": [
         "09:00",
         "22:30"
+      ],
+      "2026-10-07": [
+        "09:00"
       ]
     },
     "shows": {
-      "2026-09-30": [
-        {
-          "time": "11:00",
-          "tags": [
-            "VO"
-          ]
-        },
-        {
-          "time": "14:00",
-          "tags": [
-            "VO"
-          ]
-        },
-        {
-          "time": "18:00",
-          "tags": [
-            "VO"
-          ]
-        }
-      ],
       "2026-10-01": [
         {
           "time": "09:00",
@@ -126,20 +104,28 @@
             "VO"
           ]
         }
+      ],
+      "2026-10-07": [
+        {
+          "time": "09:00",
+          "tags": [
+            "VO"
+          ]
+        }
       ]
     },
     "room": null,
     "vo": true,
     "url": "https://www.liveticket.it/opera.aspx?Id=695512",
     "smart": {
-      "2026-09-30": 96,
-      "2026-10-01": 96,
+      "2026-10-01": 95,
       "2026-10-02": 81,
       "2026-10-04": 81,
-      "2026-10-05": 96,
-      "2026-10-06": 96
+      "2026-10-05": 95,
+      "2026-10-06": 95,
+      "2026-10-07": 81
     },
-    "rankUscita": 2,
+    "rankUscita": 3,
     "rankVoto": 0
   },
   {
@@ -225,43 +211,6 @@
     "rankVoto": 1
   },
   {
-    "title": "En el camino",
-    "poster": "https://image.tmdb.org/t/p/w185/7tBqPnIbdw9r5C8thiUGQokIbTF.jpg",
-    "rating": 7.5,
-    "ratings": {
-      "letterboxd": 7,
-      "imdb": 7.2,
-      "metacritic": null,
-      "mubi": 8.2
-    },
-    "releaseDate": "2026-09-24",
-    "showtimes": [
-      "16:00"
-    ],
-    "showtimesDate": "2026-09-30",
-    "days": {
-      "2026-09-30": [
-        "16:00"
-      ]
-    },
-    "shows": {
-      "2026-09-30": [
-        {
-          "time": "16:00",
-          "tags": []
-        }
-      ]
-    },
-    "room": null,
-    "vo": false,
-    "url": "https://www.liveticket.it/opera.aspx?Id=695495",
-    "smart": {
-      "2026-09-30": 64
-    },
-    "rankUscita": 3,
-    "rankVoto": 2
-  },
-  {
     "title": "The Bibi Files",
     "poster": "https://image.tmdb.org/t/p/w185/aZTt7g857dGU9YUIIMHd5yNSKnY.jpg",
     "rating": 7.4,
@@ -282,6 +231,9 @@
       ],
       "2026-10-06": [
         "18:15"
+      ],
+      "2026-10-07": [
+        "11:00"
       ]
     },
     "shows": {
@@ -300,6 +252,14 @@
             "VO"
           ]
         }
+      ],
+      "2026-10-07": [
+        {
+          "time": "11:00",
+          "tags": [
+            "VO"
+          ]
+        }
       ]
     },
     "room": null,
@@ -307,10 +267,11 @@
     "url": "https://www.liveticket.it/opera.aspx?Id=699857",
     "smart": {
       "2026-10-05": 44,
-      "2026-10-06": 44
+      "2026-10-06": 44,
+      "2026-10-07": 44
     },
     "rankUscita": 5,
-    "rankVoto": 3
+    "rankVoto": 2
   },
   {
     "title": "Le follie dell'imperatore",
@@ -347,7 +308,7 @@
       "2026-10-04": 42
     },
     "rankUscita": 8,
-    "rankVoto": 4
+    "rankVoto": 3
   },
   {
     "title": "The Dreamers - I sognatori",
@@ -386,6 +347,43 @@
       "2026-10-05": 41
     },
     "rankUscita": 7,
+    "rankVoto": 4
+  },
+  {
+    "title": "L'estranea",
+    "poster": "https://image.tmdb.org/t/p/w185/6GisyPsQBvnpgMKXqtPuwJqpZzl.jpg",
+    "rating": 7.1,
+    "ratings": {
+      "letterboxd": 7.2,
+      "imdb": 6.9,
+      "metacritic": null,
+      "mubi": null
+    },
+    "releaseDate": "2026-10-08",
+    "showtimes": [
+      "21:00"
+    ],
+    "showtimesDate": "2026-10-07",
+    "days": {
+      "2026-10-07": [
+        "21:00"
+      ]
+    },
+    "shows": {
+      "2026-10-07": [
+        {
+          "time": "21:00",
+          "tags": []
+        }
+      ]
+    },
+    "room": null,
+    "vo": false,
+    "url": "https://www.liveticket.it/opera.aspx?Id=699881",
+    "smart": {
+      "2026-10-07": 69
+    },
+    "rankUscita": 0,
     "rankVoto": 5
   },
   {
@@ -427,6 +425,10 @@
       "2026-10-06": [
         "13:30",
         "20:00"
+      ],
+      "2026-10-07": [
+        "14:00",
+        "16:30"
       ]
     },
     "shows": {
@@ -507,6 +509,20 @@
             "VO"
           ]
         }
+      ],
+      "2026-10-07": [
+        {
+          "time": "14:00",
+          "tags": [
+            "VO"
+          ]
+        },
+        {
+          "time": "16:30",
+          "tags": [
+            "VO"
+          ]
+        }
       ]
     },
     "room": null,
@@ -518,9 +534,10 @@
       "2026-10-03": 68,
       "2026-10-04": 68,
       "2026-10-05": 54,
-      "2026-10-06": 68
+      "2026-10-06": 68,
+      "2026-10-07": 68
     },
-    "rankUscita": 0,
+    "rankUscita": 1,
     "rankVoto": 6
   },
   {
@@ -600,6 +617,9 @@
       "2026-10-06": [
         "11:00",
         "16:00"
+      ],
+      "2026-10-07": [
+        "19:00"
       ]
     },
     "shows": {
@@ -686,46 +706,10 @@
             "VO"
           ]
         }
-      ]
-    },
-    "room": null,
-    "vo": true,
-    "url": "https://www.liveticket.it/opera.aspx?Id=697451",
-    "smart": {
-      "2026-10-01": 48,
-      "2026-10-02": 57,
-      "2026-10-03": 57,
-      "2026-10-04": 57,
-      "2026-10-05": 57,
-      "2026-10-06": 57
-    },
-    "rankUscita": 1,
-    "rankVoto": 8
-  },
-  {
-    "title": "Un Prophète - ep. 5-8",
-    "poster": "https://cinematroisi.liveticket.it/wp-content/uploads/sites/48/00306859-180x257.jpg",
-    "rating": null,
-    "ratings": {
-      "letterboxd": null,
-      "imdb": null,
-      "metacritic": null,
-      "mubi": null
-    },
-    "releaseDate": null,
-    "showtimes": [
-      "19:30"
-    ],
-    "showtimesDate": "2026-09-30",
-    "days": {
-      "2026-09-30": [
-        "19:30"
-      ]
-    },
-    "shows": {
-      "2026-09-30": [
+      ],
+      "2026-10-07": [
         {
-          "time": "19:30",
+          "time": "19:00",
           "tags": [
             "VO"
           ]
@@ -734,11 +718,17 @@
     },
     "room": null,
     "vo": true,
-    "url": "https://www.liveticket.it/opera.aspx?Id=695525",
+    "url": "https://www.liveticket.it/opera.aspx?Id=697451",
     "smart": {
-      "2026-09-30": 45
+      "2026-10-01": 47,
+      "2026-10-02": 56,
+      "2026-10-03": 56,
+      "2026-10-04": 56,
+      "2026-10-05": 56,
+      "2026-10-06": 56,
+      "2026-10-07": 42
     },
-    "rankUscita": 9,
-    "rankVoto": 9
+    "rankUscita": 2,
+    "rankVoto": 8
   }
 ]

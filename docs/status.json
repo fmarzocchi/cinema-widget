@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-09-30T20:35:19.051Z",
-  "today": "2026-09-30",
+  "updatedAt": "2026-10-01T01:04:45.380Z",
+  "today": "2026-10-01",
   "ratingScale": 10,
   "ratingSources": {
-    "film": 36,
-    "letterboxd": 30,
-    "imdb": 30,
+    "film": 37,
+    "letterboxd": 31,
+    "imdb": 31,
     "metacritic": 25,
-    "mubi": 23,
-    "media": 31
+    "mubi": 22,
+    "media": 32
   },
   "widgetUrl": "https://fmarzocchi.github.io/cinema-widget/cinema.json",
   "feeds": [
@@ -16,7 +16,7 @@
       "key": "porta",
       "label": "PORTA",
       "cinema": "UCI Cinemas Porta di Roma",
-      "count": 27,
+      "count": 28,
       "state": "ok",
       "url": "https://fmarzocchi.github.io/cinema-widget/porta.json"
     },
@@ -24,7 +24,7 @@
       "key": "troisi",
       "label": "TROISI",
       "cinema": "Cinema Troisi",
-      "count": 10,
+      "count": 9,
       "state": "ok",
       "url": "https://fmarzocchi.github.io/cinema-widget/troisi.json"
     },
@@ -37,5 +37,7 @@
       "url": "https://fmarzocchi.github.io/cinema-widget/andromeda.json"
     }
   ],
-  "warnings": []
+  "warnings": [
+    "Porta 2026-10-04: risposta senza film"
+  ]
 }
