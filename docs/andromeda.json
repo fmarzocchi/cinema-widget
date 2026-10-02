@@ -5,7 +5,7 @@
     "rating": 8.5,
     "ratings": {
       "letterboxd": 8.2,
-      "imdb": 7.4,
+      "imdb": 7.6,
       "metacritic": 9.5,
       "mubi": 8.9
     },
@@ -15,19 +15,16 @@
       "18:45",
       "21:20"
     ],
-    "showtimesDate": "2026-10-02",
+    "showtimesDate": "2026-10-03",
     "days": {
-      "2026-10-02": [
+      "2026-10-03": [
         "17:00",
         "18:45",
-        "21:20"
-      ],
-      "2026-10-03": [
         "21:20"
       ]
     },
     "shows": {
-      "2026-10-02": [
+      "2026-10-03": [
         {
           "time": "17:00",
           "tags": []
@@ -36,12 +33,6 @@
           "time": "18:45",
           "tags": []
         },
-        {
-          "time": "21:20",
-          "tags": []
-        }
-      ],
-      "2026-10-03": [
         {
           "time": "21:20",
           "tags": [
@@ -54,8 +45,7 @@
     "vo": false,
     "url": "https://roma.andromeda.18tickets.it/film/77608",
     "smart": {
-      "2026-10-02": 87,
-      "2026-10-03": 94
+      "2026-10-03": 87
     },
     "rankUscita": 5,
     "rankVoto": 0
@@ -75,15 +65,15 @@
       "17:10",
       "20:45"
     ],
-    "showtimesDate": "2026-10-02",
+    "showtimesDate": "2026-10-03",
     "days": {
-      "2026-10-02": [
+      "2026-10-03": [
         "17:10",
         "20:45"
       ]
     },
     "shows": {
-      "2026-10-02": [
+      "2026-10-03": [
         {
           "time": "17:10",
           "tags": []
@@ -98,7 +88,7 @@
     "vo": false,
     "url": "https://roma.andromeda.18tickets.it/film/74606",
     "smart": {
-      "2026-10-02": 47
+      "2026-10-03": 47
     },
     "rankUscita": 9,
     "rankVoto": 1
@@ -109,7 +99,7 @@
     "rating": 7.6,
     "ratings": {
       "letterboxd": 7.8,
-      "imdb": 7.7,
+      "imdb": 7.8,
       "metacritic": 7.3,
       "mubi": null
     },
@@ -118,15 +108,15 @@
       "17:15",
       "18:45"
     ],
-    "showtimesDate": "2026-10-02",
+    "showtimesDate": "2026-10-03",
     "days": {
-      "2026-10-02": [
+      "2026-10-03": [
         "17:15",
         "18:45"
       ]
     },
     "shows": {
-      "2026-10-02": [
+      "2026-10-03": [
         {
           "time": "17:15",
           "tags": []
@@ -141,7 +131,7 @@
     "vo": false,
     "url": "https://roma.andromeda.18tickets.it/film/78266",
     "smart": {
-      "2026-10-02": 68
+      "2026-10-03": 68
     },
     "rankUscita": 6,
     "rankVoto": 2
@@ -160,14 +150,14 @@
     "showtimes": [
       "21:20"
     ],
-    "showtimesDate": "2026-10-02",
+    "showtimesDate": "2026-10-03",
     "days": {
-      "2026-10-02": [
+      "2026-10-03": [
         "21:20"
       ]
     },
     "shows": {
-      "2026-10-02": [
+      "2026-10-03": [
         {
           "time": "21:20",
           "tags": []
@@ -178,61 +168,18 @@
     "vo": false,
     "url": "https://roma.andromeda.18tickets.it/film/76986",
     "smart": {
-      "2026-10-02": 47
+      "2026-10-03": 47
     },
     "rankUscita": 7,
     "rankVoto": 3
   },
   {
-    "title": "La città dei vivi",
-    "poster": "https://image.tmdb.org/t/p/w185/opBholBwfUmPISED5muouubQPq3.jpg",
-    "rating": 6,
-    "ratings": {
-      "letterboxd": 6.1,
-      "imdb": 5.9,
-      "metacritic": null,
-      "mubi": null
-    },
-    "releaseDate": "2026-10-01",
-    "showtimes": [
-      "16:50",
-      "19:10"
-    ],
-    "showtimesDate": "2026-10-02",
-    "days": {
-      "2026-10-02": [
-        "16:50",
-        "19:10"
-      ]
-    },
-    "shows": {
-      "2026-10-02": [
-        {
-          "time": "16:50",
-          "tags": []
-        },
-        {
-          "time": "19:10",
-          "tags": []
-        }
-      ]
-    },
-    "room": "Sala 7",
-    "vo": false,
-    "url": "https://roma.andromeda.18tickets.it/film/78728",
-    "smart": {
-      "2026-10-02": 54
-    },
-    "rankUscita": 0,
-    "rankVoto": 4
-  },
-  {
     "title": "Digger",
     "poster": "https://image.tmdb.org/t/p/w185/wisikjQcsvw0XqyQQYBsxudb38Z.jpg",
-    "rating": 5.9,
+    "rating": 6.3,
     "ratings": {
       "letterboxd": 7.3,
-      "imdb": null,
+      "imdb": 7.2,
       "metacritic": 4.4,
       "mubi": null
     },
@@ -243,9 +190,9 @@
       "20:30",
       "21:20"
     ],
-    "showtimesDate": "2026-10-02",
+    "showtimesDate": "2026-10-03",
     "days": {
-      "2026-10-02": [
+      "2026-10-03": [
         "16:45",
         "18:45",
         "20:30",
@@ -253,7 +200,7 @@
       ]
     },
     "shows": {
-      "2026-10-02": [
+      "2026-10-03": [
         {
           "time": "16:45",
           "tags": []
@@ -278,7 +225,50 @@
     "vo": false,
     "url": "https://roma.andromeda.18tickets.it/film/78828",
     "smart": {
-      "2026-10-02": 67
+      "2026-10-03": 72
+    },
+    "rankUscita": 0,
+    "rankVoto": 4
+  },
+  {
+    "title": "La città dei vivi",
+    "poster": "https://image.tmdb.org/t/p/w185/opBholBwfUmPISED5muouubQPq3.jpg",
+    "rating": 6.1,
+    "ratings": {
+      "letterboxd": 6.1,
+      "imdb": 6.1,
+      "metacritic": null,
+      "mubi": null
+    },
+    "releaseDate": "2026-10-01",
+    "showtimes": [
+      "16:50",
+      "19:10"
+    ],
+    "showtimesDate": "2026-10-03",
+    "days": {
+      "2026-10-03": [
+        "16:50",
+        "19:10"
+      ]
+    },
+    "shows": {
+      "2026-10-03": [
+        {
+          "time": "16:50",
+          "tags": []
+        },
+        {
+          "time": "19:10",
+          "tags": []
+        }
+      ]
+    },
+    "room": "Sala 7",
+    "vo": false,
+    "url": "https://roma.andromeda.18tickets.it/film/78728",
+    "smart": {
+      "2026-10-03": 55
     },
     "rankUscita": 1,
     "rankVoto": 5
@@ -297,14 +287,14 @@
     "showtimes": [
       "17:00"
     ],
-    "showtimesDate": "2026-10-02",
+    "showtimesDate": "2026-10-03",
     "days": {
-      "2026-10-02": [
+      "2026-10-03": [
         "17:00"
       ]
     },
     "shows": {
-      "2026-10-02": [
+      "2026-10-03": [
         {
           "time": "17:00",
           "tags": []
@@ -315,7 +305,7 @@
     "vo": false,
     "url": "https://roma.andromeda.18tickets.it/film/73580",
     "smart": {
-      "2026-10-02": 27
+      "2026-10-03": 27
     },
     "rankUscita": 8,
     "rankVoto": 6
@@ -323,10 +313,10 @@
   {
     "title": "Verity",
     "poster": "https://image.tmdb.org/t/p/w185/cLMNbCkgzn1qlmox7FyQBgXwL4D.jpg",
-    "rating": 5.1,
+    "rating": 5.4,
     "ratings": {
       "letterboxd": 5.6,
-      "imdb": null,
+      "imdb": 6.1,
       "metacritic": 4.5,
       "mubi": null
     },
@@ -335,15 +325,15 @@
       "18:45",
       "21:20"
     ],
-    "showtimesDate": "2026-10-02",
+    "showtimesDate": "2026-10-03",
     "days": {
-      "2026-10-02": [
+      "2026-10-03": [
         "18:45",
         "21:20"
       ]
     },
     "shows": {
-      "2026-10-02": [
+      "2026-10-03": [
         {
           "time": "18:45",
           "tags": []
@@ -358,7 +348,7 @@
     "vo": false,
     "url": "https://roma.andromeda.18tickets.it/film/78794",
     "smart": {
-      "2026-10-02": 43
+      "2026-10-03": 47
     },
     "rankUscita": 2,
     "rankVoto": 7
@@ -379,16 +369,16 @@
       "19:15",
       "21:20"
     ],
-    "showtimesDate": "2026-10-02",
+    "showtimesDate": "2026-10-03",
     "days": {
-      "2026-10-02": [
+      "2026-10-03": [
         "16:45",
         "19:15",
         "21:20"
       ]
     },
     "shows": {
-      "2026-10-02": [
+      "2026-10-03": [
         {
           "time": "16:45",
           "tags": []
@@ -407,7 +397,7 @@
     "vo": false,
     "url": "https://roma.andromeda.18tickets.it/film/80675",
     "smart": {
-      "2026-10-02": 48
+      "2026-10-03": 48
     },
     "rankUscita": 4,
     "rankVoto": 8
@@ -427,15 +417,15 @@
       "16:45",
       "21:15"
     ],
-    "showtimesDate": "2026-10-02",
+    "showtimesDate": "2026-10-03",
     "days": {
-      "2026-10-02": [
+      "2026-10-03": [
         "16:45",
         "21:15"
       ]
     },
     "shows": {
-      "2026-10-02": [
+      "2026-10-03": [
         {
           "time": "16:45",
           "tags": []
@@ -450,7 +440,7 @@
     "vo": false,
     "url": "https://roma.andromeda.18tickets.it/film/78830",
     "smart": {
-      "2026-10-02": 63
+      "2026-10-03": 63
     },
     "rankUscita": 3,
     "rankVoto": 9
