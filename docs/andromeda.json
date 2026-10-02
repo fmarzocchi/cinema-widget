@@ -5,7 +5,7 @@
     "rating": 8.5,
     "ratings": {
       "letterboxd": 8.2,
-      "imdb": 7.5,
+      "imdb": 7.4,
       "metacritic": 9.5,
       "mubi": 8.9
     },
@@ -109,7 +109,7 @@
     "rating": 7.6,
     "ratings": {
       "letterboxd": 7.8,
-      "imdb": 7.8,
+      "imdb": 7.7,
       "metacritic": 7.3,
       "mubi": null
     },
@@ -184,12 +184,55 @@
     "rankVoto": 3
   },
   {
+    "title": "La città dei vivi",
+    "poster": "https://image.tmdb.org/t/p/w185/opBholBwfUmPISED5muouubQPq3.jpg",
+    "rating": 6,
+    "ratings": {
+      "letterboxd": 6.1,
+      "imdb": 5.9,
+      "metacritic": null,
+      "mubi": null
+    },
+    "releaseDate": "2026-10-01",
+    "showtimes": [
+      "16:50",
+      "19:10"
+    ],
+    "showtimesDate": "2026-10-02",
+    "days": {
+      "2026-10-02": [
+        "16:50",
+        "19:10"
+      ]
+    },
+    "shows": {
+      "2026-10-02": [
+        {
+          "time": "16:50",
+          "tags": []
+        },
+        {
+          "time": "19:10",
+          "tags": []
+        }
+      ]
+    },
+    "room": "Sala 7",
+    "vo": false,
+    "url": "https://roma.andromeda.18tickets.it/film/78728",
+    "smart": {
+      "2026-10-02": 54
+    },
+    "rankUscita": 0,
+    "rankVoto": 4
+  },
+  {
     "title": "Digger",
     "poster": "https://image.tmdb.org/t/p/w185/wisikjQcsvw0XqyQQYBsxudb38Z.jpg",
-    "rating": 6.3,
+    "rating": 5.9,
     "ratings": {
       "letterboxd": 7.3,
-      "imdb": 7.1,
+      "imdb": null,
       "metacritic": 4.4,
       "mubi": null
     },
@@ -235,50 +278,7 @@
     "vo": false,
     "url": "https://roma.andromeda.18tickets.it/film/78828",
     "smart": {
-      "2026-10-02": 72
-    },
-    "rankUscita": 0,
-    "rankVoto": 4
-  },
-  {
-    "title": "La città dei vivi",
-    "poster": "https://image.tmdb.org/t/p/w185/opBholBwfUmPISED5muouubQPq3.jpg",
-    "rating": 6.1,
-    "ratings": {
-      "letterboxd": 6.1,
-      "imdb": 6,
-      "metacritic": null,
-      "mubi": null
-    },
-    "releaseDate": "2026-10-01",
-    "showtimes": [
-      "16:50",
-      "19:10"
-    ],
-    "showtimesDate": "2026-10-02",
-    "days": {
-      "2026-10-02": [
-        "16:50",
-        "19:10"
-      ]
-    },
-    "shows": {
-      "2026-10-02": [
-        {
-          "time": "16:50",
-          "tags": []
-        },
-        {
-          "time": "19:10",
-          "tags": []
-        }
-      ]
-    },
-    "room": "Sala 7",
-    "vo": false,
-    "url": "https://roma.andromeda.18tickets.it/film/78728",
-    "smart": {
-      "2026-10-02": 55
+      "2026-10-02": 67
     },
     "rankUscita": 1,
     "rankVoto": 5
@@ -323,10 +323,10 @@
   {
     "title": "Verity",
     "poster": "https://image.tmdb.org/t/p/w185/cLMNbCkgzn1qlmox7FyQBgXwL4D.jpg",
-    "rating": 5.4,
+    "rating": 5.1,
     "ratings": {
       "letterboxd": 5.6,
-      "imdb": 6.1,
+      "imdb": null,
       "metacritic": 4.5,
       "mubi": null
     },
@@ -358,7 +358,7 @@
     "vo": false,
     "url": "https://roma.andromeda.18tickets.it/film/78794",
     "smart": {
-      "2026-10-02": 47
+      "2026-10-02": 43
     },
     "rankUscita": 2,
     "rankVoto": 7

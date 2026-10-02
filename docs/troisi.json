@@ -5,7 +5,7 @@
     "rating": 8.5,
     "ratings": {
       "letterboxd": 8.2,
-      "imdb": 7.5,
+      "imdb": 7.4,
       "metacritic": 9.5,
       "mubi": 8.9
     },
@@ -365,10 +365,10 @@
   {
     "title": "Digger",
     "poster": "https://image.tmdb.org/t/p/w185/wisikjQcsvw0XqyQQYBsxudb38Z.jpg",
-    "rating": 6.3,
+    "rating": 5.9,
     "ratings": {
       "letterboxd": 7.3,
-      "imdb": 7.1,
+      "imdb": null,
       "metacritic": 4.4,
       "mubi": null
     },
@@ -505,13 +505,13 @@
     "vo": true,
     "url": "https://www.liveticket.it/opera.aspx?Id=697046",
     "smart": {
-      "2026-10-02": 72,
-      "2026-10-03": 72,
-      "2026-10-04": 72,
-      "2026-10-05": 58,
-      "2026-10-06": 72,
-      "2026-10-07": 72,
-      "2026-10-08": 72
+      "2026-10-02": 67,
+      "2026-10-03": 67,
+      "2026-10-04": 67,
+      "2026-10-05": 53,
+      "2026-10-06": 67,
+      "2026-10-07": 67,
+      "2026-10-08": 67
     },
     "rankUscita": 1,
     "rankVoto": 6
