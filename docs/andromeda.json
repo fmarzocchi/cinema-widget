@@ -2,10 +2,10 @@
   {
     "title": "NAZA",
     "poster": "https://image.tmdb.org/t/p/w185/qfdNOEmMroHjPLpZhNkORcVzgrQ.jpg",
-    "rating": 8.5,
+    "rating": 8.6,
     "ratings": {
       "letterboxd": 8.2,
-      "imdb": 7.6,
+      "imdb": 7.7,
       "metacritic": 9.5,
       "mubi": 8.9
     },
@@ -179,7 +179,7 @@
     "rating": 6.3,
     "ratings": {
       "letterboxd": 7.3,
-      "imdb": 7.2,
+      "imdb": 7.3,
       "metacritic": 4.4,
       "mubi": null
     },
@@ -233,10 +233,10 @@
   {
     "title": "La città dei vivi",
     "poster": "https://image.tmdb.org/t/p/w185/opBholBwfUmPISED5muouubQPq3.jpg",
-    "rating": 6.1,
+    "rating": 6.2,
     "ratings": {
       "letterboxd": 6.1,
-      "imdb": 6.1,
+      "imdb": 6.2,
       "metacritic": null,
       "mubi": null
     },
@@ -268,7 +268,7 @@
     "vo": false,
     "url": "https://roma.andromeda.18tickets.it/film/78728",
     "smart": {
-      "2026-10-03": 55
+      "2026-10-03": 56
     },
     "rankUscita": 1,
     "rankVoto": 5
