@@ -11,28 +11,22 @@
     },
     "releaseDate": "2026-09-25",
     "showtimes": [
+      "17:00",
+      "18:45",
       "21:20"
     ],
-    "showtimesDate": "2026-10-03",
+    "showtimesDate": "2026-10-04",
     "days": {
-      "2026-10-03": [
-        "21:20"
-      ],
       "2026-10-04": [
         "17:00",
         "18:45",
         "21:20"
+      ],
+      "2026-10-05": [
+        "21:20"
       ]
     },
     "shows": {
-      "2026-10-03": [
-        {
-          "time": "21:20",
-          "tags": [
-            "VO"
-          ]
-        }
-      ],
       "2026-10-04": [
         {
           "time": "17:00",
@@ -46,14 +40,22 @@
           "time": "21:20",
           "tags": []
         }
+      ],
+      "2026-10-05": [
+        {
+          "time": "21:20",
+          "tags": [
+            "VO"
+          ]
+        }
       ]
     },
-    "room": null,
+    "room": "Sala 6",
     "vo": false,
-    "url": "https://roma.andromeda.18tickets.it/film/81368",
+    "url": "https://roma.andromeda.18tickets.it/film/77608",
     "smart": {
-      "2026-10-03": 93,
-      "2026-10-04": 93
+      "2026-10-04": 86,
+      "2026-10-05": 93
     },
     "rankUscita": 5,
     "rankVoto": 0
@@ -90,7 +92,7 @@
     "vo": false,
     "url": "https://roma.andromeda.18tickets.it/film/74606",
     "smart": {
-      "2026-10-04": 43
+      "2026-10-04": 40
     },
     "rankUscita": 9,
     "rankVoto": 1
@@ -133,7 +135,7 @@
     "vo": false,
     "url": "https://roma.andromeda.18tickets.it/film/78266",
     "smart": {
-      "2026-10-04": 72
+      "2026-10-04": 67
     },
     "rankUscita": 6,
     "rankVoto": 2
@@ -152,14 +154,14 @@
     "showtimes": [
       "21:20"
     ],
-    "showtimesDate": "2026-10-03",
+    "showtimesDate": "2026-10-04",
     "days": {
-      "2026-10-03": [
+      "2026-10-04": [
         "21:20"
       ]
     },
     "shows": {
-      "2026-10-03": [
+      "2026-10-04": [
         {
           "time": "21:20",
           "tags": []
@@ -170,7 +172,7 @@
     "vo": false,
     "url": "https://roma.andromeda.18tickets.it/film/76986",
     "smart": {
-      "2026-10-03": 68
+      "2026-10-04": 46
     },
     "rankUscita": 7,
     "rankVoto": 3
@@ -187,39 +189,47 @@
     },
     "releaseDate": "2026-10-01",
     "showtimes": [
+      "16:45",
+      "18:45",
+      "20:30",
       "21:20"
     ],
-    "showtimesDate": "2026-10-03",
+    "showtimesDate": "2026-10-04",
     "days": {
-      "2026-10-03": [
-        "21:20"
-      ],
       "2026-10-04": [
-        "20:30"
+        "16:45",
+        "18:45",
+        "20:30",
+        "21:20"
       ]
     },
     "shows": {
-      "2026-10-03": [
-        {
-          "time": "21:20",
-          "tags": []
-        }
-      ],
       "2026-10-04": [
+        {
+          "time": "16:45",
+          "tags": []
+        },
+        {
+          "time": "18:45",
+          "tags": []
+        },
         {
           "time": "20:30",
           "tags": [
             "VO"
           ]
+        },
+        {
+          "time": "21:20",
+          "tags": []
         }
       ]
     },
-    "room": null,
+    "room": "Sala 2",
     "vo": false,
     "url": "https://roma.andromeda.18tickets.it/film/78828",
     "smart": {
-      "2026-10-03": 71,
-      "2026-10-04": 52
+      "2026-10-04": 70
     },
     "rankUscita": 0,
     "rankVoto": 4
@@ -262,7 +272,7 @@
     "vo": false,
     "url": "https://roma.andromeda.18tickets.it/film/78728",
     "smart": {
-      "2026-10-04": 60
+      "2026-10-04": 55
     },
     "rankUscita": 1,
     "rankVoto": 5
@@ -299,7 +309,7 @@
     "vo": false,
     "url": "https://roma.andromeda.18tickets.it/film/73580",
     "smart": {
-      "2026-10-05": 48
+      "2026-10-05": 47
     },
     "rankUscita": 8,
     "rankVoto": 6
@@ -316,27 +326,33 @@
     },
     "releaseDate": "2026-10-01",
     "showtimes": [
+      "18:45",
       "21:20"
     ],
-    "showtimesDate": "2026-10-03",
+    "showtimesDate": "2026-10-04",
     "days": {
-      "2026-10-03": [
+      "2026-10-04": [
+        "18:45",
         "21:20"
       ]
     },
     "shows": {
-      "2026-10-03": [
+      "2026-10-04": [
+        {
+          "time": "18:45",
+          "tags": []
+        },
         {
           "time": "21:20",
           "tags": []
         }
       ]
     },
-    "room": null,
+    "room": "Sala 8",
     "vo": false,
     "url": "https://roma.andromeda.18tickets.it/film/78794",
     "smart": {
-      "2026-10-03": 60
+      "2026-10-04": 45
     },
     "rankUscita": 2,
     "rankVoto": 7
@@ -353,27 +369,39 @@
     },
     "releaseDate": "2026-09-30",
     "showtimes": [
+      "16:45",
+      "19:15",
       "21:20"
     ],
-    "showtimesDate": "2026-10-03",
+    "showtimesDate": "2026-10-04",
     "days": {
-      "2026-10-03": [
+      "2026-10-04": [
+        "16:45",
+        "19:15",
         "21:20"
       ]
     },
     "shows": {
-      "2026-10-03": [
+      "2026-10-04": [
+        {
+          "time": "16:45",
+          "tags": []
+        },
+        {
+          "time": "19:15",
+          "tags": []
+        },
         {
           "time": "21:20",
           "tags": []
         }
       ]
     },
-    "room": null,
+    "room": "Sala 5",
     "vo": false,
     "url": "https://roma.andromeda.18tickets.it/film/80675",
     "smart": {
-      "2026-10-03": 54
+      "2026-10-04": 46
     },
     "rankUscita": 4,
     "rankVoto": 8
@@ -390,27 +418,33 @@
     },
     "releaseDate": "2026-10-01",
     "showtimes": [
+      "16:45",
       "21:15"
     ],
-    "showtimesDate": "2026-10-03",
+    "showtimesDate": "2026-10-04",
     "days": {
-      "2026-10-03": [
+      "2026-10-04": [
+        "16:45",
         "21:15"
       ]
     },
     "shows": {
-      "2026-10-03": [
+      "2026-10-04": [
+        {
+          "time": "16:45",
+          "tags": []
+        },
         {
           "time": "21:15",
           "tags": []
         }
       ]
     },
-    "room": null,
+    "room": "Sala 3",
     "vo": false,
     "url": "https://roma.andromeda.18tickets.it/film/78830",
     "smart": {
-      "2026-10-03": 77
+      "2026-10-04": 62
     },
     "rankUscita": 3,
     "rankVoto": 9
