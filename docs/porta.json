@@ -871,10 +871,10 @@
   {
     "title": "La città dei vivi",
     "poster": "https://image.tmdb.org/t/p/w185/opBholBwfUmPISED5muouubQPq3.jpg",
-    "rating": 6.3,
+    "rating": 6.2,
     "ratings": {
       "letterboxd": 6.2,
-      "imdb": 6.3,
+      "imdb": 6.2,
       "metacritic": null,
       "mubi": null
     },
@@ -931,8 +931,8 @@
     "vo": false,
     "url": "https://ucicinemas.it/film/la-citta-dei-vivi/",
     "smart": {
-      "2026-10-06": 54,
-      "2026-10-07": 57
+      "2026-10-06": 53,
+      "2026-10-07": 56
     },
     "rankUscita": 5,
     "rankVoto": 12
@@ -1085,6 +1085,75 @@
     "rankVoto": 15
   },
   {
+    "title": "Nessun dolore",
+    "poster": "https://image.tmdb.org/t/p/w185/kPDyWzS020AvrvrTFDAJfhTgUbU.jpg",
+    "rating": 5.5,
+    "ratings": {
+      "letterboxd": 5.4,
+      "imdb": 5.5,
+      "metacritic": null,
+      "mubi": null
+    },
+    "releaseDate": "2026-09-24",
+    "showtimes": [
+      "14:10",
+      "16:50",
+      "21:20"
+    ],
+    "showtimesDate": "2026-10-06",
+    "days": {
+      "2026-10-06": [
+        "14:10",
+        "16:50",
+        "21:20"
+      ],
+      "2026-10-07": [
+        "14:10",
+        "18:45",
+        "21:20"
+      ]
+    },
+    "shows": {
+      "2026-10-06": [
+        {
+          "time": "14:10",
+          "tags": []
+        },
+        {
+          "time": "16:50",
+          "tags": []
+        },
+        {
+          "time": "21:20",
+          "tags": []
+        }
+      ],
+      "2026-10-07": [
+        {
+          "time": "14:10",
+          "tags": []
+        },
+        {
+          "time": "18:45",
+          "tags": []
+        },
+        {
+          "time": "21:20",
+          "tags": []
+        }
+      ]
+    },
+    "room": "Sala 12",
+    "vo": false,
+    "url": "https://ucicinemas.it/film/nessun-dolore/",
+    "smart": {
+      "2026-10-06": 40,
+      "2026-10-07": 42
+    },
+    "rankUscita": 15,
+    "rankVoto": 16
+  },
+  {
     "title": "PAW Patrol - Missione Dinosauri",
     "poster": "https://image.tmdb.org/t/p/w185/r5XkrcTtb7O2YeblRDpkuwh9ued.jpg",
     "rating": 5.5,
@@ -1129,7 +1198,7 @@
       "2026-10-07": 24
     },
     "rankUscita": 17,
-    "rankVoto": 16
+    "rankVoto": 17
   },
   {
     "title": "Verity",
@@ -1137,7 +1206,7 @@
     "rating": 5.4,
     "ratings": {
       "letterboxd": 5.6,
-      "imdb": 6.1,
+      "imdb": 6,
       "metacritic": 4.5,
       "mubi": null
     },
@@ -1207,75 +1276,6 @@
       "2026-10-07": 52
     },
     "rankUscita": 8,
-    "rankVoto": 17
-  },
-  {
-    "title": "Nessun dolore",
-    "poster": "https://image.tmdb.org/t/p/w185/kPDyWzS020AvrvrTFDAJfhTgUbU.jpg",
-    "rating": 5.4,
-    "ratings": {
-      "letterboxd": 5.4,
-      "imdb": 5.4,
-      "metacritic": null,
-      "mubi": null
-    },
-    "releaseDate": "2026-09-24",
-    "showtimes": [
-      "14:10",
-      "16:50",
-      "21:20"
-    ],
-    "showtimesDate": "2026-10-06",
-    "days": {
-      "2026-10-06": [
-        "14:10",
-        "16:50",
-        "21:20"
-      ],
-      "2026-10-07": [
-        "14:10",
-        "18:45",
-        "21:20"
-      ]
-    },
-    "shows": {
-      "2026-10-06": [
-        {
-          "time": "14:10",
-          "tags": []
-        },
-        {
-          "time": "16:50",
-          "tags": []
-        },
-        {
-          "time": "21:20",
-          "tags": []
-        }
-      ],
-      "2026-10-07": [
-        {
-          "time": "14:10",
-          "tags": []
-        },
-        {
-          "time": "18:45",
-          "tags": []
-        },
-        {
-          "time": "21:20",
-          "tags": []
-        }
-      ]
-    },
-    "room": "Sala 12",
-    "vo": false,
-    "url": "https://ucicinemas.it/film/nessun-dolore/",
-    "smart": {
-      "2026-10-06": 38,
-      "2026-10-07": 41
-    },
-    "rankUscita": 15,
     "rankVoto": 18
   },
   {
