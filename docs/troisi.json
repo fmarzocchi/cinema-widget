@@ -4,10 +4,10 @@
     "poster": "https://image.tmdb.org/t/p/w185/qfdNOEmMroHjPLpZhNkORcVzgrQ.jpg",
     "rating": 8.6,
     "ratings": {
-      "letterboxd": 8.2,
+      "letterboxd": 8.7,
       "imdb": 7.9,
-      "metacritic": 9.5,
-      "mubi": 8.9
+      "metacritic": 9.3,
+      "mubi": 8.4
     },
     "releaseDate": "2026-09-25",
     "showtimes": [
@@ -31,7 +31,8 @@
         "13:30"
       ],
       "2026-10-13": [
-        "11:00"
+        "11:00",
+        "18:31"
       ]
     },
     "shows": {
@@ -85,6 +86,12 @@
           "tags": [
             "VO"
           ]
+        },
+        {
+          "time": "18:31",
+          "tags": [
+            "VO"
+          ]
         }
       ]
     },
@@ -96,7 +103,7 @@
       "2026-10-09": 72,
       "2026-10-10": 76,
       "2026-10-11": 91,
-      "2026-10-13": 76
+      "2026-10-13": 91
     },
     "rankUscita": 4,
     "rankVoto": 0
@@ -344,12 +351,12 @@
   {
     "title": "Digger",
     "poster": "https://image.tmdb.org/t/p/w185/wisikjQcsvw0XqyQQYBsxudb38Z.jpg",
-    "rating": 6.3,
+    "rating": 6.6,
     "ratings": {
-      "letterboxd": 7.3,
+      "letterboxd": 7.7,
       "imdb": 7.3,
-      "metacritic": 4.4,
-      "mubi": null
+      "metacritic": 4.6,
+      "mubi": 6.7
     },
     "releaseDate": "2026-10-01",
     "showtimes": [
@@ -470,13 +477,13 @@
     "vo": true,
     "url": "https://www.liveticket.it/opera.aspx?Id=697046",
     "smart": {
-      "2026-10-07": 68,
-      "2026-10-08": 68,
-      "2026-10-09": 49,
-      "2026-10-10": 68,
-      "2026-10-11": 54,
-      "2026-10-12": 54,
-      "2026-10-13": 68
+      "2026-10-07": 72,
+      "2026-10-08": 72,
+      "2026-10-09": 53,
+      "2026-10-10": 72,
+      "2026-10-11": 57,
+      "2026-10-12": 57,
+      "2026-10-13": 72
     },
     "rankUscita": 2,
     "rankVoto": 5
@@ -484,12 +491,12 @@
   {
     "title": "Her Private Hell",
     "poster": "https://image.tmdb.org/t/p/w185/4tdT44N1on3Aj6q0e64ttY60HA4.jpg",
-    "rating": 4.6,
+    "rating": 4.7,
     "ratings": {
       "letterboxd": 4.4,
       "imdb": 4.5,
       "metacritic": 4.4,
-      "mubi": 5.1
+      "mubi": 5.3
     },
     "releaseDate": "2026-09-30",
     "showtimes": [
