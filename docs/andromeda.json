@@ -39,7 +39,7 @@
     "vo": false,
     "url": "https://roma.andromeda.18tickets.it/film/77608",
     "smart": {
-      "2026-10-07": 77
+      "2026-10-07": 76
     },
     "rankUscita": 10,
     "rankVoto": 0
@@ -205,7 +205,7 @@
     "vo": false,
     "url": "https://roma.andromeda.18tickets.it/film/76986",
     "smart": {
-      "2026-10-07": 45
+      "2026-10-07": 44
     },
     "rankUscita": 12,
     "rankVoto": 4
@@ -262,7 +262,7 @@
     "vo": false,
     "url": "https://roma.andromeda.18tickets.it/film/78828",
     "smart": {
-      "2026-10-07": 69
+      "2026-10-07": 68
     },
     "rankUscita": 5,
     "rankVoto": 5
@@ -305,7 +305,7 @@
     "vo": false,
     "url": "https://roma.andromeda.18tickets.it/film/78728",
     "smart": {
-      "2026-10-07": 53
+      "2026-10-07": 52
     },
     "rankUscita": 6,
     "rankVoto": 6
@@ -488,8 +488,8 @@
     "vo": false,
     "url": "https://roma.andromeda.18tickets.it/film/80675",
     "smart": {
-      "2026-10-07": 45,
-      "2026-10-08": 33
+      "2026-10-07": 44,
+      "2026-10-08": 32
     },
     "rankUscita": 9,
     "rankVoto": 10
@@ -655,7 +655,7 @@
     "vo": false,
     "url": "https://roma.andromeda.18tickets.it/film/78830",
     "smart": {
-      "2026-10-07": 60
+      "2026-10-07": 59
     },
     "rankUscita": 8,
     "rankVoto": 14
