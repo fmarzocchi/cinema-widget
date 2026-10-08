@@ -711,6 +711,43 @@
     "rankVoto": 8
   },
   {
+    "title": "Mucchio selvaggio",
+    "poster": "https://cinematroisi.liveticket.it/wp-content/uploads/sites/48/00309717-180x257.jpg",
+    "rating": null,
+    "ratings": {
+      "letterboxd": null,
+      "imdb": null,
+      "metacritic": null,
+      "mubi": null
+    },
+    "releaseDate": null,
+    "showtimes": [
+      "23:59"
+    ],
+    "showtimesDate": "2026-10-14",
+    "days": {
+      "2026-10-14": [
+        "23:59"
+      ]
+    },
+    "shows": {
+      "2026-10-14": [
+        {
+          "time": "23:59",
+          "tags": []
+        }
+      ]
+    },
+    "room": null,
+    "vo": false,
+    "url": "https://www.liveticket.it/opera.aspx?Id=703433",
+    "smart": {
+      "2026-10-14": 50
+    },
+    "rankUscita": 9,
+    "rankVoto": 9
+  },
+  {
     "title": "Pusher III: I'm The Angel of Death",
     "poster": "https://cinematroisi.liveticket.it/wp-content/uploads/sites/48/00306292-180x257.jpg",
     "rating": null,
@@ -746,7 +783,7 @@
     "smart": {
       "2026-10-10": 50
     },
-    "rankUscita": 9,
-    "rankVoto": 9
+    "rankUscita": 10,
+    "rankVoto": 10
   }
 ]
