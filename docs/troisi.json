@@ -11,15 +11,10 @@
     },
     "releaseDate": "2026-09-25",
     "showtimes": [
-      "09:00",
-      "23:59"
+      "11:00"
     ],
-    "showtimesDate": "2026-10-07",
+    "showtimesDate": "2026-10-09",
     "days": {
-      "2026-10-07": [
-        "09:00",
-        "23:59"
-      ],
       "2026-10-09": [
         "11:00"
       ],
@@ -33,23 +28,12 @@
       "2026-10-13": [
         "11:00",
         "18:31"
+      ],
+      "2026-10-14": [
+        "11:00"
       ]
     },
     "shows": {
-      "2026-10-07": [
-        {
-          "time": "09:00",
-          "tags": [
-            "VO"
-          ]
-        },
-        {
-          "time": "23:59",
-          "tags": [
-            "VO"
-          ]
-        }
-      ],
       "2026-10-09": [
         {
           "time": "11:00",
@@ -93,43 +77,8 @@
             "VO"
           ]
         }
-      ]
-    },
-    "room": null,
-    "vo": true,
-    "url": "https://www.liveticket.it/opera.aspx?Id=695512",
-    "smart": {
-      "2026-10-07": 91,
-      "2026-10-09": 72,
-      "2026-10-10": 76,
-      "2026-10-11": 91,
-      "2026-10-13": 91
-    },
-    "rankUscita": 4,
-    "rankVoto": 0
-  },
-  {
-    "title": "The Bibi Files",
-    "poster": "https://image.tmdb.org/t/p/w185/aZTt7g857dGU9YUIIMHd5yNSKnY.jpg",
-    "rating": 7.4,
-    "ratings": {
-      "letterboxd": 7,
-      "imdb": 7.6,
-      "metacritic": 7.3,
-      "mubi": 7.5
-    },
-    "releaseDate": "2024-12-13",
-    "showtimes": [
-      "11:00"
-    ],
-    "showtimesDate": "2026-10-07",
-    "days": {
-      "2026-10-07": [
-        "11:00"
-      ]
-    },
-    "shows": {
-      "2026-10-07": [
+      ],
+      "2026-10-14": [
         {
           "time": "11:00",
           "tags": [
@@ -140,12 +89,16 @@
     },
     "room": null,
     "vo": true,
-    "url": "https://www.liveticket.it/opera.aspx?Id=699857",
+    "url": "https://www.liveticket.it/opera.aspx?Id=695512",
     "smart": {
-      "2026-10-07": 44
+      "2026-10-09": 71,
+      "2026-10-10": 76,
+      "2026-10-11": 90,
+      "2026-10-13": 90,
+      "2026-10-14": 76
     },
-    "rankUscita": 6,
-    "rankVoto": 1
+    "rankUscita": 4,
+    "rankVoto": 0
   },
   {
     "title": "Hercules",
@@ -182,7 +135,7 @@
       "2026-10-11": 42
     },
     "rankUscita": 7,
-    "rankVoto": 2
+    "rankVoto": 1
   },
   {
     "title": "L'estranea",
@@ -196,13 +149,11 @@
     },
     "releaseDate": "2026-10-08",
     "showtimes": [
-      "21:00"
+      "11:00",
+      "19:15"
     ],
-    "showtimesDate": "2026-10-07",
+    "showtimesDate": "2026-10-08",
     "days": {
-      "2026-10-07": [
-        "21:00"
-      ],
       "2026-10-08": [
         "11:00",
         "19:15"
@@ -226,15 +177,12 @@
       "2026-10-13": [
         "14:00",
         "20:30"
+      ],
+      "2026-10-14": [
+        "16:30"
       ]
     },
     "shows": {
-      "2026-10-07": [
-        {
-          "time": "21:00",
-          "tags": []
-        }
-      ],
       "2026-10-08": [
         {
           "time": "11:00",
@@ -294,22 +242,28 @@
           "time": "20:30",
           "tags": []
         }
+      ],
+      "2026-10-14": [
+        {
+          "time": "16:30",
+          "tags": []
+        }
       ]
     },
     "room": null,
     "vo": false,
-    "url": "https://www.liveticket.it/opera.aspx?Id=699881",
+    "url": "https://www.liveticket.it/opera.aspx?Id=699891",
     "smart": {
-      "2026-10-07": 69,
       "2026-10-08": 83,
       "2026-10-09": 73,
       "2026-10-10": 83,
       "2026-10-11": 83,
       "2026-10-12": 83,
-      "2026-10-13": 83
+      "2026-10-13": 83,
+      "2026-10-14": 69
     },
     "rankUscita": 0,
-    "rankVoto": 3
+    "rankVoto": 2
   },
   {
     "title": "La commare secca",
@@ -346,7 +300,7 @@
       "2026-10-13": 38
     },
     "rankUscita": 8,
-    "rankVoto": 4
+    "rankVoto": 3
   },
   {
     "title": "Digger",
@@ -354,21 +308,17 @@
     "rating": 6.6,
     "ratings": {
       "letterboxd": 7.7,
-      "imdb": 7.3,
+      "imdb": 7.4,
       "metacritic": 4.6,
       "mubi": 6.7
     },
     "releaseDate": "2026-10-01",
     "showtimes": [
-      "14:00",
-      "16:30"
+      "13:15",
+      "21:30"
     ],
-    "showtimesDate": "2026-10-07",
+    "showtimesDate": "2026-10-08",
     "days": {
-      "2026-10-07": [
-        "14:00",
-        "16:30"
-      ],
       "2026-10-08": [
         "13:15",
         "21:30"
@@ -389,23 +339,13 @@
       "2026-10-13": [
         "11:00",
         "22:45"
+      ],
+      "2026-10-14": [
+        "14:00",
+        "19:00"
       ]
     },
     "shows": {
-      "2026-10-07": [
-        {
-          "time": "14:00",
-          "tags": [
-            "VO"
-          ]
-        },
-        {
-          "time": "16:30",
-          "tags": [
-            "VO"
-          ]
-        }
-      ],
       "2026-10-08": [
         {
           "time": "13:15",
@@ -471,22 +411,36 @@
             "VO"
           ]
         }
+      ],
+      "2026-10-14": [
+        {
+          "time": "14:00",
+          "tags": [
+            "VO"
+          ]
+        },
+        {
+          "time": "19:00",
+          "tags": [
+            "VO"
+          ]
+        }
       ]
     },
     "room": null,
     "vo": true,
     "url": "https://www.liveticket.it/opera.aspx?Id=697046",
     "smart": {
-      "2026-10-07": 72,
-      "2026-10-08": 72,
-      "2026-10-09": 53,
-      "2026-10-10": 72,
+      "2026-10-08": 71,
+      "2026-10-09": 52,
+      "2026-10-10": 71,
       "2026-10-11": 57,
       "2026-10-12": 57,
-      "2026-10-13": 72
+      "2026-10-13": 71,
+      "2026-10-14": 71
     },
     "rankUscita": 2,
-    "rankVoto": 5
+    "rankVoto": 4
   },
   {
     "title": "Her Private Hell",
@@ -500,13 +454,10 @@
     },
     "releaseDate": "2026-09-30",
     "showtimes": [
-      "19:00"
+      "17:15"
     ],
-    "showtimesDate": "2026-10-07",
+    "showtimesDate": "2026-10-08",
     "days": {
-      "2026-10-07": [
-        "19:00"
-      ],
       "2026-10-08": [
         "17:15"
       ],
@@ -532,14 +483,6 @@
       ]
     },
     "shows": {
-      "2026-10-07": [
-        {
-          "time": "19:00",
-          "tags": [
-            "VO"
-          ]
-        }
-      ],
       "2026-10-08": [
         {
           "time": "17:15",
@@ -623,16 +566,15 @@
     "vo": true,
     "url": "https://www.liveticket.it/opera.aspx?Id=699838",
     "smart": {
-      "2026-10-07": 37,
-      "2026-10-08": 37,
+      "2026-10-08": 36,
       "2026-10-09": 51,
       "2026-10-10": 51,
       "2026-10-11": 51,
       "2026-10-12": 51,
-      "2026-10-13": 37
+      "2026-10-13": 36
     },
     "rankUscita": 3,
-    "rankVoto": 6
+    "rankVoto": 5
   },
   {
     "title": "Rider",
@@ -690,7 +632,7 @@
       "2026-10-12": 79
     },
     "rankUscita": 1,
-    "rankVoto": 7
+    "rankVoto": 6
   },
   {
     "title": "The Dreamers",
@@ -729,6 +671,43 @@
       "2026-10-13": 36
     },
     "rankUscita": 5,
+    "rankVoto": 7
+  },
+  {
+    "title": "Roma Illegale",
+    "poster": "https://image.tmdb.org/t/p/w185/zc2qcYMY4hOkXMaFWbkXtVpTj0N.jpg",
+    "rating": null,
+    "ratings": {
+      "letterboxd": null,
+      "imdb": null,
+      "metacritic": null,
+      "mubi": null
+    },
+    "releaseDate": "2021-11-11",
+    "showtimes": [
+      "21:30"
+    ],
+    "showtimesDate": "2026-10-14",
+    "days": {
+      "2026-10-14": [
+        "21:30"
+      ]
+    },
+    "shows": {
+      "2026-10-14": [
+        {
+          "time": "21:30",
+          "tags": []
+        }
+      ]
+    },
+    "room": null,
+    "vo": false,
+    "url": "https://www.liveticket.it/opera.aspx?Id=699963",
+    "smart": {
+      "2026-10-14": 36
+    },
+    "rankUscita": 6,
     "rankVoto": 8
   },
   {
