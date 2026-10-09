@@ -49,7 +49,7 @@
     "vo": false,
     "url": "https://roma.andromeda.18tickets.it/film/77608",
     "smart": {
-      "2026-10-09": 90
+      "2026-10-09": 89
     },
     "rankUscita": 9,
     "rankVoto": 0
@@ -123,7 +123,7 @@
     "vo": false,
     "url": "https://roma.andromeda.18tickets.it/film/78266",
     "smart": {
-      "2026-10-09": 57
+      "2026-10-09": 56
     },
     "rankUscita": 10,
     "rankVoto": 2
@@ -172,7 +172,7 @@
     "vo": false,
     "url": "https://roma.andromeda.18tickets.it/film/80411",
     "smart": {
-      "2026-10-09": 76
+      "2026-10-09": 75
     },
     "rankUscita": 0,
     "rankVoto": 3
@@ -220,7 +220,7 @@
     "rating": 6.2,
     "ratings": {
       "letterboxd": 6.2,
-      "imdb": 6.1,
+      "imdb": 6.2,
       "metacritic": null,
       "mubi": null
     },
@@ -246,7 +246,7 @@
     "vo": false,
     "url": "https://roma.andromeda.18tickets.it/film/78728",
     "smart": {
-      "2026-10-09": 45
+      "2026-10-09": 44
     },
     "rankUscita": 6,
     "rankVoto": 5
@@ -289,10 +289,96 @@
     "vo": false,
     "url": "https://roma.andromeda.18tickets.it/film/82127",
     "smart": {
-      "2026-10-09": 55
+      "2026-10-09": 54
     },
     "rankUscita": 1,
     "rankVoto": 6
+  },
+  {
+    "title": "The Social - Il prezzo della verità",
+    "poster": "https://image.tmdb.org/t/p/w185/mJv5sV2knJtLy5ELIOilryhV59o.jpg",
+    "rating": 5.9,
+    "ratings": {
+      "letterboxd": 6.4,
+      "imdb": null,
+      "metacritic": 5.3,
+      "mubi": null
+    },
+    "releaseDate": "2026-10-08",
+    "showtimes": [
+      "16:45",
+      "21:20"
+    ],
+    "showtimesDate": "2026-10-09",
+    "days": {
+      "2026-10-09": [
+        "16:45",
+        "21:20"
+      ]
+    },
+    "shows": {
+      "2026-10-09": [
+        {
+          "time": "16:45",
+          "tags": []
+        },
+        {
+          "time": "21:20",
+          "tags": []
+        }
+      ]
+    },
+    "room": "Sala 7",
+    "vo": false,
+    "url": "https://roma.andromeda.18tickets.it/film/79851",
+    "smart": {
+      "2026-10-09": 53
+    },
+    "rankUscita": 2,
+    "rankVoto": 7
+  },
+  {
+    "title": "Mammina",
+    "poster": "https://image.tmdb.org/t/p/w185/ir1esRZZk49yKaLAVQd2FgvLxLf.jpg",
+    "rating": 5.6,
+    "ratings": {
+      "letterboxd": 5.6,
+      "imdb": null,
+      "metacritic": null,
+      "mubi": null
+    },
+    "releaseDate": "2026-10-08",
+    "showtimes": [
+      "19:30",
+      "21:30"
+    ],
+    "showtimesDate": "2026-10-09",
+    "days": {
+      "2026-10-09": [
+        "19:30",
+        "21:30"
+      ]
+    },
+    "shows": {
+      "2026-10-09": [
+        {
+          "time": "19:30",
+          "tags": []
+        },
+        {
+          "time": "21:30",
+          "tags": []
+        }
+      ]
+    },
+    "room": "Sala 4",
+    "vo": false,
+    "url": "https://roma.andromeda.18tickets.it/film/80743",
+    "smart": {
+      "2026-10-09": 49
+    },
+    "rankUscita": 3,
+    "rankVoto": 8
   },
   {
     "title": "PAW Patrol - Missione Dinosauri",
@@ -329,17 +415,17 @@
       "2026-10-09": 24
     },
     "rankUscita": 11,
-    "rankVoto": 7
+    "rankVoto": 9
   },
   {
     "title": "Verity",
     "poster": "https://image.tmdb.org/t/p/w185/cLMNbCkgzn1qlmox7FyQBgXwL4D.jpg",
-    "rating": 5.4,
+    "rating": 4.8,
     "ratings": {
-      "letterboxd": 5.6,
+      "letterboxd": 5.3,
       "imdb": 6,
-      "metacritic": 4.5,
-      "mubi": null
+      "metacritic": 4.4,
+      "mubi": 3.6
     },
     "releaseDate": "2026-10-01",
     "showtimes": [
@@ -369,10 +455,10 @@
     "vo": false,
     "url": "https://roma.andromeda.18tickets.it/film/78794",
     "smart": {
-      "2026-10-09": 42
+      "2026-10-09": 36
     },
     "rankUscita": 7,
-    "rankVoto": 8
+    "rankVoto": 10
   },
   {
     "title": "Her Private Hell",
@@ -417,50 +503,7 @@
       "2026-10-09": 36
     },
     "rankUscita": 8,
-    "rankVoto": 9
-  },
-  {
-    "title": "Mammina",
-    "poster": "https://image.tmdb.org/t/p/w185/ir1esRZZk49yKaLAVQd2FgvLxLf.jpg",
-    "rating": null,
-    "ratings": {
-      "letterboxd": null,
-      "imdb": null,
-      "metacritic": null,
-      "mubi": null
-    },
-    "releaseDate": "2026-10-08",
-    "showtimes": [
-      "19:30",
-      "21:30"
-    ],
-    "showtimesDate": "2026-10-09",
-    "days": {
-      "2026-10-09": [
-        "19:30",
-        "21:30"
-      ]
-    },
-    "shows": {
-      "2026-10-09": [
-        {
-          "time": "19:30",
-          "tags": []
-        },
-        {
-          "time": "21:30",
-          "tags": []
-        }
-      ]
-    },
-    "room": "Sala 4",
-    "vo": false,
-    "url": "https://roma.andromeda.18tickets.it/film/80743",
-    "smart": {
-      "2026-10-09": 64
-    },
-    "rankUscita": 2,
-    "rankVoto": 10
+    "rankVoto": 11
   },
   {
     "title": "Rider",
@@ -494,50 +537,7 @@
     "vo": false,
     "url": "https://roma.andromeda.18tickets.it/film/79852",
     "smart": {
-      "2026-10-09": 57
-    },
-    "rankUscita": 3,
-    "rankVoto": 11
-  },
-  {
-    "title": "The Social: Il prezzo della verità",
-    "poster": "https://image.tmdb.org/t/p/w185/2RmNbvlv9jDrLGDDkdYZDifKGCm.jpg",
-    "rating": null,
-    "ratings": {
-      "letterboxd": null,
-      "imdb": null,
-      "metacritic": null,
-      "mubi": null
-    },
-    "releaseDate": "2026-10-08",
-    "showtimes": [
-      "16:45",
-      "21:20"
-    ],
-    "showtimesDate": "2026-10-09",
-    "days": {
-      "2026-10-09": [
-        "16:45",
-        "21:20"
-      ]
-    },
-    "shows": {
-      "2026-10-09": [
-        {
-          "time": "16:45",
-          "tags": []
-        },
-        {
-          "time": "21:20",
-          "tags": []
-        }
-      ]
-    },
-    "room": "Sala 7",
-    "vo": false,
-    "url": "https://roma.andromeda.18tickets.it/film/79851",
-    "smart": {
-      "2026-10-09": 64
+      "2026-10-09": 56
     },
     "rankUscita": 4,
     "rankVoto": 12

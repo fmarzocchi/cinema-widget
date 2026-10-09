@@ -179,14 +179,14 @@
     "vo": false,
     "url": "https://ucicinemas.it/film/naza/",
     "smart": {
-      "2026-10-09": 78,
+      "2026-10-09": 77,
       "2026-10-10": 77,
       "2026-10-11": 79,
-      "2026-10-12": 90,
-      "2026-10-13": 90,
-      "2026-10-14": 90
+      "2026-10-12": 89,
+      "2026-10-13": 89,
+      "2026-10-14": 89
     },
-    "rankUscita": 13,
+    "rankUscita": 17,
     "rankVoto": 0
   },
   {
@@ -300,13 +300,13 @@
     "url": "https://ucicinemas.it/film/odissea/",
     "smart": {
       "2026-10-09": 46,
-      "2026-10-10": 49,
+      "2026-10-10": 48,
       "2026-10-11": 49,
       "2026-10-12": 49,
       "2026-10-13": 56,
       "2026-10-14": 49
     },
-    "rankUscita": 23,
+    "rankUscita": 27,
     "rankVoto": 1
   },
   {
@@ -435,7 +435,7 @@
       "2026-10-13": 40,
       "2026-10-14": 40
     },
-    "rankUscita": 26,
+    "rankUscita": 30,
     "rankVoto": 2
   },
   {
@@ -556,14 +556,14 @@
     "vo": false,
     "url": "https://ucicinemas.it/film/lisola-dei-ricordi/",
     "smart": {
-      "2026-10-09": 58,
+      "2026-10-09": 57,
       "2026-10-10": 59,
-      "2026-10-11": 61,
+      "2026-10-11": 60,
       "2026-10-12": 64,
       "2026-10-13": 64,
       "2026-10-14": 64
     },
-    "rankUscita": 14,
+    "rankUscita": 18,
     "rankVoto": 3
   },
   {
@@ -620,8 +620,51 @@
       "2026-10-10": 42,
       "2026-10-12": 46
     },
-    "rankUscita": 19,
+    "rankUscita": 23,
     "rankVoto": 4
+  },
+  {
+    "title": "Jumbo - La voce di Don",
+    "poster": "https://image.tmdb.org/t/p/w185/mvuegXVe8JJWcHTv4N0mNWPjL3W.jpg",
+    "rating": 7.4,
+    "ratings": {
+      "letterboxd": 7.3,
+      "imdb": 7.7,
+      "metacritic": null,
+      "mubi": 7.3
+    },
+    "releaseDate": "2026-10-15",
+    "showtimes": [
+      "14:30",
+      "17:00"
+    ],
+    "showtimesDate": "2026-10-15",
+    "days": {
+      "2026-10-15": [
+        "14:30",
+        "17:00"
+      ]
+    },
+    "shows": {
+      "2026-10-15": [
+        {
+          "time": "14:30",
+          "tags": []
+        },
+        {
+          "time": "17:00",
+          "tags": []
+        }
+      ]
+    },
+    "room": "Sala 2",
+    "vo": false,
+    "url": "https://ucicinemas.it/film/jumbo-la-voce-di-don/",
+    "smart": {
+      "2026-10-15": 72
+    },
+    "rankUscita": 0,
+    "rankVoto": 5
   },
   {
     "title": "Resident Evil",
@@ -635,13 +678,11 @@
     },
     "releaseDate": "2026-09-17",
     "showtimes": [
+      "00:35",
       "22:50"
     ],
-    "showtimesDate": "2026-10-08",
+    "showtimesDate": "2026-10-09",
     "days": {
-      "2026-10-08": [
-        "22:50"
-      ],
       "2026-10-09": [
         "00:35",
         "22:50"
@@ -664,12 +705,6 @@
       ]
     },
     "shows": {
-      "2026-10-08": [
-        {
-          "time": "22:50",
-          "tags": []
-        }
-      ],
       "2026-10-09": [
         {
           "time": "00:35",
@@ -719,20 +754,19 @@
         }
       ]
     },
-    "room": "Sala 11",
+    "room": "Sala IMAX",
     "vo": false,
     "url": "https://ucicinemas.it/film/resident-evil/",
     "smart": {
-      "2026-10-08": 58,
-      "2026-10-09": 52,
+      "2026-10-09": 51,
       "2026-10-10": 50,
       "2026-10-11": 47,
-      "2026-10-12": 51,
-      "2026-10-13": 51,
-      "2026-10-14": 51
+      "2026-10-12": 50,
+      "2026-10-13": 50,
+      "2026-10-14": 50
     },
-    "rankUscita": 16,
-    "rankVoto": 5
+    "rankUscita": 20,
+    "rankVoto": 6
   },
   {
     "title": "Coyote vs. Acme",
@@ -768,8 +802,8 @@
     "smart": {
       "2026-10-13": 45
     },
-    "rankUscita": 20,
-    "rankVoto": 6
+    "rankUscita": 24,
+    "rankVoto": 7
   },
   {
     "title": "The Bibi Files",
@@ -924,8 +958,8 @@
       "2026-10-13": 44,
       "2026-10-14": 44
     },
-    "rankUscita": 25,
-    "rankVoto": 7
+    "rankUscita": 29,
+    "rankVoto": 8
   },
   {
     "title": "Always Lalisa",
@@ -977,8 +1011,8 @@
       "2026-10-12": 64,
       "2026-10-14": 64
     },
-    "rankUscita": 0,
-    "rankVoto": 8
+    "rankUscita": 4,
+    "rankVoto": 9
   },
   {
     "title": "Spider-Man: Brand New Day",
@@ -1024,8 +1058,8 @@
       "2026-10-10": 34,
       "2026-10-11": 34
     },
-    "rankUscita": 22,
-    "rankVoto": 9
+    "rankUscita": 26,
+    "rankVoto": 10
   },
   {
     "title": "L'estranea",
@@ -1039,13 +1073,13 @@
     },
     "releaseDate": "2026-10-08",
     "showtimes": [
+      "00:20",
+      "14:40",
+      "16:30",
       "21:50"
     ],
-    "showtimesDate": "2026-10-08",
+    "showtimesDate": "2026-10-09",
     "days": {
-      "2026-10-08": [
-        "21:50"
-      ],
       "2026-10-09": [
         "00:20",
         "14:40",
@@ -1085,12 +1119,6 @@
       ]
     },
     "shows": {
-      "2026-10-08": [
-        {
-          "time": "21:50",
-          "tags": []
-        }
-      ],
       "2026-10-09": [
         {
           "time": "00:20",
@@ -1204,20 +1232,19 @@
         }
       ]
     },
-    "room": "Sala 13",
+    "room": "Sala 2",
     "vo": false,
     "url": "https://ucicinemas.it/film/lestranea/",
     "smart": {
-      "2026-10-08": 69,
-      "2026-10-09": 71,
-      "2026-10-10": 70,
-      "2026-10-11": 69,
-      "2026-10-12": 83,
-      "2026-10-13": 83,
-      "2026-10-14": 83
+      "2026-10-09": 70,
+      "2026-10-10": 69,
+      "2026-10-11": 68,
+      "2026-10-12": 82,
+      "2026-10-13": 82,
+      "2026-10-14": 82
     },
-    "rankUscita": 1,
-    "rankVoto": 10
+    "rankUscita": 5,
+    "rankVoto": 11
   },
   {
     "title": "I figli della scimmia",
@@ -1273,8 +1300,45 @@
       "2026-10-13": 47,
       "2026-10-14": 47
     },
-    "rankUscita": 17,
-    "rankVoto": 11
+    "rankUscita": 21,
+    "rankVoto": 12
+  },
+  {
+    "title": "Primetime",
+    "poster": "https://image.tmdb.org/t/p/w185/sqArsDFYFryd5iKuoxLvr4y5NZv.jpg",
+    "rating": 7,
+    "ratings": {
+      "letterboxd": 7.3,
+      "imdb": 7.2,
+      "metacritic": 6.7,
+      "mubi": 6.6
+    },
+    "releaseDate": "2026-10-15",
+    "showtimes": [
+      "21:20"
+    ],
+    "showtimesDate": "2026-10-15",
+    "days": {
+      "2026-10-15": [
+        "21:20"
+      ]
+    },
+    "shows": {
+      "2026-10-15": [
+        {
+          "time": "21:20",
+          "tags": []
+        }
+      ]
+    },
+    "room": "Sala 8",
+    "vo": false,
+    "url": "https://ucicinemas.it/film/primetime/",
+    "smart": {
+      "2026-10-15": 60
+    },
+    "rankUscita": 1,
+    "rankVoto": 13
   },
   {
     "title": "Cars - Motori ruggenti",
@@ -1350,8 +1414,8 @@
       "2026-10-13": 32,
       "2026-10-14": 32
     },
-    "rankUscita": 27,
-    "rankVoto": 12
+    "rankUscita": 31,
+    "rankVoto": 14
   },
   {
     "title": "Essi vivono",
@@ -1407,8 +1471,8 @@
       "2026-10-13": 32,
       "2026-10-14": 32
     },
-    "rankUscita": 28,
-    "rankVoto": 13
+    "rankUscita": 32,
+    "rankVoto": 15
   },
   {
     "title": "Digger",
@@ -1573,15 +1637,15 @@
     "vo": false,
     "url": "https://ucicinemas.it/film/digger/",
     "smart": {
-      "2026-10-09": 55,
-      "2026-10-10": 52,
-      "2026-10-11": 57,
-      "2026-10-12": 64,
-      "2026-10-13": 64,
-      "2026-10-14": 57
+      "2026-10-09": 54,
+      "2026-10-10": 51,
+      "2026-10-11": 56,
+      "2026-10-12": 63,
+      "2026-10-13": 63,
+      "2026-10-14": 56
     },
-    "rankUscita": 7,
-    "rankVoto": 14
+    "rankUscita": 11,
+    "rankVoto": 16
   },
   {
     "title": "Heart of the Beast - Nel profondo selvaggio",
@@ -1595,15 +1659,13 @@
     },
     "releaseDate": "2026-09-24",
     "showtimes": [
-      "22:30",
-      "23:20"
+      "15:10",
+      "19:30",
+      "22:00",
+      "23:10"
     ],
-    "showtimesDate": "2026-10-08",
+    "showtimesDate": "2026-10-09",
     "days": {
-      "2026-10-08": [
-        "22:30",
-        "23:20"
-      ],
       "2026-10-09": [
         "15:10",
         "19:30",
@@ -1637,16 +1699,6 @@
       ]
     },
     "shows": {
-      "2026-10-08": [
-        {
-          "time": "22:30",
-          "tags": []
-        },
-        {
-          "time": "23:20",
-          "tags": []
-        }
-      ],
       "2026-10-09": [
         {
           "time": "15:10",
@@ -1736,20 +1788,19 @@
         }
       ]
     },
-    "room": "Sala 14",
+    "room": "Sala 11",
     "vo": false,
     "url": "https://ucicinemas.it/film/heart-of-the-beast/",
     "smart": {
-      "2026-10-08": 65,
-      "2026-10-09": 53,
+      "2026-10-09": 52,
       "2026-10-10": 52,
       "2026-10-11": 54,
-      "2026-10-12": 44,
-      "2026-10-13": 51,
-      "2026-10-14": 51
+      "2026-10-12": 43,
+      "2026-10-13": 50,
+      "2026-10-14": 50
     },
-    "rankUscita": 15,
-    "rankVoto": 15
+    "rankUscita": 19,
+    "rankVoto": 17
   },
   {
     "title": "Svadba",
@@ -1787,8 +1838,8 @@
     "smart": {
       "2026-10-11": 21
     },
-    "rankUscita": 24,
-    "rankVoto": 16
+    "rankUscita": 28,
+    "rankVoto": 18
   },
   {
     "title": "La città dei vivi",
@@ -1796,7 +1847,7 @@
     "rating": 6.2,
     "ratings": {
       "letterboxd": 6.2,
-      "imdb": 6.1,
+      "imdb": 6.2,
       "metacritic": null,
       "mubi": null
     },
@@ -1888,15 +1939,15 @@
     "vo": false,
     "url": "https://ucicinemas.it/film/la-citta-dei-vivi/",
     "smart": {
-      "2026-10-09": 46,
-      "2026-10-10": 44,
-      "2026-10-11": 45,
-      "2026-10-12": 52,
-      "2026-10-13": 45,
-      "2026-10-14": 45
+      "2026-10-09": 45,
+      "2026-10-10": 43,
+      "2026-10-11": 44,
+      "2026-10-12": 51,
+      "2026-10-13": 44,
+      "2026-10-14": 44
     },
-    "rankUscita": 8,
-    "rankVoto": 17
+    "rankUscita": 12,
+    "rankVoto": 19
   },
   {
     "title": "L'albero di molto lontano",
@@ -2032,543 +2083,194 @@
     "vo": false,
     "url": "https://ucicinemas.it/film/lalbero-di-molto-lontano/",
     "smart": {
-      "2026-10-09": 53,
-      "2026-10-10": 50,
-      "2026-10-11": 52,
-      "2026-10-12": 55,
-      "2026-10-13": 62,
-      "2026-10-14": 62
+      "2026-10-09": 52,
+      "2026-10-10": 49,
+      "2026-10-11": 51,
+      "2026-10-12": 54,
+      "2026-10-13": 61,
+      "2026-10-14": 61
     },
-    "rankUscita": 2,
-    "rankVoto": 18
-  },
-  {
-    "title": "Beast",
-    "poster": "https://image.tmdb.org/t/p/w185/7NrvUI3vnW8H3rD7ExKcTL7KRcQ.jpg",
-    "rating": 5.5,
-    "ratings": {
-      "letterboxd": 5.7,
-      "imdb": 5.8,
-      "metacritic": 5,
-      "mubi": null
-    },
-    "releaseDate": "2026-10-01",
-    "showtimes": [
-      "22:35"
-    ],
-    "showtimesDate": "2026-10-08",
-    "days": {
-      "2026-10-08": [
-        "22:35"
-      ],
-      "2026-10-09": [
-        "22:35"
-      ],
-      "2026-10-10": [
-        "22:00"
-      ],
-      "2026-10-11": [
-        "22:35"
-      ]
-    },
-    "shows": {
-      "2026-10-08": [
-        {
-          "time": "22:35",
-          "tags": []
-        }
-      ],
-      "2026-10-09": [
-        {
-          "time": "22:35",
-          "tags": []
-        }
-      ],
-      "2026-10-10": [
-        {
-          "time": "22:00",
-          "tags": []
-        }
-      ],
-      "2026-10-11": [
-        {
-          "time": "22:35",
-          "tags": []
-        }
-      ]
-    },
-    "room": "Sala 12",
-    "vo": false,
-    "url": "https://ucicinemas.it/film/beast/",
-    "smart": {
-      "2026-10-08": 43,
-      "2026-10-09": 33,
-      "2026-10-10": 32,
-      "2026-10-11": 32
-    },
-    "rankUscita": 9,
-    "rankVoto": 19
-  },
-  {
-    "title": "PAW Patrol - Missione Dinosauri",
-    "poster": "https://image.tmdb.org/t/p/w185/r5XkrcTtb7O2YeblRDpkuwh9ued.jpg",
-    "rating": 5.5,
-    "ratings": {
-      "letterboxd": 5.7,
-      "imdb": 6.1,
-      "metacritic": 4.7,
-      "mubi": null
-    },
-    "releaseDate": "2026-09-09",
-    "showtimes": [
-      "11:00",
-      "11:10"
-    ],
-    "showtimesDate": "2026-10-10",
-    "days": {
-      "2026-10-10": [
-        "11:00",
-        "11:10"
-      ],
-      "2026-10-11": [
-        "11:00",
-        "11:10"
-      ]
-    },
-    "shows": {
-      "2026-10-10": [
-        {
-          "time": "11:00",
-          "tags": []
-        },
-        {
-          "time": "11:10",
-          "tags": [
-            "VO"
-          ]
-        }
-      ],
-      "2026-10-11": [
-        {
-          "time": "11:00",
-          "tags": []
-        },
-        {
-          "time": "11:10",
-          "tags": [
-            "VO"
-          ]
-        }
-      ]
-    },
-    "room": "Sala 7",
-    "vo": false,
-    "url": "https://ucicinemas.it/film/paw-patrol-missione-dinosauri/",
-    "smart": {
-      "2026-10-10": 23,
-      "2026-10-11": 24
-    },
-    "rankUscita": 18,
+    "rankUscita": 6,
     "rankVoto": 20
   },
   {
-    "title": "Verity",
-    "poster": "https://image.tmdb.org/t/p/w185/cLMNbCkgzn1qlmox7FyQBgXwL4D.jpg",
-    "rating": 5.4,
+    "title": "The Social - Il prezzo della verità",
+    "poster": "https://image.tmdb.org/t/p/w185/mJv5sV2knJtLy5ELIOilryhV59o.jpg",
+    "rating": 5.9,
     "ratings": {
-      "letterboxd": 5.6,
-      "imdb": 6,
-      "metacritic": 4.5,
+      "letterboxd": 6.4,
+      "imdb": null,
+      "metacritic": 5.3,
       "mubi": null
     },
-    "releaseDate": "2026-10-01",
+    "releaseDate": "2026-10-08",
     "showtimes": [
-      "22:30",
-      "23:15"
+      "17:50",
+      "20:30",
+      "22:10"
     ],
-    "showtimesDate": "2026-10-08",
+    "showtimesDate": "2026-10-09",
     "days": {
-      "2026-10-08": [
-        "22:30",
-        "23:15"
-      ],
       "2026-10-09": [
-        "17:30",
-        "19:50",
-        "22:30",
-        "23:30"
+        "17:50",
+        "20:30",
+        "22:10"
       ],
       "2026-10-10": [
-        "17:30",
-        "19:50",
-        "22:30",
-        "23:30"
+        "16:50",
+        "20:00",
+        "22:10"
       ],
       "2026-10-11": [
-        "17:30",
-        "19:50",
-        "22:30",
-        "23:20"
+        "17:50",
+        "20:30",
+        "22:10"
       ],
       "2026-10-12": [
-        "17:30",
-        "19:50",
-        "22:30",
-        "23:30"
+        "17:50",
+        "20:30",
+        "22:10"
       ],
       "2026-10-13": [
-        "17:30",
-        "19:50",
-        "22:30",
-        "23:30"
+        "17:50",
+        "20:30",
+        "22:10"
       ],
       "2026-10-14": [
-        "17:30",
-        "19:50",
-        "22:30",
-        "23:30"
+        "17:50",
+        "18:40",
+        "20:30",
+        "22:10"
       ]
     },
     "shows": {
-      "2026-10-08": [
-        {
-          "time": "22:30",
-          "tags": []
-        },
-        {
-          "time": "23:15",
-          "tags": []
-        }
-      ],
       "2026-10-09": [
         {
-          "time": "17:30",
+          "time": "17:50",
           "tags": []
         },
         {
-          "time": "19:50",
+          "time": "20:30",
           "tags": []
         },
         {
-          "time": "22:30",
-          "tags": []
-        },
-        {
-          "time": "23:30",
+          "time": "22:10",
           "tags": []
         }
       ],
       "2026-10-10": [
         {
-          "time": "17:30",
+          "time": "16:50",
           "tags": []
         },
         {
-          "time": "19:50",
+          "time": "20:00",
           "tags": []
         },
         {
-          "time": "22:30",
-          "tags": []
-        },
-        {
-          "time": "23:30",
+          "time": "22:10",
           "tags": []
         }
       ],
       "2026-10-11": [
         {
-          "time": "17:30",
+          "time": "17:50",
           "tags": []
         },
         {
-          "time": "19:50",
+          "time": "20:30",
           "tags": []
         },
         {
-          "time": "22:30",
-          "tags": []
-        },
-        {
-          "time": "23:20",
+          "time": "22:10",
           "tags": []
         }
       ],
       "2026-10-12": [
         {
-          "time": "17:30",
+          "time": "17:50",
           "tags": []
         },
         {
-          "time": "19:50",
+          "time": "20:30",
           "tags": []
         },
         {
-          "time": "22:30",
-          "tags": []
-        },
-        {
-          "time": "23:30",
+          "time": "22:10",
           "tags": []
         }
       ],
       "2026-10-13": [
         {
-          "time": "17:30",
+          "time": "17:50",
           "tags": []
         },
         {
-          "time": "19:50",
+          "time": "20:30",
           "tags": []
         },
         {
-          "time": "22:30",
-          "tags": []
-        },
-        {
-          "time": "23:30",
+          "time": "22:10",
           "tags": []
         }
       ],
       "2026-10-14": [
         {
-          "time": "17:30",
+          "time": "17:50",
           "tags": []
         },
         {
-          "time": "19:50",
+          "time": "18:40",
+          "tags": [
+            "VO"
+          ]
+        },
+        {
+          "time": "20:30",
           "tags": []
         },
         {
-          "time": "22:30",
-          "tags": []
-        },
-        {
-          "time": "23:30",
+          "time": "22:10",
           "tags": []
         }
       ]
     },
-    "room": "Sala 1",
+    "room": "Sala 3",
     "vo": false,
-    "url": "https://ucicinemas.it/film/verity/",
+    "url": "https://ucicinemas.it/film/the-social-il-prezzo-della-verita/",
     "smart": {
-      "2026-10-08": 56,
-      "2026-10-09": 44,
-      "2026-10-10": 40,
-      "2026-10-11": 42,
-      "2026-10-12": 56,
-      "2026-10-13": 56,
-      "2026-10-14": 56
+      "2026-10-09": 51,
+      "2026-10-10": 48,
+      "2026-10-11": 49,
+      "2026-10-12": 60,
+      "2026-10-13": 60,
+      "2026-10-14": 67
     },
-    "rankUscita": 10,
+    "rankUscita": 7,
     "rankVoto": 21
-  },
-  {
-    "title": "Oceania",
-    "poster": "https://image.tmdb.org/t/p/w185/g4zumtvkkH5QbyXyL0mO8HpCSaw.jpg",
-    "rating": 5.1,
-    "ratings": {
-      "letterboxd": 5.4,
-      "imdb": 5.8,
-      "metacritic": 4.2,
-      "mubi": 4.8
-    },
-    "releaseDate": "2026-08-19",
-    "showtimes": [
-      "15:20"
-    ],
-    "showtimesDate": "2026-10-09",
-    "days": {
-      "2026-10-09": [
-        "15:20"
-      ],
-      "2026-10-10": [
-        "10:40",
-        "15:20"
-      ],
-      "2026-10-11": [
-        "10:40",
-        "15:20"
-      ],
-      "2026-10-12": [
-        "15:20"
-      ],
-      "2026-10-13": [
-        "15:20"
-      ],
-      "2026-10-14": [
-        "15:20"
-      ]
-    },
-    "shows": {
-      "2026-10-09": [
-        {
-          "time": "15:20",
-          "tags": []
-        }
-      ],
-      "2026-10-10": [
-        {
-          "time": "10:40",
-          "tags": []
-        },
-        {
-          "time": "15:20",
-          "tags": []
-        }
-      ],
-      "2026-10-11": [
-        {
-          "time": "10:40",
-          "tags": []
-        },
-        {
-          "time": "15:20",
-          "tags": []
-        }
-      ],
-      "2026-10-12": [
-        {
-          "time": "15:20",
-          "tags": []
-        }
-      ],
-      "2026-10-13": [
-        {
-          "time": "15:20",
-          "tags": []
-        }
-      ],
-      "2026-10-14": [
-        {
-          "time": "15:20",
-          "tags": []
-        }
-      ]
-    },
-    "room": "Sala 14",
-    "vo": false,
-    "url": "https://ucicinemas.it/film/oceania/",
-    "smart": {
-      "2026-10-09": 11,
-      "2026-10-10": 13,
-      "2026-10-11": 14,
-      "2026-10-12": 14,
-      "2026-10-13": 14,
-      "2026-10-14": 14
-    },
-    "rankUscita": 21,
-    "rankVoto": 22
-  },
-  {
-    "title": "Her Private Hell",
-    "poster": "https://image.tmdb.org/t/p/w185/4tdT44N1on3Aj6q0e64ttY60HA4.jpg",
-    "rating": 4.7,
-    "ratings": {
-      "letterboxd": 4.4,
-      "imdb": 4.5,
-      "metacritic": 4.4,
-      "mubi": 5.3
-    },
-    "releaseDate": "2026-09-30",
-    "showtimes": [
-      "14:55"
-    ],
-    "showtimesDate": "2026-10-09",
-    "days": {
-      "2026-10-09": [
-        "14:55"
-      ],
-      "2026-10-10": [
-        "13:00"
-      ],
-      "2026-10-11": [
-        "13:00"
-      ],
-      "2026-10-12": [
-        "14:55"
-      ],
-      "2026-10-13": [
-        "14:55"
-      ],
-      "2026-10-14": [
-        "14:55"
-      ]
-    },
-    "shows": {
-      "2026-10-09": [
-        {
-          "time": "14:55",
-          "tags": []
-        }
-      ],
-      "2026-10-10": [
-        {
-          "time": "13:00",
-          "tags": []
-        }
-      ],
-      "2026-10-11": [
-        {
-          "time": "13:00",
-          "tags": []
-        }
-      ],
-      "2026-10-12": [
-        {
-          "time": "14:55",
-          "tags": []
-        }
-      ],
-      "2026-10-13": [
-        {
-          "time": "14:55",
-          "tags": []
-        }
-      ],
-      "2026-10-14": [
-        {
-          "time": "14:55",
-          "tags": []
-        }
-      ]
-    },
-    "room": "Sala 10",
-    "vo": false,
-    "url": "https://ucicinemas.it/film/her-private-hell/",
-    "smart": {
-      "2026-10-09": 26,
-      "2026-10-10": 25,
-      "2026-10-11": 26,
-      "2026-10-12": 29,
-      "2026-10-13": 29,
-      "2026-10-14": 29
-    },
-    "rankUscita": 12,
-    "rankVoto": 23
   },
   {
     "title": "Mammina",
     "poster": "https://image.tmdb.org/t/p/w185/ir1esRZZk49yKaLAVQd2FgvLxLf.jpg",
-    "rating": null,
+    "rating": 5.6,
     "ratings": {
-      "letterboxd": null,
+      "letterboxd": 5.6,
       "imdb": null,
       "metacritic": null,
       "mubi": null
     },
     "releaseDate": "2026-10-08",
     "showtimes": [
+      "00:30",
+      "14:05",
+      "18:00",
+      "20:00",
+      "20:20",
       "22:40",
-      "23:45"
+      "23:40"
     ],
-    "showtimesDate": "2026-10-08",
+    "showtimesDate": "2026-10-09",
     "days": {
-      "2026-10-08": [
-        "22:40",
-        "23:45"
-      ],
       "2026-10-09": [
         "00:30",
         "14:05",
@@ -2616,18 +2318,6 @@
       ]
     },
     "shows": {
-      "2026-10-08": [
-        {
-          "time": "22:40",
-          "tags": [
-            "XL"
-          ]
-        },
-        {
-          "time": "23:45",
-          "tags": []
-        }
-      ],
       "2026-10-09": [
         {
           "time": "00:30",
@@ -2789,16 +2479,683 @@
     "vo": false,
     "url": "https://ucicinemas.it/film/mammina/",
     "smart": {
-      "2026-10-08": 79,
-      "2026-10-09": 79,
-      "2026-10-10": 79,
-      "2026-10-11": 79,
-      "2026-10-12": 71,
-      "2026-10-13": 71,
-      "2026-10-14": 71
+      "2026-10-09": 64,
+      "2026-10-10": 64,
+      "2026-10-11": 64,
+      "2026-10-12": 56,
+      "2026-10-13": 56,
+      "2026-10-14": 56
+    },
+    "rankUscita": 8,
+    "rankVoto": 22
+  },
+  {
+    "title": "Beast",
+    "poster": "https://image.tmdb.org/t/p/w185/7NrvUI3vnW8H3rD7ExKcTL7KRcQ.jpg",
+    "rating": 5.5,
+    "ratings": {
+      "letterboxd": 5.7,
+      "imdb": 5.8,
+      "metacritic": 5,
+      "mubi": null
+    },
+    "releaseDate": "2026-10-01",
+    "showtimes": [
+      "22:35"
+    ],
+    "showtimesDate": "2026-10-09",
+    "days": {
+      "2026-10-09": [
+        "22:35"
+      ],
+      "2026-10-10": [
+        "22:00"
+      ],
+      "2026-10-11": [
+        "22:35"
+      ]
+    },
+    "shows": {
+      "2026-10-09": [
+        {
+          "time": "22:35",
+          "tags": []
+        }
+      ],
+      "2026-10-10": [
+        {
+          "time": "22:00",
+          "tags": []
+        }
+      ],
+      "2026-10-11": [
+        {
+          "time": "22:35",
+          "tags": []
+        }
+      ]
+    },
+    "room": "Sala 12",
+    "vo": false,
+    "url": "https://ucicinemas.it/film/beast/",
+    "smart": {
+      "2026-10-09": 32,
+      "2026-10-10": 31,
+      "2026-10-11": 32
+    },
+    "rankUscita": 13,
+    "rankVoto": 23
+  },
+  {
+    "title": "PAW Patrol - Missione Dinosauri",
+    "poster": "https://image.tmdb.org/t/p/w185/r5XkrcTtb7O2YeblRDpkuwh9ued.jpg",
+    "rating": 5.5,
+    "ratings": {
+      "letterboxd": 5.7,
+      "imdb": 6.1,
+      "metacritic": 4.7,
+      "mubi": null
+    },
+    "releaseDate": "2026-09-09",
+    "showtimes": [
+      "11:00",
+      "11:10"
+    ],
+    "showtimesDate": "2026-10-10",
+    "days": {
+      "2026-10-10": [
+        "11:00",
+        "11:10"
+      ],
+      "2026-10-11": [
+        "11:00",
+        "11:10"
+      ]
+    },
+    "shows": {
+      "2026-10-10": [
+        {
+          "time": "11:00",
+          "tags": []
+        },
+        {
+          "time": "11:10",
+          "tags": [
+            "VO"
+          ]
+        }
+      ],
+      "2026-10-11": [
+        {
+          "time": "11:00",
+          "tags": []
+        },
+        {
+          "time": "11:10",
+          "tags": [
+            "VO"
+          ]
+        }
+      ]
+    },
+    "room": "Sala 7",
+    "vo": false,
+    "url": "https://ucicinemas.it/film/paw-patrol-missione-dinosauri/",
+    "smart": {
+      "2026-10-10": 23,
+      "2026-10-11": 24
+    },
+    "rankUscita": 22,
+    "rankVoto": 24
+  },
+  {
+    "title": "Oceania",
+    "poster": "https://image.tmdb.org/t/p/w185/g4zumtvkkH5QbyXyL0mO8HpCSaw.jpg",
+    "rating": 5.1,
+    "ratings": {
+      "letterboxd": 5.4,
+      "imdb": 5.8,
+      "metacritic": 4.2,
+      "mubi": 4.8
+    },
+    "releaseDate": "2026-08-19",
+    "showtimes": [
+      "15:20"
+    ],
+    "showtimesDate": "2026-10-09",
+    "days": {
+      "2026-10-09": [
+        "15:20"
+      ],
+      "2026-10-10": [
+        "10:40",
+        "15:20"
+      ],
+      "2026-10-11": [
+        "10:40",
+        "15:20"
+      ],
+      "2026-10-12": [
+        "15:20"
+      ],
+      "2026-10-13": [
+        "15:20"
+      ],
+      "2026-10-14": [
+        "15:20"
+      ]
+    },
+    "shows": {
+      "2026-10-09": [
+        {
+          "time": "15:20",
+          "tags": []
+        }
+      ],
+      "2026-10-10": [
+        {
+          "time": "10:40",
+          "tags": []
+        },
+        {
+          "time": "15:20",
+          "tags": []
+        }
+      ],
+      "2026-10-11": [
+        {
+          "time": "10:40",
+          "tags": []
+        },
+        {
+          "time": "15:20",
+          "tags": []
+        }
+      ],
+      "2026-10-12": [
+        {
+          "time": "15:20",
+          "tags": []
+        }
+      ],
+      "2026-10-13": [
+        {
+          "time": "15:20",
+          "tags": []
+        }
+      ],
+      "2026-10-14": [
+        {
+          "time": "15:20",
+          "tags": []
+        }
+      ]
+    },
+    "room": "Sala 14",
+    "vo": false,
+    "url": "https://ucicinemas.it/film/oceania/",
+    "smart": {
+      "2026-10-09": 11,
+      "2026-10-10": 13,
+      "2026-10-11": 14,
+      "2026-10-12": 14,
+      "2026-10-13": 14,
+      "2026-10-14": 14
+    },
+    "rankUscita": 25,
+    "rankVoto": 25
+  },
+  {
+    "title": "Verity",
+    "poster": "https://image.tmdb.org/t/p/w185/cLMNbCkgzn1qlmox7FyQBgXwL4D.jpg",
+    "rating": 4.8,
+    "ratings": {
+      "letterboxd": 5.3,
+      "imdb": 6,
+      "metacritic": 4.4,
+      "mubi": 3.6
+    },
+    "releaseDate": "2026-10-01",
+    "showtimes": [
+      "17:30",
+      "19:50",
+      "22:30",
+      "23:30"
+    ],
+    "showtimesDate": "2026-10-09",
+    "days": {
+      "2026-10-09": [
+        "17:30",
+        "19:50",
+        "22:30",
+        "23:30"
+      ],
+      "2026-10-10": [
+        "17:30",
+        "19:50",
+        "22:30",
+        "23:30"
+      ],
+      "2026-10-11": [
+        "17:30",
+        "19:50",
+        "22:30",
+        "23:20"
+      ],
+      "2026-10-12": [
+        "17:30",
+        "19:50",
+        "22:30",
+        "23:30"
+      ],
+      "2026-10-13": [
+        "17:30",
+        "19:50",
+        "22:30",
+        "23:30"
+      ],
+      "2026-10-14": [
+        "17:30",
+        "19:50",
+        "22:30",
+        "23:30"
+      ]
+    },
+    "shows": {
+      "2026-10-09": [
+        {
+          "time": "17:30",
+          "tags": []
+        },
+        {
+          "time": "19:50",
+          "tags": []
+        },
+        {
+          "time": "22:30",
+          "tags": []
+        },
+        {
+          "time": "23:30",
+          "tags": []
+        }
+      ],
+      "2026-10-10": [
+        {
+          "time": "17:30",
+          "tags": []
+        },
+        {
+          "time": "19:50",
+          "tags": []
+        },
+        {
+          "time": "22:30",
+          "tags": []
+        },
+        {
+          "time": "23:30",
+          "tags": []
+        }
+      ],
+      "2026-10-11": [
+        {
+          "time": "17:30",
+          "tags": []
+        },
+        {
+          "time": "19:50",
+          "tags": []
+        },
+        {
+          "time": "22:30",
+          "tags": []
+        },
+        {
+          "time": "23:20",
+          "tags": []
+        }
+      ],
+      "2026-10-12": [
+        {
+          "time": "17:30",
+          "tags": []
+        },
+        {
+          "time": "19:50",
+          "tags": []
+        },
+        {
+          "time": "22:30",
+          "tags": []
+        },
+        {
+          "time": "23:30",
+          "tags": []
+        }
+      ],
+      "2026-10-13": [
+        {
+          "time": "17:30",
+          "tags": []
+        },
+        {
+          "time": "19:50",
+          "tags": []
+        },
+        {
+          "time": "22:30",
+          "tags": []
+        },
+        {
+          "time": "23:30",
+          "tags": []
+        }
+      ],
+      "2026-10-14": [
+        {
+          "time": "17:30",
+          "tags": []
+        },
+        {
+          "time": "19:50",
+          "tags": []
+        },
+        {
+          "time": "22:30",
+          "tags": []
+        },
+        {
+          "time": "23:30",
+          "tags": []
+        }
+      ]
+    },
+    "room": "Sala 2",
+    "vo": false,
+    "url": "https://ucicinemas.it/film/verity/",
+    "smart": {
+      "2026-10-09": 38,
+      "2026-10-10": 35,
+      "2026-10-11": 36,
+      "2026-10-12": 51,
+      "2026-10-13": 51,
+      "2026-10-14": 51
+    },
+    "rankUscita": 14,
+    "rankVoto": 26
+  },
+  {
+    "title": "Her Private Hell",
+    "poster": "https://image.tmdb.org/t/p/w185/4tdT44N1on3Aj6q0e64ttY60HA4.jpg",
+    "rating": 4.7,
+    "ratings": {
+      "letterboxd": 4.4,
+      "imdb": 4.5,
+      "metacritic": 4.4,
+      "mubi": 5.3
+    },
+    "releaseDate": "2026-09-30",
+    "showtimes": [
+      "14:55"
+    ],
+    "showtimesDate": "2026-10-09",
+    "days": {
+      "2026-10-09": [
+        "14:55"
+      ],
+      "2026-10-10": [
+        "13:00"
+      ],
+      "2026-10-11": [
+        "13:00"
+      ],
+      "2026-10-12": [
+        "14:55"
+      ],
+      "2026-10-13": [
+        "14:55"
+      ],
+      "2026-10-14": [
+        "14:55"
+      ]
+    },
+    "shows": {
+      "2026-10-09": [
+        {
+          "time": "14:55",
+          "tags": []
+        }
+      ],
+      "2026-10-10": [
+        {
+          "time": "13:00",
+          "tags": []
+        }
+      ],
+      "2026-10-11": [
+        {
+          "time": "13:00",
+          "tags": []
+        }
+      ],
+      "2026-10-12": [
+        {
+          "time": "14:55",
+          "tags": []
+        }
+      ],
+      "2026-10-13": [
+        {
+          "time": "14:55",
+          "tags": []
+        }
+      ],
+      "2026-10-14": [
+        {
+          "time": "14:55",
+          "tags": []
+        }
+      ]
+    },
+    "room": "Sala 10",
+    "vo": false,
+    "url": "https://ucicinemas.it/film/her-private-hell/",
+    "smart": {
+      "2026-10-09": 25,
+      "2026-10-10": 24,
+      "2026-10-11": 25,
+      "2026-10-12": 28,
+      "2026-10-13": 28,
+      "2026-10-14": 28
+    },
+    "rankUscita": 16,
+    "rankVoto": 27
+  },
+  {
+    "title": "Quasi Vera",
+    "poster": "https://image.tmdb.org/t/p/w185/mDaLeE82vmuUCwzGl8CcAMsiFDK.jpg",
+    "rating": 4.2,
+    "ratings": {
+      "letterboxd": null,
+      "imdb": 4.2,
+      "metacritic": null,
+      "mubi": null
+    },
+    "releaseDate": "2026-10-01",
+    "showtimes": [
+      "17:40"
+    ],
+    "showtimesDate": "2026-10-09",
+    "days": {
+      "2026-10-09": [
+        "17:40"
+      ],
+      "2026-10-10": [
+        "17:40"
+      ],
+      "2026-10-11": [
+        "17:45"
+      ],
+      "2026-10-12": [
+        "17:40"
+      ],
+      "2026-10-13": [
+        "17:40"
+      ],
+      "2026-10-14": [
+        "17:40"
+      ]
+    },
+    "shows": {
+      "2026-10-09": [
+        {
+          "time": "17:40",
+          "tags": []
+        }
+      ],
+      "2026-10-10": [
+        {
+          "time": "17:40",
+          "tags": []
+        }
+      ],
+      "2026-10-11": [
+        {
+          "time": "17:45",
+          "tags": []
+        }
+      ],
+      "2026-10-12": [
+        {
+          "time": "17:40",
+          "tags": []
+        }
+      ],
+      "2026-10-13": [
+        {
+          "time": "17:40",
+          "tags": []
+        }
+      ],
+      "2026-10-14": [
+        {
+          "time": "17:40",
+          "tags": []
+        }
+      ]
+    },
+    "room": "Sala 10",
+    "vo": false,
+    "url": "https://ucicinemas.it/film/quasi-vera/",
+    "smart": {
+      "2026-10-09": 26,
+      "2026-10-10": 25,
+      "2026-10-11": 26,
+      "2026-10-12": 29,
+      "2026-10-13": 29,
+      "2026-10-14": 29
+    },
+    "rankUscita": 15,
+    "rankVoto": 28
+  },
+  {
+    "title": "Street Fighter",
+    "poster": "https://image.tmdb.org/t/p/w185/dJPT2Uf12X6aFg8i5N67NTpIZ9t.jpg",
+    "rating": null,
+    "ratings": {
+      "letterboxd": null,
+      "imdb": null,
+      "metacritic": null,
+      "mubi": null
+    },
+    "releaseDate": "2026-10-15",
+    "showtimes": [
+      "18:01",
+      "19:00",
+      "21:01",
+      "22:10"
+    ],
+    "showtimesDate": "2026-10-15",
+    "days": {
+      "2026-10-15": [
+        "18:01",
+        "19:00",
+        "21:01",
+        "22:10"
+      ]
+    },
+    "shows": {
+      "2026-10-15": [
+        {
+          "time": "18:01",
+          "tags": [
+            "IMAX"
+          ]
+        },
+        {
+          "time": "19:00",
+          "tags": [
+            "VO"
+          ]
+        },
+        {
+          "time": "21:01",
+          "tags": [
+            "IMAX"
+          ]
+        },
+        {
+          "time": "22:10",
+          "tags": []
+        }
+      ]
+    },
+    "room": "Sala IMAX",
+    "vo": false,
+    "url": "https://ucicinemas.it/film/street-fighter/",
+    "smart": {
+      "2026-10-15": 79
+    },
+    "rankUscita": 2,
+    "rankVoto": 29
+  },
+  {
+    "title": "Whalefall - Nella balena",
+    "poster": "https://image.tmdb.org/t/p/w185/auhdhcoWhQzMovY2pa71BTgDAa7.jpg",
+    "rating": null,
+    "ratings": {
+      "letterboxd": null,
+      "imdb": null,
+      "metacritic": null,
+      "mubi": null
+    },
+    "releaseDate": "2026-10-15",
+    "showtimes": [
+      "21:50"
+    ],
+    "showtimesDate": "2026-10-15",
+    "days": {
+      "2026-10-15": [
+        "21:50"
+      ]
+    },
+    "shows": {
+      "2026-10-15": [
+        {
+          "time": "21:50",
+          "tags": []
+        }
+      ]
+    },
+    "room": "Sala 9",
+    "vo": false,
+    "url": "https://ucicinemas.it/film/whalefall/",
+    "smart": {
+      "2026-10-15": 57
     },
     "rankUscita": 3,
-    "rankVoto": 24
+    "rankVoto": 30
   },
   {
     "title": "Rider",
@@ -2812,13 +3169,12 @@
     },
     "releaseDate": "2026-10-08",
     "showtimes": [
+      "16:50",
+      "20:40",
       "22:20"
     ],
-    "showtimesDate": "2026-10-08",
+    "showtimesDate": "2026-10-09",
     "days": {
-      "2026-10-08": [
-        "22:20"
-      ],
       "2026-10-09": [
         "16:50",
         "20:40",
@@ -2846,12 +3202,6 @@
       ]
     },
     "shows": {
-      "2026-10-08": [
-        {
-          "time": "22:20",
-          "tags": []
-        }
-      ],
       "2026-10-09": [
         {
           "time": "16:50",
@@ -2917,20 +3267,19 @@
         }
       ]
     },
-    "room": "Sala 2",
+    "room": "Sala 12",
     "vo": false,
     "url": "https://ucicinemas.it/film/rider/",
     "smart": {
-      "2026-10-08": 64,
-      "2026-10-09": 62,
-      "2026-10-10": 56,
-      "2026-10-11": 54,
-      "2026-10-12": 64,
-      "2026-10-13": 64,
+      "2026-10-09": 61,
+      "2026-10-10": 55,
+      "2026-10-11": 53,
+      "2026-10-12": 63,
+      "2026-10-13": 63,
       "2026-10-14": 71
     },
-    "rankUscita": 4,
-    "rankVoto": 25
+    "rankUscita": 9,
+    "rankVoto": 31
   },
   {
     "title": "Sotto a chi tocca",
@@ -3040,19 +3389,19 @@
     "vo": false,
     "url": "https://ucicinemas.it/film/sotto-a-chi-tocca/",
     "smart": {
-      "2026-10-09": 58,
-      "2026-10-10": 56,
-      "2026-10-11": 57,
-      "2026-10-12": 64,
-      "2026-10-13": 64,
-      "2026-10-14": 64
+      "2026-10-09": 57,
+      "2026-10-10": 55,
+      "2026-10-11": 56,
+      "2026-10-12": 63,
+      "2026-10-13": 63,
+      "2026-10-14": 63
     },
-    "rankUscita": 5,
-    "rankVoto": 26
+    "rankUscita": 10,
+    "rankVoto": 32
   },
   {
-    "title": "The Social: Il prezzo della verità",
-    "poster": "https://image.tmdb.org/t/p/w185/2RmNbvlv9jDrLGDDkdYZDifKGCm.jpg",
+    "title": "Carlo Acutis - Il giovane santo",
+    "poster": "https://storage.googleapis.com/uci-infrastructure-bucket/Common/Movies/Posters/01M2SMFXWS76M24FW901WY06FH_resized_at_20260921113202.jpg",
     "rating": null,
     "ratings": {
       "letterboxd": null,
@@ -3060,246 +3409,32 @@
       "metacritic": null,
       "mubi": null
     },
-    "releaseDate": "2026-10-08",
+    "releaseDate": null,
     "showtimes": [
-      "22:10"
+      "20:00"
     ],
-    "showtimesDate": "2026-10-08",
+    "showtimesDate": "2026-10-15",
     "days": {
-      "2026-10-08": [
-        "22:10"
-      ],
-      "2026-10-09": [
-        "17:50",
-        "20:30",
-        "22:10"
-      ],
-      "2026-10-10": [
-        "16:50",
-        "20:00",
-        "22:10"
-      ],
-      "2026-10-11": [
-        "17:50",
-        "20:30",
-        "22:10"
-      ],
-      "2026-10-12": [
-        "17:50",
-        "20:30",
-        "22:10"
-      ],
-      "2026-10-13": [
-        "17:50",
-        "20:30",
-        "22:10"
-      ],
-      "2026-10-14": [
-        "17:50",
-        "18:40",
-        "20:30",
-        "22:10"
+      "2026-10-15": [
+        "20:00"
       ]
     },
     "shows": {
-      "2026-10-08": [
-        {
-          "time": "22:10",
-          "tags": []
-        }
-      ],
-      "2026-10-09": [
-        {
-          "time": "17:50",
-          "tags": []
-        },
-        {
-          "time": "20:30",
-          "tags": []
-        },
-        {
-          "time": "22:10",
-          "tags": []
-        }
-      ],
-      "2026-10-10": [
-        {
-          "time": "16:50",
-          "tags": []
-        },
+      "2026-10-15": [
         {
           "time": "20:00",
           "tags": []
-        },
-        {
-          "time": "22:10",
-          "tags": []
-        }
-      ],
-      "2026-10-11": [
-        {
-          "time": "17:50",
-          "tags": []
-        },
-        {
-          "time": "20:30",
-          "tags": []
-        },
-        {
-          "time": "22:10",
-          "tags": []
-        }
-      ],
-      "2026-10-12": [
-        {
-          "time": "17:50",
-          "tags": []
-        },
-        {
-          "time": "20:30",
-          "tags": []
-        },
-        {
-          "time": "22:10",
-          "tags": []
-        }
-      ],
-      "2026-10-13": [
-        {
-          "time": "17:50",
-          "tags": []
-        },
-        {
-          "time": "20:30",
-          "tags": []
-        },
-        {
-          "time": "22:10",
-          "tags": []
-        }
-      ],
-      "2026-10-14": [
-        {
-          "time": "17:50",
-          "tags": []
-        },
-        {
-          "time": "18:40",
-          "tags": [
-            "VO"
-          ]
-        },
-        {
-          "time": "20:30",
-          "tags": []
-        },
-        {
-          "time": "22:10",
-          "tags": []
         }
       ]
     },
-    "room": "Sala 10",
+    "room": "Sala 12",
     "vo": false,
-    "url": "https://ucicinemas.it/film/the-social-il-prezzo-della-verita/",
+    "url": "https://ucicinemas.it/film/carlo-acutis-il-giovane-santo/",
     "smart": {
-      "2026-10-08": 64,
-      "2026-10-09": 62,
-      "2026-10-10": 60,
-      "2026-10-11": 61,
-      "2026-10-12": 71,
-      "2026-10-13": 71,
-      "2026-10-14": 79
+      "2026-10-15": 43
     },
-    "rankUscita": 6,
-    "rankVoto": 27
-  },
-  {
-    "title": "Quasi Vera",
-    "poster": "https://image.tmdb.org/t/p/w185/mDaLeE82vmuUCwzGl8CcAMsiFDK.jpg",
-    "rating": null,
-    "ratings": {
-      "letterboxd": null,
-      "imdb": null,
-      "metacritic": null,
-      "mubi": null
-    },
-    "releaseDate": "2026-10-01",
-    "showtimes": [
-      "17:40"
-    ],
-    "showtimesDate": "2026-10-09",
-    "days": {
-      "2026-10-09": [
-        "17:40"
-      ],
-      "2026-10-10": [
-        "17:40"
-      ],
-      "2026-10-11": [
-        "17:45"
-      ],
-      "2026-10-12": [
-        "17:40"
-      ],
-      "2026-10-13": [
-        "17:40"
-      ],
-      "2026-10-14": [
-        "17:40"
-      ]
-    },
-    "shows": {
-      "2026-10-09": [
-        {
-          "time": "17:40",
-          "tags": []
-        }
-      ],
-      "2026-10-10": [
-        {
-          "time": "17:40",
-          "tags": []
-        }
-      ],
-      "2026-10-11": [
-        {
-          "time": "17:45",
-          "tags": []
-        }
-      ],
-      "2026-10-12": [
-        {
-          "time": "17:40",
-          "tags": []
-        }
-      ],
-      "2026-10-13": [
-        {
-          "time": "17:40",
-          "tags": []
-        }
-      ],
-      "2026-10-14": [
-        {
-          "time": "17:40",
-          "tags": []
-        }
-      ]
-    },
-    "room": "Sala 10",
-    "vo": false,
-    "url": "https://ucicinemas.it/film/quasi-vera/",
-    "smart": {
-      "2026-10-09": 48,
-      "2026-10-10": 47,
-      "2026-10-11": 48,
-      "2026-10-12": 51,
-      "2026-10-13": 51,
-      "2026-10-14": 51
-    },
-    "rankUscita": 11,
-    "rankVoto": 28
+    "rankUscita": 33,
+    "rankVoto": 33
   },
   {
     "title": "Il dottor stranamore",
@@ -3345,8 +3480,8 @@
       "2026-10-13": 43,
       "2026-10-14": 43
     },
-    "rankUscita": 29,
-    "rankVoto": 29
+    "rankUscita": 34,
+    "rankVoto": 34
   },
   {
     "title": "Queen Budapest",
@@ -3433,7 +3568,7 @@
       "2026-10-10": 42,
       "2026-10-11": 43
     },
-    "rankUscita": 30,
-    "rankVoto": 30
+    "rankUscita": 35,
+    "rankVoto": 35
   }
 ]
