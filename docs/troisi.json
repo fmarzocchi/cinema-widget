@@ -140,10 +140,10 @@
   {
     "title": "L'estranea",
     "poster": "https://image.tmdb.org/t/p/w185/6GisyPsQBvnpgMKXqtPuwJqpZzl.jpg",
-    "rating": 7.1,
+    "rating": 7.2,
     "ratings": {
       "letterboxd": 7.2,
-      "imdb": 7,
+      "imdb": 7.1,
       "metacritic": null,
       "mubi": null
     },
@@ -240,12 +240,12 @@
     "vo": false,
     "url": "https://www.liveticket.it/opera.aspx?Id=699891",
     "smart": {
-      "2026-10-09": 82,
-      "2026-10-10": 82,
-      "2026-10-11": 82,
-      "2026-10-12": 82,
-      "2026-10-13": 82,
-      "2026-10-14": 68
+      "2026-10-09": 83,
+      "2026-10-10": 83,
+      "2026-10-11": 83,
+      "2026-10-12": 83,
+      "2026-10-13": 83,
+      "2026-10-14": 69
     },
     "rankUscita": 0,
     "rankVoto": 2
