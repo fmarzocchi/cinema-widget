@@ -134,7 +134,7 @@
     "rating": 7.2,
     "ratings": {
       "letterboxd": 7.2,
-      "imdb": 7.1,
+      "imdb": 7.2,
       "metacritic": null,
       "mubi": null
     },
@@ -172,7 +172,7 @@
     "vo": false,
     "url": "https://roma.andromeda.18tickets.it/film/80411",
     "smart": {
-      "2026-10-10": 76
+      "2026-10-10": 75
     },
     "rankUscita": 0,
     "rankVoto": 3
@@ -209,53 +209,10 @@
     "vo": false,
     "url": "https://roma.andromeda.18tickets.it/film/78828",
     "smart": {
-      "2026-10-10": 49
+      "2026-10-10": 48
     },
     "rankUscita": 5,
     "rankVoto": 4
-  },
-  {
-    "title": "Mammina",
-    "poster": "https://image.tmdb.org/t/p/w185/ir1esRZZk49yKaLAVQd2FgvLxLf.jpg",
-    "rating": 6.2,
-    "ratings": {
-      "letterboxd": 5.6,
-      "imdb": 6.7,
-      "metacritic": null,
-      "mubi": null
-    },
-    "releaseDate": "2026-10-08",
-    "showtimes": [
-      "19:30",
-      "21:30"
-    ],
-    "showtimesDate": "2026-10-10",
-    "days": {
-      "2026-10-10": [
-        "19:30",
-        "21:30"
-      ]
-    },
-    "shows": {
-      "2026-10-10": [
-        {
-          "time": "19:30",
-          "tags": []
-        },
-        {
-          "time": "21:30",
-          "tags": []
-        }
-      ]
-    },
-    "room": "Sala 6",
-    "vo": false,
-    "url": "https://roma.andromeda.18tickets.it/film/80743",
-    "smart": {
-      "2026-10-10": 57
-    },
-    "rankUscita": 1,
-    "rankVoto": 5
   },
   {
     "title": "La città dei vivi",
@@ -263,7 +220,7 @@
     "rating": 6.2,
     "ratings": {
       "letterboxd": 6.2,
-      "imdb": 6.1,
+      "imdb": 6.2,
       "metacritic": null,
       "mubi": null
     },
@@ -289,10 +246,10 @@
     "vo": false,
     "url": "https://roma.andromeda.18tickets.it/film/78728",
     "smart": {
-      "2026-10-10": 44
+      "2026-10-10": 43
     },
     "rankUscita": 6,
-    "rankVoto": 6
+    "rankVoto": 5
   },
   {
     "title": "The Social - Il prezzo della verità",
@@ -334,8 +291,8 @@
     "smart": {
       "2026-10-10": 55
     },
-    "rankUscita": 2,
-    "rankVoto": 7
+    "rankUscita": 1,
+    "rankVoto": 6
   },
   {
     "title": "L'albero di molto lontano",
@@ -375,7 +332,50 @@
     "vo": false,
     "url": "https://roma.andromeda.18tickets.it/film/82127",
     "smart": {
-      "2026-10-10": 54
+      "2026-10-10": 53
+    },
+    "rankUscita": 2,
+    "rankVoto": 7
+  },
+  {
+    "title": "Mammina",
+    "poster": "https://image.tmdb.org/t/p/w185/ir1esRZZk49yKaLAVQd2FgvLxLf.jpg",
+    "rating": 5.8,
+    "ratings": {
+      "letterboxd": 5.6,
+      "imdb": 5.9,
+      "metacritic": null,
+      "mubi": null
+    },
+    "releaseDate": "2026-10-08",
+    "showtimes": [
+      "19:30",
+      "21:30"
+    ],
+    "showtimesDate": "2026-10-10",
+    "days": {
+      "2026-10-10": [
+        "19:30",
+        "21:30"
+      ]
+    },
+    "shows": {
+      "2026-10-10": [
+        {
+          "time": "19:30",
+          "tags": []
+        },
+        {
+          "time": "21:30",
+          "tags": []
+        }
+      ]
+    },
+    "room": "Sala 6",
+    "vo": false,
+    "url": "https://roma.andromeda.18tickets.it/film/80743",
+    "smart": {
+      "2026-10-10": 51
     },
     "rankUscita": 3,
     "rankVoto": 8
@@ -500,7 +500,7 @@
     "vo": false,
     "url": "https://roma.andromeda.18tickets.it/film/80675",
     "smart": {
-      "2026-10-10": 36
+      "2026-10-10": 35
     },
     "rankUscita": 8,
     "rankVoto": 11
@@ -537,7 +537,7 @@
     "vo": false,
     "url": "https://roma.andromeda.18tickets.it/film/79852",
     "smart": {
-      "2026-10-10": 56
+      "2026-10-10": 55
     },
     "rankUscita": 4,
     "rankVoto": 12
