@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-11T00:41:40.088Z",
+  "updatedAt": "2026-10-11T10:37:28.564Z",
   "today": "2026-10-11",
   "ratingScale": 10,
   "ratingSources": {
@@ -16,7 +16,7 @@
       "key": "porta",
       "label": "PORTA",
       "cinema": "UCI Cinemas Porta di Roma",
-      "count": 37,
+      "count": 36,
       "state": "ok",
       "url": "https://fmarzocchi.github.io/cinema-widget/porta.json"
     },
