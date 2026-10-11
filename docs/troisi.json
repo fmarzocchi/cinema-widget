@@ -11,13 +11,11 @@
     },
     "releaseDate": "2026-09-25",
     "showtimes": [
-      "09:00"
+      "09:00",
+      "13:30"
     ],
-    "showtimesDate": "2026-10-10",
+    "showtimesDate": "2026-10-11",
     "days": {
-      "2026-10-10": [
-        "09:00"
-      ],
       "2026-10-11": [
         "09:00",
         "13:30"
@@ -31,14 +29,6 @@
       ]
     },
     "shows": {
-      "2026-10-10": [
-        {
-          "time": "09:00",
-          "tags": [
-            "VO"
-          ]
-        }
-      ],
       "2026-10-11": [
         {
           "time": "09:00",
@@ -80,10 +70,9 @@
     "vo": true,
     "url": "https://www.liveticket.it/opera.aspx?Id=695512",
     "smart": {
-      "2026-10-10": 75,
-      "2026-10-11": 89,
-      "2026-10-13": 89,
-      "2026-10-14": 75
+      "2026-10-11": 88,
+      "2026-10-13": 88,
+      "2026-10-14": 74
     },
     "rankUscita": 4,
     "rankVoto": 0
@@ -122,7 +111,7 @@
     "smart": {
       "2026-10-11": 42
     },
-    "rankUscita": 7,
+    "rankUscita": 8,
     "rankVoto": 1
   },
   {
@@ -137,15 +126,11 @@
     },
     "releaseDate": "2026-10-08",
     "showtimes": [
-      "17:30",
-      "22:15"
+      "15:30",
+      "19:45"
     ],
-    "showtimesDate": "2026-10-10",
+    "showtimesDate": "2026-10-11",
     "days": {
-      "2026-10-10": [
-        "17:30",
-        "22:15"
-      ],
       "2026-10-11": [
         "15:30",
         "19:45"
@@ -163,16 +148,6 @@
       ]
     },
     "shows": {
-      "2026-10-10": [
-        {
-          "time": "17:30",
-          "tags": []
-        },
-        {
-          "time": "22:15",
-          "tags": []
-        }
-      ],
       "2026-10-11": [
         {
           "time": "15:30",
@@ -214,14 +189,52 @@
     "vo": false,
     "url": "https://www.liveticket.it/opera.aspx?Id=699891",
     "smart": {
-      "2026-10-10": 82,
-      "2026-10-11": 82,
-      "2026-10-12": 82,
-      "2026-10-13": 82,
-      "2026-10-14": 68
+      "2026-10-11": 81,
+      "2026-10-12": 81,
+      "2026-10-13": 81,
+      "2026-10-14": 67
     },
     "rankUscita": 0,
     "rankVoto": 2
+  },
+  {
+    "title": "Bronson",
+    "poster": "https://image.tmdb.org/t/p/w185/idTJGGwgS9ybtlW3tcLPx3l9OMB.jpg",
+    "rating": 7.2,
+    "ratings": {
+      "letterboxd": 7.2,
+      "imdb": 7,
+      "metacritic": 7.1,
+      "mubi": 7.4
+    },
+    "releaseDate": "2009-03-13",
+    "showtimes": [
+      "11:00"
+    ],
+    "showtimesDate": "2026-10-17",
+    "days": {
+      "2026-10-17": [
+        "11:00"
+      ]
+    },
+    "shows": {
+      "2026-10-17": [
+        {
+          "time": "11:00",
+          "tags": [
+            "VO"
+          ]
+        }
+      ]
+    },
+    "room": null,
+    "vo": true,
+    "url": "https://www.liveticket.it/opera.aspx?Id=694372",
+    "smart": {
+      "2026-10-17": 56
+    },
+    "rankUscita": 7,
+    "rankVoto": 3
   },
   {
     "title": "La commare secca",
@@ -257,8 +270,8 @@
     "smart": {
       "2026-10-13": 38
     },
-    "rankUscita": 8,
-    "rankVoto": 3
+    "rankUscita": 9,
+    "rankVoto": 4
   },
   {
     "title": "Digger",
@@ -272,15 +285,10 @@
     },
     "releaseDate": "2026-10-01",
     "showtimes": [
-      "15:00",
-      "19:45"
+      "22:00"
     ],
-    "showtimesDate": "2026-10-10",
+    "showtimesDate": "2026-10-11",
     "days": {
-      "2026-10-10": [
-        "15:00",
-        "19:45"
-      ],
       "2026-10-11": [
         "22:00"
       ],
@@ -297,20 +305,6 @@
       ]
     },
     "shows": {
-      "2026-10-10": [
-        {
-          "time": "15:00",
-          "tags": [
-            "VO"
-          ]
-        },
-        {
-          "time": "19:45",
-          "tags": [
-            "VO"
-          ]
-        }
-      ],
       "2026-10-11": [
         {
           "time": "22:00",
@@ -360,14 +354,13 @@
     "vo": true,
     "url": "https://www.liveticket.it/opera.aspx?Id=697046",
     "smart": {
-      "2026-10-10": 69,
-      "2026-10-11": 55,
-      "2026-10-12": 55,
+      "2026-10-11": 54,
+      "2026-10-12": 54,
       "2026-10-13": 69,
       "2026-10-14": 69
     },
     "rankUscita": 2,
-    "rankVoto": 4
+    "rankVoto": 5
   },
   {
     "title": "Her Private Hell",
@@ -381,15 +374,11 @@
     },
     "releaseDate": "2026-09-30",
     "showtimes": [
-      "13:00"
+      "17:45"
     ],
-    "showtimesDate": "2026-10-10",
+    "showtimesDate": "2026-10-11",
     "days": {
-      "2026-10-10": [
-        "13:00"
-      ],
       "2026-10-11": [
-        "00:30",
         "17:45"
       ],
       "2026-10-12": [
@@ -401,21 +390,7 @@
       ]
     },
     "shows": {
-      "2026-10-10": [
-        {
-          "time": "13:00",
-          "tags": [
-            "VO"
-          ]
-        }
-      ],
       "2026-10-11": [
-        {
-          "time": "00:30",
-          "tags": [
-            "VO"
-          ]
-        },
         {
           "time": "17:45",
           "tags": [
@@ -450,13 +425,12 @@
     "vo": true,
     "url": "https://www.liveticket.it/opera.aspx?Id=699838",
     "smart": {
-      "2026-10-10": 35,
-      "2026-10-11": 49,
-      "2026-10-12": 49,
-      "2026-10-13": 35
+      "2026-10-11": 34,
+      "2026-10-12": 48,
+      "2026-10-13": 34
     },
     "rankUscita": 3,
-    "rankVoto": 5
+    "rankVoto": 6
   },
   {
     "title": "Rider",
@@ -500,10 +474,10 @@
     "vo": true,
     "url": "https://www.liveticket.it/opera.aspx?Id=699893",
     "smart": {
-      "2026-10-12": 77
+      "2026-10-12": 76
     },
     "rankUscita": 1,
-    "rankVoto": 6
+    "rankVoto": 7
   },
   {
     "title": "The Dreamers",
@@ -542,7 +516,7 @@
       "2026-10-13": 36
     },
     "rankUscita": 5,
-    "rankVoto": 7
+    "rankVoto": 8
   },
   {
     "title": "Roma Illegale",
@@ -579,7 +553,7 @@
       "2026-10-14": 36
     },
     "rankUscita": 6,
-    "rankVoto": 8
+    "rankVoto": 9
   },
   {
     "title": "Mucchio selvaggio",
@@ -614,45 +588,6 @@
     "url": "https://www.liveticket.it/opera.aspx?Id=703433",
     "smart": {
       "2026-10-14": 50
-    },
-    "rankUscita": 9,
-    "rankVoto": 9
-  },
-  {
-    "title": "Pusher III: I'm The Angel of Death",
-    "poster": "https://cinematroisi.liveticket.it/wp-content/uploads/sites/48/00306292-180x257.jpg",
-    "rating": null,
-    "ratings": {
-      "letterboxd": null,
-      "imdb": null,
-      "metacritic": null,
-      "mubi": null
-    },
-    "releaseDate": null,
-    "showtimes": [
-      "11:00"
-    ],
-    "showtimesDate": "2026-10-10",
-    "days": {
-      "2026-10-10": [
-        "11:00"
-      ]
-    },
-    "shows": {
-      "2026-10-10": [
-        {
-          "time": "11:00",
-          "tags": [
-            "VO"
-          ]
-        }
-      ]
-    },
-    "room": null,
-    "vo": true,
-    "url": "https://www.liveticket.it/opera.aspx?Id=694370",
-    "smart": {
-      "2026-10-10": 50
     },
     "rankUscita": 10,
     "rankVoto": 10
