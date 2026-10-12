@@ -11,15 +11,11 @@
     },
     "releaseDate": "2026-09-25",
     "showtimes": [
-      "09:00",
-      "13:30"
+      "11:00",
+      "18:31"
     ],
-    "showtimesDate": "2026-10-11",
+    "showtimesDate": "2026-10-13",
     "days": {
-      "2026-10-11": [
-        "09:00",
-        "13:30"
-      ],
       "2026-10-13": [
         "11:00",
         "18:31"
@@ -29,20 +25,6 @@
       ]
     },
     "shows": {
-      "2026-10-11": [
-        {
-          "time": "09:00",
-          "tags": [
-            "VO"
-          ]
-        },
-        {
-          "time": "13:30",
-          "tags": [
-            "VO"
-          ]
-        }
-      ],
       "2026-10-13": [
         {
           "time": "11:00",
@@ -70,9 +52,8 @@
     "vo": true,
     "url": "https://www.liveticket.it/opera.aspx?Id=695512",
     "smart": {
-      "2026-10-11": 88,
       "2026-10-13": 88,
-      "2026-10-14": 74
+      "2026-10-14": 73
     },
     "rankUscita": 4,
     "rankVoto": 0
@@ -89,15 +70,11 @@
     },
     "releaseDate": "2026-10-08",
     "showtimes": [
-      "15:30",
-      "19:45"
+      "13:00",
+      "21:30"
     ],
-    "showtimesDate": "2026-10-11",
+    "showtimesDate": "2026-10-12",
     "days": {
-      "2026-10-11": [
-        "15:30",
-        "19:45"
-      ],
       "2026-10-12": [
         "13:00",
         "21:30"
@@ -111,16 +88,6 @@
       ]
     },
     "shows": {
-      "2026-10-11": [
-        {
-          "time": "15:30",
-          "tags": []
-        },
-        {
-          "time": "19:45",
-          "tags": []
-        }
-      ],
       "2026-10-12": [
         {
           "time": "13:00",
@@ -152,50 +119,12 @@
     "vo": false,
     "url": "https://www.liveticket.it/opera.aspx?Id=699891",
     "smart": {
-      "2026-10-11": 83,
-      "2026-10-12": 83,
-      "2026-10-13": 83,
-      "2026-10-14": 68
+      "2026-10-12": 82,
+      "2026-10-13": 82,
+      "2026-10-14": 67
     },
     "rankUscita": 0,
     "rankVoto": 1
-  },
-  {
-    "title": "Hercules",
-    "poster": "https://image.tmdb.org/t/p/w185/x9xx36OTEijHCrdhdkxLGBCnjid.jpg",
-    "rating": 7.3,
-    "ratings": {
-      "letterboxd": 7.7,
-      "imdb": 7.3,
-      "metacritic": 7.4,
-      "mubi": 6.6
-    },
-    "releaseDate": "1997-12-05",
-    "showtimes": [
-      "11:00"
-    ],
-    "showtimesDate": "2026-10-11",
-    "days": {
-      "2026-10-11": [
-        "11:00"
-      ]
-    },
-    "shows": {
-      "2026-10-11": [
-        {
-          "time": "11:00",
-          "tags": []
-        }
-      ]
-    },
-    "room": null,
-    "vo": false,
-    "url": "https://www.liveticket.it/opera.aspx?Id=696617",
-    "smart": {
-      "2026-10-11": 42
-    },
-    "rankUscita": 8,
-    "rankVoto": 2
   },
   {
     "title": "Bronson",
@@ -234,7 +163,7 @@
       "2026-10-17": 56
     },
     "rankUscita": 7,
-    "rankVoto": 3
+    "rankVoto": 2
   },
   {
     "title": "La commare secca",
@@ -271,7 +200,7 @@
       "2026-10-13": 38
     },
     "rankUscita": 9,
-    "rankVoto": 4
+    "rankVoto": 3
   },
   {
     "title": "Digger",
@@ -285,13 +214,10 @@
     },
     "releaseDate": "2026-10-01",
     "showtimes": [
-      "22:00"
+      "19:00"
     ],
-    "showtimesDate": "2026-10-11",
+    "showtimesDate": "2026-10-12",
     "days": {
-      "2026-10-11": [
-        "22:00"
-      ],
       "2026-10-12": [
         "19:00"
       ],
@@ -305,14 +231,6 @@
       ]
     },
     "shows": {
-      "2026-10-11": [
-        {
-          "time": "22:00",
-          "tags": [
-            "VO"
-          ]
-        }
-      ],
       "2026-10-12": [
         {
           "time": "19:00",
@@ -354,12 +272,48 @@
     "vo": true,
     "url": "https://www.liveticket.it/opera.aspx?Id=697046",
     "smart": {
-      "2026-10-11": 54,
       "2026-10-12": 54,
-      "2026-10-13": 69,
-      "2026-10-14": 69
+      "2026-10-13": 68,
+      "2026-10-14": 68
     },
     "rankUscita": 2,
+    "rankVoto": 4
+  },
+  {
+    "title": "Pocahontas",
+    "poster": "https://image.tmdb.org/t/p/w185/8cc0wXAuQjqc7dSNxicZBiw5z4b.jpg",
+    "rating": 6.3,
+    "ratings": {
+      "letterboxd": 6.6,
+      "imdb": 6.7,
+      "metacritic": 5.9,
+      "mubi": 6
+    },
+    "releaseDate": "1995-11-24",
+    "showtimes": [
+      "11:00"
+    ],
+    "showtimesDate": "2026-10-18",
+    "days": {
+      "2026-10-18": [
+        "11:00"
+      ]
+    },
+    "shows": {
+      "2026-10-18": [
+        {
+          "time": "11:00",
+          "tags": []
+        }
+      ]
+    },
+    "room": null,
+    "vo": false,
+    "url": "https://www.liveticket.it/opera.aspx?Id=696619",
+    "smart": {
+      "2026-10-18": 44
+    },
+    "rankUscita": 8,
     "rankVoto": 5
   },
   {
@@ -374,15 +328,11 @@
     },
     "releaseDate": "2026-09-30",
     "showtimes": [
-      "17:45"
+      "15:15"
     ],
-    "showtimesDate": "2026-10-11",
+    "showtimesDate": "2026-10-12",
     "days": {
-      "2026-10-11": [
-        "17:45"
-      ],
       "2026-10-12": [
-        "00:30",
         "15:15"
       ],
       "2026-10-13": [
@@ -390,21 +340,7 @@
       ]
     },
     "shows": {
-      "2026-10-11": [
-        {
-          "time": "17:45",
-          "tags": [
-            "VO"
-          ]
-        }
-      ],
       "2026-10-12": [
-        {
-          "time": "00:30",
-          "tags": [
-            "VO"
-          ]
-        },
         {
           "time": "15:15",
           "tags": [
@@ -425,8 +361,7 @@
     "vo": true,
     "url": "https://www.liveticket.it/opera.aspx?Id=699838",
     "smart": {
-      "2026-10-11": 34,
-      "2026-10-12": 48,
+      "2026-10-12": 34,
       "2026-10-13": 34
     },
     "rankUscita": 3,
@@ -474,7 +409,7 @@
     "vo": true,
     "url": "https://www.liveticket.it/opera.aspx?Id=699893",
     "smart": {
-      "2026-10-12": 76
+      "2026-10-12": 75
     },
     "rankUscita": 1,
     "rankVoto": 7

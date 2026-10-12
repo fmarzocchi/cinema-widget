@@ -45,7 +45,7 @@
     "smart": {
       "2026-10-12": 88
     },
-    "rankUscita": 7,
+    "rankUscita": 8,
     "rankVoto": 0
   },
   {
@@ -80,9 +80,9 @@
     "vo": false,
     "url": "https://roma.andromeda.18tickets.it/film/78266",
     "smart": {
-      "2026-10-12": 58
+      "2026-10-12": 57
     },
-    "rankUscita": 8,
+    "rankUscita": 9,
     "rankVoto": 1
   },
   {
@@ -129,9 +129,9 @@
     "vo": false,
     "url": "https://roma.andromeda.18tickets.it/film/80411",
     "smart": {
-      "2026-10-12": 83
+      "2026-10-12": 82
     },
-    "rankUscita": 0,
+    "rankUscita": 1,
     "rankVoto": 2
   },
   {
@@ -166,9 +166,9 @@
     "vo": false,
     "url": "https://roma.andromeda.18tickets.it/film/78828",
     "smart": {
-      "2026-10-12": 50
+      "2026-10-12": 49
     },
-    "rankUscita": 4,
+    "rankUscita": 5,
     "rankVoto": 3
   },
   {
@@ -203,9 +203,9 @@
     "vo": false,
     "url": "https://roma.andromeda.18tickets.it/film/79851",
     "smart": {
-      "2026-10-12": 50
+      "2026-10-12": 49
     },
-    "rankUscita": 1,
+    "rankUscita": 2,
     "rankVoto": 4
   },
   {
@@ -246,9 +246,9 @@
     "vo": false,
     "url": "https://roma.andromeda.18tickets.it/film/80743",
     "smart": {
-      "2026-10-12": 52
+      "2026-10-12": 51
     },
-    "rankUscita": 2,
+    "rankUscita": 3,
     "rankVoto": 5
   },
   {
@@ -283,9 +283,9 @@
     "vo": false,
     "url": "https://roma.andromeda.18tickets.it/film/73580",
     "smart": {
-      "2026-10-12": 26
+      "2026-10-12": 25
     },
-    "rankUscita": 9,
+    "rankUscita": 10,
     "rankVoto": 6
   },
   {
@@ -326,9 +326,9 @@
     "vo": false,
     "url": "https://roma.andromeda.18tickets.it/film/78794",
     "smart": {
-      "2026-10-12": 40
+      "2026-10-12": 39
     },
-    "rankUscita": 5,
+    "rankUscita": 6,
     "rankVoto": 7
   },
   {
@@ -371,10 +371,47 @@
     "vo": false,
     "url": "https://roma.andromeda.18tickets.it/film/80675",
     "smart": {
-      "2026-10-12": 39
+      "2026-10-12": 38
     },
-    "rankUscita": 6,
+    "rankUscita": 7,
     "rankVoto": 8
+  },
+  {
+    "title": "Se ami qualcuno dillo",
+    "poster": "https://image.tmdb.org/t/p/w185/sX7tCKtYbqmO9CuzXs2piz5AflT.jpg",
+    "rating": null,
+    "ratings": {
+      "letterboxd": null,
+      "imdb": null,
+      "metacritic": null,
+      "mubi": null
+    },
+    "releaseDate": "2026-10-16",
+    "showtimes": [
+      "18:15"
+    ],
+    "showtimesDate": "2026-10-18",
+    "days": {
+      "2026-10-18": [
+        "18:15"
+      ]
+    },
+    "shows": {
+      "2026-10-18": [
+        {
+          "time": "18:15",
+          "tags": []
+        }
+      ]
+    },
+    "room": null,
+    "vo": false,
+    "url": "https://roma.andromeda.18tickets.it/film/83216",
+    "smart": {
+      "2026-10-18": 79
+    },
+    "rankUscita": 0,
+    "rankVoto": 9
   },
   {
     "title": "Rider",
@@ -408,10 +445,10 @@
     "vo": false,
     "url": "https://roma.andromeda.18tickets.it/film/79852",
     "smart": {
-      "2026-10-12": 57
+      "2026-10-12": 56
     },
-    "rankUscita": 3,
-    "rankVoto": 9
+    "rankUscita": 4,
+    "rankVoto": 10
   },
   {
     "title": "Il Dr. Stranamore . 4K",
@@ -455,7 +492,7 @@
     "smart": {
       "2026-10-12": 55
     },
-    "rankUscita": 10,
-    "rankVoto": 10
+    "rankUscita": 11,
+    "rankVoto": 11
   }
 ]
