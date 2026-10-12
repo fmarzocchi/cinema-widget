@@ -15,16 +15,16 @@
       "18:20",
       "21:30"
     ],
-    "showtimesDate": "2026-10-12",
+    "showtimesDate": "2026-10-13",
     "days": {
-      "2026-10-12": [
+      "2026-10-13": [
         "16:50",
         "18:20",
         "21:30"
       ]
     },
     "shows": {
-      "2026-10-12": [
+      "2026-10-13": [
         {
           "time": "16:50",
           "tags": []
@@ -43,9 +43,9 @@
     "vo": false,
     "url": "https://roma.andromeda.18tickets.it/film/77608",
     "smart": {
-      "2026-10-12": 88
+      "2026-10-13": 87
     },
-    "rankUscita": 8,
+    "rankUscita": 10,
     "rankVoto": 0
   },
   {
@@ -62,14 +62,14 @@
     "showtimes": [
       "17:00"
     ],
-    "showtimesDate": "2026-10-12",
+    "showtimesDate": "2026-10-13",
     "days": {
-      "2026-10-12": [
+      "2026-10-13": [
         "17:00"
       ]
     },
     "shows": {
-      "2026-10-12": [
+      "2026-10-13": [
         {
           "time": "17:00",
           "tags": []
@@ -80,9 +80,9 @@
     "vo": false,
     "url": "https://roma.andromeda.18tickets.it/film/78266",
     "smart": {
-      "2026-10-12": 57
+      "2026-10-13": 57
     },
-    "rankUscita": 9,
+    "rankUscita": 11,
     "rankVoto": 1
   },
   {
@@ -101,16 +101,16 @@
       "18:45",
       "21:15"
     ],
-    "showtimesDate": "2026-10-12",
+    "showtimesDate": "2026-10-13",
     "days": {
-      "2026-10-12": [
+      "2026-10-13": [
         "17:00",
         "18:45",
         "21:15"
       ]
     },
     "shows": {
-      "2026-10-12": [
+      "2026-10-13": [
         {
           "time": "17:00",
           "tags": []
@@ -129,7 +129,7 @@
     "vo": false,
     "url": "https://roma.andromeda.18tickets.it/film/80411",
     "smart": {
-      "2026-10-12": 82
+      "2026-10-13": 81
     },
     "rankUscita": 1,
     "rankVoto": 2
@@ -148,14 +148,14 @@
     "showtimes": [
       "21:20"
     ],
-    "showtimesDate": "2026-10-12",
+    "showtimesDate": "2026-10-13",
     "days": {
-      "2026-10-12": [
+      "2026-10-13": [
         "21:20"
       ]
     },
     "shows": {
-      "2026-10-12": [
+      "2026-10-13": [
         {
           "time": "21:20",
           "tags": []
@@ -166,9 +166,9 @@
     "vo": false,
     "url": "https://roma.andromeda.18tickets.it/film/78828",
     "smart": {
-      "2026-10-12": 49
+      "2026-10-13": 48
     },
-    "rankUscita": 5,
+    "rankUscita": 6,
     "rankVoto": 3
   },
   {
@@ -182,6 +182,43 @@
       "mubi": null
     },
     "releaseDate": "2026-10-08",
+    "showtimes": [
+      "16:50"
+    ],
+    "showtimesDate": "2026-10-13",
+    "days": {
+      "2026-10-13": [
+        "16:50"
+      ]
+    },
+    "shows": {
+      "2026-10-13": [
+        {
+          "time": "16:50",
+          "tags": []
+        }
+      ]
+    },
+    "room": null,
+    "vo": false,
+    "url": "https://roma.andromeda.18tickets.it/film/79851",
+    "smart": {
+      "2026-10-13": 48
+    },
+    "rankUscita": 2,
+    "rankVoto": 4
+  },
+  {
+    "title": "La città dei vivi",
+    "poster": "https://image.tmdb.org/t/p/w185/opBholBwfUmPISED5muouubQPq3.jpg",
+    "rating": 6.2,
+    "ratings": {
+      "letterboxd": 6.2,
+      "imdb": 6.2,
+      "metacritic": null,
+      "mubi": null
+    },
+    "releaseDate": "2026-10-01",
     "showtimes": [
       "16:45"
     ],
@@ -201,12 +238,49 @@
     },
     "room": null,
     "vo": false,
-    "url": "https://roma.andromeda.18tickets.it/film/79851",
+    "url": "https://roma.andromeda.18tickets.it/film/78728",
     "smart": {
-      "2026-10-13": 68
+      "2026-10-13": 43
     },
-    "rankUscita": 2,
-    "rankVoto": 4
+    "rankUscita": 7,
+    "rankVoto": 5
+  },
+  {
+    "title": "L'albero di molto lontano",
+    "poster": "https://image.tmdb.org/t/p/w185/q8rVIdLn2PUIEoot8JOnmK65EGr.jpg",
+    "rating": 6,
+    "ratings": {
+      "letterboxd": 6,
+      "imdb": 6.2,
+      "metacritic": 5.9,
+      "mubi": 5.7
+    },
+    "releaseDate": "2026-10-08",
+    "showtimes": [
+      "17:10"
+    ],
+    "showtimesDate": "2026-10-13",
+    "days": {
+      "2026-10-13": [
+        "17:10"
+      ]
+    },
+    "shows": {
+      "2026-10-13": [
+        {
+          "time": "17:10",
+          "tags": []
+        }
+      ]
+    },
+    "room": null,
+    "vo": false,
+    "url": "https://roma.andromeda.18tickets.it/film/82127",
+    "smart": {
+      "2026-10-13": 46
+    },
+    "rankUscita": 3,
+    "rankVoto": 6
   },
   {
     "title": "Mammina",
@@ -223,15 +297,15 @@
       "19:45",
       "21:30"
     ],
-    "showtimesDate": "2026-10-12",
+    "showtimesDate": "2026-10-13",
     "days": {
-      "2026-10-12": [
+      "2026-10-13": [
         "19:45",
         "21:30"
       ]
     },
     "shows": {
-      "2026-10-12": [
+      "2026-10-13": [
         {
           "time": "19:45",
           "tags": []
@@ -246,10 +320,10 @@
     "vo": false,
     "url": "https://roma.andromeda.18tickets.it/film/80743",
     "smart": {
-      "2026-10-12": 51
+      "2026-10-13": 51
     },
-    "rankUscita": 3,
-    "rankVoto": 5
+    "rankUscita": 4,
+    "rankVoto": 7
   },
   {
     "title": "PAW Patrol - Missione Dinosauri",
@@ -265,14 +339,14 @@
     "showtimes": [
       "17:00"
     ],
-    "showtimesDate": "2026-10-12",
+    "showtimesDate": "2026-10-13",
     "days": {
-      "2026-10-12": [
+      "2026-10-13": [
         "17:00"
       ]
     },
     "shows": {
-      "2026-10-12": [
+      "2026-10-13": [
         {
           "time": "17:00",
           "tags": []
@@ -283,10 +357,10 @@
     "vo": false,
     "url": "https://roma.andromeda.18tickets.it/film/73580",
     "smart": {
-      "2026-10-12": 25
+      "2026-10-13": 25
     },
-    "rankUscita": 10,
-    "rankVoto": 6
+    "rankUscita": 12,
+    "rankVoto": 8
   },
   {
     "title": "Verity",
@@ -303,15 +377,15 @@
       "18:45",
       "21:20"
     ],
-    "showtimesDate": "2026-10-12",
+    "showtimesDate": "2026-10-13",
     "days": {
-      "2026-10-12": [
+      "2026-10-13": [
         "18:45",
         "21:20"
       ]
     },
     "shows": {
-      "2026-10-12": [
+      "2026-10-13": [
         {
           "time": "18:45",
           "tags": []
@@ -326,10 +400,10 @@
     "vo": false,
     "url": "https://roma.andromeda.18tickets.it/film/78794",
     "smart": {
-      "2026-10-12": 39
+      "2026-10-13": 38
     },
-    "rankUscita": 6,
-    "rankVoto": 7
+    "rankUscita": 8,
+    "rankVoto": 9
   },
   {
     "title": "Her Private Hell",
@@ -346,15 +420,15 @@
       "19:15",
       "21:00"
     ],
-    "showtimesDate": "2026-10-12",
+    "showtimesDate": "2026-10-13",
     "days": {
-      "2026-10-12": [
+      "2026-10-13": [
         "19:15",
         "21:00"
       ]
     },
     "shows": {
-      "2026-10-12": [
+      "2026-10-13": [
         {
           "time": "19:15",
           "tags": []
@@ -371,10 +445,10 @@
     "vo": false,
     "url": "https://roma.andromeda.18tickets.it/film/80675",
     "smart": {
-      "2026-10-12": 38
+      "2026-10-13": 38
     },
-    "rankUscita": 7,
-    "rankVoto": 8
+    "rankUscita": 9,
+    "rankVoto": 10
   },
   {
     "title": "Se ami qualcuno dillo",
@@ -411,7 +485,7 @@
       "2026-10-18": 79
     },
     "rankUscita": 0,
-    "rankVoto": 9
+    "rankVoto": 11
   },
   {
     "title": "Rider",
@@ -427,14 +501,14 @@
     "showtimes": [
       "18:15"
     ],
-    "showtimesDate": "2026-10-12",
+    "showtimesDate": "2026-10-13",
     "days": {
-      "2026-10-12": [
+      "2026-10-13": [
         "18:15"
       ]
     },
     "shows": {
-      "2026-10-12": [
+      "2026-10-13": [
         {
           "time": "18:15",
           "tags": []
@@ -445,14 +519,14 @@
     "vo": false,
     "url": "https://roma.andromeda.18tickets.it/film/79852",
     "smart": {
-      "2026-10-12": 56
+      "2026-10-13": 55
     },
-    "rankUscita": 4,
-    "rankVoto": 10
+    "rankUscita": 5,
+    "rankVoto": 12
   },
   {
-    "title": "Il Dr. Stranamore . 4K",
-    "poster": "https://cdn.18tickets.net/ccroma/uploads/film/playbill/82590/standard_f219b32c-170c-4f04-b4ce-fa023e18fb66.jpeg",
+    "title": "Il Dr. Stranamore 4K",
+    "poster": "https://cdn.18tickets.net/ccroma/uploads/film/playbill/82589/standard_7d9d1438-1cf7-472f-862a-37b90b3be0fc.jpeg",
     "rating": null,
     "ratings": {
       "letterboxd": null,
@@ -465,34 +539,34 @@
       "19:00",
       "21:00"
     ],
-    "showtimesDate": "2026-10-12",
+    "showtimesDate": "2026-10-13",
     "days": {
-      "2026-10-12": [
+      "2026-10-13": [
         "19:00",
         "21:00"
       ]
     },
     "shows": {
-      "2026-10-12": [
+      "2026-10-13": [
         {
           "time": "19:00",
-          "tags": [
-            "VO"
-          ]
+          "tags": []
         },
         {
           "time": "21:00",
-          "tags": []
+          "tags": [
+            "VO"
+          ]
         }
       ]
     },
     "room": null,
     "vo": false,
-    "url": "https://roma.andromeda.18tickets.it/film/82590",
+    "url": "https://roma.andromeda.18tickets.it/film/82589",
     "smart": {
-      "2026-10-12": 55
+      "2026-10-13": 55
     },
-    "rankUscita": 11,
-    "rankVoto": 11
+    "rankUscita": 13,
+    "rankVoto": 13
   }
 ]

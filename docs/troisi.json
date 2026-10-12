@@ -52,10 +52,10 @@
     "vo": true,
     "url": "https://www.liveticket.it/opera.aspx?Id=695512",
     "smart": {
-      "2026-10-13": 88,
+      "2026-10-13": 87,
       "2026-10-14": 73
     },
-    "rankUscita": 5,
+    "rankUscita": 4,
     "rankVoto": 0
   },
   {
@@ -86,6 +86,10 @@
       "2026-10-18": [
         "18:00",
         "20:00"
+      ],
+      "2026-10-19": [
+        "15:30",
+        "19:30"
       ]
     },
     "shows": {
@@ -130,6 +134,20 @@
             "VO"
           ]
         }
+      ],
+      "2026-10-19": [
+        {
+          "time": "15:30",
+          "tags": [
+            "VO"
+          ]
+        },
+        {
+          "time": "19:30",
+          "tags": [
+            "VO"
+          ]
+        }
       ]
     },
     "room": null,
@@ -138,7 +156,8 @@
     "smart": {
       "2026-10-16": 91,
       "2026-10-17": 91,
-      "2026-10-18": 91
+      "2026-10-18": 91,
+      "2026-10-19": 91
     },
     "rankUscita": 0,
     "rankVoto": 1
@@ -155,15 +174,11 @@
     },
     "releaseDate": "2026-10-08",
     "showtimes": [
-      "13:00",
-      "21:30"
+      "14:00",
+      "20:30"
     ],
-    "showtimesDate": "2026-10-12",
+    "showtimesDate": "2026-10-13",
     "days": {
-      "2026-10-12": [
-        "13:00",
-        "21:30"
-      ],
       "2026-10-13": [
         "14:00",
         "20:30"
@@ -173,16 +188,6 @@
       ]
     },
     "shows": {
-      "2026-10-12": [
-        {
-          "time": "13:00",
-          "tags": []
-        },
-        {
-          "time": "21:30",
-          "tags": []
-        }
-      ],
       "2026-10-13": [
         {
           "time": "14:00",
@@ -204,8 +209,7 @@
     "vo": false,
     "url": "https://www.liveticket.it/opera.aspx?Id=699891",
     "smart": {
-      "2026-10-12": 82,
-      "2026-10-13": 82,
+      "2026-10-13": 81,
       "2026-10-14": 67
     },
     "rankUscita": 1,
@@ -247,7 +251,7 @@
     "smart": {
       "2026-10-17": 41
     },
-    "rankUscita": 8,
+    "rankUscita": 6,
     "rankVoto": 3
   },
   {
@@ -284,7 +288,7 @@
     "smart": {
       "2026-10-13": 38
     },
-    "rankUscita": 10,
+    "rankUscita": 8,
     "rankVoto": 4
   },
   {
@@ -299,13 +303,11 @@
     },
     "releaseDate": "2026-10-01",
     "showtimes": [
-      "19:00"
+      "11:00",
+      "22:45"
     ],
-    "showtimesDate": "2026-10-12",
+    "showtimesDate": "2026-10-13",
     "days": {
-      "2026-10-12": [
-        "19:00"
-      ],
       "2026-10-13": [
         "11:00",
         "22:45"
@@ -316,14 +318,6 @@
       ]
     },
     "shows": {
-      "2026-10-12": [
-        {
-          "time": "19:00",
-          "tags": [
-            "VO"
-          ]
-        }
-      ],
       "2026-10-13": [
         {
           "time": "11:00",
@@ -357,11 +351,10 @@
     "vo": true,
     "url": "https://www.liveticket.it/opera.aspx?Id=697046",
     "smart": {
-      "2026-10-12": 54,
-      "2026-10-13": 68,
-      "2026-10-14": 68
+      "2026-10-13": 67,
+      "2026-10-14": 67
     },
-    "rankUscita": 3,
+    "rankUscita": 2,
     "rankVoto": 5
   },
   {
@@ -398,7 +391,7 @@
     "smart": {
       "2026-10-18": 30
     },
-    "rankUscita": 9,
+    "rankUscita": 7,
     "rankVoto": 6
   },
   {
@@ -413,26 +406,15 @@
     },
     "releaseDate": "2026-09-30",
     "showtimes": [
-      "15:15"
+      "16:30"
     ],
-    "showtimesDate": "2026-10-12",
+    "showtimesDate": "2026-10-13",
     "days": {
-      "2026-10-12": [
-        "15:15"
-      ],
       "2026-10-13": [
         "16:30"
       ]
     },
     "shows": {
-      "2026-10-12": [
-        {
-          "time": "15:15",
-          "tags": [
-            "VO"
-          ]
-        }
-      ],
       "2026-10-13": [
         {
           "time": "16:30",
@@ -446,97 +428,10 @@
     "vo": true,
     "url": "https://www.liveticket.it/opera.aspx?Id=699838",
     "smart": {
-      "2026-10-12": 34,
-      "2026-10-13": 34
+      "2026-10-13": 33
     },
-    "rankUscita": 4,
+    "rankUscita": 3,
     "rankVoto": 7
-  },
-  {
-    "title": "Rider",
-    "poster": "https://image.tmdb.org/t/p/w185/17CEyc7s7v8AMOyCZ5SH50KNS2P.jpg",
-    "rating": null,
-    "ratings": {
-      "letterboxd": null,
-      "imdb": null,
-      "metacritic": null,
-      "mubi": null
-    },
-    "releaseDate": "2026-10-08",
-    "showtimes": [
-      "11:00",
-      "17:15"
-    ],
-    "showtimesDate": "2026-10-12",
-    "days": {
-      "2026-10-12": [
-        "11:00",
-        "17:15"
-      ]
-    },
-    "shows": {
-      "2026-10-12": [
-        {
-          "time": "11:00",
-          "tags": [
-            "VO"
-          ]
-        },
-        {
-          "time": "17:15",
-          "tags": [
-            "VO"
-          ]
-        }
-      ]
-    },
-    "room": null,
-    "vo": true,
-    "url": "https://www.liveticket.it/opera.aspx?Id=699893",
-    "smart": {
-      "2026-10-12": 75
-    },
-    "rankUscita": 2,
-    "rankVoto": 8
-  },
-  {
-    "title": "The Dreamers",
-    "poster": "https://cinematroisi.liveticket.it/wp-content/uploads/sites/48/dreamers1_it-180x257.jpg",
-    "rating": null,
-    "ratings": {
-      "letterboxd": null,
-      "imdb": null,
-      "metacritic": null,
-      "mubi": null
-    },
-    "releaseDate": "2026-04-19",
-    "showtimes": [
-      "00:30"
-    ],
-    "showtimesDate": "2026-10-13",
-    "days": {
-      "2026-10-13": [
-        "00:30"
-      ]
-    },
-    "shows": {
-      "2026-10-13": [
-        {
-          "time": "00:30",
-          "tags": [
-            "VO"
-          ]
-        }
-      ]
-    },
-    "room": null,
-    "vo": true,
-    "url": "https://www.liveticket.it/opera.aspx?Id=687531",
-    "smart": {
-      "2026-10-13": 36
-    },
-    "rankUscita": 6,
-    "rankVoto": 9
   },
   {
     "title": "Roma Illegale",
@@ -572,8 +467,8 @@
     "smart": {
       "2026-10-14": 36
     },
-    "rankUscita": 7,
-    "rankVoto": 10
+    "rankUscita": 5,
+    "rankVoto": 8
   },
   {
     "title": "Mucchio selvaggio",
@@ -609,7 +504,7 @@
     "smart": {
       "2026-10-14": 50
     },
-    "rankUscita": 11,
-    "rankVoto": 11
+    "rankUscita": 9,
+    "rankVoto": 9
   }
 ]
