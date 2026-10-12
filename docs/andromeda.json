@@ -5,7 +5,7 @@
     "rating": 8.6,
     "ratings": {
       "letterboxd": 8.7,
-      "imdb": 7.9,
+      "imdb": 8,
       "metacritic": 9.3,
       "mubi": 8.4
     },
@@ -185,14 +185,14 @@
     "showtimes": [
       "16:45"
     ],
-    "showtimesDate": "2026-10-12",
+    "showtimesDate": "2026-10-13",
     "days": {
-      "2026-10-12": [
+      "2026-10-13": [
         "16:45"
       ]
     },
     "shows": {
-      "2026-10-12": [
+      "2026-10-13": [
         {
           "time": "16:45",
           "tags": []
@@ -203,7 +203,7 @@
     "vo": false,
     "url": "https://roma.andromeda.18tickets.it/film/79851",
     "smart": {
-      "2026-10-12": 49
+      "2026-10-13": 68
     },
     "rankUscita": 2,
     "rankVoto": 4

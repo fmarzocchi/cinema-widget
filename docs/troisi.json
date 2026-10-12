@@ -5,19 +5,19 @@
     "rating": 8.6,
     "ratings": {
       "letterboxd": 8.7,
-      "imdb": 7.9,
+      "imdb": 8,
       "metacritic": 9.3,
       "mubi": 8.4
     },
     "releaseDate": "2026-09-25",
     "showtimes": [
-      "11:00",
+      "11:01",
       "18:31"
     ],
     "showtimesDate": "2026-10-13",
     "days": {
       "2026-10-13": [
-        "11:00",
+        "11:01",
         "18:31"
       ],
       "2026-10-14": [
@@ -27,7 +27,7 @@
     "shows": {
       "2026-10-13": [
         {
-          "time": "11:00",
+          "time": "11:01",
           "tags": [
             "VO"
           ]
@@ -55,8 +55,93 @@
       "2026-10-13": 88,
       "2026-10-14": 73
     },
-    "rankUscita": 4,
+    "rankUscita": 5,
     "rankVoto": 0
+  },
+  {
+    "title": "Fatherland",
+    "poster": "https://image.tmdb.org/t/p/w185/7VjwmvDG5mksJBXMcmK6PudqH88.jpg",
+    "rating": 7.8,
+    "ratings": {
+      "letterboxd": 7.3,
+      "imdb": 7.3,
+      "metacritic": 8.9,
+      "mubi": 7.7
+    },
+    "releaseDate": "2026-10-16",
+    "showtimes": [
+      "11:00",
+      "19:30"
+    ],
+    "showtimesDate": "2026-10-16",
+    "days": {
+      "2026-10-16": [
+        "11:00",
+        "19:30"
+      ],
+      "2026-10-17": [
+        "13:00",
+        "21:30"
+      ],
+      "2026-10-18": [
+        "18:00",
+        "20:00"
+      ]
+    },
+    "shows": {
+      "2026-10-16": [
+        {
+          "time": "11:00",
+          "tags": [
+            "VO"
+          ]
+        },
+        {
+          "time": "19:30",
+          "tags": [
+            "VO"
+          ]
+        }
+      ],
+      "2026-10-17": [
+        {
+          "time": "13:00",
+          "tags": [
+            "VO"
+          ]
+        },
+        {
+          "time": "21:30",
+          "tags": [
+            "VO"
+          ]
+        }
+      ],
+      "2026-10-18": [
+        {
+          "time": "18:00",
+          "tags": [
+            "VO"
+          ]
+        },
+        {
+          "time": "20:00",
+          "tags": [
+            "VO"
+          ]
+        }
+      ]
+    },
+    "room": null,
+    "vo": true,
+    "url": "https://www.liveticket.it/opera.aspx?Id=704008",
+    "smart": {
+      "2026-10-16": 91,
+      "2026-10-17": 91,
+      "2026-10-18": 91
+    },
+    "rankUscita": 0,
+    "rankVoto": 1
   },
   {
     "title": "L'estranea",
@@ -123,8 +208,8 @@
       "2026-10-13": 82,
       "2026-10-14": 67
     },
-    "rankUscita": 0,
-    "rankVoto": 1
+    "rankUscita": 1,
+    "rankVoto": 2
   },
   {
     "title": "Bronson",
@@ -160,10 +245,10 @@
     "vo": true,
     "url": "https://www.liveticket.it/opera.aspx?Id=694372",
     "smart": {
-      "2026-10-17": 56
+      "2026-10-17": 41
     },
-    "rankUscita": 7,
-    "rankVoto": 2
+    "rankUscita": 8,
+    "rankVoto": 3
   },
   {
     "title": "La commare secca",
@@ -199,8 +284,8 @@
     "smart": {
       "2026-10-13": 38
     },
-    "rankUscita": 9,
-    "rankVoto": 3
+    "rankUscita": 10,
+    "rankVoto": 4
   },
   {
     "title": "Digger",
@@ -276,8 +361,8 @@
       "2026-10-13": 68,
       "2026-10-14": 68
     },
-    "rankUscita": 2,
-    "rankVoto": 4
+    "rankUscita": 3,
+    "rankVoto": 5
   },
   {
     "title": "Pocahontas",
@@ -311,10 +396,10 @@
     "vo": false,
     "url": "https://www.liveticket.it/opera.aspx?Id=696619",
     "smart": {
-      "2026-10-18": 44
+      "2026-10-18": 30
     },
-    "rankUscita": 8,
-    "rankVoto": 5
+    "rankUscita": 9,
+    "rankVoto": 6
   },
   {
     "title": "Her Private Hell",
@@ -364,8 +449,8 @@
       "2026-10-12": 34,
       "2026-10-13": 34
     },
-    "rankUscita": 3,
-    "rankVoto": 6
+    "rankUscita": 4,
+    "rankVoto": 7
   },
   {
     "title": "Rider",
@@ -411,8 +496,8 @@
     "smart": {
       "2026-10-12": 75
     },
-    "rankUscita": 1,
-    "rankVoto": 7
+    "rankUscita": 2,
+    "rankVoto": 8
   },
   {
     "title": "The Dreamers",
@@ -450,8 +535,8 @@
     "smart": {
       "2026-10-13": 36
     },
-    "rankUscita": 5,
-    "rankVoto": 8
+    "rankUscita": 6,
+    "rankVoto": 9
   },
   {
     "title": "Roma Illegale",
@@ -487,8 +572,8 @@
     "smart": {
       "2026-10-14": 36
     },
-    "rankUscita": 6,
-    "rankVoto": 9
+    "rankUscita": 7,
+    "rankVoto": 10
   },
   {
     "title": "Mucchio selvaggio",
@@ -524,7 +609,7 @@
     "smart": {
       "2026-10-14": 50
     },
-    "rankUscita": 10,
-    "rankVoto": 10
+    "rankUscita": 11,
+    "rankVoto": 11
   }
 ]

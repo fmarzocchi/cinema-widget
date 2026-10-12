@@ -5,7 +5,7 @@
     "rating": 8.6,
     "ratings": {
       "letterboxd": 8.7,
-      "imdb": 7.9,
+      "imdb": 8,
       "metacritic": 9.3,
       "mubi": 8.4
     },
@@ -1737,63 +1737,6 @@
     "rankVoto": 22
   },
   {
-    "title": "Quasi Vera",
-    "poster": "https://image.tmdb.org/t/p/w185/mDaLeE82vmuUCwzGl8CcAMsiFDK.jpg",
-    "rating": 4.7,
-    "ratings": {
-      "letterboxd": null,
-      "imdb": 4.7,
-      "metacritic": null,
-      "mubi": null
-    },
-    "releaseDate": "2026-10-01",
-    "showtimes": [
-      "17:40"
-    ],
-    "showtimesDate": "2026-10-12",
-    "days": {
-      "2026-10-12": [
-        "17:40"
-      ],
-      "2026-10-13": [
-        "17:40"
-      ],
-      "2026-10-14": [
-        "17:40"
-      ]
-    },
-    "shows": {
-      "2026-10-12": [
-        {
-          "time": "17:40",
-          "tags": []
-        }
-      ],
-      "2026-10-13": [
-        {
-          "time": "17:40",
-          "tags": []
-        }
-      ],
-      "2026-10-14": [
-        {
-          "time": "17:40",
-          "tags": []
-        }
-      ]
-    },
-    "room": "Sala 10",
-    "vo": false,
-    "url": "https://ucicinemas.it/film/quasi-vera/",
-    "smart": {
-      "2026-10-12": 23,
-      "2026-10-13": 27,
-      "2026-10-14": 27
-    },
-    "rankUscita": 15,
-    "rankVoto": 23
-  },
-  {
     "title": "Her Private Hell",
     "poster": "https://image.tmdb.org/t/p/w185/4tdT44N1on3Aj6q0e64ttY60HA4.jpg",
     "rating": 4.7,
@@ -1848,6 +1791,63 @@
       "2026-10-14": 26
     },
     "rankUscita": 16,
+    "rankVoto": 23
+  },
+  {
+    "title": "Quasi Vera",
+    "poster": "https://image.tmdb.org/t/p/w185/mDaLeE82vmuUCwzGl8CcAMsiFDK.jpg",
+    "rating": 4.5,
+    "ratings": {
+      "letterboxd": null,
+      "imdb": 4.5,
+      "metacritic": null,
+      "mubi": null
+    },
+    "releaseDate": "2026-10-01",
+    "showtimes": [
+      "17:40"
+    ],
+    "showtimesDate": "2026-10-12",
+    "days": {
+      "2026-10-12": [
+        "17:40"
+      ],
+      "2026-10-13": [
+        "17:40"
+      ],
+      "2026-10-14": [
+        "17:40"
+      ]
+    },
+    "shows": {
+      "2026-10-12": [
+        {
+          "time": "17:40",
+          "tags": []
+        }
+      ],
+      "2026-10-13": [
+        {
+          "time": "17:40",
+          "tags": []
+        }
+      ],
+      "2026-10-14": [
+        {
+          "time": "17:40",
+          "tags": []
+        }
+      ]
+    },
+    "room": "Sala 10",
+    "vo": false,
+    "url": "https://ucicinemas.it/film/quasi-vera/",
+    "smart": {
+      "2026-10-12": 23,
+      "2026-10-13": 27,
+      "2026-10-14": 27
+    },
+    "rankUscita": 15,
     "rankVoto": 24
   },
   {
