@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-10-13T11:26:07.626Z",
+  "updatedAt": "2026-10-13T21:01:39.498Z",
   "today": "2026-10-13",
   "ratingScale": 10,
   "ratingSources": {
-    "film": 42,
-    "letterboxd": 28,
-    "imdb": 29,
-    "metacritic": 21,
+    "film": 45,
+    "letterboxd": 29,
+    "imdb": 30,
+    "metacritic": 22,
     "mubi": 20,
-    "media": 29
+    "media": 30
   },
   "widgetUrl": "https://fmarzocchi.github.io/cinema-widget/cinema.json",
   "feeds": [
@@ -24,7 +24,7 @@
       "key": "troisi",
       "label": "TROISI",
       "cinema": "Cinema Troisi",
-      "count": 10,
+      "count": 11,
       "state": "ok",
       "url": "https://fmarzocchi.github.io/cinema-widget/troisi.json"
     },
@@ -32,7 +32,7 @@
       "key": "andromeda",
       "label": "ANDROMEDA",
       "cinema": "Multisala Andromeda",
-      "count": 14,
+      "count": 21,
       "state": "ok",
       "url": "https://fmarzocchi.github.io/cinema-widget/andromeda.json"
     }

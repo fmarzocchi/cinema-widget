@@ -15,16 +15,16 @@
       "18:20",
       "21:30"
     ],
-    "showtimesDate": "2026-10-13",
+    "showtimesDate": "2026-10-14",
     "days": {
-      "2026-10-13": [
+      "2026-10-14": [
         "16:50",
         "18:20",
         "21:30"
       ]
     },
     "shows": {
-      "2026-10-13": [
+      "2026-10-14": [
         {
           "time": "16:50",
           "tags": []
@@ -43,9 +43,9 @@
     "vo": false,
     "url": "https://roma.andromeda.18tickets.it/film/77608",
     "smart": {
-      "2026-10-13": 87
+      "2026-10-14": 87
     },
-    "rankUscita": 10,
+    "rankUscita": 16,
     "rankVoto": 0
   },
   {
@@ -62,14 +62,14 @@
     "showtimes": [
       "17:00"
     ],
-    "showtimesDate": "2026-10-13",
+    "showtimesDate": "2026-10-14",
     "days": {
-      "2026-10-13": [
+      "2026-10-14": [
         "17:00"
       ]
     },
     "shows": {
-      "2026-10-13": [
+      "2026-10-14": [
         {
           "time": "17:00",
           "tags": []
@@ -80,10 +80,53 @@
     "vo": false,
     "url": "https://roma.andromeda.18tickets.it/film/78266",
     "smart": {
-      "2026-10-13": 57
+      "2026-10-14": 57
     },
-    "rankUscita": 11,
+    "rankUscita": 17,
     "rankVoto": 1
+  },
+  {
+    "title": "Jumbo - La voce di Don",
+    "poster": "https://image.tmdb.org/t/p/w185/mvuegXVe8JJWcHTv4N0mNWPjL3W.jpg",
+    "rating": 7.4,
+    "ratings": {
+      "letterboxd": 7.3,
+      "imdb": 7.7,
+      "metacritic": null,
+      "mubi": 7.3
+    },
+    "releaseDate": "2026-10-15",
+    "showtimes": [
+      "17:00",
+      "18:45"
+    ],
+    "showtimesDate": "2026-10-15",
+    "days": {
+      "2026-10-15": [
+        "17:00",
+        "18:45"
+      ]
+    },
+    "shows": {
+      "2026-10-15": [
+        {
+          "time": "17:00",
+          "tags": []
+        },
+        {
+          "time": "18:45",
+          "tags": []
+        }
+      ]
+    },
+    "room": "Sala 6",
+    "vo": false,
+    "url": "https://roma.andromeda.18tickets.it/film/85526",
+    "smart": {
+      "2026-10-15": 72
+    },
+    "rankUscita": 0,
+    "rankVoto": 2
   },
   {
     "title": "L'estranea",
@@ -101,16 +144,16 @@
       "18:45",
       "21:15"
     ],
-    "showtimesDate": "2026-10-13",
+    "showtimesDate": "2026-10-14",
     "days": {
-      "2026-10-13": [
+      "2026-10-14": [
         "17:00",
         "18:45",
         "21:15"
       ]
     },
     "shows": {
-      "2026-10-13": [
+      "2026-10-14": [
         {
           "time": "17:00",
           "tags": []
@@ -129,10 +172,67 @@
     "vo": false,
     "url": "https://roma.andromeda.18tickets.it/film/80411",
     "smart": {
-      "2026-10-13": 81
+      "2026-10-14": 81
+    },
+    "rankUscita": 7,
+    "rankVoto": 3
+  },
+  {
+    "title": "Primetime",
+    "poster": "https://image.tmdb.org/t/p/w185/sqArsDFYFryd5iKuoxLvr4y5NZv.jpg",
+    "rating": 6.9,
+    "ratings": {
+      "letterboxd": 7.3,
+      "imdb": 7.1,
+      "metacritic": 6.7,
+      "mubi": 6.6
+    },
+    "releaseDate": "2026-10-15",
+    "showtimes": [
+      "16:45",
+      "18:45",
+      "21:15",
+      "21:20"
+    ],
+    "showtimesDate": "2026-10-15",
+    "days": {
+      "2026-10-15": [
+        "16:45",
+        "18:45",
+        "21:15",
+        "21:20"
+      ]
+    },
+    "shows": {
+      "2026-10-15": [
+        {
+          "time": "16:45",
+          "tags": []
+        },
+        {
+          "time": "18:45",
+          "tags": []
+        },
+        {
+          "time": "21:15",
+          "tags": [
+            "VO"
+          ]
+        },
+        {
+          "time": "21:20",
+          "tags": []
+        }
+      ]
+    },
+    "room": "Sala 4",
+    "vo": false,
+    "url": "https://roma.andromeda.18tickets.it/film/85460",
+    "smart": {
+      "2026-10-15": 80
     },
     "rankUscita": 1,
-    "rankVoto": 2
+    "rankVoto": 4
   },
   {
     "title": "Digger",
@@ -148,14 +248,14 @@
     "showtimes": [
       "21:20"
     ],
-    "showtimesDate": "2026-10-13",
+    "showtimesDate": "2026-10-14",
     "days": {
-      "2026-10-13": [
+      "2026-10-14": [
         "21:20"
       ]
     },
     "shows": {
-      "2026-10-13": [
+      "2026-10-14": [
         {
           "time": "21:20",
           "tags": []
@@ -166,10 +266,10 @@
     "vo": false,
     "url": "https://roma.andromeda.18tickets.it/film/78828",
     "smart": {
-      "2026-10-13": 48
+      "2026-10-14": 48
     },
-    "rankUscita": 6,
-    "rankVoto": 3
+    "rankUscita": 12,
+    "rankVoto": 5
   },
   {
     "title": "La città dei vivi",
@@ -185,14 +285,14 @@
     "showtimes": [
       "16:45"
     ],
-    "showtimesDate": "2026-10-13",
+    "showtimesDate": "2026-10-14",
     "days": {
-      "2026-10-13": [
+      "2026-10-14": [
         "16:45"
       ]
     },
     "shows": {
-      "2026-10-13": [
+      "2026-10-14": [
         {
           "time": "16:45",
           "tags": []
@@ -203,10 +303,10 @@
     "vo": false,
     "url": "https://roma.andromeda.18tickets.it/film/78728",
     "smart": {
-      "2026-10-13": 43
+      "2026-10-14": 43
     },
-    "rankUscita": 7,
-    "rankVoto": 4
+    "rankUscita": 13,
+    "rankVoto": 6
   },
   {
     "title": "The Social - Il prezzo della verità",
@@ -222,14 +322,14 @@
     "showtimes": [
       "16:50"
     ],
-    "showtimesDate": "2026-10-13",
+    "showtimesDate": "2026-10-14",
     "days": {
-      "2026-10-13": [
+      "2026-10-14": [
         "16:50"
       ]
     },
     "shows": {
-      "2026-10-13": [
+      "2026-10-14": [
         {
           "time": "16:50",
           "tags": []
@@ -240,10 +340,10 @@
     "vo": false,
     "url": "https://roma.andromeda.18tickets.it/film/79851",
     "smart": {
-      "2026-10-13": 47
+      "2026-10-14": 47
     },
-    "rankUscita": 2,
-    "rankVoto": 5
+    "rankUscita": 8,
+    "rankVoto": 7
   },
   {
     "title": "L'albero di molto lontano",
@@ -259,14 +359,14 @@
     "showtimes": [
       "17:10"
     ],
-    "showtimesDate": "2026-10-13",
+    "showtimesDate": "2026-10-14",
     "days": {
-      "2026-10-13": [
+      "2026-10-14": [
         "17:10"
       ]
     },
     "shows": {
-      "2026-10-13": [
+      "2026-10-14": [
         {
           "time": "17:10",
           "tags": []
@@ -277,10 +377,47 @@
     "vo": false,
     "url": "https://roma.andromeda.18tickets.it/film/82127",
     "smart": {
-      "2026-10-13": 46
+      "2026-10-14": 46
     },
-    "rankUscita": 3,
-    "rankVoto": 6
+    "rankUscita": 9,
+    "rankVoto": 8
+  },
+  {
+    "title": "Frankie e le creature dimenticate",
+    "poster": "https://image.tmdb.org/t/p/w185/AaDoLXs4D22i65OLw7HxMkj5sKN.jpg",
+    "rating": 5.8,
+    "ratings": {
+      "letterboxd": 5.6,
+      "imdb": 5.8,
+      "metacritic": 6,
+      "mubi": null
+    },
+    "releaseDate": "2026-10-15",
+    "showtimes": [
+      "17:00"
+    ],
+    "showtimesDate": "2026-10-15",
+    "days": {
+      "2026-10-15": [
+        "17:00"
+      ]
+    },
+    "shows": {
+      "2026-10-15": [
+        {
+          "time": "17:00",
+          "tags": []
+        }
+      ]
+    },
+    "room": null,
+    "vo": false,
+    "url": "https://roma.andromeda.18tickets.it/film/85428",
+    "smart": {
+      "2026-10-15": 46
+    },
+    "rankUscita": 2,
+    "rankVoto": 9
   },
   {
     "title": "Mammina",
@@ -297,15 +434,15 @@
       "19:45",
       "21:30"
     ],
-    "showtimesDate": "2026-10-13",
+    "showtimesDate": "2026-10-14",
     "days": {
-      "2026-10-13": [
+      "2026-10-14": [
         "19:45",
         "21:30"
       ]
     },
     "shows": {
-      "2026-10-13": [
+      "2026-10-14": [
         {
           "time": "19:45",
           "tags": []
@@ -320,10 +457,10 @@
     "vo": false,
     "url": "https://roma.andromeda.18tickets.it/film/80743",
     "smart": {
-      "2026-10-13": 51
+      "2026-10-14": 51
     },
-    "rankUscita": 4,
-    "rankVoto": 7
+    "rankUscita": 10,
+    "rankVoto": 10
   },
   {
     "title": "PAW Patrol - Missione Dinosauri",
@@ -339,14 +476,14 @@
     "showtimes": [
       "17:00"
     ],
-    "showtimesDate": "2026-10-13",
+    "showtimesDate": "2026-10-14",
     "days": {
-      "2026-10-13": [
+      "2026-10-14": [
         "17:00"
       ]
     },
     "shows": {
-      "2026-10-13": [
+      "2026-10-14": [
         {
           "time": "17:00",
           "tags": []
@@ -357,10 +494,10 @@
     "vo": false,
     "url": "https://roma.andromeda.18tickets.it/film/73580",
     "smart": {
-      "2026-10-13": 25
+      "2026-10-14": 25
     },
-    "rankUscita": 12,
-    "rankVoto": 8
+    "rankUscita": 18,
+    "rankVoto": 11
   },
   {
     "title": "Verity",
@@ -377,15 +514,15 @@
       "18:45",
       "21:20"
     ],
-    "showtimesDate": "2026-10-13",
+    "showtimesDate": "2026-10-14",
     "days": {
-      "2026-10-13": [
+      "2026-10-14": [
         "18:45",
         "21:20"
       ]
     },
     "shows": {
-      "2026-10-13": [
+      "2026-10-14": [
         {
           "time": "18:45",
           "tags": []
@@ -400,10 +537,10 @@
     "vo": false,
     "url": "https://roma.andromeda.18tickets.it/film/78794",
     "smart": {
-      "2026-10-13": 38
+      "2026-10-14": 38
     },
-    "rankUscita": 8,
-    "rankVoto": 9
+    "rankUscita": 14,
+    "rankVoto": 12
   },
   {
     "title": "Her Private Hell",
@@ -420,15 +557,15 @@
       "19:15",
       "21:00"
     ],
-    "showtimesDate": "2026-10-13",
+    "showtimesDate": "2026-10-14",
     "days": {
-      "2026-10-13": [
+      "2026-10-14": [
         "19:15",
         "21:00"
       ]
     },
     "shows": {
-      "2026-10-13": [
+      "2026-10-14": [
         {
           "time": "19:15",
           "tags": []
@@ -445,14 +582,14 @@
     "vo": false,
     "url": "https://roma.andromeda.18tickets.it/film/80675",
     "smart": {
-      "2026-10-13": 38
+      "2026-10-14": 38
     },
-    "rankUscita": 9,
-    "rankVoto": 10
+    "rankUscita": 15,
+    "rankVoto": 13
   },
   {
-    "title": "Se ami qualcuno dillo",
-    "poster": "https://image.tmdb.org/t/p/w185/sX7tCKtYbqmO9CuzXs2piz5AflT.jpg",
+    "title": "Je so’ pazzo",
+    "poster": "https://image.tmdb.org/t/p/w185/impo3YqfZZbJUI3woorG0OYV3XI.jpg",
     "rating": null,
     "ratings": {
       "letterboxd": null,
@@ -460,32 +597,167 @@
       "metacritic": null,
       "mubi": null
     },
-    "releaseDate": "2026-10-16",
+    "releaseDate": "2026-10-15",
     "showtimes": [
-      "18:15"
+      "19:30",
+      "21:20"
     ],
-    "showtimesDate": "2026-10-18",
+    "showtimesDate": "2026-10-15",
     "days": {
-      "2026-10-18": [
-        "18:15"
+      "2026-10-15": [
+        "19:30",
+        "21:20"
       ]
     },
     "shows": {
-      "2026-10-18": [
+      "2026-10-15": [
         {
-          "time": "18:15",
+          "time": "19:30",
+          "tags": []
+        },
+        {
+          "time": "21:20",
           "tags": []
         }
       ]
     },
-    "room": null,
+    "room": "Sala 1",
     "vo": false,
-    "url": "https://roma.andromeda.18tickets.it/film/83216",
+    "url": "https://roma.andromeda.18tickets.it/film/82094",
     "smart": {
-      "2026-10-18": 79
+      "2026-10-15": 64
     },
-    "rankUscita": 0,
-    "rankVoto": 11
+    "rankUscita": 3,
+    "rankVoto": 14
+  },
+  {
+    "title": "Street Fighter",
+    "poster": "https://image.tmdb.org/t/p/w185/dJPT2Uf12X6aFg8i5N67NTpIZ9t.jpg",
+    "rating": null,
+    "ratings": {
+      "letterboxd": null,
+      "imdb": null,
+      "metacritic": null,
+      "mubi": null
+    },
+    "releaseDate": "2026-10-15",
+    "showtimes": [
+      "19:10",
+      "21:30"
+    ],
+    "showtimesDate": "2026-10-15",
+    "days": {
+      "2026-10-15": [
+        "19:10",
+        "21:30"
+      ]
+    },
+    "shows": {
+      "2026-10-15": [
+        {
+          "time": "19:10",
+          "tags": []
+        },
+        {
+          "time": "21:30",
+          "tags": []
+        }
+      ]
+    },
+    "room": "Sala 5",
+    "vo": false,
+    "url": "https://roma.andromeda.18tickets.it/film/82095",
+    "smart": {
+      "2026-10-15": 64
+    },
+    "rankUscita": 4,
+    "rankVoto": 15
+  },
+  {
+    "title": "Whalefall - Nella balena",
+    "poster": "https://image.tmdb.org/t/p/w185/auhdhcoWhQzMovY2pa71BTgDAa7.jpg",
+    "rating": null,
+    "ratings": {
+      "letterboxd": null,
+      "imdb": null,
+      "metacritic": null,
+      "mubi": null
+    },
+    "releaseDate": "2026-10-15",
+    "showtimes": [
+      "18:45",
+      "21:10"
+    ],
+    "showtimesDate": "2026-10-15",
+    "days": {
+      "2026-10-15": [
+        "18:45",
+        "21:10"
+      ]
+    },
+    "shows": {
+      "2026-10-15": [
+        {
+          "time": "18:45",
+          "tags": []
+        },
+        {
+          "time": "21:10",
+          "tags": []
+        }
+      ]
+    },
+    "room": "Sala 3",
+    "vo": false,
+    "url": "https://roma.andromeda.18tickets.it/film/85394",
+    "smart": {
+      "2026-10-15": 64
+    },
+    "rankUscita": 5,
+    "rankVoto": 16
+  },
+  {
+    "title": "Zustìssia",
+    "poster": "https://image.tmdb.org/t/p/w185/15IfVZjAiwUkTx7Bib58wJTjOSi.jpg",
+    "rating": null,
+    "ratings": {
+      "letterboxd": null,
+      "imdb": null,
+      "metacritic": null,
+      "mubi": null
+    },
+    "releaseDate": "2026-10-15",
+    "showtimes": [
+      "16:50",
+      "19:15"
+    ],
+    "showtimesDate": "2026-10-15",
+    "days": {
+      "2026-10-15": [
+        "16:50",
+        "19:15"
+      ]
+    },
+    "shows": {
+      "2026-10-15": [
+        {
+          "time": "16:50",
+          "tags": []
+        },
+        {
+          "time": "19:15",
+          "tags": []
+        }
+      ]
+    },
+    "room": "Sala 8",
+    "vo": false,
+    "url": "https://roma.andromeda.18tickets.it/film/82160",
+    "smart": {
+      "2026-10-15": 64
+    },
+    "rankUscita": 6,
+    "rankVoto": 17
   },
   {
     "title": "Rider",
@@ -501,14 +773,14 @@
     "showtimes": [
       "18:15"
     ],
-    "showtimesDate": "2026-10-13",
+    "showtimesDate": "2026-10-14",
     "days": {
-      "2026-10-13": [
+      "2026-10-14": [
         "18:15"
       ]
     },
     "shows": {
-      "2026-10-13": [
+      "2026-10-14": [
         {
           "time": "18:15",
           "tags": []
@@ -519,14 +791,14 @@
     "vo": false,
     "url": "https://roma.andromeda.18tickets.it/film/79852",
     "smart": {
-      "2026-10-13": 55
+      "2026-10-14": 55
     },
-    "rankUscita": 5,
-    "rankVoto": 12
+    "rankUscita": 11,
+    "rankVoto": 18
   },
   {
-    "title": "Il Dr. Stranamore 4K",
-    "poster": "https://cdn.18tickets.net/ccroma/uploads/film/playbill/82589/standard_7d9d1438-1cf7-472f-862a-37b90b3be0fc.jpeg",
+    "title": "Il Dr. Stranamore . 4K",
+    "poster": "https://cdn.18tickets.net/ccroma/uploads/film/playbill/82590/standard_f219b32c-170c-4f04-b4ce-fa023e18fb66.jpeg",
     "rating": null,
     "ratings": {
       "letterboxd": null,
@@ -539,21 +811,66 @@
       "19:00",
       "21:00"
     ],
-    "showtimesDate": "2026-10-13",
+    "showtimesDate": "2026-10-14",
     "days": {
-      "2026-10-13": [
+      "2026-10-14": [
         "19:00",
         "21:00"
       ]
     },
     "shows": {
-      "2026-10-13": [
+      "2026-10-14": [
         {
           "time": "19:00",
-          "tags": []
+          "tags": [
+            "VO"
+          ]
         },
         {
           "time": "21:00",
+          "tags": []
+        }
+      ]
+    },
+    "room": null,
+    "vo": false,
+    "url": "https://roma.andromeda.18tickets.it/film/82590",
+    "smart": {
+      "2026-10-14": 55
+    },
+    "rankUscita": 19,
+    "rankVoto": 19
+  },
+  {
+    "title": "Trainspotting 30° Anniversario",
+    "poster": "https://cdn.18tickets.net/ccroma/uploads/film/playbill/85691/standard_e230b361-e733-4f0f-bf31-dfbca462c227.jpeg",
+    "rating": null,
+    "ratings": {
+      "letterboxd": null,
+      "imdb": null,
+      "metacritic": null,
+      "mubi": null
+    },
+    "releaseDate": null,
+    "showtimes": [
+      "19:10",
+      "21:30"
+    ],
+    "showtimesDate": "2026-10-19",
+    "days": {
+      "2026-10-19": [
+        "19:10",
+        "21:30"
+      ]
+    },
+    "shows": {
+      "2026-10-19": [
+        {
+          "time": "19:10",
+          "tags": []
+        },
+        {
+          "time": "21:30",
           "tags": [
             "VO"
           ]
@@ -562,11 +879,11 @@
     },
     "room": null,
     "vo": false,
-    "url": "https://roma.andromeda.18tickets.it/film/82589",
+    "url": "https://roma.andromeda.18tickets.it/film/85691",
     "smart": {
-      "2026-10-13": 55
+      "2026-10-19": 64
     },
-    "rankUscita": 13,
-    "rankVoto": 13
+    "rankUscita": 20,
+    "rankVoto": 20
   }
 ]
