@@ -140,7 +140,7 @@
     "rating": 6.6,
     "ratings": {
       "letterboxd": 7.7,
-      "imdb": 7.4,
+      "imdb": 7.5,
       "metacritic": 4.6,
       "mubi": 6.7
     },
@@ -170,43 +170,6 @@
     },
     "rankUscita": 6,
     "rankVoto": 3
-  },
-  {
-    "title": "The Social - Il prezzo della verità",
-    "poster": "https://image.tmdb.org/t/p/w185/mJv5sV2knJtLy5ELIOilryhV59o.jpg",
-    "rating": 6.2,
-    "ratings": {
-      "letterboxd": 6.4,
-      "imdb": 6.8,
-      "metacritic": 5.3,
-      "mubi": null
-    },
-    "releaseDate": "2026-10-08",
-    "showtimes": [
-      "16:50"
-    ],
-    "showtimesDate": "2026-10-13",
-    "days": {
-      "2026-10-13": [
-        "16:50"
-      ]
-    },
-    "shows": {
-      "2026-10-13": [
-        {
-          "time": "16:50",
-          "tags": []
-        }
-      ]
-    },
-    "room": null,
-    "vo": false,
-    "url": "https://roma.andromeda.18tickets.it/film/79851",
-    "smart": {
-      "2026-10-13": 48
-    },
-    "rankUscita": 2,
-    "rankVoto": 4
   },
   {
     "title": "La città dei vivi",
@@ -243,6 +206,43 @@
       "2026-10-13": 43
     },
     "rankUscita": 7,
+    "rankVoto": 4
+  },
+  {
+    "title": "The Social - Il prezzo della verità",
+    "poster": "https://image.tmdb.org/t/p/w185/mJv5sV2knJtLy5ELIOilryhV59o.jpg",
+    "rating": 6.1,
+    "ratings": {
+      "letterboxd": 6.4,
+      "imdb": 6.7,
+      "metacritic": 5.3,
+      "mubi": null
+    },
+    "releaseDate": "2026-10-08",
+    "showtimes": [
+      "16:50"
+    ],
+    "showtimesDate": "2026-10-13",
+    "days": {
+      "2026-10-13": [
+        "16:50"
+      ]
+    },
+    "shows": {
+      "2026-10-13": [
+        {
+          "time": "16:50",
+          "tags": []
+        }
+      ]
+    },
+    "room": null,
+    "vo": false,
+    "url": "https://roma.andromeda.18tickets.it/film/79851",
+    "smart": {
+      "2026-10-13": 47
+    },
+    "rankUscita": 2,
     "rankVoto": 5
   },
   {

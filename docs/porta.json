@@ -27,7 +27,7 @@
       "2026-10-14": [
         "14:31",
         "16:10",
-        "18:00",
+        "17:55",
         "20:10"
       ]
     },
@@ -60,7 +60,7 @@
           "tags": []
         },
         {
-          "time": "18:00",
+          "time": "17:55",
           "tags": []
         },
         {
@@ -76,7 +76,7 @@
       "2026-10-13": 73,
       "2026-10-14": 73
     },
-    "rankUscita": 17,
+    "rankUscita": 18,
     "rankVoto": 0
   },
   {
@@ -135,7 +135,7 @@
       "2026-10-13": 49,
       "2026-10-14": 45
     },
-    "rankUscita": 23,
+    "rankUscita": 24,
     "rankVoto": 1
   },
   {
@@ -180,7 +180,7 @@
     "smart": {
       "2026-10-19": 59
     },
-    "rankUscita": 27,
+    "rankUscita": 28,
     "rankVoto": 2
   },
   {
@@ -227,7 +227,7 @@
       "2026-10-13": 37,
       "2026-10-14": 37
     },
-    "rankUscita": 25,
+    "rankUscita": 26,
     "rankVoto": 3
   },
   {
@@ -285,7 +285,7 @@
       "2026-10-13": 54,
       "2026-10-14": 54
     },
-    "rankUscita": 18,
+    "rankUscita": 19,
     "rankVoto": 4
   },
   {
@@ -392,6 +392,58 @@
     "rankVoto": 5
   },
   {
+    "title": "Always Lalisa",
+    "poster": "https://image.tmdb.org/t/p/w185/pOZnrUX1UMblLiqq9ZtZUde3cQV.jpg",
+    "rating": 7.4,
+    "ratings": {
+      "letterboxd": 7.2,
+      "imdb": 7.6,
+      "metacritic": null,
+      "mubi": null
+    },
+    "releaseDate": "2026-10-12",
+    "showtimes": [
+      "19:00"
+    ],
+    "showtimesDate": "2026-10-14",
+    "days": {
+      "2026-10-14": [
+        "19:00"
+      ],
+      "2026-10-17": [
+        "15:00"
+      ]
+    },
+    "shows": {
+      "2026-10-14": [
+        {
+          "time": "19:00",
+          "tags": [
+            "IMAX",
+            "VO"
+          ]
+        }
+      ],
+      "2026-10-17": [
+        {
+          "time": "15:00",
+          "tags": [
+            "VO"
+          ]
+        }
+      ]
+    },
+    "room": "Sala IMAX",
+    "vo": true,
+    "url": "https://ucicinemas.it/film/always-lalisa/",
+    "smart": {
+      "2026-10-14": 61,
+      "2026-10-17": 64
+    },
+    "rankUscita": 6,
+    "rankVoto": 6
+  },
+  {
     "title": "Resident Evil",
     "poster": "https://image.tmdb.org/t/p/w185/D8rnntI88rgzWKDK2yuxm25HTQ.jpg",
     "rating": 7.4,
@@ -435,8 +487,8 @@
       "2026-10-13": 45,
       "2026-10-14": 45
     },
-    "rankUscita": 20,
-    "rankVoto": 6
+    "rankUscita": 21,
+    "rankVoto": 7
   },
   {
     "title": "Coyote vs. Acme",
@@ -472,8 +524,8 @@
     "smart": {
       "2026-10-13": 40
     },
-    "rankUscita": 22,
-    "rankVoto": 7
+    "rankUscita": 23,
+    "rankVoto": 8
   },
   {
     "title": "The Bibi Files",
@@ -538,59 +590,7 @@
       "2026-10-13": 37,
       "2026-10-14": 37
     },
-    "rankUscita": 24,
-    "rankVoto": 8
-  },
-  {
-    "title": "Always Lalisa",
-    "poster": "https://image.tmdb.org/t/p/w185/pOZnrUX1UMblLiqq9ZtZUde3cQV.jpg",
-    "rating": 7.3,
-    "ratings": {
-      "letterboxd": 7.2,
-      "imdb": 7.4,
-      "metacritic": null,
-      "mubi": null
-    },
-    "releaseDate": "2026-10-12",
-    "showtimes": [
-      "19:00"
-    ],
-    "showtimesDate": "2026-10-14",
-    "days": {
-      "2026-10-14": [
-        "19:00"
-      ],
-      "2026-10-17": [
-        "15:00"
-      ]
-    },
-    "shows": {
-      "2026-10-14": [
-        {
-          "time": "19:00",
-          "tags": [
-            "IMAX",
-            "VO"
-          ]
-        }
-      ],
-      "2026-10-17": [
-        {
-          "time": "15:00",
-          "tags": [
-            "VO"
-          ]
-        }
-      ]
-    },
-    "room": "Sala IMAX",
-    "vo": true,
-    "url": "https://ucicinemas.it/film/always-lalisa/",
-    "smart": {
-      "2026-10-14": 59,
-      "2026-10-17": 63
-    },
-    "rankUscita": 5,
+    "rankUscita": 25,
     "rankVoto": 9
   },
   {
@@ -670,7 +670,7 @@
       "2026-10-13": 67,
       "2026-10-14": 67
     },
-    "rankUscita": 6,
+    "rankUscita": 7,
     "rankVoto": 10
   },
   {
@@ -717,7 +717,7 @@
       "2026-10-13": 41,
       "2026-10-14": 41
     },
-    "rankUscita": 21,
+    "rankUscita": 22,
     "rankVoto": 11
   },
   {
@@ -764,7 +764,7 @@
       "2026-10-13": 28,
       "2026-10-14": 28
     },
-    "rankUscita": 26,
+    "rankUscita": 27,
     "rankVoto": 12
   },
   {
@@ -811,7 +811,7 @@
       "2026-10-13": 28,
       "2026-10-14": 28
     },
-    "rankUscita": 28,
+    "rankUscita": 29,
     "rankVoto": 13
   },
   {
@@ -897,7 +897,7 @@
     "rating": 6.6,
     "ratings": {
       "letterboxd": 7.7,
-      "imdb": 7.4,
+      "imdb": 7.5,
       "metacritic": 4.6,
       "mubi": 6.7
     },
@@ -958,7 +958,7 @@
       "2026-10-13": 50,
       "2026-10-14": 46
     },
-    "rankUscita": 12,
+    "rankUscita": 13,
     "rankVoto": 15
   },
   {
@@ -1032,16 +1032,63 @@
       "2026-10-13": 44,
       "2026-10-14": 48
     },
-    "rankUscita": 19,
+    "rankUscita": 20,
     "rankVoto": 16
+  },
+  {
+    "title": "La città dei vivi",
+    "poster": "https://image.tmdb.org/t/p/w185/opBholBwfUmPISED5muouubQPq3.jpg",
+    "rating": 6.2,
+    "ratings": {
+      "letterboxd": 6.2,
+      "imdb": 6.2,
+      "metacritic": null,
+      "mubi": null
+    },
+    "releaseDate": "2026-10-01",
+    "showtimes": [
+      "18:50"
+    ],
+    "showtimesDate": "2026-10-13",
+    "days": {
+      "2026-10-13": [
+        "18:50"
+      ],
+      "2026-10-14": [
+        "18:50"
+      ]
+    },
+    "shows": {
+      "2026-10-13": [
+        {
+          "time": "18:50",
+          "tags": []
+        }
+      ],
+      "2026-10-14": [
+        {
+          "time": "18:50",
+          "tags": []
+        }
+      ]
+    },
+    "room": "Sala 13",
+    "vo": false,
+    "url": "https://ucicinemas.it/film/la-citta-dei-vivi/",
+    "smart": {
+      "2026-10-13": 37,
+      "2026-10-14": 37
+    },
+    "rankUscita": 14,
+    "rankVoto": 17
   },
   {
     "title": "The Social - Il prezzo della verità",
     "poster": "https://image.tmdb.org/t/p/w185/mJv5sV2knJtLy5ELIOilryhV59o.jpg",
-    "rating": 6.2,
+    "rating": 6.1,
     "ratings": {
       "letterboxd": 6.4,
-      "imdb": 6.8,
+      "imdb": 6.7,
       "metacritic": 5.3,
       "mubi": null
     },
@@ -1105,57 +1152,10 @@
     "vo": false,
     "url": "https://ucicinemas.it/film/the-social-il-prezzo-della-verita/",
     "smart": {
-      "2026-10-13": 50,
-      "2026-10-14": 53
+      "2026-10-13": 48,
+      "2026-10-14": 52
     },
-    "rankUscita": 7,
-    "rankVoto": 17
-  },
-  {
-    "title": "La città dei vivi",
-    "poster": "https://image.tmdb.org/t/p/w185/opBholBwfUmPISED5muouubQPq3.jpg",
-    "rating": 6.2,
-    "ratings": {
-      "letterboxd": 6.2,
-      "imdb": 6.2,
-      "metacritic": null,
-      "mubi": null
-    },
-    "releaseDate": "2026-10-01",
-    "showtimes": [
-      "18:50"
-    ],
-    "showtimesDate": "2026-10-13",
-    "days": {
-      "2026-10-13": [
-        "18:50"
-      ],
-      "2026-10-14": [
-        "18:50"
-      ]
-    },
-    "shows": {
-      "2026-10-13": [
-        {
-          "time": "18:50",
-          "tags": []
-        }
-      ],
-      "2026-10-14": [
-        {
-          "time": "18:50",
-          "tags": []
-        }
-      ]
-    },
-    "room": "Sala 13",
-    "vo": false,
-    "url": "https://ucicinemas.it/film/la-citta-dei-vivi/",
-    "smart": {
-      "2026-10-13": 37,
-      "2026-10-14": 37
-    },
-    "rankUscita": 13,
+    "rankUscita": 8,
     "rankVoto": 18
   },
   {
@@ -1213,7 +1213,7 @@
       "2026-10-13": 44,
       "2026-10-14": 44
     },
-    "rankUscita": 8,
+    "rankUscita": 9,
     "rankVoto": 19
   },
   {
@@ -1253,7 +1253,7 @@
         "15:30",
         "16:50",
         "18:00",
-        "19:50",
+        "19:45",
         "20:20",
         "21:50",
         "22:40",
@@ -1321,7 +1321,7 @@
           ]
         },
         {
-          "time": "19:50",
+          "time": "19:45",
           "tags": []
         },
         {
@@ -1353,7 +1353,7 @@
       "2026-10-13": 60,
       "2026-10-14": 60
     },
-    "rankUscita": 9,
+    "rankUscita": 10,
     "rankVoto": 20
   },
   {
@@ -1433,7 +1433,7 @@
       "2026-10-13": 34,
       "2026-10-14": 34
     },
-    "rankUscita": 14,
+    "rankUscita": 15,
     "rankVoto": 21
   },
   {
@@ -1480,7 +1480,7 @@
       "2026-10-13": 22,
       "2026-10-14": 22
     },
-    "rankUscita": 16,
+    "rankUscita": 17,
     "rankVoto": 22
   },
   {
@@ -1527,8 +1527,85 @@
       "2026-10-13": 23,
       "2026-10-14": 23
     },
-    "rankUscita": 15,
+    "rankUscita": 16,
     "rankVoto": 23
+  },
+  {
+    "title": "Carlo Acutis. Il giovane santo",
+    "poster": "https://image.tmdb.org/t/p/w185/4wbgRMaRid41JwZwp0F1pJKNiNn.jpg",
+    "rating": null,
+    "ratings": {
+      "letterboxd": null,
+      "imdb": null,
+      "metacritic": null,
+      "mubi": null
+    },
+    "releaseDate": "2026-10-15",
+    "showtimes": [
+      "20:00"
+    ],
+    "showtimesDate": "2026-10-15",
+    "days": {
+      "2026-10-15": [
+        "20:00"
+      ],
+      "2026-10-16": [
+        "20:00"
+      ],
+      "2026-10-17": [
+        "16:30"
+      ],
+      "2026-10-18": [
+        "16:30"
+      ],
+      "2026-10-19": [
+        "18:45"
+      ]
+    },
+    "shows": {
+      "2026-10-15": [
+        {
+          "time": "20:00",
+          "tags": []
+        }
+      ],
+      "2026-10-16": [
+        {
+          "time": "20:00",
+          "tags": []
+        }
+      ],
+      "2026-10-17": [
+        {
+          "time": "16:30",
+          "tags": []
+        }
+      ],
+      "2026-10-18": [
+        {
+          "time": "16:30",
+          "tags": []
+        }
+      ],
+      "2026-10-19": [
+        {
+          "time": "18:45",
+          "tags": []
+        }
+      ]
+    },
+    "room": "Sala 12",
+    "vo": false,
+    "url": "https://ucicinemas.it/film/carlo-acutis-il-giovane-santo/",
+    "smart": {
+      "2026-10-15": 57,
+      "2026-10-16": 57,
+      "2026-10-17": 57,
+      "2026-10-18": 60,
+      "2026-10-19": 60
+    },
+    "rankUscita": 2,
+    "rankVoto": 24
   },
   {
     "title": "Je so’ pazzo",
@@ -1606,8 +1683,8 @@
       "2026-10-18": 60,
       "2026-10-19": 60
     },
-    "rankUscita": 2,
-    "rankVoto": 24
+    "rankUscita": 3,
+    "rankVoto": 25
   },
   {
     "title": "Street Fighter",
@@ -1777,8 +1854,8 @@
       "2026-10-18": 79,
       "2026-10-19": 79
     },
-    "rankUscita": 3,
-    "rankVoto": 25
+    "rankUscita": 4,
+    "rankVoto": 26
   },
   {
     "title": "Whalefall - Nella balena",
@@ -1854,8 +1931,8 @@
       "2026-10-18": 60,
       "2026-10-19": 60
     },
-    "rankUscita": 4,
-    "rankVoto": 26
+    "rankUscita": 5,
+    "rankVoto": 27
   },
   {
     "title": "Rider",
@@ -1901,8 +1978,8 @@
       "2026-10-13": 49,
       "2026-10-14": 49
     },
-    "rankUscita": 10,
-    "rankVoto": 27
+    "rankUscita": 11,
+    "rankVoto": 28
   },
   {
     "title": "Sotto a chi tocca",
@@ -1959,84 +2036,7 @@
       "2026-10-13": 53,
       "2026-10-14": 53
     },
-    "rankUscita": 11,
-    "rankVoto": 28
-  },
-  {
-    "title": "Carlo Acutis - Il giovane santo",
-    "poster": "https://storage.googleapis.com/uci-infrastructure-bucket/Common/Movies/Posters/01M2SMFXWS76M24FW901WY06FH_resized_at_20260921113202.jpg",
-    "rating": null,
-    "ratings": {
-      "letterboxd": null,
-      "imdb": null,
-      "metacritic": null,
-      "mubi": null
-    },
-    "releaseDate": null,
-    "showtimes": [
-      "20:00"
-    ],
-    "showtimesDate": "2026-10-15",
-    "days": {
-      "2026-10-15": [
-        "20:00"
-      ],
-      "2026-10-16": [
-        "20:00"
-      ],
-      "2026-10-17": [
-        "16:30"
-      ],
-      "2026-10-18": [
-        "16:30"
-      ],
-      "2026-10-19": [
-        "18:45"
-      ]
-    },
-    "shows": {
-      "2026-10-15": [
-        {
-          "time": "20:00",
-          "tags": []
-        }
-      ],
-      "2026-10-16": [
-        {
-          "time": "20:00",
-          "tags": []
-        }
-      ],
-      "2026-10-17": [
-        {
-          "time": "16:30",
-          "tags": []
-        }
-      ],
-      "2026-10-18": [
-        {
-          "time": "16:30",
-          "tags": []
-        }
-      ],
-      "2026-10-19": [
-        {
-          "time": "18:45",
-          "tags": []
-        }
-      ]
-    },
-    "room": "Sala 12",
-    "vo": false,
-    "url": "https://ucicinemas.it/film/carlo-acutis-il-giovane-santo/",
-    "smart": {
-      "2026-10-15": 43,
-      "2026-10-16": 43,
-      "2026-10-17": 43,
-      "2026-10-18": 45,
-      "2026-10-19": 45
-    },
-    "rankUscita": 29,
+    "rankUscita": 12,
     "rankVoto": 29
   },
   {
