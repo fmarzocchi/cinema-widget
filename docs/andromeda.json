@@ -5,7 +5,7 @@
     "rating": 8.6,
     "ratings": {
       "letterboxd": 8.7,
-      "imdb": 8,
+      "imdb": 8.1,
       "metacritic": 9.3,
       "mubi": 8.4
     },
@@ -13,6 +13,7 @@
     "showtimes": [
       "16:50",
       "18:20",
+      "20:00",
       "21:30"
     ],
     "showtimesDate": "2026-10-14",
@@ -20,6 +21,7 @@
       "2026-10-14": [
         "16:50",
         "18:20",
+        "20:00",
         "21:30"
       ]
     },
@@ -31,6 +33,10 @@
         },
         {
           "time": "18:20",
+          "tags": []
+        },
+        {
+          "time": "20:00",
           "tags": []
         },
         {
@@ -80,7 +86,7 @@
     "vo": false,
     "url": "https://roma.andromeda.18tickets.it/film/78266",
     "smart": {
-      "2026-10-14": 56
+      "2026-10-14": 54
     },
     "rankUscita": 17,
     "rankVoto": 1
@@ -134,7 +140,7 @@
     "rating": 7.3,
     "ratings": {
       "letterboxd": 7.2,
-      "imdb": 7.3,
+      "imdb": 7.4,
       "metacritic": null,
       "mubi": null
     },
@@ -172,7 +178,7 @@
     "vo": false,
     "url": "https://roma.andromeda.18tickets.it/film/80411",
     "smart": {
-      "2026-10-14": 80
+      "2026-10-14": 73
     },
     "rankUscita": 7,
     "rankVoto": 3
@@ -266,7 +272,7 @@
     "vo": false,
     "url": "https://roma.andromeda.18tickets.it/film/78828",
     "smart": {
-      "2026-10-14": 48
+      "2026-10-14": 45
     },
     "rankUscita": 12,
     "rankVoto": 5
@@ -285,14 +291,14 @@
     "showtimes": [
       "16:45"
     ],
-    "showtimesDate": "2026-10-14",
+    "showtimesDate": "2026-10-15",
     "days": {
-      "2026-10-14": [
+      "2026-10-15": [
         "16:45"
       ]
     },
     "shows": {
-      "2026-10-14": [
+      "2026-10-15": [
         {
           "time": "16:45",
           "tags": []
@@ -303,7 +309,7 @@
     "vo": false,
     "url": "https://roma.andromeda.18tickets.it/film/78728",
     "smart": {
-      "2026-10-14": 43
+      "2026-10-15": 40
     },
     "rankUscita": 13,
     "rankVoto": 6
@@ -340,7 +346,7 @@
     "vo": false,
     "url": "https://roma.andromeda.18tickets.it/film/79851",
     "smart": {
-      "2026-10-14": 46
+      "2026-10-14": 44
     },
     "rankUscita": 8,
     "rankVoto": 7
@@ -377,7 +383,7 @@
     "vo": false,
     "url": "https://roma.andromeda.18tickets.it/film/82127",
     "smart": {
-      "2026-10-14": 45
+      "2026-10-14": 43
     },
     "rankUscita": 9,
     "rankVoto": 8
@@ -422,10 +428,10 @@
   {
     "title": "Mammina",
     "poster": "https://image.tmdb.org/t/p/w185/ir1esRZZk49yKaLAVQd2FgvLxLf.jpg",
-    "rating": 5.6,
+    "rating": 5.5,
     "ratings": {
       "letterboxd": 5.6,
-      "imdb": 5.5,
+      "imdb": 5.4,
       "metacritic": null,
       "mubi": null
     },
@@ -457,7 +463,7 @@
     "vo": false,
     "url": "https://roma.andromeda.18tickets.it/film/80743",
     "smart": {
-      "2026-10-14": 50
+      "2026-10-14": 44
     },
     "rankUscita": 10,
     "rankVoto": 10
@@ -494,7 +500,7 @@
     "vo": false,
     "url": "https://roma.andromeda.18tickets.it/film/73580",
     "smart": {
-      "2026-10-14": 25
+      "2026-10-14": 22
     },
     "rankUscita": 18,
     "rankVoto": 11
@@ -537,7 +543,7 @@
     "vo": false,
     "url": "https://roma.andromeda.18tickets.it/film/78794",
     "smart": {
-      "2026-10-14": 38
+      "2026-10-14": 33
     },
     "rankUscita": 14,
     "rankVoto": 12
@@ -582,7 +588,7 @@
     "vo": false,
     "url": "https://roma.andromeda.18tickets.it/film/80675",
     "smart": {
-      "2026-10-14": 37
+      "2026-10-14": 32
     },
     "rankUscita": 15,
     "rankVoto": 13
@@ -791,7 +797,7 @@
     "vo": false,
     "url": "https://roma.andromeda.18tickets.it/film/79852",
     "smart": {
-      "2026-10-14": 54
+      "2026-10-14": 52
     },
     "rankUscita": 11,
     "rankVoto": 18
@@ -836,7 +842,7 @@
     "vo": false,
     "url": "https://roma.andromeda.18tickets.it/film/82590",
     "smart": {
-      "2026-10-14": 55
+      "2026-10-14": 50
     },
     "rankUscita": 19,
     "rankVoto": 19
