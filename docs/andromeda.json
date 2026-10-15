@@ -82,12 +82,12 @@
   {
     "title": "L'estranea",
     "poster": "https://image.tmdb.org/t/p/w185/6GisyPsQBvnpgMKXqtPuwJqpZzl.jpg",
-    "rating": 7.3,
+    "rating": 7.1,
     "ratings": {
-      "letterboxd": 7.2,
+      "letterboxd": 7.3,
       "imdb": 7.4,
       "metacritic": null,
-      "mubi": null
+      "mubi": 6.5
     },
     "releaseDate": "2026-10-08",
     "showtimes": [
@@ -123,7 +123,7 @@
     "vo": false,
     "url": "https://roma.andromeda.18tickets.it/film/80411",
     "smart": {
-      "2026-10-15": 72
+      "2026-10-15": 70
     },
     "rankUscita": 8,
     "rankVoto": 2

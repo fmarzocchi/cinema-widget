@@ -415,6 +415,45 @@
     "rankVoto": 4
   },
   {
+    "title": "Always Lalisa",
+    "poster": "https://image.tmdb.org/t/p/w185/pOZnrUX1UMblLiqq9ZtZUde3cQV.jpg",
+    "rating": 7.5,
+    "ratings": {
+      "letterboxd": 7.2,
+      "imdb": 7.7,
+      "metacritic": null,
+      "mubi": null
+    },
+    "releaseDate": "2026-10-12",
+    "showtimes": [
+      "15:00"
+    ],
+    "showtimesDate": "2026-10-17",
+    "days": {
+      "2026-10-17": [
+        "15:00"
+      ]
+    },
+    "shows": {
+      "2026-10-17": [
+        {
+          "time": "15:00",
+          "tags": [
+            "VO"
+          ]
+        }
+      ]
+    },
+    "room": "Sala 1",
+    "vo": true,
+    "url": "https://ucicinemas.it/film/always-lalisa/",
+    "smart": {
+      "2026-10-17": 59
+    },
+    "rankUscita": 12,
+    "rankVoto": 5
+  },
+  {
     "title": "Resident Evil",
     "poster": "https://image.tmdb.org/t/p/w185/D8rnntI88rgzWKDK2yuxm25HTQ.jpg",
     "rating": 7.5,
@@ -459,7 +498,7 @@
       "2026-10-17": 45
     },
     "rankUscita": 21,
-    "rankVoto": 5
+    "rankVoto": 6
   },
   {
     "title": "Jumbo - La voce di Don",
@@ -602,56 +641,54 @@
       "2026-10-21": 66
     },
     "rankUscita": 4,
-    "rankVoto": 6
+    "rankVoto": 7
   },
   {
-    "title": "Always Lalisa",
-    "poster": "https://image.tmdb.org/t/p/w185/pOZnrUX1UMblLiqq9ZtZUde3cQV.jpg",
-    "rating": 7.4,
+    "title": "Ragione e sentimento",
+    "poster": "https://image.tmdb.org/t/p/w185/bwZCHb0qCFP2QT3QylGixpsNo8D.jpg",
+    "rating": 7.2,
     "ratings": {
-      "letterboxd": 7.2,
-      "imdb": 7.6,
-      "metacritic": null,
-      "mubi": null
+      "letterboxd": 7.8,
+      "imdb": 7.2,
+      "metacritic": 7.3,
+      "mubi": 6.5
     },
-    "releaseDate": "2026-10-12",
+    "releaseDate": "2026-10-22",
     "showtimes": [
-      "15:00"
+      "20:30"
     ],
-    "showtimesDate": "2026-10-17",
+    "showtimesDate": "2026-10-20",
     "days": {
-      "2026-10-17": [
-        "15:00"
+      "2026-10-20": [
+        "20:30"
       ]
     },
     "shows": {
-      "2026-10-17": [
+      "2026-10-20": [
         {
-          "time": "15:00",
-          "tags": [
-            "VO"
-          ]
+          "time": "20:30",
+          "tags": []
         }
       ]
     },
-    "room": "Sala 1",
-    "vo": true,
-    "url": "https://ucicinemas.it/film/always-lalisa/",
+    "room": "Sala 6",
+    "vo": false,
+    "url": "https://ucicinemas.it/film/ragione-e-sentimento/",
     "smart": {
-      "2026-10-17": 58
+      "2026-10-20": 60
     },
-    "rankUscita": 12,
-    "rankVoto": 7
+    "rankUscita": 0,
+    "rankVoto": 8
   },
   {
     "title": "L'estranea",
     "poster": "https://image.tmdb.org/t/p/w185/6GisyPsQBvnpgMKXqtPuwJqpZzl.jpg",
-    "rating": 7.3,
+    "rating": 7.1,
     "ratings": {
-      "letterboxd": 7.2,
+      "letterboxd": 7.3,
       "imdb": 7.4,
       "metacritic": null,
-      "mubi": null
+      "mubi": 6.5
     },
     "releaseDate": "2026-10-08",
     "showtimes": [
@@ -811,52 +848,15 @@
     "vo": false,
     "url": "https://ucicinemas.it/film/lestranea/",
     "smart": {
-      "2026-10-15": 63,
-      "2026-10-16": 62,
-      "2026-10-17": 62,
-      "2026-10-18": 64,
-      "2026-10-19": 63,
-      "2026-10-20": 59,
-      "2026-10-21": 67
+      "2026-10-15": 61,
+      "2026-10-16": 59,
+      "2026-10-17": 60,
+      "2026-10-18": 61,
+      "2026-10-19": 61,
+      "2026-10-20": 57,
+      "2026-10-21": 65
     },
     "rankUscita": 13,
-    "rankVoto": 8
-  },
-  {
-    "title": "Ragione e sentimento",
-    "poster": "https://image.tmdb.org/t/p/w185/bwZCHb0qCFP2QT3QylGixpsNo8D.jpg",
-    "rating": 7.2,
-    "ratings": {
-      "letterboxd": 7.8,
-      "imdb": 7.2,
-      "metacritic": 7.3,
-      "mubi": 6.5
-    },
-    "releaseDate": "2026-10-22",
-    "showtimes": [
-      "20:30"
-    ],
-    "showtimesDate": "2026-10-20",
-    "days": {
-      "2026-10-20": [
-        "20:30"
-      ]
-    },
-    "shows": {
-      "2026-10-20": [
-        {
-          "time": "20:30",
-          "tags": []
-        }
-      ]
-    },
-    "room": "Sala 6",
-    "vo": false,
-    "url": "https://ucicinemas.it/film/ragione-e-sentimento/",
-    "smart": {
-      "2026-10-20": 60
-    },
-    "rankUscita": 0,
     "rankVoto": 9
   },
   {
@@ -2057,9 +2057,6 @@
       "2026-10-15": [
         "14:10"
       ],
-      "2026-10-16": [
-        "14:10"
-      ],
       "2026-10-17": [
         "11:00",
         "14:10"
@@ -2071,12 +2068,6 @@
     },
     "shows": {
       "2026-10-15": [
-        {
-          "time": "14:10",
-          "tags": []
-        }
-      ],
-      "2026-10-16": [
         {
           "time": "14:10",
           "tags": []
@@ -2108,7 +2099,6 @@
     "url": "https://ucicinemas.it/film/oceania/",
     "smart": {
       "2026-10-15": 8,
-      "2026-10-16": 8,
       "2026-10-17": 10,
       "2026-10-18": 11
     },
@@ -3491,5 +3481,42 @@
     },
     "rankUscita": 11,
     "rankVoto": 26
+  },
+  {
+    "title": "Oceania - Live action",
+    "poster": "https://storage.googleapis.com/uci-infrastructure-bucket/Common/Movies/Posters/01KZXBJWP2BN8982RMMR7BDA64.jpg",
+    "rating": null,
+    "ratings": {
+      "letterboxd": null,
+      "imdb": null,
+      "metacritic": null,
+      "mubi": null
+    },
+    "releaseDate": null,
+    "showtimes": [
+      "14:10"
+    ],
+    "showtimesDate": "2026-10-16",
+    "days": {
+      "2026-10-16": [
+        "14:10"
+      ]
+    },
+    "shows": {
+      "2026-10-16": [
+        {
+          "time": "14:10",
+          "tags": []
+        }
+      ]
+    },
+    "room": "Sala 12",
+    "vo": false,
+    "url": "https://ucicinemas.it/film/oceania-live-action/",
+    "smart": {
+      "2026-10-16": 39
+    },
+    "rankUscita": 27,
+    "rankVoto": 27
   }
 ]

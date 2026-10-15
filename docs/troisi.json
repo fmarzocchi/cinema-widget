@@ -283,14 +283,53 @@
     "rankVoto": 2
   },
   {
-    "title": "L'estranea",
-    "poster": "https://image.tmdb.org/t/p/w185/6GisyPsQBvnpgMKXqtPuwJqpZzl.jpg",
-    "rating": 7.3,
+    "title": "Bronson",
+    "poster": "https://image.tmdb.org/t/p/w185/idTJGGwgS9ybtlW3tcLPx3l9OMB.jpg",
+    "rating": 7.2,
     "ratings": {
       "letterboxd": 7.2,
+      "imdb": 7,
+      "metacritic": 7.1,
+      "mubi": 7.4
+    },
+    "releaseDate": "2009-03-13",
+    "showtimes": [
+      "11:00"
+    ],
+    "showtimesDate": "2026-10-17",
+    "days": {
+      "2026-10-17": [
+        "11:00"
+      ]
+    },
+    "shows": {
+      "2026-10-17": [
+        {
+          "time": "11:00",
+          "tags": [
+            "VO"
+          ]
+        }
+      ]
+    },
+    "room": null,
+    "vo": true,
+    "url": "https://www.liveticket.it/opera.aspx?Id=694372",
+    "smart": {
+      "2026-10-17": 41
+    },
+    "rankUscita": 5,
+    "rankVoto": 3
+  },
+  {
+    "title": "L'estranea",
+    "poster": "https://image.tmdb.org/t/p/w185/6GisyPsQBvnpgMKXqtPuwJqpZzl.jpg",
+    "rating": 7.1,
+    "ratings": {
+      "letterboxd": 7.3,
       "imdb": 7.4,
       "metacritic": null,
-      "mubi": null
+      "mubi": 6.5
     },
     "releaseDate": "2026-10-08",
     "showtimes": [
@@ -388,54 +427,15 @@
     "vo": false,
     "url": "https://www.liveticket.it/opera.aspx?Id=699891",
     "smart": {
-      "2026-10-15": 65,
-      "2026-10-16": 79,
-      "2026-10-17": 65,
-      "2026-10-18": 79,
-      "2026-10-19": 79,
-      "2026-10-20": 65,
-      "2026-10-21": 79
+      "2026-10-15": 63,
+      "2026-10-16": 77,
+      "2026-10-17": 63,
+      "2026-10-18": 77,
+      "2026-10-19": 77,
+      "2026-10-20": 63,
+      "2026-10-21": 77
     },
     "rankUscita": 1,
-    "rankVoto": 3
-  },
-  {
-    "title": "Bronson",
-    "poster": "https://image.tmdb.org/t/p/w185/idTJGGwgS9ybtlW3tcLPx3l9OMB.jpg",
-    "rating": 7.2,
-    "ratings": {
-      "letterboxd": 7.2,
-      "imdb": 7,
-      "metacritic": 7.1,
-      "mubi": 7.4
-    },
-    "releaseDate": "2009-03-13",
-    "showtimes": [
-      "11:00"
-    ],
-    "showtimesDate": "2026-10-17",
-    "days": {
-      "2026-10-17": [
-        "11:00"
-      ]
-    },
-    "shows": {
-      "2026-10-17": [
-        {
-          "time": "11:00",
-          "tags": [
-            "VO"
-          ]
-        }
-      ]
-    },
-    "room": null,
-    "vo": true,
-    "url": "https://www.liveticket.it/opera.aspx?Id=694372",
-    "smart": {
-      "2026-10-17": 41
-    },
-    "rankUscita": 5,
     "rankVoto": 4
   },
   {
