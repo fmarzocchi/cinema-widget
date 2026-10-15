@@ -2,39 +2,32 @@
   {
     "title": "NAZA",
     "poster": "https://image.tmdb.org/t/p/w185/qfdNOEmMroHjPLpZhNkORcVzgrQ.jpg",
-    "rating": 8.6,
+    "rating": 8.7,
     "ratings": {
-      "letterboxd": 8.7,
+      "letterboxd": 9,
       "imdb": 8.1,
-      "metacritic": 9.3,
-      "mubi": 8.4
+      "metacritic": 9.4,
+      "mubi": 8.3
     },
     "releaseDate": "2026-09-25",
     "showtimes": [
-      "11:00"
+      "13:30",
+      "18:00"
     ],
-    "showtimesDate": "2026-10-14",
+    "showtimesDate": "2026-10-15",
     "days": {
-      "2026-10-14": [
-        "11:00"
-      ],
       "2026-10-15": [
         "13:30",
         "18:00"
       ],
       "2026-10-17": [
         "17:00"
+      ],
+      "2026-10-21": [
+        "18:00"
       ]
     },
     "shows": {
-      "2026-10-14": [
-        {
-          "time": "11:00",
-          "tags": [
-            "VO"
-          ]
-        }
-      ],
       "2026-10-15": [
         {
           "time": "13:30",
@@ -56,15 +49,23 @@
             "VO"
           ]
         }
+      ],
+      "2026-10-21": [
+        {
+          "time": "18:00",
+          "tags": [
+            "VO"
+          ]
+        }
       ]
     },
     "room": null,
     "vo": true,
     "url": "https://www.liveticket.it/opera.aspx?Id=695512",
     "smart": {
-      "2026-10-14": 72,
-      "2026-10-15": 87,
-      "2026-10-17": 72
+      "2026-10-15": 86,
+      "2026-10-17": 72,
+      "2026-10-21": 72
     },
     "rankUscita": 4,
     "rankVoto": 0
@@ -105,6 +106,10 @@
       "2026-10-20": [
         "11:00",
         "20:30"
+      ],
+      "2026-10-21": [
+        "13:30",
+        "20:00"
       ]
     },
     "shows": {
@@ -177,6 +182,20 @@
             "VO"
           ]
         }
+      ],
+      "2026-10-21": [
+        {
+          "time": "13:30",
+          "tags": [
+            "VO"
+          ]
+        },
+        {
+          "time": "20:00",
+          "tags": [
+            "VO"
+          ]
+        }
       ]
     },
     "room": null,
@@ -187,7 +206,8 @@
       "2026-10-17": 91,
       "2026-10-18": 91,
       "2026-10-19": 91,
-      "2026-10-20": 91
+      "2026-10-20": 91,
+      "2026-10-21": 91
     },
     "rankUscita": 0,
     "rankVoto": 1
@@ -214,6 +234,9 @@
       "2026-10-20": [
         "13:30",
         "22:30"
+      ],
+      "2026-10-21": [
+        "11:00"
       ]
     },
     "shows": {
@@ -238,6 +261,14 @@
             "VO"
           ]
         }
+      ],
+      "2026-10-21": [
+        {
+          "time": "11:00",
+          "tags": [
+            "VO"
+          ]
+        }
       ]
     },
     "room": null,
@@ -245,9 +276,10 @@
     "url": "https://www.liveticket.it/opera.aspx?Id=705302",
     "smart": {
       "2026-10-19": 45,
-      "2026-10-20": 59
+      "2026-10-20": 59,
+      "2026-10-21": 45
     },
-    "rankUscita": 9,
+    "rankUscita": 8,
     "rankVoto": 2
   },
   {
@@ -262,13 +294,10 @@
     },
     "releaseDate": "2026-10-08",
     "showtimes": [
-      "16:30"
+      "19:45"
     ],
-    "showtimesDate": "2026-10-14",
+    "showtimesDate": "2026-10-15",
     "days": {
-      "2026-10-14": [
-        "16:30"
-      ],
       "2026-10-15": [
         "19:45"
       ],
@@ -289,15 +318,13 @@
       ],
       "2026-10-20": [
         "16:00"
+      ],
+      "2026-10-21": [
+        "15:30",
+        "22:00"
       ]
     },
     "shows": {
-      "2026-10-14": [
-        {
-          "time": "16:30",
-          "tags": []
-        }
-      ],
       "2026-10-15": [
         {
           "time": "19:45",
@@ -345,19 +372,29 @@
           "time": "16:00",
           "tags": []
         }
+      ],
+      "2026-10-21": [
+        {
+          "time": "15:30",
+          "tags": []
+        },
+        {
+          "time": "22:00",
+          "tags": []
+        }
       ]
     },
     "room": null,
     "vo": false,
     "url": "https://www.liveticket.it/opera.aspx?Id=699891",
     "smart": {
-      "2026-10-14": 66,
-      "2026-10-15": 66,
-      "2026-10-16": 80,
-      "2026-10-17": 66,
-      "2026-10-18": 80,
-      "2026-10-19": 80,
-      "2026-10-20": 66
+      "2026-10-15": 65,
+      "2026-10-16": 79,
+      "2026-10-17": 65,
+      "2026-10-18": 79,
+      "2026-10-19": 79,
+      "2026-10-20": 65,
+      "2026-10-21": 79
     },
     "rankUscita": 1,
     "rankVoto": 3
@@ -398,7 +435,7 @@
     "smart": {
       "2026-10-17": 41
     },
-    "rankUscita": 6,
+    "rankUscita": 5,
     "rankVoto": 4
   },
   {
@@ -468,30 +505,25 @@
       "2026-10-16": 53,
       "2026-10-17": 39
     },
-    "rankUscita": 8,
+    "rankUscita": 7,
     "rankVoto": 5
   },
   {
     "title": "Digger",
     "poster": "https://image.tmdb.org/t/p/w185/wisikjQcsvw0XqyQQYBsxudb38Z.jpg",
-    "rating": 6.6,
+    "rating": 6.7,
     "ratings": {
-      "letterboxd": 7.7,
+      "letterboxd": 7.8,
       "imdb": 7.5,
       "metacritic": 4.6,
-      "mubi": 6.7
+      "mubi": 6.8
     },
     "releaseDate": "2026-10-01",
     "showtimes": [
-      "14:00",
-      "19:00"
+      "15:30"
     ],
-    "showtimesDate": "2026-10-14",
+    "showtimesDate": "2026-10-15",
     "days": {
-      "2026-10-14": [
-        "14:00",
-        "19:00"
-      ],
       "2026-10-15": [
         "15:30"
       ],
@@ -500,20 +532,6 @@
       ]
     },
     "shows": {
-      "2026-10-14": [
-        {
-          "time": "14:00",
-          "tags": [
-            "VO"
-          ]
-        },
-        {
-          "time": "19:00",
-          "tags": [
-            "VO"
-          ]
-        }
-      ],
       "2026-10-15": [
         {
           "time": "15:30",
@@ -535,9 +553,8 @@
     "vo": true,
     "url": "https://www.liveticket.it/opera.aspx?Id=697046",
     "smart": {
-      "2026-10-14": 67,
-      "2026-10-15": 52,
-      "2026-10-18": 52
+      "2026-10-15": 53,
+      "2026-10-18": 53
     },
     "rankUscita": 3,
     "rankVoto": 6
@@ -576,7 +593,7 @@
     "smart": {
       "2026-10-18": 30
     },
-    "rankUscita": 7,
+    "rankUscita": 6,
     "rankVoto": 7
   },
   {
@@ -620,84 +637,10 @@
     "vo": false,
     "url": "https://www.liveticket.it/opera.aspx?Id=695175",
     "smart": {
-      "2026-10-16": 59,
-      "2026-10-19": 59
+      "2026-10-16": 58,
+      "2026-10-19": 58
     },
     "rankUscita": 2,
     "rankVoto": 8
-  },
-  {
-    "title": "Roma Illegale",
-    "poster": "https://image.tmdb.org/t/p/w185/zc2qcYMY4hOkXMaFWbkXtVpTj0N.jpg",
-    "rating": null,
-    "ratings": {
-      "letterboxd": null,
-      "imdb": null,
-      "metacritic": null,
-      "mubi": null
-    },
-    "releaseDate": "2021-11-11",
-    "showtimes": [
-      "21:30"
-    ],
-    "showtimesDate": "2026-10-14",
-    "days": {
-      "2026-10-14": [
-        "21:30"
-      ]
-    },
-    "shows": {
-      "2026-10-14": [
-        {
-          "time": "21:30",
-          "tags": []
-        }
-      ]
-    },
-    "room": null,
-    "vo": false,
-    "url": "https://www.liveticket.it/opera.aspx?Id=699963",
-    "smart": {
-      "2026-10-14": 36
-    },
-    "rankUscita": 5,
-    "rankVoto": 9
-  },
-  {
-    "title": "Mucchio selvaggio",
-    "poster": "https://cinematroisi.liveticket.it/wp-content/uploads/sites/48/00309717-180x257.jpg",
-    "rating": null,
-    "ratings": {
-      "letterboxd": null,
-      "imdb": null,
-      "metacritic": null,
-      "mubi": null
-    },
-    "releaseDate": null,
-    "showtimes": [
-      "23:59"
-    ],
-    "showtimesDate": "2026-10-14",
-    "days": {
-      "2026-10-14": [
-        "23:59"
-      ]
-    },
-    "shows": {
-      "2026-10-14": [
-        {
-          "time": "23:59",
-          "tags": []
-        }
-      ]
-    },
-    "room": null,
-    "vo": false,
-    "url": "https://www.liveticket.it/opera.aspx?Id=703433",
-    "smart": {
-      "2026-10-14": 50
-    },
-    "rankUscita": 10,
-    "rankVoto": 10
   }
 ]

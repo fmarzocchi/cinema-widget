@@ -7,7 +7,7 @@
       "letterboxd": 7.8,
       "imdb": 7.7,
       "metacritic": 7.3,
-      "mubi": null
+      "mubi": 7.5
     },
     "releaseDate": "2026-09-24",
     "showtimes": [
@@ -31,7 +31,7 @@
     "vo": false,
     "url": "https://roma.andromeda.18tickets.it/film/78266",
     "smart": {
-      "2026-10-15": 54
+      "2026-10-15": 53
     },
     "rankUscita": 11,
     "rankVoto": 0
@@ -123,7 +123,7 @@
     "vo": false,
     "url": "https://roma.andromeda.18tickets.it/film/80411",
     "smart": {
-      "2026-10-15": 73
+      "2026-10-15": 72
     },
     "rankUscita": 8,
     "rankVoto": 2
@@ -297,7 +297,7 @@
     "vo": false,
     "url": "https://roma.andromeda.18tickets.it/film/80743",
     "smart": {
-      "2026-10-15": 44
+      "2026-10-15": 43
     },
     "rankUscita": 9,
     "rankVoto": 6
