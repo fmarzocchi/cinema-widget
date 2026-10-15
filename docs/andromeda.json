@@ -13,14 +13,14 @@
     "showtimes": [
       "17:15"
     ],
-    "showtimesDate": "2026-10-15",
+    "showtimesDate": "2026-10-16",
     "days": {
-      "2026-10-15": [
+      "2026-10-16": [
         "17:15"
       ]
     },
     "shows": {
-      "2026-10-15": [
+      "2026-10-16": [
         {
           "time": "17:15",
           "tags": []
@@ -31,9 +31,9 @@
     "vo": false,
     "url": "https://roma.andromeda.18tickets.it/film/78266",
     "smart": {
-      "2026-10-15": 53
+      "2026-10-16": 53
     },
-    "rankUscita": 11,
+    "rankUscita": 10,
     "rankVoto": 0
   },
   {
@@ -48,33 +48,27 @@
     },
     "releaseDate": "2026-10-15",
     "showtimes": [
-      "17:00",
-      "18:45"
+      "17:00"
     ],
-    "showtimesDate": "2026-10-15",
+    "showtimesDate": "2026-10-16",
     "days": {
-      "2026-10-15": [
-        "17:00",
-        "18:45"
+      "2026-10-16": [
+        "17:00"
       ]
     },
     "shows": {
-      "2026-10-15": [
+      "2026-10-16": [
         {
           "time": "17:00",
-          "tags": []
-        },
-        {
-          "time": "18:45",
           "tags": []
         }
       ]
     },
-    "room": "Sala 6",
+    "room": null,
     "vo": false,
     "url": "https://roma.andromeda.18tickets.it/film/85526",
     "smart": {
-      "2026-10-15": 72
+      "2026-10-16": 65
     },
     "rankUscita": 1,
     "rankVoto": 1
@@ -95,16 +89,16 @@
       "18:50",
       "21:15"
     ],
-    "showtimesDate": "2026-10-15",
+    "showtimesDate": "2026-10-16",
     "days": {
-      "2026-10-15": [
+      "2026-10-16": [
         "16:50",
         "18:50",
         "21:15"
       ]
     },
     "shows": {
-      "2026-10-15": [
+      "2026-10-16": [
         {
           "time": "16:50",
           "tags": []
@@ -123,7 +117,7 @@
     "vo": false,
     "url": "https://roma.andromeda.18tickets.it/film/80411",
     "smart": {
-      "2026-10-15": 70
+      "2026-10-16": 70
     },
     "rankUscita": 8,
     "rankVoto": 2
@@ -145,9 +139,9 @@
       "21:15",
       "21:20"
     ],
-    "showtimesDate": "2026-10-15",
+    "showtimesDate": "2026-10-16",
     "days": {
-      "2026-10-15": [
+      "2026-10-16": [
         "16:45",
         "18:45",
         "21:15",
@@ -155,7 +149,7 @@
       ]
     },
     "shows": {
-      "2026-10-15": [
+      "2026-10-16": [
         {
           "time": "16:45",
           "tags": []
@@ -180,47 +174,10 @@
     "vo": false,
     "url": "https://roma.andromeda.18tickets.it/film/85460",
     "smart": {
-      "2026-10-15": 80
+      "2026-10-16": 80
     },
     "rankUscita": 2,
     "rankVoto": 3
-  },
-  {
-    "title": "La città dei vivi",
-    "poster": "https://image.tmdb.org/t/p/w185/opBholBwfUmPISED5muouubQPq3.jpg",
-    "rating": 6.2,
-    "ratings": {
-      "letterboxd": 6.2,
-      "imdb": 6.2,
-      "metacritic": null,
-      "mubi": null
-    },
-    "releaseDate": "2026-10-01",
-    "showtimes": [
-      "16:45"
-    ],
-    "showtimesDate": "2026-10-15",
-    "days": {
-      "2026-10-15": [
-        "16:45"
-      ]
-    },
-    "shows": {
-      "2026-10-15": [
-        {
-          "time": "16:45",
-          "tags": []
-        }
-      ]
-    },
-    "room": null,
-    "vo": false,
-    "url": "https://roma.andromeda.18tickets.it/film/78728",
-    "smart": {
-      "2026-10-15": 40
-    },
-    "rankUscita": 10,
-    "rankVoto": 4
   },
   {
     "title": "Frankie e le creature dimenticate",
@@ -236,14 +193,14 @@
     "showtimes": [
       "17:00"
     ],
-    "showtimesDate": "2026-10-15",
+    "showtimesDate": "2026-10-16",
     "days": {
-      "2026-10-15": [
+      "2026-10-16": [
         "17:00"
       ]
     },
     "shows": {
-      "2026-10-15": [
+      "2026-10-16": [
         {
           "time": "17:00",
           "tags": []
@@ -254,10 +211,10 @@
     "vo": false,
     "url": "https://roma.andromeda.18tickets.it/film/85428",
     "smart": {
-      "2026-10-15": 46
+      "2026-10-16": 46
     },
     "rankUscita": 3,
-    "rankVoto": 5
+    "rankVoto": 4
   },
   {
     "title": "Mammina",
@@ -274,15 +231,15 @@
       "19:30",
       "21:30"
     ],
-    "showtimesDate": "2026-10-15",
+    "showtimesDate": "2026-10-16",
     "days": {
-      "2026-10-15": [
+      "2026-10-16": [
         "19:30",
         "21:30"
       ]
     },
     "shows": {
-      "2026-10-15": [
+      "2026-10-16": [
         {
           "time": "19:30",
           "tags": []
@@ -297,10 +254,10 @@
     "vo": false,
     "url": "https://roma.andromeda.18tickets.it/film/80743",
     "smart": {
-      "2026-10-15": 43
+      "2026-10-16": 43
     },
     "rankUscita": 9,
-    "rankVoto": 6
+    "rankVoto": 5
   },
   {
     "title": "Se ami qualcuno dillo",
@@ -346,10 +303,10 @@
     "vo": false,
     "url": "https://roma.andromeda.18tickets.it/film/82128",
     "smart": {
-      "2026-10-16": 79
+      "2026-10-16": 71
     },
     "rankUscita": 0,
-    "rankVoto": 7
+    "rankVoto": 6
   },
   {
     "title": "Je so’ pazzo",
@@ -363,20 +320,26 @@
     },
     "releaseDate": "2026-10-15",
     "showtimes": [
-      "19:30",
+      "16:50",
+      "18:45",
       "21:20"
     ],
-    "showtimesDate": "2026-10-15",
+    "showtimesDate": "2026-10-16",
     "days": {
-      "2026-10-15": [
-        "19:30",
+      "2026-10-16": [
+        "16:50",
+        "18:45",
         "21:20"
       ]
     },
     "shows": {
-      "2026-10-15": [
+      "2026-10-16": [
         {
-          "time": "19:30",
+          "time": "16:50",
+          "tags": []
+        },
+        {
+          "time": "18:45",
           "tags": []
         },
         {
@@ -389,10 +352,10 @@
     "vo": false,
     "url": "https://roma.andromeda.18tickets.it/film/82094",
     "smart": {
-      "2026-10-15": 64
+      "2026-10-16": 71
     },
     "rankUscita": 4,
-    "rankVoto": 8
+    "rankVoto": 7
   },
   {
     "title": "Street Fighter",
@@ -409,15 +372,15 @@
       "19:10",
       "21:30"
     ],
-    "showtimesDate": "2026-10-15",
+    "showtimesDate": "2026-10-16",
     "days": {
-      "2026-10-15": [
+      "2026-10-16": [
         "19:10",
         "21:30"
       ]
     },
     "shows": {
-      "2026-10-15": [
+      "2026-10-16": [
         {
           "time": "19:10",
           "tags": []
@@ -432,10 +395,10 @@
     "vo": false,
     "url": "https://roma.andromeda.18tickets.it/film/82095",
     "smart": {
-      "2026-10-15": 64
+      "2026-10-16": 64
     },
     "rankUscita": 5,
-    "rankVoto": 9
+    "rankVoto": 8
   },
   {
     "title": "Whalefall - Nella balena",
@@ -452,15 +415,15 @@
       "18:45",
       "21:10"
     ],
-    "showtimesDate": "2026-10-15",
+    "showtimesDate": "2026-10-16",
     "days": {
-      "2026-10-15": [
+      "2026-10-16": [
         "18:45",
         "21:10"
       ]
     },
     "shows": {
-      "2026-10-15": [
+      "2026-10-16": [
         {
           "time": "18:45",
           "tags": []
@@ -475,10 +438,10 @@
     "vo": false,
     "url": "https://roma.andromeda.18tickets.it/film/85394",
     "smart": {
-      "2026-10-15": 64
+      "2026-10-16": 64
     },
     "rankUscita": 6,
-    "rankVoto": 10
+    "rankVoto": 9
   },
   {
     "title": "Zustìssia",
@@ -495,15 +458,15 @@
       "16:50",
       "19:15"
     ],
-    "showtimesDate": "2026-10-15",
+    "showtimesDate": "2026-10-16",
     "days": {
-      "2026-10-15": [
+      "2026-10-16": [
         "16:50",
         "19:15"
       ]
     },
     "shows": {
-      "2026-10-15": [
+      "2026-10-16": [
         {
           "time": "16:50",
           "tags": []
@@ -518,10 +481,10 @@
     "vo": false,
     "url": "https://roma.andromeda.18tickets.it/film/82160",
     "smart": {
-      "2026-10-15": 64
+      "2026-10-16": 64
     },
     "rankUscita": 7,
-    "rankVoto": 11
+    "rankVoto": 10
   },
   {
     "title": "Trainspotting 30° Anniversario",
@@ -565,7 +528,7 @@
     "smart": {
       "2026-10-19": 64
     },
-    "rankUscita": 12,
-    "rankVoto": 12
+    "rankUscita": 11,
+    "rankVoto": 11
   }
 ]

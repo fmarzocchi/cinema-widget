@@ -572,6 +572,43 @@
     "rankVoto": 6
   },
   {
+    "title": "La commare secca",
+    "poster": "https://image.tmdb.org/t/p/w185/2oHkoiy2EUR96FvcAVhnr68s3rl.jpg",
+    "rating": 6.9,
+    "ratings": {
+      "letterboxd": 7,
+      "imdb": 6.8,
+      "metacritic": null,
+      "mubi": 7
+    },
+    "releaseDate": "1962-08-27",
+    "showtimes": [
+      "18:30"
+    ],
+    "showtimesDate": "2026-10-20",
+    "days": {
+      "2026-10-20": [
+        "18:30"
+      ]
+    },
+    "shows": {
+      "2026-10-20": [
+        {
+          "time": "18:30",
+          "tags": []
+        }
+      ]
+    },
+    "room": null,
+    "vo": false,
+    "url": "https://www.liveticket.it/opera.aspx?Id=705725",
+    "smart": {
+      "2026-10-20": 38
+    },
+    "rankUscita": 10,
+    "rankVoto": 7
+  },
+  {
     "title": "Digger",
     "poster": "https://image.tmdb.org/t/p/w185/wisikjQcsvw0XqyQQYBsxudb38Z.jpg",
     "rating": 6.7,
@@ -620,7 +657,7 @@
       "2026-10-18": 53
     },
     "rankUscita": 3,
-    "rankVoto": 7
+    "rankVoto": 8
   },
   {
     "title": "Pocahontas",
@@ -657,7 +694,7 @@
       "2026-10-18": 30
     },
     "rankUscita": 7,
-    "rankVoto": 8
+    "rankVoto": 9
   },
   {
     "title": "Rider",
@@ -704,6 +741,6 @@
       "2026-10-19": 58
     },
     "rankUscita": 2,
-    "rankVoto": 9
+    "rankVoto": 10
   }
 ]
