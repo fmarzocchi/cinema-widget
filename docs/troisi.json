@@ -279,7 +279,7 @@
       "2026-10-20": 59,
       "2026-10-21": 45
     },
-    "rankUscita": 8,
+    "rankUscita": 9,
     "rankVoto": 2
   },
   {
@@ -320,6 +320,45 @@
     },
     "rankUscita": 5,
     "rankVoto": 3
+  },
+  {
+    "title": "The Dreamers - I sognatori",
+    "poster": "https://image.tmdb.org/t/p/w185/pinNViE433kLUrJppjFAOzgWxdl.jpg",
+    "rating": 7.2,
+    "ratings": {
+      "letterboxd": 7.1,
+      "imdb": 7.1,
+      "metacritic": 6.3,
+      "mubi": 8.1
+    },
+    "releaseDate": "2003-10-10",
+    "showtimes": [
+      "23:59"
+    ],
+    "showtimesDate": "2026-10-19",
+    "days": {
+      "2026-10-19": [
+        "23:59"
+      ]
+    },
+    "shows": {
+      "2026-10-19": [
+        {
+          "time": "23:59",
+          "tags": [
+            "VO"
+          ]
+        }
+      ]
+    },
+    "room": null,
+    "vo": true,
+    "url": "https://www.liveticket.it/opera.aspx?Id=638825",
+    "smart": {
+      "2026-10-19": 41
+    },
+    "rankUscita": 6,
+    "rankVoto": 4
   },
   {
     "title": "L'estranea",
@@ -436,7 +475,7 @@
       "2026-10-21": 77
     },
     "rankUscita": 1,
-    "rankVoto": 4
+    "rankVoto": 5
   },
   {
     "title": "Essi vivono",
@@ -462,6 +501,12 @@
         "13:00"
       ],
       "2026-10-17": [
+        "00:30"
+      ],
+      "2026-10-18": [
+        "00:30"
+      ],
+      "2026-10-19": [
         "00:30"
       ]
     },
@@ -495,6 +540,22 @@
             "VO"
           ]
         }
+      ],
+      "2026-10-18": [
+        {
+          "time": "00:30",
+          "tags": [
+            "VO"
+          ]
+        }
+      ],
+      "2026-10-19": [
+        {
+          "time": "00:30",
+          "tags": [
+            "VO"
+          ]
+        }
       ]
     },
     "room": null,
@@ -503,10 +564,12 @@
     "smart": {
       "2026-10-15": 39,
       "2026-10-16": 53,
-      "2026-10-17": 39
+      "2026-10-17": 39,
+      "2026-10-18": 39,
+      "2026-10-19": 39
     },
-    "rankUscita": 7,
-    "rankVoto": 5
+    "rankUscita": 8,
+    "rankVoto": 6
   },
   {
     "title": "Digger",
@@ -557,7 +620,7 @@
       "2026-10-18": 53
     },
     "rankUscita": 3,
-    "rankVoto": 6
+    "rankVoto": 7
   },
   {
     "title": "Pocahontas",
@@ -593,8 +656,8 @@
     "smart": {
       "2026-10-18": 30
     },
-    "rankUscita": 6,
-    "rankVoto": 7
+    "rankUscita": 7,
+    "rankVoto": 8
   },
   {
     "title": "Rider",
@@ -641,6 +704,6 @@
       "2026-10-19": 58
     },
     "rankUscita": 2,
-    "rankVoto": 8
+    "rankVoto": 9
   }
 ]
