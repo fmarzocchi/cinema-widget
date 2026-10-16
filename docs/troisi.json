@@ -11,37 +11,22 @@
     },
     "releaseDate": "2026-09-25",
     "showtimes": [
-      "13:30",
-      "18:00"
+      "17:00"
     ],
-    "showtimesDate": "2026-10-15",
+    "showtimesDate": "2026-10-17",
     "days": {
-      "2026-10-15": [
-        "13:30",
-        "18:00"
-      ],
       "2026-10-17": [
         "17:00"
       ],
       "2026-10-21": [
         "18:00"
+      ],
+      "2026-10-22": [
+        "17:00",
+        "22:45"
       ]
     },
     "shows": {
-      "2026-10-15": [
-        {
-          "time": "13:30",
-          "tags": [
-            "VO"
-          ]
-        },
-        {
-          "time": "18:00",
-          "tags": [
-            "VO"
-          ]
-        }
-      ],
       "2026-10-17": [
         {
           "time": "17:00",
@@ -57,18 +42,71 @@
             "VO"
           ]
         }
+      ],
+      "2026-10-22": [
+        {
+          "time": "17:00",
+          "tags": [
+            "VO"
+          ]
+        },
+        {
+          "time": "22:45",
+          "tags": [
+            "VO"
+          ]
+        }
       ]
     },
     "room": null,
     "vo": true,
     "url": "https://www.liveticket.it/opera.aspx?Id=695512",
     "smart": {
-      "2026-10-15": 86,
-      "2026-10-17": 72,
-      "2026-10-21": 72
+      "2026-10-17": 71,
+      "2026-10-21": 71,
+      "2026-10-22": 86
     },
     "rankUscita": 4,
     "rankVoto": 0
+  },
+  {
+    "title": "Trainspotting",
+    "poster": "https://image.tmdb.org/t/p/w185/rW8igIeFq2reJPgUYK5gukdSVVB.jpg",
+    "rating": 8.3,
+    "ratings": {
+      "letterboxd": 8.5,
+      "imdb": 8.1,
+      "metacritic": 8.3,
+      "mubi": 8.1
+    },
+    "releaseDate": "1996-10-03",
+    "showtimes": [
+      "13:00"
+    ],
+    "showtimesDate": "2026-10-22",
+    "days": {
+      "2026-10-22": [
+        "13:00"
+      ]
+    },
+    "shows": {
+      "2026-10-22": [
+        {
+          "time": "13:00",
+          "tags": [
+            "VO"
+          ]
+        }
+      ]
+    },
+    "room": null,
+    "vo": true,
+    "url": "https://www.liveticket.it/opera.aspx?Id=705578",
+    "smart": {
+      "2026-10-22": 55
+    },
+    "rankUscita": 8,
+    "rankVoto": 1
   },
   {
     "title": "Fatherland",
@@ -210,7 +248,7 @@
       "2026-10-21": 91
     },
     "rankUscita": 0,
-    "rankVoto": 1
+    "rankVoto": 2
   },
   {
     "title": "I Diavoli (the Devils)",
@@ -279,8 +317,8 @@
       "2026-10-20": 59,
       "2026-10-21": 45
     },
-    "rankUscita": 9,
-    "rankVoto": 2
+    "rankUscita": 11,
+    "rankVoto": 3
   },
   {
     "title": "Bronson",
@@ -318,8 +356,8 @@
     "smart": {
       "2026-10-17": 41
     },
-    "rankUscita": 5,
-    "rankVoto": 3
+    "rankUscita": 6,
+    "rankVoto": 4
   },
   {
     "title": "The Dreamers - I sognatori",
@@ -357,8 +395,8 @@
     "smart": {
       "2026-10-19": 41
     },
-    "rankUscita": 6,
-    "rankVoto": 4
+    "rankUscita": 7,
+    "rankVoto": 5
   },
   {
     "title": "L'estranea",
@@ -372,13 +410,11 @@
     },
     "releaseDate": "2026-10-08",
     "showtimes": [
-      "19:45"
+      "15:00",
+      "21:30"
     ],
-    "showtimesDate": "2026-10-15",
+    "showtimesDate": "2026-10-16",
     "days": {
-      "2026-10-15": [
-        "19:45"
-      ],
       "2026-10-16": [
         "15:00",
         "21:30"
@@ -403,12 +439,6 @@
       ]
     },
     "shows": {
-      "2026-10-15": [
-        {
-          "time": "19:45",
-          "tags": []
-        }
-      ],
       "2026-10-16": [
         {
           "time": "15:00",
@@ -466,16 +496,15 @@
     "vo": false,
     "url": "https://www.liveticket.it/opera.aspx?Id=699891",
     "smart": {
-      "2026-10-15": 63,
-      "2026-10-16": 77,
-      "2026-10-17": 63,
-      "2026-10-18": 77,
-      "2026-10-19": 77,
-      "2026-10-20": 63,
-      "2026-10-21": 77
+      "2026-10-16": 76,
+      "2026-10-17": 62,
+      "2026-10-18": 76,
+      "2026-10-19": 76,
+      "2026-10-20": 62,
+      "2026-10-21": 76
     },
     "rankUscita": 1,
-    "rankVoto": 5
+    "rankVoto": 6
   },
   {
     "title": "Essi vivono",
@@ -489,15 +518,11 @@
     },
     "releaseDate": "1989-04-14",
     "showtimes": [
-      "22:00"
+      "13:00"
     ],
-    "showtimesDate": "2026-10-15",
+    "showtimesDate": "2026-10-16",
     "days": {
-      "2026-10-15": [
-        "22:00"
-      ],
       "2026-10-16": [
-        "00:30",
         "13:00"
       ],
       "2026-10-17": [
@@ -511,21 +536,7 @@
       ]
     },
     "shows": {
-      "2026-10-15": [
-        {
-          "time": "22:00",
-          "tags": [
-            "VO"
-          ]
-        }
-      ],
       "2026-10-16": [
-        {
-          "time": "00:30",
-          "tags": [
-            "VO"
-          ]
-        },
         {
           "time": "13:00",
           "tags": [
@@ -562,14 +573,13 @@
     "vo": true,
     "url": "https://www.liveticket.it/opera.aspx?Id=704613",
     "smart": {
-      "2026-10-15": 39,
-      "2026-10-16": 53,
+      "2026-10-16": 39,
       "2026-10-17": 39,
       "2026-10-18": 39,
       "2026-10-19": 39
     },
-    "rankUscita": 8,
-    "rankVoto": 6
+    "rankUscita": 10,
+    "rankVoto": 7
   },
   {
     "title": "La commare secca",
@@ -605,8 +615,8 @@
     "smart": {
       "2026-10-20": 38
     },
-    "rankUscita": 10,
-    "rankVoto": 7
+    "rankUscita": 12,
+    "rankVoto": 8
   },
   {
     "title": "Digger",
@@ -620,26 +630,15 @@
     },
     "releaseDate": "2026-10-01",
     "showtimes": [
-      "15:30"
+      "14:00"
     ],
-    "showtimesDate": "2026-10-15",
+    "showtimesDate": "2026-10-18",
     "days": {
-      "2026-10-15": [
-        "15:30"
-      ],
       "2026-10-18": [
         "14:00"
       ]
     },
     "shows": {
-      "2026-10-15": [
-        {
-          "time": "15:30",
-          "tags": [
-            "VO"
-          ]
-        }
-      ],
       "2026-10-18": [
         {
           "time": "14:00",
@@ -653,11 +652,10 @@
     "vo": true,
     "url": "https://www.liveticket.it/opera.aspx?Id=697046",
     "smart": {
-      "2026-10-15": 53,
       "2026-10-18": 53
     },
     "rankUscita": 3,
-    "rankVoto": 8
+    "rankVoto": 9
   },
   {
     "title": "Pocahontas",
@@ -693,8 +691,8 @@
     "smart": {
       "2026-10-18": 30
     },
-    "rankUscita": 7,
-    "rankVoto": 9
+    "rankUscita": 9,
+    "rankVoto": 10
   },
   {
     "title": "Rider",
@@ -717,6 +715,9 @@
       ],
       "2026-10-19": [
         "11:00"
+      ],
+      "2026-10-22": [
+        "11:00"
       ]
     },
     "shows": {
@@ -731,6 +732,12 @@
           "time": "11:00",
           "tags": []
         }
+      ],
+      "2026-10-22": [
+        {
+          "time": "11:00",
+          "tags": []
+        }
       ]
     },
     "room": null,
@@ -738,9 +745,86 @@
     "url": "https://www.liveticket.it/opera.aspx?Id=695175",
     "smart": {
       "2026-10-16": 58,
-      "2026-10-19": 58
+      "2026-10-19": 58,
+      "2026-10-22": 58
     },
     "rankUscita": 2,
-    "rankVoto": 10
+    "rankVoto": 11
+  },
+  {
+    "title": "Il canto di Alina",
+    "poster": "https://image.tmdb.org/t/p/w185/kVMdFxJJS3Y5MCpU68mmv9QyTDI.jpg",
+    "rating": null,
+    "ratings": {
+      "letterboxd": null,
+      "imdb": null,
+      "metacritic": null,
+      "mubi": null
+    },
+    "releaseDate": "2024-10-11",
+    "showtimes": [
+      "15:00"
+    ],
+    "showtimesDate": "2026-10-22",
+    "days": {
+      "2026-10-22": [
+        "15:00"
+      ]
+    },
+    "shows": {
+      "2026-10-22": [
+        {
+          "time": "15:00",
+          "tags": []
+        }
+      ]
+    },
+    "room": null,
+    "vo": false,
+    "url": "https://www.liveticket.it/opera.aspx?Id=705579",
+    "smart": {
+      "2026-10-22": 36
+    },
+    "rankUscita": 5,
+    "rankVoto": 12
+  },
+  {
+    "title": "Il dottor Stranamore",
+    "poster": "https://cinematroisi.liveticket.it/wp-content/uploads/sites/48/935itVO_it-180x257.jpg",
+    "rating": null,
+    "ratings": {
+      "letterboxd": null,
+      "imdb": null,
+      "metacritic": null,
+      "mubi": null
+    },
+    "releaseDate": null,
+    "showtimes": [
+      "19:00"
+    ],
+    "showtimesDate": "2026-10-22",
+    "days": {
+      "2026-10-22": [
+        "19:00"
+      ]
+    },
+    "shows": {
+      "2026-10-22": [
+        {
+          "time": "19:00",
+          "tags": [
+            "VO"
+          ]
+        }
+      ]
+    },
+    "room": null,
+    "vo": true,
+    "url": "https://www.liveticket.it/opera.aspx?Id=705592",
+    "smart": {
+      "2026-10-22": 50
+    },
+    "rankUscita": 13,
+    "rankVoto": 13
   }
 ]
