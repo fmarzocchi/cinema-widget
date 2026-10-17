@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-10-17T18:10:31.765Z",
-  "today": "2026-10-17",
+  "updatedAt": "2026-10-17T23:45:39.332Z",
+  "today": "2026-10-18",
   "ratingScale": 10,
   "ratingSources": {
-    "film": 43,
-    "letterboxd": 30,
-    "imdb": 32,
-    "metacritic": 26,
-    "mubi": 26,
-    "media": 32
+    "film": 44,
+    "letterboxd": 29,
+    "imdb": 31,
+    "metacritic": 25,
+    "mubi": 25,
+    "media": 31
   },
   "widgetUrl": "https://fmarzocchi.github.io/cinema-widget/cinema.json",
   "feeds": [
@@ -16,7 +16,7 @@
       "key": "porta",
       "label": "PORTA",
       "cinema": "UCI Cinemas Porta di Roma",
-      "count": 30,
+      "count": 31,
       "state": "ok",
       "url": "https://fmarzocchi.github.io/cinema-widget/porta.json"
     },
