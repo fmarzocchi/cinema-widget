@@ -675,7 +675,7 @@
     "rating": 7.2,
     "ratings": {
       "letterboxd": 7.8,
-      "imdb": 7.2,
+      "imdb": 7.3,
       "metacritic": 7.3,
       "mubi": 6.5
     },
@@ -888,6 +888,184 @@
     "rankVoto": 11
   },
   {
+    "title": "Je so’ pazzo",
+    "poster": "https://image.tmdb.org/t/p/w185/impo3YqfZZbJUI3woorG0OYV3XI.jpg",
+    "rating": 6.9,
+    "ratings": {
+      "letterboxd": null,
+      "imdb": 6.9,
+      "metacritic": null,
+      "mubi": null
+    },
+    "releaseDate": "2026-10-15",
+    "showtimes": [
+      "11:05",
+      "14:20",
+      "16:40",
+      "19:10",
+      "20:00",
+      "21:40"
+    ],
+    "showtimesDate": "2026-10-17",
+    "days": {
+      "2026-10-17": [
+        "11:05",
+        "14:20",
+        "16:40",
+        "19:10",
+        "20:00",
+        "21:40"
+      ],
+      "2026-10-18": [
+        "11:05",
+        "14:20",
+        "16:40",
+        "19:10",
+        "20:00",
+        "21:40"
+      ],
+      "2026-10-19": [
+        "14:20",
+        "16:40",
+        "20:30",
+        "21:40"
+      ],
+      "2026-10-20": [
+        "14:20",
+        "16:40",
+        "19:00",
+        "21:41"
+      ],
+      "2026-10-21": [
+        "14:20",
+        "16:40",
+        "21:40"
+      ]
+    },
+    "shows": {
+      "2026-10-17": [
+        {
+          "time": "11:05",
+          "tags": []
+        },
+        {
+          "time": "14:20",
+          "tags": []
+        },
+        {
+          "time": "16:40",
+          "tags": []
+        },
+        {
+          "time": "19:10",
+          "tags": []
+        },
+        {
+          "time": "20:00",
+          "tags": []
+        },
+        {
+          "time": "21:40",
+          "tags": []
+        }
+      ],
+      "2026-10-18": [
+        {
+          "time": "11:05",
+          "tags": []
+        },
+        {
+          "time": "14:20",
+          "tags": []
+        },
+        {
+          "time": "16:40",
+          "tags": []
+        },
+        {
+          "time": "19:10",
+          "tags": []
+        },
+        {
+          "time": "20:00",
+          "tags": []
+        },
+        {
+          "time": "21:40",
+          "tags": []
+        }
+      ],
+      "2026-10-19": [
+        {
+          "time": "14:20",
+          "tags": []
+        },
+        {
+          "time": "16:40",
+          "tags": []
+        },
+        {
+          "time": "20:30",
+          "tags": [
+            "XL"
+          ]
+        },
+        {
+          "time": "21:40",
+          "tags": []
+        }
+      ],
+      "2026-10-20": [
+        {
+          "time": "14:20",
+          "tags": []
+        },
+        {
+          "time": "16:40",
+          "tags": []
+        },
+        {
+          "time": "19:00",
+          "tags": [
+            "XL"
+          ]
+        },
+        {
+          "time": "21:41",
+          "tags": [
+            "XL"
+          ]
+        }
+      ],
+      "2026-10-21": [
+        {
+          "time": "14:20",
+          "tags": []
+        },
+        {
+          "time": "16:40",
+          "tags": []
+        },
+        {
+          "time": "21:40",
+          "tags": []
+        }
+      ]
+    },
+    "room": "Sala 9",
+    "vo": false,
+    "url": "https://ucicinemas.it/film/je-so-pazzo/",
+    "smart": {
+      "2026-10-17": 67,
+      "2026-10-18": 69,
+      "2026-10-19": 66,
+      "2026-10-20": 66,
+      "2026-10-21": 62
+    },
+    "rankUscita": 6,
+    "rankVoto": 12
+  },
+  {
     "title": "Primetime",
     "poster": "https://image.tmdb.org/t/p/w185/sqArsDFYFryd5iKuoxLvr4y5NZv.jpg",
     "rating": 6.9,
@@ -1010,8 +1188,8 @@
       "2026-10-20": 62,
       "2026-10-21": 62
     },
-    "rankUscita": 6,
-    "rankVoto": 12
+    "rankUscita": 7,
+    "rankVoto": 13
   },
   {
     "title": "Digger",
@@ -1088,7 +1266,7 @@
       "2026-10-21": 42
     },
     "rankUscita": 18,
-    "rankVoto": 13
+    "rankVoto": 14
   },
   {
     "title": "Serpenti",
@@ -1125,7 +1303,7 @@
       "2026-10-19": 33
     },
     "rankUscita": 25,
-    "rankVoto": 14
+    "rankVoto": 15
   },
   {
     "title": "Heart of the Beast - Nel profondo selvaggio",
@@ -1244,15 +1422,15 @@
       "2026-10-21": 45
     },
     "rankUscita": 22,
-    "rankVoto": 15
+    "rankVoto": 16
   },
   {
     "title": "Whalefall - Nella balena",
     "poster": "https://image.tmdb.org/t/p/w185/auhdhcoWhQzMovY2pa71BTgDAa7.jpg",
-    "rating": 6.3,
+    "rating": 6.4,
     "ratings": {
       "letterboxd": 6.6,
-      "imdb": 6.6,
+      "imdb": 6.8,
       "metacritic": 5.7,
       "mubi": null
     },
@@ -1372,14 +1550,14 @@
     "vo": false,
     "url": "https://ucicinemas.it/film/whalefall/",
     "smart": {
-      "2026-10-17": 54,
-      "2026-10-18": 52,
-      "2026-10-19": 51,
-      "2026-10-20": 59,
-      "2026-10-21": 55
+      "2026-10-17": 55,
+      "2026-10-18": 53,
+      "2026-10-19": 52,
+      "2026-10-20": 60,
+      "2026-10-21": 56
     },
-    "rankUscita": 7,
-    "rankVoto": 16
+    "rankUscita": 8,
+    "rankVoto": 17
   },
   {
     "title": "L'albero di molto lontano",
@@ -1462,7 +1640,7 @@
       "2026-10-21": 38
     },
     "rankUscita": 15,
-    "rankVoto": 17
+    "rankVoto": 18
   },
   {
     "title": "Frankie e le creature dimenticate",
@@ -1575,8 +1753,8 @@
       "2026-10-20": 45,
       "2026-10-21": 45
     },
-    "rankUscita": 8,
-    "rankVoto": 18
+    "rankUscita": 9,
+    "rankVoto": 19
   },
   {
     "title": "The Social - Il prezzo della verità",
@@ -1653,7 +1831,7 @@
       "2026-10-21": 35
     },
     "rankUscita": 16,
-    "rankVoto": 19
+    "rankVoto": 20
   },
   {
     "title": "Street Fighter",
@@ -1661,7 +1839,7 @@
     "rating": 5.5,
     "ratings": {
       "letterboxd": 5.8,
-      "imdb": 6.1,
+      "imdb": 6.3,
       "metacritic": 4.5,
       "mubi": null
     },
@@ -1959,8 +2137,8 @@
       "2026-10-20": 61,
       "2026-10-21": 61
     },
-    "rankUscita": 9,
-    "rankVoto": 20
+    "rankUscita": 10,
+    "rankVoto": 21
   },
   {
     "title": "Insidious - Fuori dall’Altrove",
@@ -2007,7 +2185,7 @@
       "2026-10-19": 12
     },
     "rankUscita": 26,
-    "rankVoto": 21
+    "rankVoto": 22
   },
   {
     "title": "Oceania",
@@ -2058,7 +2236,7 @@
       "2026-10-18": 7
     },
     "rankUscita": 27,
-    "rankVoto": 22
+    "rankVoto": 23
   },
   {
     "title": "Verity",
@@ -2172,7 +2350,7 @@
       "2026-10-21": 25
     },
     "rankUscita": 19,
-    "rankVoto": 23
+    "rankVoto": 24
   },
   {
     "title": "Mammina",
@@ -2374,7 +2552,7 @@
       "2026-10-21": 42
     },
     "rankUscita": 17,
-    "rankVoto": 24
+    "rankVoto": 25
   },
   {
     "title": "Clayface",
@@ -2459,7 +2637,7 @@
       "2026-10-23": 69
     },
     "rankUscita": 2,
-    "rankVoto": 25
+    "rankVoto": 26
   },
   {
     "title": "Se ami qualcuno dillo",
@@ -2556,7 +2734,7 @@
       "2026-10-21": 57
     },
     "rankUscita": 4,
-    "rankVoto": 26
+    "rankVoto": 27
   },
   {
     "title": "Carlo Acutis. Il giovane santo",
@@ -2686,184 +2864,6 @@
       "2026-10-19": 52,
       "2026-10-20": 52,
       "2026-10-21": 52
-    },
-    "rankUscita": 10,
-    "rankVoto": 27
-  },
-  {
-    "title": "Je so’ pazzo",
-    "poster": "https://image.tmdb.org/t/p/w185/impo3YqfZZbJUI3woorG0OYV3XI.jpg",
-    "rating": null,
-    "ratings": {
-      "letterboxd": null,
-      "imdb": null,
-      "metacritic": null,
-      "mubi": null
-    },
-    "releaseDate": "2026-10-15",
-    "showtimes": [
-      "11:05",
-      "14:20",
-      "16:40",
-      "19:10",
-      "20:00",
-      "21:40"
-    ],
-    "showtimesDate": "2026-10-17",
-    "days": {
-      "2026-10-17": [
-        "11:05",
-        "14:20",
-        "16:40",
-        "19:10",
-        "20:00",
-        "21:40"
-      ],
-      "2026-10-18": [
-        "11:05",
-        "14:20",
-        "16:40",
-        "19:10",
-        "20:00",
-        "21:40"
-      ],
-      "2026-10-19": [
-        "14:20",
-        "16:40",
-        "20:30",
-        "21:40"
-      ],
-      "2026-10-20": [
-        "14:20",
-        "16:40",
-        "19:00",
-        "21:41"
-      ],
-      "2026-10-21": [
-        "14:20",
-        "16:40",
-        "21:40"
-      ]
-    },
-    "shows": {
-      "2026-10-17": [
-        {
-          "time": "11:05",
-          "tags": []
-        },
-        {
-          "time": "14:20",
-          "tags": []
-        },
-        {
-          "time": "16:40",
-          "tags": []
-        },
-        {
-          "time": "19:10",
-          "tags": []
-        },
-        {
-          "time": "20:00",
-          "tags": []
-        },
-        {
-          "time": "21:40",
-          "tags": []
-        }
-      ],
-      "2026-10-18": [
-        {
-          "time": "11:05",
-          "tags": []
-        },
-        {
-          "time": "14:20",
-          "tags": []
-        },
-        {
-          "time": "16:40",
-          "tags": []
-        },
-        {
-          "time": "19:10",
-          "tags": []
-        },
-        {
-          "time": "20:00",
-          "tags": []
-        },
-        {
-          "time": "21:40",
-          "tags": []
-        }
-      ],
-      "2026-10-19": [
-        {
-          "time": "14:20",
-          "tags": []
-        },
-        {
-          "time": "16:40",
-          "tags": []
-        },
-        {
-          "time": "20:30",
-          "tags": [
-            "XL"
-          ]
-        },
-        {
-          "time": "21:40",
-          "tags": []
-        }
-      ],
-      "2026-10-20": [
-        {
-          "time": "14:20",
-          "tags": []
-        },
-        {
-          "time": "16:40",
-          "tags": []
-        },
-        {
-          "time": "19:00",
-          "tags": [
-            "XL"
-          ]
-        },
-        {
-          "time": "21:41",
-          "tags": [
-            "XL"
-          ]
-        }
-      ],
-      "2026-10-21": [
-        {
-          "time": "14:20",
-          "tags": []
-        },
-        {
-          "time": "16:40",
-          "tags": []
-        },
-        {
-          "time": "21:40",
-          "tags": []
-        }
-      ]
-    },
-    "room": "Sala 9",
-    "vo": false,
-    "url": "https://ucicinemas.it/film/je-so-pazzo/",
-    "smart": {
-      "2026-10-17": 65,
-      "2026-10-18": 67,
-      "2026-10-19": 65,
-      "2026-10-20": 65,
-      "2026-10-21": 60
     },
     "rankUscita": 11,
     "rankVoto": 28

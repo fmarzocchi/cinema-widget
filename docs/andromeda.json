@@ -123,6 +123,55 @@
     "rankVoto": 2
   },
   {
+    "title": "Je so’ pazzo",
+    "poster": "https://image.tmdb.org/t/p/w185/impo3YqfZZbJUI3woorG0OYV3XI.jpg",
+    "rating": 6.9,
+    "ratings": {
+      "letterboxd": null,
+      "imdb": 6.9,
+      "metacritic": null,
+      "mubi": null
+    },
+    "releaseDate": "2026-10-15",
+    "showtimes": [
+      "16:50",
+      "18:45",
+      "21:20"
+    ],
+    "showtimesDate": "2026-10-17",
+    "days": {
+      "2026-10-17": [
+        "16:50",
+        "18:45",
+        "21:20"
+      ]
+    },
+    "shows": {
+      "2026-10-17": [
+        {
+          "time": "16:50",
+          "tags": []
+        },
+        {
+          "time": "18:45",
+          "tags": []
+        },
+        {
+          "time": "21:20",
+          "tags": []
+        }
+      ]
+    },
+    "room": "Sala 1",
+    "vo": false,
+    "url": "https://roma.andromeda.18tickets.it/film/82094",
+    "smart": {
+      "2026-10-17": 71
+    },
+    "rankUscita": 2,
+    "rankVoto": 3
+  },
+  {
     "title": "Primetime",
     "poster": "https://image.tmdb.org/t/p/w185/sqArsDFYFryd5iKuoxLvr4y5NZv.jpg",
     "rating": 6.9,
@@ -176,16 +225,16 @@
     "smart": {
       "2026-10-17": 79
     },
-    "rankUscita": 2,
-    "rankVoto": 3
+    "rankUscita": 3,
+    "rankVoto": 4
   },
   {
     "title": "Whalefall - Nella balena",
     "poster": "https://image.tmdb.org/t/p/w185/auhdhcoWhQzMovY2pa71BTgDAa7.jpg",
-    "rating": 6.6,
+    "rating": 6.8,
     "ratings": {
       "letterboxd": null,
-      "imdb": 6.6,
+      "imdb": 6.8,
       "metacritic": null,
       "mubi": null
     },
@@ -217,10 +266,10 @@
     "vo": false,
     "url": "https://roma.andromeda.18tickets.it/film/85394",
     "smart": {
-      "2026-10-17": 61
+      "2026-10-17": 63
     },
-    "rankUscita": 3,
-    "rankVoto": 4
+    "rankUscita": 4,
+    "rankVoto": 5
   },
   {
     "title": "Frankie e le creature dimenticate",
@@ -256,8 +305,8 @@
     "smart": {
       "2026-10-17": 44
     },
-    "rankUscita": 4,
-    "rankVoto": 5
+    "rankUscita": 5,
+    "rankVoto": 6
   },
   {
     "title": "Street Fighter",
@@ -265,7 +314,7 @@
     "rating": 5.5,
     "ratings": {
       "letterboxd": 5.8,
-      "imdb": 6.1,
+      "imdb": 6.3,
       "metacritic": 4.5,
       "mubi": null
     },
@@ -299,8 +348,8 @@
     "smart": {
       "2026-10-17": 47
     },
-    "rankUscita": 5,
-    "rankVoto": 6
+    "rankUscita": 6,
+    "rankVoto": 7
   },
   {
     "title": "Mammina",
@@ -343,7 +392,7 @@
       "2026-10-17": 36
     },
     "rankUscita": 9,
-    "rankVoto": 7
+    "rankVoto": 8
   },
   {
     "title": "Se ami qualcuno dillo",
@@ -392,55 +441,6 @@
       "2026-10-17": 71
     },
     "rankUscita": 0,
-    "rankVoto": 8
-  },
-  {
-    "title": "Je so’ pazzo",
-    "poster": "https://image.tmdb.org/t/p/w185/impo3YqfZZbJUI3woorG0OYV3XI.jpg",
-    "rating": null,
-    "ratings": {
-      "letterboxd": null,
-      "imdb": null,
-      "metacritic": null,
-      "mubi": null
-    },
-    "releaseDate": "2026-10-15",
-    "showtimes": [
-      "16:50",
-      "18:45",
-      "21:20"
-    ],
-    "showtimesDate": "2026-10-17",
-    "days": {
-      "2026-10-17": [
-        "16:50",
-        "18:45",
-        "21:20"
-      ]
-    },
-    "shows": {
-      "2026-10-17": [
-        {
-          "time": "16:50",
-          "tags": []
-        },
-        {
-          "time": "18:45",
-          "tags": []
-        },
-        {
-          "time": "21:20",
-          "tags": []
-        }
-      ]
-    },
-    "room": "Sala 1",
-    "vo": false,
-    "url": "https://roma.andromeda.18tickets.it/film/82094",
-    "smart": {
-      "2026-10-17": 70
-    },
-    "rankUscita": 6,
     "rankVoto": 9
   },
   {
