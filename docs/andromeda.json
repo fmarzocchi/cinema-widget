@@ -1,5 +1,48 @@
 [
   {
+    "title": "Zustìssia",
+    "poster": "https://image.tmdb.org/t/p/w185/15IfVZjAiwUkTx7Bib58wJTjOSi.jpg",
+    "rating": 7.8,
+    "ratings": {
+      "letterboxd": null,
+      "imdb": 7.8,
+      "metacritic": null,
+      "mubi": null
+    },
+    "releaseDate": "2026-10-15",
+    "showtimes": [
+      "16:50",
+      "19:15"
+    ],
+    "showtimesDate": "2026-10-18",
+    "days": {
+      "2026-10-18": [
+        "16:50",
+        "19:15"
+      ]
+    },
+    "shows": {
+      "2026-10-18": [
+        {
+          "time": "16:50",
+          "tags": []
+        },
+        {
+          "time": "19:15",
+          "tags": []
+        }
+      ]
+    },
+    "room": "Sala 4",
+    "vo": false,
+    "url": "https://roma.andromeda.18tickets.it/film/82160",
+    "smart": {
+      "2026-10-18": 74
+    },
+    "rankUscita": 1,
+    "rankVoto": 0
+  },
+  {
     "title": "L'isola dei ricordi",
     "poster": "https://image.tmdb.org/t/p/w185/p8YpBFMmccQQoeQie9XKv6loDSa.jpg",
     "rating": 7.6,
@@ -34,7 +77,7 @@
       "2026-10-18": 52
     },
     "rankUscita": 10,
-    "rankVoto": 0
+    "rankVoto": 1
   },
   {
     "title": "Jumbo - La voce di Don",
@@ -70,8 +113,57 @@
     "smart": {
       "2026-10-18": 62
     },
-    "rankUscita": 1,
-    "rankVoto": 1
+    "rankUscita": 2,
+    "rankVoto": 2
+  },
+  {
+    "title": "Je so’ pazzo",
+    "poster": "https://image.tmdb.org/t/p/w185/impo3YqfZZbJUI3woorG0OYV3XI.jpg",
+    "rating": 7.1,
+    "ratings": {
+      "letterboxd": null,
+      "imdb": 7.1,
+      "metacritic": null,
+      "mubi": null
+    },
+    "releaseDate": "2026-10-15",
+    "showtimes": [
+      "16:50",
+      "18:45",
+      "21:20"
+    ],
+    "showtimesDate": "2026-10-18",
+    "days": {
+      "2026-10-18": [
+        "16:50",
+        "18:45",
+        "21:20"
+      ]
+    },
+    "shows": {
+      "2026-10-18": [
+        {
+          "time": "16:50",
+          "tags": []
+        },
+        {
+          "time": "18:45",
+          "tags": []
+        },
+        {
+          "time": "21:20",
+          "tags": []
+        }
+      ]
+    },
+    "room": "Sala 1",
+    "vo": false,
+    "url": "https://roma.andromeda.18tickets.it/film/82094",
+    "smart": {
+      "2026-10-18": 73
+    },
+    "rankUscita": 3,
+    "rankVoto": 3
   },
   {
     "title": "L'estranea",
@@ -120,7 +212,7 @@
       "2026-10-18": 68
     },
     "rankUscita": 8,
-    "rankVoto": 2
+    "rankVoto": 4
   },
   {
     "title": "Primetime",
@@ -176,8 +268,8 @@
     "smart": {
       "2026-10-18": 78
     },
-    "rankUscita": 2,
-    "rankVoto": 3
+    "rankUscita": 4,
+    "rankVoto": 5
   },
   {
     "title": "Whalefall - Nella balena",
@@ -219,57 +311,8 @@
     "smart": {
       "2026-10-18": 62
     },
-    "rankUscita": 3,
-    "rankVoto": 4
-  },
-  {
-    "title": "Je so’ pazzo",
-    "poster": "https://image.tmdb.org/t/p/w185/impo3YqfZZbJUI3woorG0OYV3XI.jpg",
-    "rating": 6.7,
-    "ratings": {
-      "letterboxd": null,
-      "imdb": 6.7,
-      "metacritic": null,
-      "mubi": null
-    },
-    "releaseDate": "2026-10-15",
-    "showtimes": [
-      "16:50",
-      "18:45",
-      "21:20"
-    ],
-    "showtimesDate": "2026-10-18",
-    "days": {
-      "2026-10-18": [
-        "16:50",
-        "18:45",
-        "21:20"
-      ]
-    },
-    "shows": {
-      "2026-10-18": [
-        {
-          "time": "16:50",
-          "tags": []
-        },
-        {
-          "time": "18:45",
-          "tags": []
-        },
-        {
-          "time": "21:20",
-          "tags": []
-        }
-      ]
-    },
-    "room": "Sala 1",
-    "vo": false,
-    "url": "https://roma.andromeda.18tickets.it/film/82094",
-    "smart": {
-      "2026-10-18": 68
-    },
-    "rankUscita": 4,
-    "rankVoto": 5
+    "rankUscita": 5,
+    "rankVoto": 6
   },
   {
     "title": "Frankie e le creature dimenticate",
@@ -305,8 +348,8 @@
     "smart": {
       "2026-10-18": 43
     },
-    "rankUscita": 5,
-    "rankVoto": 6
+    "rankUscita": 6,
+    "rankVoto": 7
   },
   {
     "title": "Street Fighter",
@@ -348,8 +391,8 @@
     "smart": {
       "2026-10-18": 46
     },
-    "rankUscita": 6,
-    "rankVoto": 7
+    "rankUscita": 7,
+    "rankVoto": 8
   },
   {
     "title": "Mammina",
@@ -392,7 +435,7 @@
       "2026-10-18": 35
     },
     "rankUscita": 9,
-    "rankVoto": 8
+    "rankVoto": 9
   },
   {
     "title": "Se ami qualcuno dillo",
@@ -441,49 +484,6 @@
       "2026-10-18": 70
     },
     "rankUscita": 0,
-    "rankVoto": 9
-  },
-  {
-    "title": "Zustìssia",
-    "poster": "https://image.tmdb.org/t/p/w185/15IfVZjAiwUkTx7Bib58wJTjOSi.jpg",
-    "rating": null,
-    "ratings": {
-      "letterboxd": null,
-      "imdb": null,
-      "metacritic": null,
-      "mubi": null
-    },
-    "releaseDate": "2026-10-15",
-    "showtimes": [
-      "16:50",
-      "19:15"
-    ],
-    "showtimesDate": "2026-10-18",
-    "days": {
-      "2026-10-18": [
-        "16:50",
-        "19:15"
-      ]
-    },
-    "shows": {
-      "2026-10-18": [
-        {
-          "time": "16:50",
-          "tags": []
-        },
-        {
-          "time": "19:15",
-          "tags": []
-        }
-      ]
-    },
-    "room": "Sala 4",
-    "vo": false,
-    "url": "https://roma.andromeda.18tickets.it/film/82160",
-    "smart": {
-      "2026-10-18": 62
-    },
-    "rankUscita": 7,
     "rankVoto": 10
   },
   {
