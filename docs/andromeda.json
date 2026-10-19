@@ -117,55 +117,6 @@
     "rankVoto": 2
   },
   {
-    "title": "Je so’ pazzo",
-    "poster": "https://image.tmdb.org/t/p/w185/impo3YqfZZbJUI3woorG0OYV3XI.jpg",
-    "rating": 7.1,
-    "ratings": {
-      "letterboxd": null,
-      "imdb": 7.1,
-      "metacritic": null,
-      "mubi": null
-    },
-    "releaseDate": "2026-10-15",
-    "showtimes": [
-      "16:50",
-      "18:45",
-      "21:20"
-    ],
-    "showtimesDate": "2026-10-19",
-    "days": {
-      "2026-10-19": [
-        "16:50",
-        "18:45",
-        "21:20"
-      ]
-    },
-    "shows": {
-      "2026-10-19": [
-        {
-          "time": "16:50",
-          "tags": []
-        },
-        {
-          "time": "18:45",
-          "tags": []
-        },
-        {
-          "time": "21:20",
-          "tags": []
-        }
-      ]
-    },
-    "room": "Sala 1",
-    "vo": false,
-    "url": "https://roma.andromeda.18tickets.it/film/82094",
-    "smart": {
-      "2026-10-19": 79
-    },
-    "rankUscita": 3,
-    "rankVoto": 3
-  },
-  {
     "title": "L'estranea",
     "poster": "https://image.tmdb.org/t/p/w185/6GisyPsQBvnpgMKXqtPuwJqpZzl.jpg",
     "rating": 7.1,
@@ -212,6 +163,55 @@
       "2026-10-19": 74
     },
     "rankUscita": 8,
+    "rankVoto": 3
+  },
+  {
+    "title": "Je so’ pazzo",
+    "poster": "https://image.tmdb.org/t/p/w185/impo3YqfZZbJUI3woorG0OYV3XI.jpg",
+    "rating": 6.9,
+    "ratings": {
+      "letterboxd": null,
+      "imdb": 6.9,
+      "metacritic": null,
+      "mubi": null
+    },
+    "releaseDate": "2026-10-15",
+    "showtimes": [
+      "16:50",
+      "18:45",
+      "21:20"
+    ],
+    "showtimesDate": "2026-10-19",
+    "days": {
+      "2026-10-19": [
+        "16:50",
+        "18:45",
+        "21:20"
+      ]
+    },
+    "shows": {
+      "2026-10-19": [
+        {
+          "time": "16:50",
+          "tags": []
+        },
+        {
+          "time": "18:45",
+          "tags": []
+        },
+        {
+          "time": "21:20",
+          "tags": []
+        }
+      ]
+    },
+    "room": "Sala 1",
+    "vo": false,
+    "url": "https://roma.andromeda.18tickets.it/film/82094",
+    "smart": {
+      "2026-10-19": 77
+    },
+    "rankUscita": 3,
     "rankVoto": 4
   },
   {
@@ -351,7 +351,7 @@
     "rating": 5.5,
     "ratings": {
       "letterboxd": 5.8,
-      "imdb": 6.2,
+      "imdb": 6.3,
       "metacritic": 4.5,
       "mubi": null
     },

@@ -78,7 +78,7 @@
       "2026-10-23": 84,
       "2026-10-25": 84
     },
-    "rankUscita": 4,
+    "rankUscita": 3,
     "rankVoto": 0
   },
   {
@@ -606,15 +606,15 @@
   },
   {
     "title": "Rider",
-    "poster": "https://image.tmdb.org/t/p/w185/17CEyc7s7v8AMOyCZ5SH50KNS2P.jpg",
-    "rating": null,
+    "poster": "https://image.tmdb.org/t/p/w185/n6ZXNMyx9XVZah6Nni9TDuAALBu.jpg",
+    "rating": 5.6,
     "ratings": {
       "letterboxd": null,
-      "imdb": null,
+      "imdb": 5.6,
       "metacritic": null,
       "mubi": null
     },
-    "releaseDate": "2026-10-08",
+    "releaseDate": "2025-06-13",
     "showtimes": [
       "11:00"
     ],
@@ -654,11 +654,11 @@
     "vo": false,
     "url": "https://www.liveticket.it/opera.aspx?Id=695175",
     "smart": {
-      "2026-10-19": 56,
-      "2026-10-22": 56,
-      "2026-10-23": 70
+      "2026-10-19": 22,
+      "2026-10-22": 22,
+      "2026-10-23": 36
     },
-    "rankUscita": 3,
+    "rankUscita": 4,
     "rankVoto": 10
   },
   {

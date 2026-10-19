@@ -576,12 +576,101 @@
     "rankVoto": 7
   },
   {
-    "title": "Je so’ pazzo",
-    "poster": "https://image.tmdb.org/t/p/w185/impo3YqfZZbJUI3woorG0OYV3XI.jpg",
+    "title": "L'estranea",
+    "poster": "https://image.tmdb.org/t/p/w185/6GisyPsQBvnpgMKXqtPuwJqpZzl.jpg",
     "rating": 7.1,
     "ratings": {
+      "letterboxd": 7.3,
+      "imdb": 7.4,
+      "metacritic": null,
+      "mubi": 6.5
+    },
+    "releaseDate": "2026-10-08",
+    "showtimes": [
+      "15:40",
+      "19:00",
+      "22:00"
+    ],
+    "showtimesDate": "2026-10-19",
+    "days": {
+      "2026-10-19": [
+        "15:40",
+        "19:00",
+        "22:00"
+      ],
+      "2026-10-20": [
+        "15:40",
+        "20:40"
+      ],
+      "2026-10-21": [
+        "15:40",
+        "19:00",
+        "20:50",
+        "21:25"
+      ]
+    },
+    "shows": {
+      "2026-10-19": [
+        {
+          "time": "15:40",
+          "tags": []
+        },
+        {
+          "time": "19:00",
+          "tags": []
+        },
+        {
+          "time": "22:00",
+          "tags": []
+        }
+      ],
+      "2026-10-20": [
+        {
+          "time": "15:40",
+          "tags": []
+        },
+        {
+          "time": "20:40",
+          "tags": []
+        }
+      ],
+      "2026-10-21": [
+        {
+          "time": "15:40",
+          "tags": []
+        },
+        {
+          "time": "19:00",
+          "tags": []
+        },
+        {
+          "time": "20:50",
+          "tags": []
+        },
+        {
+          "time": "21:25",
+          "tags": []
+        }
+      ]
+    },
+    "room": "Sala 6",
+    "vo": false,
+    "url": "https://ucicinemas.it/film/lestranea/",
+    "smart": {
+      "2026-10-19": 58,
+      "2026-10-20": 54,
+      "2026-10-21": 62
+    },
+    "rankUscita": 14,
+    "rankVoto": 8
+  },
+  {
+    "title": "Je so’ pazzo",
+    "poster": "https://image.tmdb.org/t/p/w185/impo3YqfZZbJUI3woorG0OYV3XI.jpg",
+    "rating": 6.9,
+    "ratings": {
       "letterboxd": null,
-      "imdb": 7.1,
+      "imdb": 6.9,
       "metacritic": null,
       "mubi": null
     },
@@ -674,100 +763,11 @@
     "vo": false,
     "url": "https://ucicinemas.it/film/je-so-pazzo/",
     "smart": {
-      "2026-10-19": 67,
-      "2026-10-20": 67,
-      "2026-10-21": 63
+      "2026-10-19": 65,
+      "2026-10-20": 65,
+      "2026-10-21": 61
     },
     "rankUscita": 8,
-    "rankVoto": 8
-  },
-  {
-    "title": "L'estranea",
-    "poster": "https://image.tmdb.org/t/p/w185/6GisyPsQBvnpgMKXqtPuwJqpZzl.jpg",
-    "rating": 7.1,
-    "ratings": {
-      "letterboxd": 7.3,
-      "imdb": 7.4,
-      "metacritic": null,
-      "mubi": 6.5
-    },
-    "releaseDate": "2026-10-08",
-    "showtimes": [
-      "15:40",
-      "19:00",
-      "22:00"
-    ],
-    "showtimesDate": "2026-10-19",
-    "days": {
-      "2026-10-19": [
-        "15:40",
-        "19:00",
-        "22:00"
-      ],
-      "2026-10-20": [
-        "15:40",
-        "20:40"
-      ],
-      "2026-10-21": [
-        "15:40",
-        "19:00",
-        "20:50",
-        "21:25"
-      ]
-    },
-    "shows": {
-      "2026-10-19": [
-        {
-          "time": "15:40",
-          "tags": []
-        },
-        {
-          "time": "19:00",
-          "tags": []
-        },
-        {
-          "time": "22:00",
-          "tags": []
-        }
-      ],
-      "2026-10-20": [
-        {
-          "time": "15:40",
-          "tags": []
-        },
-        {
-          "time": "20:40",
-          "tags": []
-        }
-      ],
-      "2026-10-21": [
-        {
-          "time": "15:40",
-          "tags": []
-        },
-        {
-          "time": "19:00",
-          "tags": []
-        },
-        {
-          "time": "20:50",
-          "tags": []
-        },
-        {
-          "time": "21:25",
-          "tags": []
-        }
-      ]
-    },
-    "room": "Sala 6",
-    "vo": false,
-    "url": "https://ucicinemas.it/film/lestranea/",
-    "smart": {
-      "2026-10-19": 58,
-      "2026-10-20": 54,
-      "2026-10-21": 62
-    },
-    "rankUscita": 14,
     "rankVoto": 9
   },
   {
@@ -1314,7 +1314,7 @@
     "rating": 5.5,
     "ratings": {
       "letterboxd": 5.8,
-      "imdb": 6.2,
+      "imdb": 6.3,
       "metacritic": 4.5,
       "mubi": null
     },
