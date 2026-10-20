@@ -5,7 +5,7 @@
     "rating": 8.6,
     "ratings": {
       "letterboxd": 8.3,
-      "imdb": 8.9,
+      "imdb": 8.8,
       "metacritic": 8.6,
       "mubi": null
     },
@@ -272,55 +272,6 @@
     "rankVoto": 5
   },
   {
-    "title": "Je so’ pazzo",
-    "poster": "https://image.tmdb.org/t/p/w185/impo3YqfZZbJUI3woorG0OYV3XI.jpg",
-    "rating": 6.9,
-    "ratings": {
-      "letterboxd": null,
-      "imdb": 6.9,
-      "metacritic": null,
-      "mubi": null
-    },
-    "releaseDate": "2026-10-15",
-    "showtimes": [
-      "16:50",
-      "18:45",
-      "21:20"
-    ],
-    "showtimesDate": "2026-10-20",
-    "days": {
-      "2026-10-20": [
-        "16:50",
-        "18:45",
-        "21:20"
-      ]
-    },
-    "shows": {
-      "2026-10-20": [
-        {
-          "time": "16:50",
-          "tags": []
-        },
-        {
-          "time": "18:45",
-          "tags": []
-        },
-        {
-          "time": "21:20",
-          "tags": []
-        }
-      ]
-    },
-    "room": "Sala 1",
-    "vo": false,
-    "url": "https://roma.andromeda.18tickets.it/film/82094",
-    "smart": {
-      "2026-10-20": 76
-    },
-    "rankUscita": 8,
-    "rankVoto": 6
-  },
-  {
     "title": "Primetime",
     "poster": "https://image.tmdb.org/t/p/w185/sqArsDFYFryd5iKuoxLvr4y5NZv.jpg",
     "rating": 6.9,
@@ -367,6 +318,55 @@
     "url": "https://roma.andromeda.18tickets.it/film/85460",
     "smart": {
       "2026-10-20": 76
+    },
+    "rankUscita": 8,
+    "rankVoto": 6
+  },
+  {
+    "title": "Je so’ pazzo",
+    "poster": "https://image.tmdb.org/t/p/w185/impo3YqfZZbJUI3woorG0OYV3XI.jpg",
+    "rating": 6.8,
+    "ratings": {
+      "letterboxd": null,
+      "imdb": 6.8,
+      "metacritic": null,
+      "mubi": null
+    },
+    "releaseDate": "2026-10-15",
+    "showtimes": [
+      "16:50",
+      "18:45",
+      "21:20"
+    ],
+    "showtimesDate": "2026-10-20",
+    "days": {
+      "2026-10-20": [
+        "16:50",
+        "18:45",
+        "21:20"
+      ]
+    },
+    "shows": {
+      "2026-10-20": [
+        {
+          "time": "16:50",
+          "tags": []
+        },
+        {
+          "time": "18:45",
+          "tags": []
+        },
+        {
+          "time": "21:20",
+          "tags": []
+        }
+      ]
+    },
+    "room": "Sala 1",
+    "vo": false,
+    "url": "https://roma.andromeda.18tickets.it/film/82094",
+    "smart": {
+      "2026-10-20": 75
     },
     "rankUscita": 9,
     "rankVoto": 7
