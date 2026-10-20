@@ -5,7 +5,7 @@
     "rating": 8.6,
     "ratings": {
       "letterboxd": 8.3,
-      "imdb": 8.8,
+      "imdb": 8.9,
       "metacritic": 8.6,
       "mubi": null
     },
@@ -652,83 +652,12 @@
     "rankVoto": 9
   },
   {
-    "title": "Primetime",
-    "poster": "https://image.tmdb.org/t/p/w185/sqArsDFYFryd5iKuoxLvr4y5NZv.jpg",
-    "rating": 6.9,
-    "ratings": {
-      "letterboxd": 7.3,
-      "imdb": 7.1,
-      "metacritic": 6.7,
-      "mubi": 6.5
-    },
-    "releaseDate": "2026-10-15",
-    "showtimes": [
-      "16:20",
-      "19:40",
-      "21:20"
-    ],
-    "showtimesDate": "2026-10-20",
-    "days": {
-      "2026-10-20": [
-        "16:20",
-        "19:40",
-        "21:20"
-      ],
-      "2026-10-21": [
-        "16:20",
-        "19:40",
-        "21:20"
-      ]
-    },
-    "shows": {
-      "2026-10-20": [
-        {
-          "time": "16:20",
-          "tags": [
-            "XL"
-          ]
-        },
-        {
-          "time": "19:40",
-          "tags": []
-        },
-        {
-          "time": "21:20",
-          "tags": []
-        }
-      ],
-      "2026-10-21": [
-        {
-          "time": "16:20",
-          "tags": []
-        },
-        {
-          "time": "19:40",
-          "tags": []
-        },
-        {
-          "time": "21:20",
-          "tags": []
-        }
-      ]
-    },
-    "room": "Sala 5 XL",
-    "vo": false,
-    "url": "https://ucicinemas.it/film/primetime/",
-    "smart": {
-      "2026-10-20": 60,
-      "2026-10-21": 60
-    },
-    "rankUscita": 8,
-    "rankVoto": 10
-  },
-  {
     "title": "Je so’ pazzo",
     "poster": "https://image.tmdb.org/t/p/w185/impo3YqfZZbJUI3woorG0OYV3XI.jpg",
-    "rating": 6.8,
+    "rating": 6.9,
     "ratings": {
       "letterboxd": null,
-      "imdb": 6.8,
+      "imdb": 6.9,
       "metacritic": null,
       "mubi": null
     },
@@ -795,8 +724,79 @@
     "vo": false,
     "url": "https://ucicinemas.it/film/je-so-pazzo/",
     "smart": {
-      "2026-10-20": 63,
-      "2026-10-21": 59
+      "2026-10-20": 64,
+      "2026-10-21": 60
+    },
+    "rankUscita": 8,
+    "rankVoto": 10
+  },
+  {
+    "title": "Primetime",
+    "poster": "https://image.tmdb.org/t/p/w185/sqArsDFYFryd5iKuoxLvr4y5NZv.jpg",
+    "rating": 6.9,
+    "ratings": {
+      "letterboxd": 7.3,
+      "imdb": 7.1,
+      "metacritic": 6.7,
+      "mubi": 6.5
+    },
+    "releaseDate": "2026-10-15",
+    "showtimes": [
+      "16:20",
+      "19:40",
+      "21:20"
+    ],
+    "showtimesDate": "2026-10-20",
+    "days": {
+      "2026-10-20": [
+        "16:20",
+        "19:40",
+        "21:20"
+      ],
+      "2026-10-21": [
+        "16:20",
+        "19:40",
+        "21:20"
+      ]
+    },
+    "shows": {
+      "2026-10-20": [
+        {
+          "time": "16:20",
+          "tags": [
+            "XL"
+          ]
+        },
+        {
+          "time": "19:40",
+          "tags": []
+        },
+        {
+          "time": "21:20",
+          "tags": []
+        }
+      ],
+      "2026-10-21": [
+        {
+          "time": "16:20",
+          "tags": []
+        },
+        {
+          "time": "19:40",
+          "tags": []
+        },
+        {
+          "time": "21:20",
+          "tags": []
+        }
+      ]
+    },
+    "room": "Sala 5 XL",
+    "vo": false,
+    "url": "https://ucicinemas.it/film/primetime/",
+    "smart": {
+      "2026-10-20": 60,
+      "2026-10-21": 60
     },
     "rankUscita": 9,
     "rankVoto": 11
