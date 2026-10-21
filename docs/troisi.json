@@ -84,11 +84,11 @@
     "vo": true,
     "url": "https://www.liveticket.it/opera.aspx?Id=695512",
     "smart": {
-      "2026-10-21": 70,
+      "2026-10-21": 69,
       "2026-10-22": 84,
-      "2026-10-23": 70,
+      "2026-10-23": 69,
       "2026-10-25": 84,
-      "2026-10-26": 70
+      "2026-10-26": 69
     },
     "rankUscita": 3,
     "rankVoto": 0
@@ -117,6 +117,9 @@
       ],
       "2026-10-24": [
         "22:00"
+      ],
+      "2026-10-27": [
+        "14:30"
       ]
     },
     "shows": {
@@ -143,6 +146,14 @@
             "VO"
           ]
         }
+      ],
+      "2026-10-27": [
+        {
+          "time": "14:30",
+          "tags": [
+            "VO"
+          ]
+        }
       ]
     },
     "room": null,
@@ -151,9 +162,10 @@
     "smart": {
       "2026-10-22": 55,
       "2026-10-23": 55,
-      "2026-10-24": 55
+      "2026-10-24": 55,
+      "2026-10-27": 69
     },
-    "rankUscita": 9,
+    "rankUscita": 10,
     "rankVoto": 1
   },
   {
@@ -207,15 +219,11 @@
     },
     "releaseDate": "2026-10-16",
     "showtimes": [
-      "11:00",
-      "20:30"
+      "13:30",
+      "20:00"
     ],
-    "showtimesDate": "2026-10-20",
+    "showtimesDate": "2026-10-21",
     "days": {
-      "2026-10-20": [
-        "11:00",
-        "20:30"
-      ],
       "2026-10-21": [
         "13:30",
         "20:00"
@@ -237,23 +245,12 @@
       "2026-10-26": [
         "11:00",
         "18:30"
+      ],
+      "2026-10-27": [
+        "16:30"
       ]
     },
     "shows": {
-      "2026-10-20": [
-        {
-          "time": "11:00",
-          "tags": [
-            "VO"
-          ]
-        },
-        {
-          "time": "20:30",
-          "tags": [
-            "VO"
-          ]
-        }
-      ],
       "2026-10-21": [
         {
           "time": "13:30",
@@ -325,19 +322,27 @@
             "VO"
           ]
         }
+      ],
+      "2026-10-27": [
+        {
+          "time": "16:30",
+          "tags": [
+            "VO"
+          ]
+        }
       ]
     },
     "room": null,
     "vo": true,
     "url": "https://www.liveticket.it/opera.aspx?Id=704008",
     "smart": {
-      "2026-10-20": 89,
-      "2026-10-21": 89,
-      "2026-10-22": 75,
-      "2026-10-23": 89,
-      "2026-10-24": 89,
-      "2026-10-25": 89,
-      "2026-10-26": 89
+      "2026-10-21": 88,
+      "2026-10-22": 74,
+      "2026-10-23": 88,
+      "2026-10-24": 88,
+      "2026-10-25": 88,
+      "2026-10-26": 88,
+      "2026-10-27": 88
     },
     "rankUscita": 1,
     "rankVoto": 3
@@ -354,15 +359,10 @@
     },
     "releaseDate": "1971-09-11",
     "showtimes": [
-      "13:30",
-      "22:30"
+      "11:00"
     ],
-    "showtimesDate": "2026-10-20",
+    "showtimesDate": "2026-10-21",
     "days": {
-      "2026-10-20": [
-        "13:30",
-        "22:30"
-      ],
       "2026-10-21": [
         "11:00"
       ],
@@ -380,20 +380,6 @@
       ]
     },
     "shows": {
-      "2026-10-20": [
-        {
-          "time": "13:30",
-          "tags": [
-            "VO"
-          ]
-        },
-        {
-          "time": "22:30",
-          "tags": [
-            "VO"
-          ]
-        }
-      ],
       "2026-10-21": [
         {
           "time": "11:00",
@@ -439,14 +425,13 @@
     "vo": true,
     "url": "https://www.liveticket.it/opera.aspx?Id=705302",
     "smart": {
-      "2026-10-20": 59,
       "2026-10-21": 45,
       "2026-10-23": 45,
       "2026-10-24": 45,
       "2026-10-25": 59,
       "2026-10-26": 45
     },
-    "rankUscita": 10,
+    "rankUscita": 11,
     "rankVoto": 4
   },
   {
@@ -485,8 +470,45 @@
     "smart": {
       "2026-10-26": 41
     },
-    "rankUscita": 8,
+    "rankUscita": 9,
     "rankVoto": 5
+  },
+  {
+    "title": "Prima della rivoluzione",
+    "poster": "https://image.tmdb.org/t/p/w185/rFfOdkg2UIcUw6nJbGk86O6cdq4.jpg",
+    "rating": 7.2,
+    "ratings": {
+      "letterboxd": 7.2,
+      "imdb": 6.8,
+      "metacritic": null,
+      "mubi": 7.5
+    },
+    "releaseDate": "1964-05-13",
+    "showtimes": [
+      "18:30"
+    ],
+    "showtimesDate": "2026-10-27",
+    "days": {
+      "2026-10-27": [
+        "18:30"
+      ]
+    },
+    "shows": {
+      "2026-10-27": [
+        {
+          "time": "18:30",
+          "tags": []
+        }
+      ]
+    },
+    "room": null,
+    "vo": false,
+    "url": "https://www.liveticket.it/opera.aspx?Id=705627",
+    "smart": {
+      "2026-10-27": 56
+    },
+    "rankUscita": 12,
+    "rankVoto": 6
   },
   {
     "title": "L'estranea",
@@ -500,13 +522,11 @@
     },
     "releaseDate": "2026-10-08",
     "showtimes": [
-      "16:00"
+      "15:30",
+      "22:00"
     ],
-    "showtimesDate": "2026-10-20",
+    "showtimesDate": "2026-10-21",
     "days": {
-      "2026-10-20": [
-        "16:00"
-      ],
       "2026-10-21": [
         "15:30",
         "22:00"
@@ -516,15 +536,12 @@
       ],
       "2026-10-24": [
         "15:00"
+      ],
+      "2026-10-27": [
+        "11:00"
       ]
     },
     "shows": {
-      "2026-10-20": [
-        {
-          "time": "16:00",
-          "tags": []
-        }
-      ],
       "2026-10-21": [
         {
           "time": "15:30",
@@ -546,55 +563,24 @@
           "time": "15:00",
           "tags": []
         }
-      ]
-    },
-    "room": null,
-    "vo": false,
-    "url": "https://www.liveticket.it/opera.aspx?Id=699891",
-    "smart": {
-      "2026-10-20": 59,
-      "2026-10-21": 74,
-      "2026-10-23": 59,
-      "2026-10-24": 59
-    },
-    "rankUscita": 2,
-    "rankVoto": 6
-  },
-  {
-    "title": "La commare secca",
-    "poster": "https://image.tmdb.org/t/p/w185/2oHkoiy2EUR96FvcAVhnr68s3rl.jpg",
-    "rating": 6.9,
-    "ratings": {
-      "letterboxd": 7,
-      "imdb": 6.8,
-      "metacritic": null,
-      "mubi": 7
-    },
-    "releaseDate": "1962-08-27",
-    "showtimes": [
-      "18:30"
-    ],
-    "showtimesDate": "2026-10-20",
-    "days": {
-      "2026-10-20": [
-        "18:30"
-      ]
-    },
-    "shows": {
-      "2026-10-20": [
+      ],
+      "2026-10-27": [
         {
-          "time": "18:30",
+          "time": "11:00",
           "tags": []
         }
       ]
     },
     "room": null,
     "vo": false,
-    "url": "https://www.liveticket.it/opera.aspx?Id=705725",
+    "url": "https://www.liveticket.it/opera.aspx?Id=699891",
     "smart": {
-      "2026-10-20": 38
+      "2026-10-21": 73,
+      "2026-10-23": 59,
+      "2026-10-24": 59,
+      "2026-10-27": 73
     },
-    "rankUscita": 11,
+    "rankUscita": 2,
     "rankVoto": 7
   },
   {
@@ -633,7 +619,7 @@
     "smart": {
       "2026-10-24": 31
     },
-    "rankUscita": 7,
+    "rankUscita": 8,
     "rankVoto": 8
   },
   {
@@ -670,7 +656,7 @@
     "smart": {
       "2026-10-25": 38
     },
-    "rankUscita": 5,
+    "rankUscita": 6,
     "rankVoto": 9
   },
   {
@@ -717,8 +703,45 @@
       "2026-10-22": 22,
       "2026-10-23": 22
     },
-    "rankUscita": 4,
+    "rankUscita": 5,
     "rankVoto": 10
+  },
+  {
+    "title": "Era",
+    "poster": "https://image.tmdb.org/t/p/w185/3JVEcMjSDGQ9f9g739r0rfaemuD.jpg",
+    "rating": null,
+    "ratings": {
+      "letterboxd": null,
+      "imdb": null,
+      "metacritic": null,
+      "mubi": null
+    },
+    "releaseDate": "2026-03-26",
+    "showtimes": [
+      "21:00"
+    ],
+    "showtimesDate": "2026-10-27",
+    "days": {
+      "2026-10-27": [
+        "21:00"
+      ]
+    },
+    "shows": {
+      "2026-10-27": [
+        {
+          "time": "21:00",
+          "tags": []
+        }
+      ]
+    },
+    "room": null,
+    "vo": false,
+    "url": "https://www.liveticket.it/opera.aspx?Id=705609",
+    "smart": {
+      "2026-10-27": 50
+    },
+    "rankUscita": 4,
+    "rankVoto": 11
   },
   {
     "title": "Il canto di Alina",
@@ -794,8 +817,8 @@
       "2026-10-25": 50,
       "2026-10-26": 36
     },
-    "rankUscita": 6,
-    "rankVoto": 11
+    "rankUscita": 7,
+    "rankVoto": 12
   },
   {
     "title": "Il dottor Stranamore",
@@ -857,8 +880,8 @@
       "2026-10-25": 64,
       "2026-10-26": 50
     },
-    "rankUscita": 12,
-    "rankVoto": 12
+    "rankUscita": 13,
+    "rankVoto": 13
   },
   {
     "title": "Swans Live Berlin",
@@ -894,7 +917,7 @@
     "smart": {
       "2026-10-26": 50
     },
-    "rankUscita": 13,
-    "rankVoto": 13
+    "rankUscita": 14,
+    "rankVoto": 14
   }
 ]

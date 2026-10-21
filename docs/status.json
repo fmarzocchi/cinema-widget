@@ -1,12 +1,12 @@
 {
-  "updatedAt": "2026-10-20T19:51:06.788Z",
-  "today": "2026-10-20",
+  "updatedAt": "2026-10-21T00:25:52.699Z",
+  "today": "2026-10-21",
   "ratingScale": 10,
   "ratingSources": {
-    "film": 49,
-    "letterboxd": 30,
+    "film": 51,
+    "letterboxd": 31,
     "imdb": 33,
-    "metacritic": 25,
+    "metacritic": 26,
     "mubi": 23,
     "media": 34
   },
@@ -16,7 +16,7 @@
       "key": "porta",
       "label": "PORTA",
       "cinema": "UCI Cinemas Porta di Roma",
-      "count": 30,
+      "count": 31,
       "state": "ok",
       "url": "https://fmarzocchi.github.io/cinema-widget/porta.json"
     },
@@ -24,7 +24,7 @@
       "key": "troisi",
       "label": "TROISI",
       "cinema": "Cinema Troisi",
-      "count": 14,
+      "count": 15,
       "state": "ok",
       "url": "https://fmarzocchi.github.io/cinema-widget/troisi.json"
     },
