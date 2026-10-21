@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-21T09:08:43.649Z",
+  "updatedAt": "2026-10-21T14:52:33.340Z",
   "today": "2026-10-21",
   "ratingScale": 10,
   "ratingSources": {
@@ -16,7 +16,7 @@
       "key": "porta",
       "label": "PORTA",
       "cinema": "UCI Cinemas Porta di Roma",
-      "count": 31,
+      "count": 34,
       "state": "ok",
       "url": "https://fmarzocchi.github.io/cinema-widget/porta.json"
     },
@@ -32,7 +32,7 @@
       "key": "andromeda",
       "label": "ANDROMEDA",
       "cinema": "Multisala Andromeda",
-      "count": 16,
+      "count": 14,
       "state": "ok",
       "url": "https://fmarzocchi.github.io/cinema-widget/andromeda.json"
     }
