@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-10-21T00:25:52.699Z",
+  "updatedAt": "2026-10-21T09:08:43.649Z",
   "today": "2026-10-21",
   "ratingScale": 10,
   "ratingSources": {
-    "film": 51,
+    "film": 50,
     "letterboxd": 31,
     "imdb": 33,
     "metacritic": 26,
@@ -32,7 +32,7 @@
       "key": "andromeda",
       "label": "ANDROMEDA",
       "cinema": "Multisala Andromeda",
-      "count": 18,
+      "count": 16,
       "state": "ok",
       "url": "https://fmarzocchi.github.io/cinema-widget/andromeda.json"
     }

@@ -51,10 +51,10 @@
   {
     "title": "Zustìssia",
     "poster": "https://image.tmdb.org/t/p/w185/15IfVZjAiwUkTx7Bib58wJTjOSi.jpg",
-    "rating": 7.7,
+    "rating": 7.8,
     "ratings": {
       "letterboxd": null,
-      "imdb": 7.7,
+      "imdb": 7.8,
       "metacritic": null,
       "mubi": null
     },
@@ -86,7 +86,7 @@
     "vo": false,
     "url": "https://roma.andromeda.18tickets.it/film/82160",
     "smart": {
-      "2026-10-21": 76
+      "2026-10-21": 77
     },
     "rankUscita": 6,
     "rankVoto": 1
@@ -125,7 +125,7 @@
     "smart": {
       "2026-10-21": 53
     },
-    "rankUscita": 15,
+    "rankUscita": 14,
     "rankVoto": 2
   },
   {
@@ -170,10 +170,10 @@
     "poster": "https://image.tmdb.org/t/p/w185/bwZCHb0qCFP2QT3QylGixpsNo8D.jpg",
     "rating": 7.2,
     "ratings": {
-      "letterboxd": 7.8,
-      "imdb": 7.3,
-      "metacritic": 7.3,
-      "mubi": 6.5
+      "letterboxd": 8,
+      "imdb": 7.4,
+      "metacritic": 7.1,
+      "mubi": 6.4
     },
     "releaseDate": "2026-10-22",
     "showtimes": [
@@ -234,24 +234,18 @@
     },
     "releaseDate": "2026-10-08",
     "showtimes": [
-      "16:50",
       "18:50",
       "21:15"
     ],
     "showtimesDate": "2026-10-21",
     "days": {
       "2026-10-21": [
-        "16:50",
         "18:50",
         "21:15"
       ]
     },
     "shows": {
       "2026-10-21": [
-        {
-          "time": "16:50",
-          "tags": []
-        },
         {
           "time": "18:50",
           "tags": []
@@ -266,18 +260,63 @@
     "vo": false,
     "url": "https://roma.andromeda.18tickets.it/film/80411",
     "smart": {
-      "2026-10-21": 73
+      "2026-10-21": 63
     },
-    "rankUscita": 13,
+    "rankUscita": 12,
     "rankVoto": 5
+  },
+  {
+    "title": "Primetime",
+    "poster": "https://image.tmdb.org/t/p/w185/sqArsDFYFryd5iKuoxLvr4y5NZv.jpg",
+    "rating": 6.9,
+    "ratings": {
+      "letterboxd": 7.3,
+      "imdb": 7.1,
+      "metacritic": 6.7,
+      "mubi": 6.5
+    },
+    "releaseDate": "2026-10-15",
+    "showtimes": [
+      "16:45",
+      "21:15"
+    ],
+    "showtimesDate": "2026-10-21",
+    "days": {
+      "2026-10-21": [
+        "16:45",
+        "21:15"
+      ]
+    },
+    "shows": {
+      "2026-10-21": [
+        {
+          "time": "16:45",
+          "tags": []
+        },
+        {
+          "time": "21:15",
+          "tags": [
+            "VO"
+          ]
+        }
+      ]
+    },
+    "room": null,
+    "vo": false,
+    "url": "https://roma.andromeda.18tickets.it/film/85460",
+    "smart": {
+      "2026-10-21": 66
+    },
+    "rankUscita": 8,
+    "rankVoto": 6
   },
   {
     "title": "Je so’ pazzo",
     "poster": "https://image.tmdb.org/t/p/w185/impo3YqfZZbJUI3woorG0OYV3XI.jpg",
-    "rating": 6.9,
+    "rating": 6.8,
     "ratings": {
       "letterboxd": null,
-      "imdb": 6.9,
+      "imdb": 6.8,
       "metacritic": null,
       "mubi": null
     },
@@ -315,58 +354,7 @@
     "vo": false,
     "url": "https://roma.andromeda.18tickets.it/film/82094",
     "smart": {
-      "2026-10-21": 75
-    },
-    "rankUscita": 8,
-    "rankVoto": 6
-  },
-  {
-    "title": "Primetime",
-    "poster": "https://image.tmdb.org/t/p/w185/sqArsDFYFryd5iKuoxLvr4y5NZv.jpg",
-    "rating": 6.9,
-    "ratings": {
-      "letterboxd": 7.3,
-      "imdb": 7.1,
-      "metacritic": 6.7,
-      "mubi": 6.5
-    },
-    "releaseDate": "2026-10-15",
-    "showtimes": [
-      "16:45",
-      "21:15",
-      "21:20"
-    ],
-    "showtimesDate": "2026-10-21",
-    "days": {
-      "2026-10-21": [
-        "16:45",
-        "21:15",
-        "21:20"
-      ]
-    },
-    "shows": {
-      "2026-10-21": [
-        {
-          "time": "16:45",
-          "tags": []
-        },
-        {
-          "time": "21:15",
-          "tags": [
-            "VO"
-          ]
-        },
-        {
-          "time": "21:20",
-          "tags": []
-        }
-      ]
-    },
-    "room": "Sala 4",
-    "vo": false,
-    "url": "https://roma.andromeda.18tickets.it/film/85460",
-    "smart": {
-      "2026-10-21": 75
+      "2026-10-21": 74
     },
     "rankUscita": 9,
     "rankVoto": 7
@@ -377,7 +365,7 @@
     "rating": 6.4,
     "ratings": {
       "letterboxd": 6.5,
-      "imdb": 6.8,
+      "imdb": 6.7,
       "metacritic": 5.9,
       "mubi": null
     },
@@ -489,43 +477,6 @@
     "rankVoto": 10
   },
   {
-    "title": "Street Fighter",
-    "poster": "https://image.tmdb.org/t/p/w185/dJPT2Uf12X6aFg8i5N67NTpIZ9t.jpg",
-    "rating": 5.5,
-    "ratings": {
-      "letterboxd": 5.8,
-      "imdb": 6.3,
-      "metacritic": 4.5,
-      "mubi": null
-    },
-    "releaseDate": "2026-10-15",
-    "showtimes": [
-      "19:00"
-    ],
-    "showtimesDate": "2026-10-21",
-    "days": {
-      "2026-10-21": [
-        "19:00"
-      ]
-    },
-    "shows": {
-      "2026-10-21": [
-        {
-          "time": "19:00",
-          "tags": []
-        }
-      ]
-    },
-    "room": null,
-    "vo": false,
-    "url": "https://roma.andromeda.18tickets.it/film/82095",
-    "smart": {
-      "2026-10-21": 39
-    },
-    "rankUscita": 12,
-    "rankVoto": 11
-  },
-  {
     "title": "Mammina",
     "poster": "https://image.tmdb.org/t/p/w185/ir1esRZZk49yKaLAVQd2FgvLxLf.jpg",
     "rating": 4.3,
@@ -565,8 +516,8 @@
     "smart": {
       "2026-10-21": 38
     },
-    "rankUscita": 14,
-    "rankVoto": 12
+    "rankUscita": 13,
+    "rankVoto": 11
   },
   {
     "title": "Clayface",
@@ -609,7 +560,7 @@
       "2026-10-22": 64
     },
     "rankUscita": 3,
-    "rankVoto": 13
+    "rankVoto": 12
   },
   {
     "title": "L'assurda storia della Gialappa's Band",
@@ -652,7 +603,7 @@
       "2026-10-22": 64
     },
     "rankUscita": 4,
-    "rankVoto": 14
+    "rankVoto": 13
   },
   {
     "title": "Se ami qualcuno dillo",
@@ -701,7 +652,7 @@
       "2026-10-21": 74
     },
     "rankUscita": 5,
-    "rankVoto": 15
+    "rankVoto": 14
   },
   {
     "title": "Matrix 4K",
@@ -745,52 +696,7 @@
     "smart": {
       "2026-10-26": 64
     },
-    "rankUscita": 16,
-    "rankVoto": 16
-  },
-  {
-    "title": "Trainspotting 30° Anniversario",
-    "poster": "https://cdn.18tickets.net/ccroma/uploads/film/playbill/85691/standard_e230b361-e733-4f0f-bf31-dfbca462c227.jpeg",
-    "rating": null,
-    "ratings": {
-      "letterboxd": null,
-      "imdb": null,
-      "metacritic": null,
-      "mubi": null
-    },
-    "releaseDate": null,
-    "showtimes": [
-      "19:10",
-      "21:30"
-    ],
-    "showtimesDate": "2026-10-21",
-    "days": {
-      "2026-10-21": [
-        "19:10",
-        "21:30"
-      ]
-    },
-    "shows": {
-      "2026-10-21": [
-        {
-          "time": "19:10",
-          "tags": []
-        },
-        {
-          "time": "21:30",
-          "tags": [
-            "VO"
-          ]
-        }
-      ]
-    },
-    "room": null,
-    "vo": false,
-    "url": "https://roma.andromeda.18tickets.it/film/85691",
-    "smart": {
-      "2026-10-21": 55
-    },
-    "rankUscita": 17,
-    "rankVoto": 17
+    "rankUscita": 15,
+    "rankVoto": 15
   }
 ]
