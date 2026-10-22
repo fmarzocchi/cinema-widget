@@ -798,12 +798,125 @@
     "rankVoto": 8
   },
   {
+    "title": "Caro Mondo Crudele",
+    "poster": "https://image.tmdb.org/t/p/w185/osTo8g66Bxxu4J4XKEhacesK8gd.jpg",
+    "rating": 7.2,
+    "ratings": {
+      "letterboxd": null,
+      "imdb": 7.2,
+      "metacritic": null,
+      "mubi": null
+    },
+    "releaseDate": "2026-10-22",
+    "showtimes": [
+      "15:10",
+      "19:00"
+    ],
+    "showtimesDate": "2026-10-22",
+    "days": {
+      "2026-10-22": [
+        "15:10",
+        "19:00"
+      ],
+      "2026-10-23": [
+        "15:10",
+        "19:00"
+      ],
+      "2026-10-24": [
+        "15:10"
+      ],
+      "2026-10-25": [
+        "15:10",
+        "19:00"
+      ],
+      "2026-10-26": [
+        "19:00"
+      ],
+      "2026-10-27": [
+        "19:00"
+      ],
+      "2026-10-28": [
+        "19:00"
+      ]
+    },
+    "shows": {
+      "2026-10-22": [
+        {
+          "time": "15:10",
+          "tags": []
+        },
+        {
+          "time": "19:00",
+          "tags": []
+        }
+      ],
+      "2026-10-23": [
+        {
+          "time": "15:10",
+          "tags": []
+        },
+        {
+          "time": "19:00",
+          "tags": []
+        }
+      ],
+      "2026-10-24": [
+        {
+          "time": "15:10",
+          "tags": []
+        }
+      ],
+      "2026-10-25": [
+        {
+          "time": "15:10",
+          "tags": []
+        },
+        {
+          "time": "19:00",
+          "tags": []
+        }
+      ],
+      "2026-10-26": [
+        {
+          "time": "19:00",
+          "tags": []
+        }
+      ],
+      "2026-10-27": [
+        {
+          "time": "19:00",
+          "tags": []
+        }
+      ],
+      "2026-10-28": [
+        {
+          "time": "19:00",
+          "tags": []
+        }
+      ]
+    },
+    "room": "Sala 2",
+    "vo": false,
+    "url": "https://ucicinemas.it/film/caro-mondo-crudele/",
+    "smart": {
+      "2026-10-22": 67,
+      "2026-10-23": 65,
+      "2026-10-24": 60,
+      "2026-10-25": 67,
+      "2026-10-26": 61,
+      "2026-10-27": 60,
+      "2026-10-28": 61
+    },
+    "rankUscita": 6,
+    "rankVoto": 9
+  },
+  {
     "title": "Ragione e sentimento",
     "poster": "https://image.tmdb.org/t/p/w185/bwZCHb0qCFP2QT3QylGixpsNo8D.jpg",
     "rating": 7.2,
     "ratings": {
       "letterboxd": 8,
-      "imdb": 7.4,
+      "imdb": 7.3,
       "metacritic": 7.1,
       "mubi": 6.4
     },
@@ -1027,8 +1140,8 @@
       "2026-10-27": 75,
       "2026-10-28": 73
     },
-    "rankUscita": 6,
-    "rankVoto": 9
+    "rankUscita": 7,
+    "rankVoto": 10
   },
   {
     "title": "Tony - Diario di un giovane cuoco",
@@ -1065,7 +1178,7 @@
       "2026-10-26": 37
     },
     "rankUscita": 27,
-    "rankVoto": 10
+    "rankVoto": 11
   },
   {
     "title": "L'estranea",
@@ -1214,7 +1327,7 @@
       "2026-10-28": 49
     },
     "rankUscita": 21,
-    "rankVoto": 11
+    "rankVoto": 12
   },
   {
     "title": "Urchin",
@@ -1320,8 +1433,8 @@
       "2026-10-27": 58,
       "2026-10-28": 59
     },
-    "rankUscita": 7,
-    "rankVoto": 12
+    "rankUscita": 8,
+    "rankVoto": 13
   },
   {
     "title": "Primetime",
@@ -1464,7 +1577,7 @@
       "2026-10-28": 63
     },
     "rankUscita": 15,
-    "rankVoto": 13
+    "rankVoto": 14
   },
   {
     "title": "Je so’ pazzo",
@@ -1684,7 +1797,7 @@
       "2026-10-28": 68
     },
     "rankUscita": 16,
-    "rankVoto": 14
+    "rankVoto": 15
   },
   {
     "title": "Clayface",
@@ -1985,8 +2098,8 @@
       "2026-10-27": 78,
       "2026-10-28": 72
     },
-    "rankUscita": 8,
-    "rankVoto": 15
+    "rankUscita": 9,
+    "rankVoto": 16
   },
   {
     "title": "Heart of the Beast - Nel profondo selvaggio",
@@ -2053,7 +2166,7 @@
       "2026-10-27": 36
     },
     "rankUscita": 25,
-    "rankVoto": 16
+    "rankVoto": 17
   },
   {
     "title": "It Ends",
@@ -2114,7 +2227,7 @@
       "2026-10-28": 74
     },
     "rankUscita": 3,
-    "rankVoto": 17
+    "rankVoto": 18
   },
   {
     "title": "Whalefall - Nella balena",
@@ -2237,7 +2350,7 @@
       "2026-10-28": 44
     },
     "rankUscita": 17,
-    "rankVoto": 18
+    "rankVoto": 19
   },
   {
     "title": "Taddeo l’esploratore e la lampada magica",
@@ -2364,8 +2477,8 @@
       "2026-10-26": 55,
       "2026-10-27": 53
     },
-    "rankUscita": 9,
-    "rankVoto": 19
+    "rankUscita": 10,
+    "rankVoto": 20
   },
   {
     "title": "Frankie e le creature dimenticate",
@@ -2483,7 +2596,7 @@
       "2026-10-28": 38
     },
     "rankUscita": 18,
-    "rankVoto": 20
+    "rankVoto": 21
   },
   {
     "title": "Oceania 2",
@@ -2540,7 +2653,7 @@
       "2026-10-25": 14
     },
     "rankUscita": 31,
-    "rankVoto": 21
+    "rankVoto": 22
   },
   {
     "title": "Street Fighter",
@@ -2784,7 +2897,7 @@
       "2026-10-28": 40
     },
     "rankUscita": 19,
-    "rankVoto": 22
+    "rankVoto": 23
   },
   {
     "title": "Klara e il sole",
@@ -2792,7 +2905,7 @@
     "rating": 5.1,
     "ratings": {
       "letterboxd": 6.5,
-      "imdb": 6,
+      "imdb": 6.1,
       "metacritic": 2.7,
       "mubi": null
     },
@@ -2937,8 +3050,8 @@
       "2026-10-27": 39,
       "2026-10-28": 41
     },
-    "rankUscita": 10,
-    "rankVoto": 23
+    "rankUscita": 11,
+    "rankVoto": 24
   },
   {
     "title": "Verity",
@@ -3036,7 +3149,7 @@
       "2026-10-27": 19
     },
     "rankUscita": 23,
-    "rankVoto": 24
+    "rankVoto": 25
   },
   {
     "title": "Mammina",
@@ -3217,7 +3330,7 @@
       "2026-10-28": 24
     },
     "rankUscita": 22,
-    "rankVoto": 25
+    "rankVoto": 26
   },
   {
     "title": "Un tranquillo funerale di famiglia",
@@ -3254,7 +3367,7 @@
       "2026-10-27": 55
     },
     "rankUscita": 1,
-    "rankVoto": 26
+    "rankVoto": 27
   },
   {
     "title": "BTS - World tour Arirang in Buenos Aires e Sao Paulo",
@@ -3301,119 +3414,6 @@
       "2026-10-25": 61
     },
     "rankUscita": 4,
-    "rankVoto": 27
-  },
-  {
-    "title": "Caro Mondo Crudele",
-    "poster": "https://image.tmdb.org/t/p/w185/osTo8g66Bxxu4J4XKEhacesK8gd.jpg",
-    "rating": null,
-    "ratings": {
-      "letterboxd": null,
-      "imdb": null,
-      "metacritic": null,
-      "mubi": null
-    },
-    "releaseDate": "2026-10-22",
-    "showtimes": [
-      "15:10",
-      "19:00"
-    ],
-    "showtimesDate": "2026-10-22",
-    "days": {
-      "2026-10-22": [
-        "15:10",
-        "19:00"
-      ],
-      "2026-10-23": [
-        "15:10",
-        "19:00"
-      ],
-      "2026-10-24": [
-        "15:10"
-      ],
-      "2026-10-25": [
-        "15:10",
-        "19:00"
-      ],
-      "2026-10-26": [
-        "19:00"
-      ],
-      "2026-10-27": [
-        "19:00"
-      ],
-      "2026-10-28": [
-        "19:00"
-      ]
-    },
-    "shows": {
-      "2026-10-22": [
-        {
-          "time": "15:10",
-          "tags": []
-        },
-        {
-          "time": "19:00",
-          "tags": []
-        }
-      ],
-      "2026-10-23": [
-        {
-          "time": "15:10",
-          "tags": []
-        },
-        {
-          "time": "19:00",
-          "tags": []
-        }
-      ],
-      "2026-10-24": [
-        {
-          "time": "15:10",
-          "tags": []
-        }
-      ],
-      "2026-10-25": [
-        {
-          "time": "15:10",
-          "tags": []
-        },
-        {
-          "time": "19:00",
-          "tags": []
-        }
-      ],
-      "2026-10-26": [
-        {
-          "time": "19:00",
-          "tags": []
-        }
-      ],
-      "2026-10-27": [
-        {
-          "time": "19:00",
-          "tags": []
-        }
-      ],
-      "2026-10-28": [
-        {
-          "time": "19:00",
-          "tags": []
-        }
-      ]
-    },
-    "room": "Sala 2",
-    "vo": false,
-    "url": "https://ucicinemas.it/film/caro-mondo-crudele/",
-    "smart": {
-      "2026-10-22": 61,
-      "2026-10-23": 60,
-      "2026-10-24": 55,
-      "2026-10-25": 61,
-      "2026-10-26": 56,
-      "2026-10-27": 55,
-      "2026-10-28": 56
-    },
-    "rankUscita": 11,
     "rankVoto": 28
   },
   {

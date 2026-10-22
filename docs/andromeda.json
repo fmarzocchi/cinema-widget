@@ -91,7 +91,7 @@
     "rating": 7.2,
     "ratings": {
       "letterboxd": 8,
-      "imdb": 7.4,
+      "imdb": 7.3,
       "metacritic": 7.1,
       "mubi": 6.4
     },
@@ -486,14 +486,12 @@
     },
     "releaseDate": "2026-10-16",
     "showtimes": [
-      "16:30",
-      "19:00"
+      "16:30"
     ],
     "showtimesDate": "2026-10-22",
     "days": {
       "2026-10-22": [
-        "16:30",
-        "19:00"
+        "16:30"
       ]
     },
     "shows": {
@@ -501,18 +499,14 @@
         {
           "time": "16:30",
           "tags": []
-        },
-        {
-          "time": "19:00",
-          "tags": []
         }
       ]
     },
-    "room": "Sala 2",
+    "room": null,
     "vo": false,
     "url": "https://roma.andromeda.18tickets.it/film/82128",
     "smart": {
-      "2026-10-22": 59
+      "2026-10-22": 52
     },
     "rankUscita": 5,
     "rankVoto": 11

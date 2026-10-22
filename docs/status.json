@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-10-22T00:27:37.516Z",
+  "updatedAt": "2026-10-22T09:10:44.274Z",
   "today": "2026-10-22",
   "ratingScale": 10,
   "ratingSources": {
     "film": 55,
     "letterboxd": 35,
-    "imdb": 36,
+    "imdb": 37,
     "metacritic": 30,
     "mubi": 25,
-    "media": 38
+    "media": 39
   },
   "widgetUrl": "https://fmarzocchi.github.io/cinema-widget/cinema.json",
   "feeds": [
