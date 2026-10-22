@@ -2,12 +2,12 @@
   {
     "title": "NAZA",
     "poster": "https://image.tmdb.org/t/p/w185/qfdNOEmMroHjPLpZhNkORcVzgrQ.jpg",
-    "rating": 8.7,
+    "rating": 8.8,
     "ratings": {
-      "letterboxd": 9,
+      "letterboxd": 9.1,
       "imdb": 8.2,
-      "metacritic": 9.4,
-      "mubi": 8.3
+      "metacritic": 9.3,
+      "mubi": 8.4
     },
     "releaseDate": "2026-09-25",
     "showtimes": [
@@ -28,6 +28,9 @@
       ],
       "2026-10-26": [
         "13:00"
+      ],
+      "2026-10-28": [
+        "14:45"
       ]
     },
     "shows": {
@@ -68,18 +71,27 @@
             "VO"
           ]
         }
+      ],
+      "2026-10-28": [
+        {
+          "time": "14:45",
+          "tags": [
+            "VO"
+          ]
+        }
       ]
     },
     "room": null,
     "vo": true,
     "url": "https://www.liveticket.it/opera.aspx?Id=695512",
     "smart": {
-      "2026-10-22": 84,
+      "2026-10-22": 83,
       "2026-10-23": 69,
-      "2026-10-25": 84,
-      "2026-10-26": 69
+      "2026-10-25": 83,
+      "2026-10-26": 69,
+      "2026-10-28": 69
     },
-    "rankUscita": 3,
+    "rankUscita": 4,
     "rankVoto": 0
   },
   {
@@ -154,8 +166,47 @@
       "2026-10-24": 55,
       "2026-10-27": 69
     },
-    "rankUscita": 10,
+    "rankUscita": 11,
     "rankVoto": 1
+  },
+  {
+    "title": "Wild Horse Nine",
+    "poster": "https://image.tmdb.org/t/p/w185/og5qagWp4ZqVl28nbBwiBHZprJM.jpg",
+    "rating": 8.1,
+    "ratings": {
+      "letterboxd": 8.2,
+      "imdb": 8.2,
+      "metacritic": 7.9,
+      "mubi": 8.3
+    },
+    "releaseDate": "2026-11-05",
+    "showtimes": [
+      "21:15"
+    ],
+    "showtimesDate": "2026-10-28",
+    "days": {
+      "2026-10-28": [
+        "21:15"
+      ]
+    },
+    "shows": {
+      "2026-10-28": [
+        {
+          "time": "21:15",
+          "tags": [
+            "VO"
+          ]
+        }
+      ]
+    },
+    "room": null,
+    "vo": true,
+    "url": "https://www.liveticket.it/opera.aspx?Id=705621",
+    "smart": {
+      "2026-10-28": 81
+    },
+    "rankUscita": 0,
+    "rankVoto": 2
   },
   {
     "title": "Making Marie Antoinette",
@@ -193,8 +244,8 @@
     "smart": {
       "2026-10-25": 95
     },
-    "rankUscita": 0,
-    "rankVoto": 2
+    "rankUscita": 1,
+    "rankVoto": 3
   },
   {
     "title": "Fatherland",
@@ -208,19 +259,10 @@
     },
     "releaseDate": "2026-10-16",
     "showtimes": [
-      "13:30",
-      "15:31",
-      "18:01",
-      "20:00"
+      "21:00"
     ],
-    "showtimesDate": "2026-10-21",
+    "showtimesDate": "2026-10-22",
     "days": {
-      "2026-10-21": [
-        "13:30",
-        "15:31",
-        "18:01",
-        "20:00"
-      ],
       "2026-10-22": [
         "21:00"
       ],
@@ -241,35 +283,13 @@
       ],
       "2026-10-27": [
         "16:30"
+      ],
+      "2026-10-28": [
+        "13:00",
+        "16:45"
       ]
     },
     "shows": {
-      "2026-10-21": [
-        {
-          "time": "13:30",
-          "tags": [
-            "VO"
-          ]
-        },
-        {
-          "time": "15:31",
-          "tags": [
-            "VO"
-          ]
-        },
-        {
-          "time": "18:01",
-          "tags": [
-            "VO"
-          ]
-        },
-        {
-          "time": "20:00",
-          "tags": [
-            "VO"
-          ]
-        }
-      ],
       "2026-10-22": [
         {
           "time": "21:00",
@@ -335,22 +355,36 @@
             "VO"
           ]
         }
+      ],
+      "2026-10-28": [
+        {
+          "time": "13:00",
+          "tags": [
+            "VO"
+          ]
+        },
+        {
+          "time": "16:45",
+          "tags": [
+            "VO"
+          ]
+        }
       ]
     },
     "room": null,
     "vo": true,
     "url": "https://www.liveticket.it/opera.aspx?Id=704008",
     "smart": {
-      "2026-10-21": 88,
-      "2026-10-22": 74,
+      "2026-10-22": 73,
       "2026-10-23": 88,
       "2026-10-24": 88,
       "2026-10-25": 88,
       "2026-10-26": 88,
-      "2026-10-27": 88
+      "2026-10-27": 88,
+      "2026-10-28": 88
     },
-    "rankUscita": 1,
-    "rankVoto": 3
+    "rankUscita": 2,
+    "rankVoto": 4
   },
   {
     "title": "I Diavoli (the Devils)",
@@ -359,18 +393,15 @@
     "ratings": {
       "letterboxd": 8.5,
       "imdb": 7.7,
-      "metacritic": 5.2,
+      "metacritic": 5.4,
       "mubi": 8.4
     },
     "releaseDate": "1971-09-11",
     "showtimes": [
-      "11:00"
+      "00:30"
     ],
-    "showtimesDate": "2026-10-21",
+    "showtimesDate": "2026-10-23",
     "days": {
-      "2026-10-21": [
-        "11:00"
-      ],
       "2026-10-23": [
         "00:30"
       ],
@@ -385,14 +416,6 @@
       ]
     },
     "shows": {
-      "2026-10-21": [
-        {
-          "time": "11:00",
-          "tags": [
-            "VO"
-          ]
-        }
-      ],
       "2026-10-23": [
         {
           "time": "00:30",
@@ -428,16 +451,15 @@
     },
     "room": null,
     "vo": true,
-    "url": "https://www.liveticket.it/opera.aspx?Id=705302",
+    "url": "https://www.liveticket.it/opera.aspx?Id=705595",
     "smart": {
-      "2026-10-21": 38,
       "2026-10-23": 45,
       "2026-10-24": 45,
       "2026-10-25": 59,
       "2026-10-26": 45
     },
-    "rankUscita": 11,
-    "rankVoto": 4
+    "rankUscita": 13,
+    "rankVoto": 5
   },
   {
     "title": "The Dreamers - I sognatori",
@@ -475,8 +497,8 @@
     "smart": {
       "2026-10-26": 41
     },
-    "rankUscita": 9,
-    "rankVoto": 5
+    "rankUscita": 10,
+    "rankVoto": 6
   },
   {
     "title": "Prima della rivoluzione",
@@ -512,8 +534,8 @@
     "smart": {
       "2026-10-27": 56
     },
-    "rankUscita": 12,
-    "rankVoto": 6
+    "rankUscita": 14,
+    "rankVoto": 7
   },
   {
     "title": "L'estranea",
@@ -565,12 +587,12 @@
     "vo": false,
     "url": "https://www.liveticket.it/opera.aspx?Id=699891",
     "smart": {
-      "2026-10-23": 59,
-      "2026-10-24": 59,
-      "2026-10-27": 73
+      "2026-10-23": 58,
+      "2026-10-24": 58,
+      "2026-10-27": 72
     },
-    "rankUscita": 2,
-    "rankVoto": 7
+    "rankUscita": 3,
+    "rankVoto": 8
   },
   {
     "title": "Valhalla Rising - Regno di sangue",
@@ -608,8 +630,45 @@
     "smart": {
       "2026-10-24": 31
     },
-    "rankUscita": 8,
-    "rankVoto": 8
+    "rankUscita": 9,
+    "rankVoto": 9
+  },
+  {
+    "title": "La torta in cielo",
+    "poster": "https://image.tmdb.org/t/p/w185/doER1EItTilwPDPYvyg0n1GmU5o.jpg",
+    "rating": 6.4,
+    "ratings": {
+      "letterboxd": null,
+      "imdb": 6.4,
+      "metacritic": null,
+      "mubi": null
+    },
+    "releaseDate": "1973-02-28",
+    "showtimes": [
+      "18:45"
+    ],
+    "showtimesDate": "2026-10-28",
+    "days": {
+      "2026-10-28": [
+        "18:45"
+      ]
+    },
+    "shows": {
+      "2026-10-28": [
+        {
+          "time": "18:45",
+          "tags": []
+        }
+      ]
+    },
+    "room": null,
+    "vo": false,
+    "url": "https://www.liveticket.it/opera.aspx?Id=705611",
+    "smart": {
+      "2026-10-28": 31
+    },
+    "rankUscita": 12,
+    "rankVoto": 10
   },
   {
     "title": "Lilo & Stitch",
@@ -645,8 +704,8 @@
     "smart": {
       "2026-10-25": 38
     },
-    "rankUscita": 6,
-    "rankVoto": 9
+    "rankUscita": 7,
+    "rankVoto": 11
   },
   {
     "title": "Rider",
@@ -682,8 +741,8 @@
     "smart": {
       "2026-10-23": 22
     },
-    "rankUscita": 5,
-    "rankVoto": 10
+    "rankUscita": 6,
+    "rankVoto": 12
   },
   {
     "title": "Era",
@@ -719,8 +778,8 @@
     "smart": {
       "2026-10-27": 50
     },
-    "rankUscita": 4,
-    "rankVoto": 11
+    "rankUscita": 5,
+    "rankVoto": 13
   },
   {
     "title": "Il canto di Alina",
@@ -796,8 +855,8 @@
       "2026-10-25": 50,
       "2026-10-26": 36
     },
-    "rankUscita": 7,
-    "rankVoto": 12
+    "rankUscita": 8,
+    "rankVoto": 14
   },
   {
     "title": "Il dottor Stranamore",
@@ -823,6 +882,9 @@
       ],
       "2026-10-26": [
         "16:30"
+      ],
+      "2026-10-28": [
+        "11:00"
       ]
     },
     "shows": {
@@ -849,6 +911,14 @@
             "VO"
           ]
         }
+      ],
+      "2026-10-28": [
+        {
+          "time": "11:00",
+          "tags": [
+            "VO"
+          ]
+        }
       ]
     },
     "room": null,
@@ -857,10 +927,11 @@
     "smart": {
       "2026-10-22": 50,
       "2026-10-25": 64,
-      "2026-10-26": 50
+      "2026-10-26": 50,
+      "2026-10-28": 50
     },
-    "rankUscita": 13,
-    "rankVoto": 13
+    "rankUscita": 15,
+    "rankVoto": 15
   },
   {
     "title": "Swans Live Berlin",
@@ -896,7 +967,7 @@
     "smart": {
       "2026-10-26": 50
     },
-    "rankUscita": 14,
-    "rankVoto": 14
+    "rankUscita": 16,
+    "rankVoto": 16
   }
 ]
