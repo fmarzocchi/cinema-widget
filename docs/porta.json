@@ -1352,7 +1352,7 @@
       "letterboxd": 7.3,
       "imdb": 7.1,
       "metacritic": 6.7,
-      "mubi": 6.5
+      "mubi": 6.4
     },
     "releaseDate": "2026-10-15",
     "showtimes": [
@@ -2063,115 +2063,6 @@
     "rankVoto": 18
   },
   {
-    "title": "Whalefall - Nella balena",
-    "poster": "https://image.tmdb.org/t/p/w185/auhdhcoWhQzMovY2pa71BTgDAa7.jpg",
-    "rating": 6.3,
-    "ratings": {
-      "letterboxd": 6.6,
-      "imdb": 6.7,
-      "metacritic": 5.7,
-      "mubi": null
-    },
-    "releaseDate": "2026-10-15",
-    "showtimes": [
-      "00:30",
-      "20:50",
-      "22:50"
-    ],
-    "showtimesDate": "2026-10-23",
-    "days": {
-      "2026-10-23": [
-        "00:30",
-        "20:50",
-        "22:50"
-      ],
-      "2026-10-24": [
-        "00:30",
-        "20:50",
-        "22:50"
-      ],
-      "2026-10-25": [
-        "22:50"
-      ],
-      "2026-10-26": [
-        "22:50"
-      ],
-      "2026-10-27": [
-        "22:50"
-      ],
-      "2026-10-28": [
-        "22:50"
-      ]
-    },
-    "shows": {
-      "2026-10-23": [
-        {
-          "time": "00:30",
-          "tags": []
-        },
-        {
-          "time": "20:50",
-          "tags": []
-        },
-        {
-          "time": "22:50",
-          "tags": []
-        }
-      ],
-      "2026-10-24": [
-        {
-          "time": "00:30",
-          "tags": []
-        },
-        {
-          "time": "20:50",
-          "tags": []
-        },
-        {
-          "time": "22:50",
-          "tags": []
-        }
-      ],
-      "2026-10-25": [
-        {
-          "time": "22:50",
-          "tags": []
-        }
-      ],
-      "2026-10-26": [
-        {
-          "time": "22:50",
-          "tags": []
-        }
-      ],
-      "2026-10-27": [
-        {
-          "time": "22:50",
-          "tags": []
-        }
-      ],
-      "2026-10-28": [
-        {
-          "time": "22:50",
-          "tags": []
-        }
-      ]
-    },
-    "room": "Sala 2",
-    "vo": false,
-    "url": "https://ucicinemas.it/film/whalefall/",
-    "smart": {
-      "2026-10-23": 52,
-      "2026-10-24": 52,
-      "2026-10-25": 44,
-      "2026-10-26": 44,
-      "2026-10-27": 43,
-      "2026-10-28": 44
-    },
-    "rankUscita": 19,
-    "rankVoto": 19
-  },
-  {
     "title": "Dio ride",
     "poster": "https://image.tmdb.org/t/p/w185/p5cuENoUviYoK6IBHg2FS4oTRGD.jpg",
     "rating": 6.2,
@@ -2206,7 +2097,7 @@
       "2026-10-29": 58
     },
     "rankUscita": 1,
-    "rankVoto": 20
+    "rankVoto": 19
   },
   {
     "title": "Taddeo l’esploratore e la lampada magica",
@@ -2319,6 +2210,115 @@
       "2026-10-27": 52
     },
     "rankUscita": 12,
+    "rankVoto": 20
+  },
+  {
+    "title": "Whalefall - Nella balena",
+    "poster": "https://image.tmdb.org/t/p/w185/auhdhcoWhQzMovY2pa71BTgDAa7.jpg",
+    "rating": 6,
+    "ratings": {
+      "letterboxd": 6.5,
+      "imdb": 6.7,
+      "metacritic": 5.9,
+      "mubi": 4.9
+    },
+    "releaseDate": "2026-10-15",
+    "showtimes": [
+      "00:30",
+      "20:50",
+      "22:50"
+    ],
+    "showtimesDate": "2026-10-23",
+    "days": {
+      "2026-10-23": [
+        "00:30",
+        "20:50",
+        "22:50"
+      ],
+      "2026-10-24": [
+        "00:30",
+        "20:50",
+        "22:50"
+      ],
+      "2026-10-25": [
+        "22:50"
+      ],
+      "2026-10-26": [
+        "22:50"
+      ],
+      "2026-10-27": [
+        "22:50"
+      ],
+      "2026-10-28": [
+        "22:50"
+      ]
+    },
+    "shows": {
+      "2026-10-23": [
+        {
+          "time": "00:30",
+          "tags": []
+        },
+        {
+          "time": "20:50",
+          "tags": []
+        },
+        {
+          "time": "22:50",
+          "tags": []
+        }
+      ],
+      "2026-10-24": [
+        {
+          "time": "00:30",
+          "tags": []
+        },
+        {
+          "time": "20:50",
+          "tags": []
+        },
+        {
+          "time": "22:50",
+          "tags": []
+        }
+      ],
+      "2026-10-25": [
+        {
+          "time": "22:50",
+          "tags": []
+        }
+      ],
+      "2026-10-26": [
+        {
+          "time": "22:50",
+          "tags": []
+        }
+      ],
+      "2026-10-27": [
+        {
+          "time": "22:50",
+          "tags": []
+        }
+      ],
+      "2026-10-28": [
+        {
+          "time": "22:50",
+          "tags": []
+        }
+      ]
+    },
+    "room": "Sala 2",
+    "vo": false,
+    "url": "https://ucicinemas.it/film/whalefall/",
+    "smart": {
+      "2026-10-23": 48,
+      "2026-10-24": 48,
+      "2026-10-25": 40,
+      "2026-10-26": 40,
+      "2026-10-27": 39,
+      "2026-10-28": 40
+    },
+    "rankUscita": 19,
     "rankVoto": 21
   },
   {
@@ -2482,14 +2482,57 @@
     "rankVoto": 23
   },
   {
-    "title": "Street Fighter",
-    "poster": "https://image.tmdb.org/t/p/w185/dJPT2Uf12X6aFg8i5N67NTpIZ9t.jpg",
-    "rating": 5.5,
+    "title": "Fast & furious - Solo parti originali",
+    "poster": "https://image.tmdb.org/t/p/w185/cRm3gOzayatZhUH9snh4lVEprVW.jpg",
+    "rating": 5.4,
     "ratings": {
-      "letterboxd": 5.8,
+      "letterboxd": 6.1,
+      "imdb": 6.5,
+      "metacritic": 4.6,
+      "mubi": 4.6
+    },
+    "releaseDate": "2009-04-17",
+    "showtimes": [
+      "19:40",
+      "22:10"
+    ],
+    "showtimesDate": "2026-10-29",
+    "days": {
+      "2026-10-29": [
+        "19:40",
+        "22:10"
+      ]
+    },
+    "shows": {
+      "2026-10-29": [
+        {
+          "time": "19:40",
+          "tags": []
+        },
+        {
+          "time": "22:10",
+          "tags": []
+        }
+      ]
+    },
+    "room": "Sala 1",
+    "vo": false,
+    "url": "https://ucicinemas.it/film/fast-and-furious/",
+    "smart": {
+      "2026-10-29": 33
+    },
+    "rankUscita": 34,
+    "rankVoto": 24
+  },
+  {
+    "title": "Street Fighter",
+    "poster": "https://image.tmdb.org/t/p/w185/ccxdepKqORLwccbzvO4eAGkN0IC.jpg",
+    "rating": 5.3,
+    "ratings": {
+      "letterboxd": 5.6,
       "imdb": 6.2,
-      "metacritic": 4.5,
-      "mubi": null
+      "metacritic": 4.4,
+      "mubi": 4.9
     },
     "releaseDate": "2026-10-15",
     "showtimes": [
@@ -2669,57 +2712,14 @@
     "vo": false,
     "url": "https://ucicinemas.it/film/street-fighter/",
     "smart": {
-      "2026-10-23": 52,
-      "2026-10-24": 52,
-      "2026-10-25": 45,
-      "2026-10-26": 45,
-      "2026-10-27": 42,
-      "2026-10-28": 39
+      "2026-10-23": 49,
+      "2026-10-24": 49,
+      "2026-10-25": 43,
+      "2026-10-26": 43,
+      "2026-10-27": 40,
+      "2026-10-28": 37
     },
     "rankUscita": 21,
-    "rankVoto": 24
-  },
-  {
-    "title": "Fast & furious - Solo parti originali",
-    "poster": "https://image.tmdb.org/t/p/w185/cRm3gOzayatZhUH9snh4lVEprVW.jpg",
-    "rating": 5.4,
-    "ratings": {
-      "letterboxd": 6.1,
-      "imdb": 6.5,
-      "metacritic": 4.6,
-      "mubi": 4.6
-    },
-    "releaseDate": "2009-04-17",
-    "showtimes": [
-      "19:40",
-      "22:10"
-    ],
-    "showtimesDate": "2026-10-29",
-    "days": {
-      "2026-10-29": [
-        "19:40",
-        "22:10"
-      ]
-    },
-    "shows": {
-      "2026-10-29": [
-        {
-          "time": "19:40",
-          "tags": []
-        },
-        {
-          "time": "22:10",
-          "tags": []
-        }
-      ]
-    },
-    "room": "Sala 1",
-    "vo": false,
-    "url": "https://ucicinemas.it/film/fast-and-furious/",
-    "smart": {
-      "2026-10-29": 33
-    },
-    "rankUscita": 34,
     "rankVoto": 25
   },
   {
@@ -2864,7 +2864,7 @@
       "letterboxd": 5.3,
       "imdb": 6.1,
       "metacritic": 4.4,
-      "mubi": 3.8
+      "mubi": 4
     },
     "releaseDate": "2026-10-01",
     "showtimes": [
@@ -2942,12 +2942,12 @@
   {
     "title": "Mammina",
     "poster": "https://image.tmdb.org/t/p/w185/ir1esRZZk49yKaLAVQd2FgvLxLf.jpg",
-    "rating": 4.3,
+    "rating": 4.4,
     "ratings": {
       "letterboxd": 4.4,
       "imdb": 5.4,
-      "metacritic": 3.9,
-      "mubi": 3.6
+      "metacritic": 3.8,
+      "mubi": 4.1
     },
     "releaseDate": "2026-10-08",
     "showtimes": [
