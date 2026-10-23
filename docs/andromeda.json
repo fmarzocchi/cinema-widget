@@ -5,30 +5,24 @@
     "rating": 8.7,
     "ratings": {
       "letterboxd": 8.6,
-      "imdb": 8.9,
+      "imdb": 8.7,
       "metacritic": 8.7,
       "mubi": null
     },
     "releaseDate": "2026-10-22",
     "showtimes": [
-      "16:30",
       "18:40",
       "21:15"
     ],
     "showtimesDate": "2026-10-23",
     "days": {
       "2026-10-23": [
-        "16:30",
         "18:40",
         "21:15"
       ]
     },
     "shows": {
       "2026-10-23": [
-        {
-          "time": "16:30",
-          "tags": []
-        },
         {
           "time": "18:40",
           "tags": []
@@ -43,7 +37,7 @@
     "vo": false,
     "url": "https://roma.andromeda.18tickets.it/film/86023",
     "smart": {
-      "2026-10-23": 92
+      "2026-10-23": 90
     },
     "rankUscita": 0,
     "rankVoto": 0
@@ -80,7 +74,7 @@
     "vo": false,
     "url": "https://roma.andromeda.18tickets.it/film/78266",
     "smart": {
-      "2026-10-23": 50
+      "2026-10-23": 52
     },
     "rankUscita": 11,
     "rankVoto": 1
@@ -91,13 +85,12 @@
     "rating": 7.2,
     "ratings": {
       "letterboxd": 8,
-      "imdb": 7.3,
+      "imdb": 7.4,
       "metacritic": 7.1,
       "mubi": 6.4
     },
     "releaseDate": "2026-10-22",
     "showtimes": [
-      "16:30",
       "18:45",
       "21:00",
       "21:20"
@@ -105,7 +98,6 @@
     "showtimesDate": "2026-10-23",
     "days": {
       "2026-10-23": [
-        "16:30",
         "18:45",
         "21:00",
         "21:20"
@@ -113,10 +105,6 @@
     },
     "shows": {
       "2026-10-23": [
-        {
-          "time": "16:30",
-          "tags": []
-        },
         {
           "time": "18:45",
           "tags": []
@@ -186,67 +174,18 @@
     "vo": false,
     "url": "https://roma.andromeda.18tickets.it/film/80411",
     "smart": {
-      "2026-10-23": 65
+      "2026-10-23": 72
     },
     "rankUscita": 9,
     "rankVoto": 3
   },
   {
-    "title": "Je so’ pazzo",
-    "poster": "https://image.tmdb.org/t/p/w185/impo3YqfZZbJUI3woorG0OYV3XI.jpg",
-    "rating": 6.8,
-    "ratings": {
-      "letterboxd": null,
-      "imdb": 6.8,
-      "metacritic": null,
-      "mubi": null
-    },
-    "releaseDate": "2026-10-15",
-    "showtimes": [
-      "16:30",
-      "18:45",
-      "21:20"
-    ],
-    "showtimesDate": "2026-10-23",
-    "days": {
-      "2026-10-23": [
-        "16:30",
-        "18:45",
-        "21:20"
-      ]
-    },
-    "shows": {
-      "2026-10-23": [
-        {
-          "time": "16:30",
-          "tags": []
-        },
-        {
-          "time": "18:45",
-          "tags": []
-        },
-        {
-          "time": "21:20",
-          "tags": []
-        }
-      ]
-    },
-    "room": "Sala 1",
-    "vo": false,
-    "url": "https://roma.andromeda.18tickets.it/film/82094",
-    "smart": {
-      "2026-10-23": 65
-    },
-    "rankUscita": 6,
-    "rankVoto": 4
-  },
-  {
     "title": "Clayface",
     "poster": "https://image.tmdb.org/t/p/w185/t6snh7pOxNjqs5rwP28TZmTQ0Ul.jpg",
-    "rating": 6.7,
+    "rating": 6.9,
     "ratings": {
       "letterboxd": 7.4,
-      "imdb": null,
+      "imdb": 7.5,
       "metacritic": 5.9,
       "mubi": null
     },
@@ -278,9 +217,52 @@
     "vo": false,
     "url": "https://roma.andromeda.18tickets.it/film/87572",
     "smart": {
-      "2026-10-23": 63
+      "2026-10-23": 70
     },
     "rankUscita": 2,
+    "rankVoto": 4
+  },
+  {
+    "title": "Je so’ pazzo",
+    "poster": "https://image.tmdb.org/t/p/w185/impo3YqfZZbJUI3woorG0OYV3XI.jpg",
+    "rating": 6.8,
+    "ratings": {
+      "letterboxd": null,
+      "imdb": 6.8,
+      "metacritic": null,
+      "mubi": null
+    },
+    "releaseDate": "2026-10-15",
+    "showtimes": [
+      "18:45",
+      "21:20"
+    ],
+    "showtimesDate": "2026-10-23",
+    "days": {
+      "2026-10-23": [
+        "18:45",
+        "21:20"
+      ]
+    },
+    "shows": {
+      "2026-10-23": [
+        {
+          "time": "18:45",
+          "tags": []
+        },
+        {
+          "time": "21:20",
+          "tags": []
+        }
+      ]
+    },
+    "room": "Sala 1",
+    "vo": false,
+    "url": "https://roma.andromeda.18tickets.it/film/82094",
+    "smart": {
+      "2026-10-23": 63
+    },
+    "rankUscita": 6,
     "rankVoto": 5
   },
   {
@@ -315,7 +297,7 @@
     "vo": false,
     "url": "https://roma.andromeda.18tickets.it/film/85394",
     "smart": {
-      "2026-10-23": 46
+      "2026-10-23": 49
     },
     "rankUscita": 7,
     "rankVoto": 6
@@ -352,7 +334,7 @@
     "vo": false,
     "url": "https://roma.andromeda.18tickets.it/film/87440",
     "smart": {
-      "2026-10-23": 49
+      "2026-10-23": 52
     },
     "rankUscita": 3,
     "rankVoto": 7
@@ -389,7 +371,7 @@
     "vo": false,
     "url": "https://roma.andromeda.18tickets.it/film/85428",
     "smart": {
-      "2026-10-23": 39
+      "2026-10-23": 41
     },
     "rankUscita": 8,
     "rankVoto": 8
@@ -400,7 +382,7 @@
     "rating": 4.4,
     "ratings": {
       "letterboxd": 4.4,
-      "imdb": 5.4,
+      "imdb": 5.3,
       "metacritic": 3.8,
       "mubi": 4.1
     },
@@ -426,7 +408,7 @@
     "vo": false,
     "url": "https://roma.andromeda.18tickets.it/film/80743",
     "smart": {
-      "2026-10-23": 25
+      "2026-10-23": 27
     },
     "rankUscita": 10,
     "rankVoto": 9
@@ -469,7 +451,7 @@
     "vo": false,
     "url": "https://roma.andromeda.18tickets.it/film/86022",
     "smart": {
-      "2026-10-23": 63
+      "2026-10-23": 68
     },
     "rankUscita": 4,
     "rankVoto": 10
@@ -486,33 +468,27 @@
     },
     "releaseDate": "2026-10-16",
     "showtimes": [
-      "16:30",
       "19:00"
     ],
     "showtimesDate": "2026-10-23",
     "days": {
       "2026-10-23": [
-        "16:30",
         "19:00"
       ]
     },
     "shows": {
       "2026-10-23": [
         {
-          "time": "16:30",
-          "tags": []
-        },
-        {
           "time": "19:00",
           "tags": []
         }
       ]
     },
-    "room": "Sala 2",
+    "room": null,
     "vo": false,
     "url": "https://roma.andromeda.18tickets.it/film/82128",
     "smart": {
-      "2026-10-23": 58
+      "2026-10-23": 54
     },
     "rankUscita": 5,
     "rankVoto": 11

@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-10-23T09:07:56.717Z",
+  "updatedAt": "2026-10-23T14:41:33.185Z",
   "today": "2026-10-23",
   "ratingScale": 10,
   "ratingSources": {
     "film": 58,
     "letterboxd": 38,
-    "imdb": 40,
+    "imdb": 41,
     "metacritic": 32,
     "mubi": 29,
     "media": 42
