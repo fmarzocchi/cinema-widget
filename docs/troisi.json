@@ -11,13 +11,10 @@
     },
     "releaseDate": "2026-09-25",
     "showtimes": [
-      "11:00"
+      "17:00"
     ],
-    "showtimesDate": "2026-10-23",
+    "showtimesDate": "2026-10-25",
     "days": {
-      "2026-10-23": [
-        "11:00"
-      ],
       "2026-10-25": [
         "17:00"
       ],
@@ -29,14 +26,6 @@
       ]
     },
     "shows": {
-      "2026-10-23": [
-        {
-          "time": "11:00",
-          "tags": [
-            "VO"
-          ]
-        }
-      ],
       "2026-10-25": [
         {
           "time": "17:00",
@@ -66,8 +55,7 @@
     "vo": true,
     "url": "https://www.liveticket.it/opera.aspx?Id=695512",
     "smart": {
-      "2026-10-23": 68,
-      "2026-10-25": 83,
+      "2026-10-25": 82,
       "2026-10-26": 68,
       "2026-10-28": 68
     },
@@ -86,13 +74,10 @@
     },
     "releaseDate": "1996-10-03",
     "showtimes": [
-      "21:00"
+      "22:00"
     ],
-    "showtimesDate": "2026-10-23",
+    "showtimesDate": "2026-10-24",
     "days": {
-      "2026-10-23": [
-        "21:00"
-      ],
       "2026-10-24": [
         "22:00"
       ],
@@ -101,14 +86,6 @@
       ]
     },
     "shows": {
-      "2026-10-23": [
-        {
-          "time": "21:00",
-          "tags": [
-            "VO"
-          ]
-        }
-      ],
       "2026-10-24": [
         {
           "time": "22:00",
@@ -130,11 +107,10 @@
     "vo": true,
     "url": "https://www.liveticket.it/opera.aspx?Id=705578",
     "smart": {
-      "2026-10-23": 55,
       "2026-10-24": 55,
       "2026-10-27": 69
     },
-    "rankUscita": 11,
+    "rankUscita": 10,
     "rankVoto": 1
   },
   {
@@ -227,15 +203,11 @@
     },
     "releaseDate": "2026-10-16",
     "showtimes": [
-      "15:00",
-      "19:00"
+      "18:00",
+      "20:00"
     ],
-    "showtimesDate": "2026-10-23",
+    "showtimesDate": "2026-10-24",
     "days": {
-      "2026-10-23": [
-        "15:00",
-        "19:00"
-      ],
       "2026-10-24": [
         "18:00",
         "20:00"
@@ -256,20 +228,6 @@
       ]
     },
     "shows": {
-      "2026-10-23": [
-        {
-          "time": "15:00",
-          "tags": [
-            "VO"
-          ]
-        },
-        {
-          "time": "19:00",
-          "tags": [
-            "VO"
-          ]
-        }
-      ],
       "2026-10-24": [
         {
           "time": "18:00",
@@ -333,12 +291,11 @@
     "vo": true,
     "url": "https://www.liveticket.it/opera.aspx?Id=704008",
     "smart": {
-      "2026-10-23": 87,
-      "2026-10-24": 87,
-      "2026-10-25": 87,
-      "2026-10-26": 87,
-      "2026-10-27": 87,
-      "2026-10-28": 87
+      "2026-10-24": 86,
+      "2026-10-25": 86,
+      "2026-10-26": 86,
+      "2026-10-27": 86,
+      "2026-10-28": 86
     },
     "rankUscita": 2,
     "rankVoto": 4
@@ -355,13 +312,10 @@
     },
     "releaseDate": "1971-09-11",
     "showtimes": [
-      "01:00"
+      "00:30"
     ],
-    "showtimesDate": "2026-10-24",
+    "showtimesDate": "2026-10-25",
     "days": {
-      "2026-10-24": [
-        "01:00"
-      ],
       "2026-10-25": [
         "00:30"
       ],
@@ -370,14 +324,6 @@
       ]
     },
     "shows": {
-      "2026-10-24": [
-        {
-          "time": "01:00",
-          "tags": [
-            "VO"
-          ]
-        }
-      ],
       "2026-10-25": [
         {
           "time": "00:30",
@@ -399,11 +345,10 @@
     "vo": true,
     "url": "https://www.liveticket.it/opera.aspx?Id=705595",
     "smart": {
-      "2026-10-24": 45,
       "2026-10-25": 59,
       "2026-10-26": 45
     },
-    "rankUscita": 13,
+    "rankUscita": 12,
     "rankVoto": 5
   },
   {
@@ -442,7 +387,7 @@
     "smart": {
       "2026-10-26": 41
     },
-    "rankUscita": 10,
+    "rankUscita": 9,
     "rankVoto": 6
   },
   {
@@ -479,7 +424,7 @@
     "smart": {
       "2026-10-27": 56
     },
-    "rankUscita": 14,
+    "rankUscita": 13,
     "rankVoto": 7
   },
   {
@@ -494,13 +439,10 @@
     },
     "releaseDate": "2026-10-08",
     "showtimes": [
-      "22:45"
+      "15:00"
     ],
-    "showtimesDate": "2026-10-23",
+    "showtimesDate": "2026-10-24",
     "days": {
-      "2026-10-23": [
-        "22:45"
-      ],
       "2026-10-24": [
         "15:00"
       ],
@@ -509,12 +451,6 @@
       ]
     },
     "shows": {
-      "2026-10-23": [
-        {
-          "time": "22:45",
-          "tags": []
-        }
-      ],
       "2026-10-24": [
         {
           "time": "15:00",
@@ -530,11 +466,10 @@
     },
     "room": null,
     "vo": false,
-    "url": "https://www.liveticket.it/opera.aspx?Id=699891",
+    "url": "https://www.liveticket.it/opera.aspx?Id=705630",
     "smart": {
-      "2026-10-23": 57,
       "2026-10-24": 57,
-      "2026-10-27": 72
+      "2026-10-27": 71
     },
     "rankUscita": 3,
     "rankVoto": 8
@@ -575,7 +510,7 @@
     "smart": {
       "2026-10-24": 31
     },
-    "rankUscita": 9,
+    "rankUscita": 8,
     "rankVoto": 9
   },
   {
@@ -612,7 +547,7 @@
     "smart": {
       "2026-10-28": 31
     },
-    "rankUscita": 12,
+    "rankUscita": 11,
     "rankVoto": 10
   },
   {
@@ -649,45 +584,8 @@
     "smart": {
       "2026-10-25": 38
     },
-    "rankUscita": 7,
-    "rankVoto": 11
-  },
-  {
-    "title": "Rider",
-    "poster": "https://image.tmdb.org/t/p/w185/n6ZXNMyx9XVZah6Nni9TDuAALBu.jpg",
-    "rating": 5.6,
-    "ratings": {
-      "letterboxd": null,
-      "imdb": 5.6,
-      "metacritic": null,
-      "mubi": null
-    },
-    "releaseDate": "2025-06-13",
-    "showtimes": [
-      "13:00"
-    ],
-    "showtimesDate": "2026-10-23",
-    "days": {
-      "2026-10-23": [
-        "13:00"
-      ]
-    },
-    "shows": {
-      "2026-10-23": [
-        {
-          "time": "13:00",
-          "tags": []
-        }
-      ]
-    },
-    "room": null,
-    "vo": false,
-    "url": "https://www.liveticket.it/opera.aspx?Id=695175",
-    "smart": {
-      "2026-10-23": 22
-    },
     "rankUscita": 6,
-    "rankVoto": 12
+    "rankVoto": 11
   },
   {
     "title": "Era",
@@ -724,7 +622,7 @@
       "2026-10-27": 50
     },
     "rankUscita": 5,
-    "rankVoto": 13
+    "rankVoto": 12
   },
   {
     "title": "Il canto di Alina",
@@ -738,13 +636,10 @@
     },
     "releaseDate": "2024-10-11",
     "showtimes": [
-      "17:00"
+      "13:00"
     ],
-    "showtimesDate": "2026-10-23",
+    "showtimesDate": "2026-10-24",
     "days": {
-      "2026-10-23": [
-        "17:00"
-      ],
       "2026-10-24": [
         "13:00"
       ],
@@ -756,12 +651,6 @@
       ]
     },
     "shows": {
-      "2026-10-23": [
-        {
-          "time": "17:00",
-          "tags": []
-        }
-      ],
       "2026-10-24": [
         {
           "time": "13:00",
@@ -785,13 +674,12 @@
     "vo": false,
     "url": "https://www.liveticket.it/opera.aspx?Id=705579",
     "smart": {
-      "2026-10-23": 36,
       "2026-10-24": 36,
       "2026-10-25": 50,
       "2026-10-26": 36
     },
-    "rankUscita": 8,
-    "rankVoto": 14
+    "rankUscita": 7,
+    "rankVoto": 13
   },
   {
     "title": "Il dottor Stranamore",
@@ -853,8 +741,8 @@
       "2026-10-26": 50,
       "2026-10-28": 50
     },
-    "rankUscita": 15,
-    "rankVoto": 15
+    "rankUscita": 14,
+    "rankVoto": 14
   },
   {
     "title": "Swans Live Berlin",
@@ -890,7 +778,7 @@
     "smart": {
       "2026-10-26": 50
     },
-    "rankUscita": 16,
-    "rankVoto": 16
+    "rankUscita": 15,
+    "rankVoto": 15
   }
 ]
