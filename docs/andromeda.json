@@ -45,7 +45,7 @@
     "smart": {
       "2026-10-24": 91
     },
-    "rankUscita": 0,
+    "rankUscita": 1,
     "rankVoto": 0
   },
   {
@@ -82,7 +82,7 @@
     "smart": {
       "2026-10-24": 50
     },
-    "rankUscita": 11,
+    "rankUscita": 12,
     "rankVoto": 1
   },
   {
@@ -139,7 +139,7 @@
     "smart": {
       "2026-10-24": 82
     },
-    "rankUscita": 1,
+    "rankUscita": 2,
     "rankVoto": 2
   },
   {
@@ -188,7 +188,7 @@
     "smart": {
       "2026-10-24": 64
     },
-    "rankUscita": 9,
+    "rankUscita": 10,
     "rankVoto": 3
   },
   {
@@ -231,7 +231,7 @@
     "smart": {
       "2026-10-24": 66
     },
-    "rankUscita": 2,
+    "rankUscita": 3,
     "rankVoto": 4
   },
   {
@@ -280,7 +280,7 @@
     "smart": {
       "2026-10-24": 65
     },
-    "rankUscita": 6,
+    "rankUscita": 7,
     "rankVoto": 5
   },
   {
@@ -317,7 +317,7 @@
     "smart": {
       "2026-10-24": 46
     },
-    "rankUscita": 7,
+    "rankUscita": 8,
     "rankVoto": 6
   },
   {
@@ -354,7 +354,7 @@
     "smart": {
       "2026-10-24": 49
     },
-    "rankUscita": 3,
+    "rankUscita": 4,
     "rankVoto": 7
   },
   {
@@ -391,7 +391,7 @@
     "smart": {
       "2026-10-24": 38
     },
-    "rankUscita": 8,
+    "rankUscita": 9,
     "rankVoto": 8
   },
   {
@@ -428,8 +428,45 @@
     "smart": {
       "2026-10-24": 24
     },
-    "rankUscita": 10,
+    "rankUscita": 11,
     "rankVoto": 9
+  },
+  {
+    "title": "Un tranquillo funerale di famiglia",
+    "poster": "https://image.tmdb.org/t/p/w185/iXtZ4Y28GTw1BJFHgcmHrICoyL1.jpg",
+    "rating": null,
+    "ratings": {
+      "letterboxd": null,
+      "imdb": null,
+      "metacritic": null,
+      "mubi": null
+    },
+    "releaseDate": "2026-10-29",
+    "showtimes": [
+      "20:30"
+    ],
+    "showtimesDate": "2026-10-29",
+    "days": {
+      "2026-10-29": [
+        "20:30"
+      ]
+    },
+    "shows": {
+      "2026-10-29": [
+        {
+          "time": "20:30",
+          "tags": []
+        }
+      ]
+    },
+    "room": null,
+    "vo": false,
+    "url": "https://roma.andromeda.18tickets.it/film/88496",
+    "smart": {
+      "2026-10-29": 79
+    },
+    "rankUscita": 0,
+    "rankVoto": 10
   },
   {
     "title": "L'assurda storia della Gialappa's Band",
@@ -471,8 +508,8 @@
     "smart": {
       "2026-10-24": 62
     },
-    "rankUscita": 4,
-    "rankVoto": 10
+    "rankUscita": 5,
+    "rankVoto": 11
   },
   {
     "title": "Se ami qualcuno dillo",
@@ -514,8 +551,8 @@
     "smart": {
       "2026-10-24": 58
     },
-    "rankUscita": 5,
-    "rankVoto": 11
+    "rankUscita": 6,
+    "rankVoto": 12
   },
   {
     "title": "Matrix 4K",
@@ -559,7 +596,7 @@
     "smart": {
       "2026-10-26": 64
     },
-    "rankUscita": 12,
-    "rankVoto": 12
+    "rankUscita": 13,
+    "rankVoto": 13
   }
 ]
