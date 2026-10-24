@@ -5,7 +5,7 @@
     "rating": 8.7,
     "ratings": {
       "letterboxd": 8.6,
-      "imdb": 8.7,
+      "imdb": 8.8,
       "metacritic": 8.7,
       "mubi": null
     },
@@ -733,94 +733,12 @@
     "rankVoto": 8
   },
   {
-    "title": "Caro Mondo Crudele",
-    "poster": "https://image.tmdb.org/t/p/w185/osTo8g66Bxxu4J4XKEhacesK8gd.jpg",
-    "rating": 7.2,
-    "ratings": {
-      "letterboxd": null,
-      "imdb": 7.2,
-      "metacritic": null,
-      "mubi": null
-    },
-    "releaseDate": "2026-10-22",
-    "showtimes": [
-      "15:10"
-    ],
-    "showtimesDate": "2026-10-24",
-    "days": {
-      "2026-10-24": [
-        "15:10"
-      ],
-      "2026-10-25": [
-        "15:10",
-        "19:00"
-      ],
-      "2026-10-26": [
-        "19:00"
-      ],
-      "2026-10-27": [
-        "19:00"
-      ],
-      "2026-10-28": [
-        "19:00"
-      ]
-    },
-    "shows": {
-      "2026-10-24": [
-        {
-          "time": "15:10",
-          "tags": []
-        }
-      ],
-      "2026-10-25": [
-        {
-          "time": "15:10",
-          "tags": []
-        },
-        {
-          "time": "19:00",
-          "tags": []
-        }
-      ],
-      "2026-10-26": [
-        {
-          "time": "19:00",
-          "tags": []
-        }
-      ],
-      "2026-10-27": [
-        {
-          "time": "19:00",
-          "tags": []
-        }
-      ],
-      "2026-10-28": [
-        {
-          "time": "19:00",
-          "tags": []
-        }
-      ]
-    },
-    "room": "Sala 2",
-    "vo": false,
-    "url": "https://ucicinemas.it/film/caro-mondo-crudele/",
-    "smart": {
-      "2026-10-24": 58,
-      "2026-10-25": 65,
-      "2026-10-26": 59,
-      "2026-10-27": 58,
-      "2026-10-28": 59
-    },
-    "rankUscita": 7,
-    "rankVoto": 9
-  },
-  {
     "title": "Ragione e sentimento",
     "poster": "https://image.tmdb.org/t/p/w185/bwZCHb0qCFP2QT3QylGixpsNo8D.jpg",
     "rating": 7.2,
     "ratings": {
       "letterboxd": 8,
-      "imdb": 7.4,
+      "imdb": 7.3,
       "metacritic": 7.1,
       "mubi": 6.4
     },
@@ -992,8 +910,8 @@
       "2026-10-27": 73,
       "2026-10-28": 71
     },
-    "rankUscita": 8,
-    "rankVoto": 10
+    "rankUscita": 7,
+    "rankVoto": 9
   },
   {
     "title": "Tony - Diario di un giovane cuoco",
@@ -1030,6 +948,88 @@
       "2026-10-26": 37
     },
     "rankUscita": 28,
+    "rankVoto": 10
+  },
+  {
+    "title": "Caro Mondo Crudele",
+    "poster": "https://image.tmdb.org/t/p/w185/osTo8g66Bxxu4J4XKEhacesK8gd.jpg",
+    "rating": 7.1,
+    "ratings": {
+      "letterboxd": null,
+      "imdb": 7.1,
+      "metacritic": null,
+      "mubi": null
+    },
+    "releaseDate": "2026-10-22",
+    "showtimes": [
+      "15:10"
+    ],
+    "showtimesDate": "2026-10-24",
+    "days": {
+      "2026-10-24": [
+        "15:10"
+      ],
+      "2026-10-25": [
+        "15:10",
+        "19:00"
+      ],
+      "2026-10-26": [
+        "19:00"
+      ],
+      "2026-10-27": [
+        "19:00"
+      ],
+      "2026-10-28": [
+        "19:00"
+      ]
+    },
+    "shows": {
+      "2026-10-24": [
+        {
+          "time": "15:10",
+          "tags": []
+        }
+      ],
+      "2026-10-25": [
+        {
+          "time": "15:10",
+          "tags": []
+        },
+        {
+          "time": "19:00",
+          "tags": []
+        }
+      ],
+      "2026-10-26": [
+        {
+          "time": "19:00",
+          "tags": []
+        }
+      ],
+      "2026-10-27": [
+        {
+          "time": "19:00",
+          "tags": []
+        }
+      ],
+      "2026-10-28": [
+        {
+          "time": "19:00",
+          "tags": []
+        }
+      ]
+    },
+    "room": "Sala 2",
+    "vo": false,
+    "url": "https://ucicinemas.it/film/caro-mondo-crudele/",
+    "smart": {
+      "2026-10-24": 57,
+      "2026-10-25": 64,
+      "2026-10-26": 58,
+      "2026-10-27": 57,
+      "2026-10-28": 58
+    },
+    "rankUscita": 8,
     "rankVoto": 11
   },
   {
@@ -1153,94 +1153,12 @@
     "rankVoto": 12
   },
   {
-    "title": "Urchin",
-    "poster": "https://image.tmdb.org/t/p/w185/zc8n3hm3S2VxFxlNH1MNN28LVMa.jpg",
-    "rating": 7,
-    "ratings": {
-      "letterboxd": 7,
-      "imdb": 6.7,
-      "metacritic": 7.7,
-      "mubi": 6.7
-    },
-    "releaseDate": "2026-10-22",
-    "showtimes": [
-      "13:10"
-    ],
-    "showtimesDate": "2026-10-24",
-    "days": {
-      "2026-10-24": [
-        "13:10"
-      ],
-      "2026-10-25": [
-        "13:10",
-        "20:00"
-      ],
-      "2026-10-26": [
-        "19:15"
-      ],
-      "2026-10-27": [
-        "19:15"
-      ],
-      "2026-10-28": [
-        "19:15"
-      ]
-    },
-    "shows": {
-      "2026-10-24": [
-        {
-          "time": "13:10",
-          "tags": []
-        }
-      ],
-      "2026-10-25": [
-        {
-          "time": "13:10",
-          "tags": []
-        },
-        {
-          "time": "20:00",
-          "tags": []
-        }
-      ],
-      "2026-10-26": [
-        {
-          "time": "19:15",
-          "tags": []
-        }
-      ],
-      "2026-10-27": [
-        {
-          "time": "19:15",
-          "tags": []
-        }
-      ],
-      "2026-10-28": [
-        {
-          "time": "19:15",
-          "tags": []
-        }
-      ]
-    },
-    "room": "Sala 1",
-    "vo": false,
-    "url": "https://ucicinemas.it/film/urchin/",
-    "smart": {
-      "2026-10-24": 56,
-      "2026-10-25": 63,
-      "2026-10-26": 57,
-      "2026-10-27": 56,
-      "2026-10-28": 57
-    },
-    "rankUscita": 9,
-    "rankVoto": 13
-  },
-  {
     "title": "Clayface",
     "poster": "https://image.tmdb.org/t/p/w185/t6snh7pOxNjqs5rwP28TZmTQ0Ul.jpg",
-    "rating": 6.9,
+    "rating": 7,
     "ratings": {
       "letterboxd": 7.4,
-      "imdb": 7.5,
+      "imdb": 7.6,
       "metacritic": 5.9,
       "mubi": null
     },
@@ -1446,11 +1364,93 @@
     "vo": false,
     "url": "https://ucicinemas.it/film/clayface/",
     "smart": {
-      "2026-10-24": 74,
-      "2026-10-25": 79,
-      "2026-10-26": 79,
-      "2026-10-27": 79,
-      "2026-10-28": 73
+      "2026-10-24": 75,
+      "2026-10-25": 80,
+      "2026-10-26": 80,
+      "2026-10-27": 80,
+      "2026-10-28": 74
+    },
+    "rankUscita": 9,
+    "rankVoto": 13
+  },
+  {
+    "title": "Urchin",
+    "poster": "https://image.tmdb.org/t/p/w185/zc8n3hm3S2VxFxlNH1MNN28LVMa.jpg",
+    "rating": 7,
+    "ratings": {
+      "letterboxd": 7,
+      "imdb": 6.7,
+      "metacritic": 7.7,
+      "mubi": 6.7
+    },
+    "releaseDate": "2026-10-22",
+    "showtimes": [
+      "13:10"
+    ],
+    "showtimesDate": "2026-10-24",
+    "days": {
+      "2026-10-24": [
+        "13:10"
+      ],
+      "2026-10-25": [
+        "13:10",
+        "20:00"
+      ],
+      "2026-10-26": [
+        "19:15"
+      ],
+      "2026-10-27": [
+        "19:15"
+      ],
+      "2026-10-28": [
+        "19:15"
+      ]
+    },
+    "shows": {
+      "2026-10-24": [
+        {
+          "time": "13:10",
+          "tags": []
+        }
+      ],
+      "2026-10-25": [
+        {
+          "time": "13:10",
+          "tags": []
+        },
+        {
+          "time": "20:00",
+          "tags": []
+        }
+      ],
+      "2026-10-26": [
+        {
+          "time": "19:15",
+          "tags": []
+        }
+      ],
+      "2026-10-27": [
+        {
+          "time": "19:15",
+          "tags": []
+        }
+      ],
+      "2026-10-28": [
+        {
+          "time": "19:15",
+          "tags": []
+        }
+      ]
+    },
+    "room": "Sala 1",
+    "vo": false,
+    "url": "https://ucicinemas.it/film/urchin/",
+    "smart": {
+      "2026-10-24": 56,
+      "2026-10-25": 63,
+      "2026-10-26": 57,
+      "2026-10-27": 56,
+      "2026-10-28": 57
     },
     "rankUscita": 10,
     "rankVoto": 14
@@ -1468,6 +1468,7 @@
     "releaseDate": "2026-10-15",
     "showtimes": [
       "16:10",
+      "19:10",
       "22:10",
       "23:50"
     ],
@@ -1475,6 +1476,7 @@
     "days": {
       "2026-10-24": [
         "16:10",
+        "19:10",
         "22:10",
         "23:50"
       ],
@@ -1502,6 +1504,10 @@
       "2026-10-24": [
         {
           "time": "16:10",
+          "tags": []
+        },
+        {
+          "time": "19:10",
           "tags": []
         },
         {
@@ -1570,7 +1576,7 @@
     "vo": false,
     "url": "https://ucicinemas.it/film/primetime/",
     "smart": {
-      "2026-10-24": 59,
+      "2026-10-24": 64,
       "2026-10-25": 56,
       "2026-10-26": 62,
       "2026-10-27": 59,
@@ -1581,7 +1587,7 @@
   },
   {
     "title": "Je so’ pazzo",
-    "poster": "https://image.tmdb.org/t/p/w185/impo3YqfZZbJUI3woorG0OYV3XI.jpg",
+    "poster": "https://image.tmdb.org/t/p/w185/eDfWOV5oad5wbI8AdzsMhnq7Zbd.jpg",
     "rating": 6.8,
     "ratings": {
       "letterboxd": null,
@@ -1595,7 +1601,8 @@
       "14:15",
       "16:40",
       "19:20",
-      "21:50"
+      "21:50",
+      "22:20"
     ],
     "showtimesDate": "2026-10-24",
     "days": {
@@ -1604,7 +1611,8 @@
         "14:15",
         "16:40",
         "19:20",
-        "21:50"
+        "21:50",
+        "22:20"
       ],
       "2026-10-25": [
         "11:40",
@@ -1652,6 +1660,10 @@
         },
         {
           "time": "21:50",
+          "tags": []
+        },
+        {
+          "time": "22:20",
           "tags": []
         }
       ],
@@ -1736,7 +1748,7 @@
     "vo": false,
     "url": "https://ucicinemas.it/film/je-so-pazzo/",
     "smart": {
-      "2026-10-24": 67,
+      "2026-10-24": 72,
       "2026-10-25": 72,
       "2026-10-26": 66,
       "2026-10-27": 62,
@@ -2523,7 +2535,7 @@
     "rating": 5.1,
     "ratings": {
       "letterboxd": 6.5,
-      "imdb": 6.1,
+      "imdb": 6,
       "metacritic": 2.7,
       "mubi": null
     },
@@ -2643,11 +2655,13 @@
     },
     "releaseDate": "2026-10-01",
     "showtimes": [
+      "19:50",
       "23:10"
     ],
     "showtimesDate": "2026-10-24",
     "days": {
       "2026-10-24": [
+        "19:50",
         "23:10"
       ],
       "2026-10-25": [
@@ -2662,6 +2676,10 @@
     },
     "shows": {
       "2026-10-24": [
+        {
+          "time": "19:50",
+          "tags": []
+        },
         {
           "time": "23:10",
           "tags": []
@@ -2686,11 +2704,11 @@
         }
       ]
     },
-    "room": "Sala 3",
+    "room": "Sala 7",
     "vo": false,
     "url": "https://ucicinemas.it/film/verity/",
     "smart": {
-      "2026-10-24": 18,
+      "2026-10-24": 23,
       "2026-10-25": 19,
       "2026-10-26": 19,
       "2026-10-27": 18
