@@ -11,13 +11,10 @@
     },
     "releaseDate": "2026-09-25",
     "showtimes": [
-      "17:00"
+      "13:00"
     ],
-    "showtimesDate": "2026-10-25",
+    "showtimesDate": "2026-10-26",
     "days": {
-      "2026-10-25": [
-        "17:00"
-      ],
       "2026-10-26": [
         "13:00"
       ],
@@ -26,14 +23,6 @@
       ]
     },
     "shows": {
-      "2026-10-25": [
-        {
-          "time": "17:00",
-          "tags": [
-            "VO"
-          ]
-        }
-      ],
       "2026-10-26": [
         {
           "time": "13:00",
@@ -55,11 +44,10 @@
     "vo": true,
     "url": "https://www.liveticket.it/opera.aspx?Id=695512",
     "smart": {
-      "2026-10-25": 82,
-      "2026-10-26": 68,
-      "2026-10-28": 68
+      "2026-10-26": 67,
+      "2026-10-28": 67
     },
-    "rankUscita": 4,
+    "rankUscita": 3,
     "rankVoto": 0
   },
   {
@@ -98,7 +86,7 @@
     "smart": {
       "2026-10-31": 70
     },
-    "rankUscita": 7,
+    "rankUscita": 5,
     "rankVoto": 1
   },
   {
@@ -137,7 +125,7 @@
     "smart": {
       "2026-10-27": 69
     },
-    "rankUscita": 11,
+    "rankUscita": 13,
     "rankVoto": 2
   },
   {
@@ -180,42 +168,40 @@
     "rankVoto": 3
   },
   {
-    "title": "Making Marie Antoinette",
-    "poster": "https://image.tmdb.org/t/p/w185/9Jz4JCi2ZzFUi2bAzrmMzpRPYfN.jpg",
-    "rating": 8.1,
+    "title": "Nosferatu, il vampiro",
+    "poster": "https://image.tmdb.org/t/p/w185/zx24O7VAs6NbJhiIrUhWysAiHS0.jpg",
+    "rating": 8,
     "ratings": {
       "letterboxd": 7.6,
-      "imdb": 7.4,
-      "metacritic": 8.3,
-      "mubi": 9.2
+      "imdb": 7.8,
+      "metacritic": null,
+      "mubi": 8.5
     },
-    "releaseDate": "2026-10-25",
+    "releaseDate": "2016-02-08",
     "showtimes": [
-      "20:45"
+      "05:45"
     ],
-    "showtimesDate": "2026-10-25",
+    "showtimesDate": "2026-11-01",
     "days": {
-      "2026-10-25": [
-        "20:45"
+      "2026-11-01": [
+        "05:45"
       ]
     },
     "shows": {
-      "2026-10-25": [
+      "2026-11-01": [
         {
-          "time": "20:45",
-          "tags": [
-            "VO"
-          ]
+          "time": "05:45",
+          "tags": []
         }
       ]
     },
     "room": null,
-    "vo": true,
-    "url": "https://www.liveticket.it/opera.aspx?Id=705607",
+    "vo": false,
+    "url": "https://www.liveticket.it/opera.aspx?Id=704990",
     "smart": {
-      "2026-10-25": 95
+      "2026-11-01": 65
     },
-    "rankUscita": 1,
+    "rankUscita": 7,
     "rankVoto": 4
   },
   {
@@ -230,13 +216,11 @@
     },
     "releaseDate": "2026-10-16",
     "showtimes": [
-      "19:00"
+      "11:00",
+      "18:30"
     ],
-    "showtimesDate": "2026-10-25",
+    "showtimesDate": "2026-10-26",
     "days": {
-      "2026-10-25": [
-        "19:00"
-      ],
       "2026-10-26": [
         "11:00",
         "18:30"
@@ -250,14 +234,6 @@
       ]
     },
     "shows": {
-      "2026-10-25": [
-        {
-          "time": "19:00",
-          "tags": [
-            "VO"
-          ]
-        }
-      ],
       "2026-10-26": [
         {
           "time": "11:00",
@@ -299,51 +275,48 @@
     "vo": true,
     "url": "https://www.liveticket.it/opera.aspx?Id=704008",
     "smart": {
-      "2026-10-25": 85,
       "2026-10-26": 85,
       "2026-10-27": 85,
       "2026-10-28": 85
     },
-    "rankUscita": 2,
+    "rankUscita": 1,
     "rankVoto": 5
   },
   {
-    "title": "I Diavoli (the Devils)",
-    "poster": "https://cinematroisi.liveticket.it/wp-content/uploads/sites/48/31767it1_it-180x257.jpg",
-    "rating": 7.5,
+    "title": "Solo gli Amanti Sopravvivono (Only Lover",
+    "poster": "https://cinematroisi.liveticket.it/wp-content/uploads/sites/48/tt1714915_it-180x257.jpg",
+    "rating": 7.8,
     "ratings": {
-      "letterboxd": 8.5,
-      "imdb": 7.7,
-      "metacritic": 5.4,
-      "mubi": 8.4
+      "letterboxd": 7.6,
+      "imdb": 7.2,
+      "metacritic": 7.9,
+      "mubi": 8.3
     },
-    "releaseDate": "1971-09-11",
+    "releaseDate": "2014-05-15",
     "showtimes": [
-      "00:30"
+      "07:30"
     ],
-    "showtimesDate": "2026-10-26",
+    "showtimesDate": "2026-11-01",
     "days": {
-      "2026-10-26": [
-        "00:30"
+      "2026-11-01": [
+        "07:30"
       ]
     },
     "shows": {
-      "2026-10-26": [
+      "2026-11-01": [
         {
-          "time": "00:30",
-          "tags": [
-            "VO"
-          ]
+          "time": "07:30",
+          "tags": []
         }
       ]
     },
     "room": null,
-    "vo": true,
-    "url": "https://www.liveticket.it/opera.aspx?Id=705595",
+    "vo": false,
+    "url": "https://www.liveticket.it/opera.aspx?Id=704988",
     "smart": {
-      "2026-10-26": 45
+      "2026-11-01": 63
     },
-    "rankUscita": 15,
+    "rankUscita": 8,
     "rankVoto": 6
   },
   {
@@ -382,8 +355,45 @@
     "smart": {
       "2026-10-26": 41
     },
-    "rankUscita": 10,
+    "rankUscita": 12,
     "rankVoto": 7
+  },
+  {
+    "title": "Il buio si avvicina",
+    "poster": "https://image.tmdb.org/t/p/w185/eTVoMyRHlolWkF41oQMGMnq4Sh2.jpg",
+    "rating": 7.2,
+    "ratings": {
+      "letterboxd": 7,
+      "imdb": 6.9,
+      "metacritic": 7.8,
+      "mubi": 6.9
+    },
+    "releaseDate": "1988-08-24",
+    "showtimes": [
+      "04:00"
+    ],
+    "showtimesDate": "2026-11-01",
+    "days": {
+      "2026-11-01": [
+        "04:00"
+      ]
+    },
+    "shows": {
+      "2026-11-01": [
+        {
+          "time": "04:00",
+          "tags": []
+        }
+      ]
+    },
+    "room": null,
+    "vo": false,
+    "url": "https://www.liveticket.it/opera.aspx?Id=704999",
+    "smart": {
+      "2026-11-01": 56
+    },
+    "rankUscita": 15,
+    "rankVoto": 8
   },
   {
     "title": "Prima della rivoluzione",
@@ -419,8 +429,8 @@
     "smart": {
       "2026-10-27": 56
     },
-    "rankUscita": 16,
-    "rankVoto": 8
+    "rankUscita": 18,
+    "rankVoto": 9
   },
   {
     "title": "L'estranea",
@@ -454,10 +464,10 @@
     "vo": false,
     "url": "https://www.liveticket.it/opera.aspx?Id=705623",
     "smart": {
-      "2026-10-27": 71
+      "2026-10-27": 70
     },
-    "rankUscita": 3,
-    "rankVoto": 9
+    "rankUscita": 2,
+    "rankVoto": 10
   },
   {
     "title": "The Addiction - Vampiri a New York",
@@ -493,8 +503,8 @@
     "smart": {
       "2026-10-31": 54
     },
-    "rankUscita": 12,
-    "rankVoto": 10
+    "rankUscita": 14,
+    "rankVoto": 11
   },
   {
     "title": "Ganja & Hess",
@@ -530,8 +540,45 @@
     "smart": {
       "2026-10-31": 53
     },
-    "rankUscita": 13,
-    "rankVoto": 11
+    "rankUscita": 16,
+    "rankVoto": 12
+  },
+  {
+    "title": "Le avventure di Ichabod e Mr. Toad",
+    "poster": "https://image.tmdb.org/t/p/w185/ijCC6RwWaF1Xp0X8MikPwDMaIpR.jpg",
+    "rating": 6.9,
+    "ratings": {
+      "letterboxd": 6.5,
+      "imdb": 6.8,
+      "metacritic": 7.4,
+      "mubi": 7
+    },
+    "releaseDate": "2004-03-01",
+    "showtimes": [
+      "11:00"
+    ],
+    "showtimesDate": "2026-11-01",
+    "days": {
+      "2026-11-01": [
+        "11:00"
+      ]
+    },
+    "shows": {
+      "2026-11-01": [
+        {
+          "time": "11:00",
+          "tags": []
+        }
+      ]
+    },
+    "room": null,
+    "vo": false,
+    "url": "https://www.liveticket.it/opera.aspx?Id=696623",
+    "smart": {
+      "2026-11-01": 52
+    },
+    "rankUscita": 11,
+    "rankVoto": 13
   },
   {
     "title": "La torta in cielo",
@@ -567,45 +614,45 @@
     "smart": {
       "2026-10-28": 31
     },
-    "rankUscita": 14,
-    "rankVoto": 12
+    "rankUscita": 17,
+    "rankVoto": 14
   },
   {
-    "title": "Lilo & Stitch",
-    "poster": "https://image.tmdb.org/t/p/w185/kdV6ThmZLCwIV6tB6IBvKMeD67X.jpg",
-    "rating": 5.8,
+    "title": "Thirst",
+    "poster": "https://image.tmdb.org/t/p/w185/5cFwfCtqjAXvG4ctAyGdwopSNlc.jpg",
+    "rating": 6.3,
     "ratings": {
-      "letterboxd": 6,
-      "imdb": 6.7,
-      "metacritic": 5.3,
-      "mubi": 5
+      "letterboxd": 5.8,
+      "imdb": 4.5,
+      "metacritic": 7.3,
+      "mubi": 7.6
     },
-    "releaseDate": "2025-05-21",
+    "releaseDate": "2010-06-22",
     "showtimes": [
-      "11:00"
+      "01:30"
     ],
-    "showtimesDate": "2026-10-25",
+    "showtimesDate": "2026-11-01",
     "days": {
-      "2026-10-25": [
-        "11:00"
+      "2026-11-01": [
+        "01:30"
       ]
     },
     "shows": {
-      "2026-10-25": [
+      "2026-11-01": [
         {
-          "time": "11:00",
+          "time": "01:30",
           "tags": []
         }
       ]
     },
     "room": null,
     "vo": false,
-    "url": "https://www.liveticket.it/opera.aspx?Id=696621",
+    "url": "https://www.liveticket.it/opera.aspx?Id=705002",
     "smart": {
-      "2026-10-25": 38
+      "2026-11-01": 44
     },
-    "rankUscita": 6,
-    "rankVoto": 13
+    "rankUscita": 10,
+    "rankVoto": 15
   },
   {
     "title": "Solo Dio perdona",
@@ -644,7 +691,7 @@
       "2026-10-31": 33
     },
     "rankUscita": 9,
-    "rankVoto": 14
+    "rankVoto": 16
   },
   {
     "title": "Era",
@@ -680,8 +727,8 @@
     "smart": {
       "2026-10-27": 50
     },
-    "rankUscita": 5,
-    "rankVoto": 15
+    "rankUscita": 4,
+    "rankVoto": 17
   },
   {
     "title": "Il canto di Alina",
@@ -697,22 +744,13 @@
     "showtimes": [
       "15:00"
     ],
-    "showtimesDate": "2026-10-25",
+    "showtimesDate": "2026-10-26",
     "days": {
-      "2026-10-25": [
-        "15:00"
-      ],
       "2026-10-26": [
         "15:00"
       ]
     },
     "shows": {
-      "2026-10-25": [
-        {
-          "time": "15:00",
-          "tags": []
-        }
-      ],
       "2026-10-26": [
         {
           "time": "15:00",
@@ -724,11 +762,10 @@
     "vo": false,
     "url": "https://www.liveticket.it/opera.aspx?Id=705579",
     "smart": {
-      "2026-10-25": 50,
       "2026-10-26": 36
     },
-    "rankUscita": 8,
-    "rankVoto": 16
+    "rankUscita": 6,
+    "rankVoto": 18
   },
   {
     "title": "Dracula di Bram Stoker 4K (Ried. 2026)",
@@ -764,8 +801,8 @@
     "smart": {
       "2026-10-31": 64
     },
-    "rankUscita": 17,
-    "rankVoto": 17
+    "rankUscita": 19,
+    "rankVoto": 19
   },
   {
     "title": "Il dottor Stranamore",
@@ -779,13 +816,10 @@
     },
     "releaseDate": null,
     "showtimes": [
-      "13:00"
+      "16:30"
     ],
-    "showtimesDate": "2026-10-25",
+    "showtimesDate": "2026-10-26",
     "days": {
-      "2026-10-25": [
-        "13:00"
-      ],
       "2026-10-26": [
         "16:30"
       ],
@@ -794,14 +828,6 @@
       ]
     },
     "shows": {
-      "2026-10-25": [
-        {
-          "time": "13:00",
-          "tags": [
-            "VO"
-          ]
-        }
-      ],
       "2026-10-26": [
         {
           "time": "16:30",
@@ -823,12 +849,11 @@
     "vo": true,
     "url": "https://www.liveticket.it/opera.aspx?Id=705592",
     "smart": {
-      "2026-10-25": 64,
       "2026-10-26": 50,
       "2026-10-28": 50
     },
-    "rankUscita": 18,
-    "rankVoto": 18
+    "rankUscita": 20,
+    "rankVoto": 20
   },
   {
     "title": "Swans Live Berlin",
@@ -864,7 +889,7 @@
     "smart": {
       "2026-10-26": 50
     },
-    "rankUscita": 19,
-    "rankVoto": 19
+    "rankUscita": 21,
+    "rankVoto": 21
   }
 ]
