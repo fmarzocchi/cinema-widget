@@ -47,7 +47,7 @@
       "2026-10-26": 67,
       "2026-10-28": 67
     },
-    "rankUscita": 3,
+    "rankUscita": 4,
     "rankVoto": 0
   },
   {
@@ -86,7 +86,7 @@
     "smart": {
       "2026-10-31": 70
     },
-    "rankUscita": 5,
+    "rankUscita": 6,
     "rankVoto": 1
   },
   {
@@ -125,7 +125,7 @@
     "smart": {
       "2026-10-27": 69
     },
-    "rankUscita": 13,
+    "rankUscita": 14,
     "rankVoto": 2
   },
   {
@@ -134,7 +134,7 @@
     "rating": 8.1,
     "ratings": {
       "letterboxd": 8.2,
-      "imdb": 8.2,
+      "imdb": 8.1,
       "metacritic": 7.9,
       "mubi": 8.3
     },
@@ -201,7 +201,7 @@
     "smart": {
       "2026-11-01": 65
     },
-    "rankUscita": 7,
+    "rankUscita": 8,
     "rankVoto": 4
   },
   {
@@ -279,7 +279,7 @@
       "2026-10-27": 85,
       "2026-10-28": 85
     },
-    "rankUscita": 1,
+    "rankUscita": 2,
     "rankVoto": 5
   },
   {
@@ -316,7 +316,7 @@
     "smart": {
       "2026-11-01": 63
     },
-    "rankUscita": 8,
+    "rankUscita": 9,
     "rankVoto": 6
   },
   {
@@ -355,45 +355,8 @@
     "smart": {
       "2026-10-26": 41
     },
-    "rankUscita": 12,
+    "rankUscita": 13,
     "rankVoto": 7
-  },
-  {
-    "title": "Il buio si avvicina",
-    "poster": "https://image.tmdb.org/t/p/w185/eTVoMyRHlolWkF41oQMGMnq4Sh2.jpg",
-    "rating": 7.2,
-    "ratings": {
-      "letterboxd": 7,
-      "imdb": 6.9,
-      "metacritic": 7.8,
-      "mubi": 6.9
-    },
-    "releaseDate": "1988-08-24",
-    "showtimes": [
-      "04:00"
-    ],
-    "showtimesDate": "2026-11-01",
-    "days": {
-      "2026-11-01": [
-        "04:00"
-      ]
-    },
-    "shows": {
-      "2026-11-01": [
-        {
-          "time": "04:00",
-          "tags": []
-        }
-      ]
-    },
-    "room": null,
-    "vo": false,
-    "url": "https://www.liveticket.it/opera.aspx?Id=704999",
-    "smart": {
-      "2026-11-01": 56
-    },
-    "rankUscita": 15,
-    "rankVoto": 8
   },
   {
     "title": "Prima della rivoluzione",
@@ -429,8 +392,8 @@
     "smart": {
       "2026-10-27": 56
     },
-    "rankUscita": 18,
-    "rankVoto": 9
+    "rankUscita": 19,
+    "rankVoto": 8
   },
   {
     "title": "L'estranea",
@@ -466,8 +429,8 @@
     "smart": {
       "2026-10-27": 70
     },
-    "rankUscita": 2,
-    "rankVoto": 10
+    "rankUscita": 3,
+    "rankVoto": 9
   },
   {
     "title": "The Addiction - Vampiri a New York",
@@ -503,7 +466,44 @@
     "smart": {
       "2026-10-31": 54
     },
-    "rankUscita": 14,
+    "rankUscita": 15,
+    "rankVoto": 10
+  },
+  {
+    "title": "Il buio si avvicina",
+    "poster": "https://image.tmdb.org/t/p/w185/eTVoMyRHlolWkF41oQMGMnq4Sh2.jpg",
+    "rating": 7.1,
+    "ratings": {
+      "letterboxd": 7,
+      "imdb": 6.8,
+      "metacritic": 7.8,
+      "mubi": 6.9
+    },
+    "releaseDate": "1988-08-24",
+    "showtimes": [
+      "04:00"
+    ],
+    "showtimesDate": "2026-11-01",
+    "days": {
+      "2026-11-01": [
+        "04:00"
+      ]
+    },
+    "shows": {
+      "2026-11-01": [
+        {
+          "time": "04:00",
+          "tags": []
+        }
+      ]
+    },
+    "room": null,
+    "vo": false,
+    "url": "https://www.liveticket.it/opera.aspx?Id=704999",
+    "smart": {
+      "2026-11-01": 54
+    },
+    "rankUscita": 16,
     "rankVoto": 11
   },
   {
@@ -540,7 +540,7 @@
     "smart": {
       "2026-10-31": 53
     },
-    "rankUscita": 16,
+    "rankUscita": 17,
     "rankVoto": 12
   },
   {
@@ -577,7 +577,7 @@
     "smart": {
       "2026-11-01": 52
     },
-    "rankUscita": 11,
+    "rankUscita": 12,
     "rankVoto": 13
   },
   {
@@ -614,7 +614,7 @@
     "smart": {
       "2026-10-28": 31
     },
-    "rankUscita": 17,
+    "rankUscita": 18,
     "rankVoto": 14
   },
   {
@@ -651,7 +651,7 @@
     "smart": {
       "2026-11-01": 44
     },
-    "rankUscita": 10,
+    "rankUscita": 11,
     "rankVoto": 15
   },
   {
@@ -690,8 +690,45 @@
     "smart": {
       "2026-10-31": 33
     },
-    "rankUscita": 9,
+    "rankUscita": 10,
     "rankVoto": 16
+  },
+  {
+    "title": "Carla Lonzi - Dentro e fuori dal mondo",
+    "poster": "https://image.tmdb.org/t/p/w185/xoZsnMCVVO1pWRSUbaJHzTjBCi6.jpg",
+    "rating": null,
+    "ratings": {
+      "letterboxd": null,
+      "imdb": null,
+      "metacritic": null,
+      "mubi": null
+    },
+    "releaseDate": "2026-10-26",
+    "showtimes": [
+      "19:00"
+    ],
+    "showtimesDate": "2026-10-29",
+    "days": {
+      "2026-10-29": [
+        "19:00"
+      ]
+    },
+    "shows": {
+      "2026-10-29": [
+        {
+          "time": "19:00",
+          "tags": []
+        }
+      ]
+    },
+    "room": null,
+    "vo": false,
+    "url": "https://www.liveticket.it/opera.aspx?Id=708322",
+    "smart": {
+      "2026-10-29": 79
+    },
+    "rankUscita": 1,
+    "rankVoto": 17
   },
   {
     "title": "Era",
@@ -727,8 +764,8 @@
     "smart": {
       "2026-10-27": 50
     },
-    "rankUscita": 4,
-    "rankVoto": 17
+    "rankUscita": 5,
+    "rankVoto": 18
   },
   {
     "title": "Il canto di Alina",
@@ -764,8 +801,45 @@
     "smart": {
       "2026-10-26": 36
     },
-    "rankUscita": 6,
-    "rankVoto": 18
+    "rankUscita": 7,
+    "rankVoto": 19
+  },
+  {
+    "title": "52 is a Machine + Urchin",
+    "poster": "https://cinematroisi.liveticket.it/wp-content/uploads/sites/48/00311719-180x257.jpg",
+    "rating": null,
+    "ratings": {
+      "letterboxd": null,
+      "imdb": null,
+      "metacritic": null,
+      "mubi": null
+    },
+    "releaseDate": null,
+    "showtimes": [
+      "21:30"
+    ],
+    "showtimesDate": "2026-10-29",
+    "days": {
+      "2026-10-29": [
+        "21:30"
+      ]
+    },
+    "shows": {
+      "2026-10-29": [
+        {
+          "time": "21:30",
+          "tags": []
+        }
+      ]
+    },
+    "room": null,
+    "vo": false,
+    "url": "https://www.liveticket.it/opera.aspx?Id=708351",
+    "smart": {
+      "2026-10-29": 64
+    },
+    "rankUscita": 20,
+    "rankVoto": 20
   },
   {
     "title": "Dracula di Bram Stoker 4K (Ried. 2026)",
@@ -801,8 +875,8 @@
     "smart": {
       "2026-10-31": 64
     },
-    "rankUscita": 19,
-    "rankVoto": 19
+    "rankUscita": 21,
+    "rankVoto": 21
   },
   {
     "title": "Il dottor Stranamore",
@@ -852,8 +926,8 @@
       "2026-10-26": 50,
       "2026-10-28": 50
     },
-    "rankUscita": 20,
-    "rankVoto": 20
+    "rankUscita": 22,
+    "rankVoto": 22
   },
   {
     "title": "Swans Live Berlin",
@@ -889,7 +963,7 @@
     "smart": {
       "2026-10-26": 50
     },
-    "rankUscita": 21,
-    "rankVoto": 21
+    "rankUscita": 23,
+    "rankVoto": 23
   }
 ]
