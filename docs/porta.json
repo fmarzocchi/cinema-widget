@@ -125,7 +125,7 @@
     "rating": 8.1,
     "ratings": {
       "letterboxd": 8.2,
-      "imdb": 8.1,
+      "imdb": 8.2,
       "metacritic": 7.9,
       "mubi": 8.3
     },
@@ -215,6 +215,53 @@
     "rankVoto": 3
   },
   {
+    "title": "BTS - World tour Arirang in Buenos Aires e Sao Paulo",
+    "poster": "https://storage.googleapis.com/uci-infrastructure-bucket/Common/Movies/Posters/01M2J6DGWNFCSTK3BZR1MXBFFA_resized_at_20260915112958.jpg",
+    "rating": 7.8,
+    "ratings": {
+      "letterboxd": null,
+      "imdb": 7.8,
+      "metacritic": null,
+      "mubi": null
+    },
+    "releaseDate": "2026-10-24",
+    "showtimes": [
+      "14:45",
+      "18:30"
+    ],
+    "showtimesDate": "2026-10-31",
+    "days": {
+      "2026-10-31": [
+        "14:45",
+        "18:30"
+      ]
+    },
+    "shows": {
+      "2026-10-31": [
+        {
+          "time": "14:45",
+          "tags": [
+            "VO"
+          ]
+        },
+        {
+          "time": "18:30",
+          "tags": [
+            "VO"
+          ]
+        }
+      ]
+    },
+    "room": "Sala 8",
+    "vo": true,
+    "url": "https://ucicinemas.it/film/bts-world-tour-arirang-in-buenos-aires-e-sao-paulo/",
+    "smart": {
+      "2026-10-31": 79
+    },
+    "rankUscita": 8,
+    "rankVoto": 4
+  },
+  {
     "title": "L'isola dei ricordi",
     "poster": "https://image.tmdb.org/t/p/w185/p8YpBFMmccQQoeQie9XKv6loDSa.jpg",
     "rating": 7.6,
@@ -259,7 +306,7 @@
       "2026-10-28": 47
     },
     "rankUscita": 28,
-    "rankVoto": 4
+    "rankVoto": 5
   },
   {
     "title": "Shaun, vita da pecora - Operazione Z.U.C.C.A.",
@@ -377,7 +424,7 @@
       "2026-11-02": 87
     },
     "rankUscita": 6,
-    "rankVoto": 5
+    "rankVoto": 6
   },
   {
     "title": "Jumbo - La voce di Don",
@@ -424,7 +471,7 @@
       "2026-10-28": 54
     },
     "rankUscita": 18,
-    "rankVoto": 6
+    "rankVoto": 7
   },
   {
     "title": "Ragione e sentimento",
@@ -503,53 +550,6 @@
       "2026-10-28": 68
     },
     "rankUscita": 10,
-    "rankVoto": 7
-  },
-  {
-    "title": "Caro Mondo Crudele",
-    "poster": "https://image.tmdb.org/t/p/w185/osTo8g66Bxxu4J4XKEhacesK8gd.jpg",
-    "rating": 7.1,
-    "ratings": {
-      "letterboxd": null,
-      "imdb": 7.1,
-      "metacritic": null,
-      "mubi": null
-    },
-    "releaseDate": "2026-10-22",
-    "showtimes": [
-      "19:00"
-    ],
-    "showtimesDate": "2026-10-27",
-    "days": {
-      "2026-10-27": [
-        "19:00"
-      ],
-      "2026-10-28": [
-        "19:00"
-      ]
-    },
-    "shows": {
-      "2026-10-27": [
-        {
-          "time": "19:00",
-          "tags": []
-        }
-      ],
-      "2026-10-28": [
-        {
-          "time": "19:00",
-          "tags": []
-        }
-      ]
-    },
-    "room": "Sala 6",
-    "vo": false,
-    "url": "https://ucicinemas.it/film/caro-mondo-crudele/",
-    "smart": {
-      "2026-10-27": 55,
-      "2026-10-28": 56
-    },
-    "rankUscita": 11,
     "rankVoto": 8
   },
   {
@@ -604,6 +604,53 @@
     },
     "rankUscita": 25,
     "rankVoto": 9
+  },
+  {
+    "title": "Caro Mondo Crudele",
+    "poster": "https://image.tmdb.org/t/p/w185/osTo8g66Bxxu4J4XKEhacesK8gd.jpg",
+    "rating": 7,
+    "ratings": {
+      "letterboxd": null,
+      "imdb": 7,
+      "metacritic": null,
+      "mubi": null
+    },
+    "releaseDate": "2026-10-22",
+    "showtimes": [
+      "19:00"
+    ],
+    "showtimesDate": "2026-10-27",
+    "days": {
+      "2026-10-27": [
+        "19:00"
+      ],
+      "2026-10-28": [
+        "19:00"
+      ]
+    },
+    "shows": {
+      "2026-10-27": [
+        {
+          "time": "19:00",
+          "tags": []
+        }
+      ],
+      "2026-10-28": [
+        {
+          "time": "19:00",
+          "tags": []
+        }
+      ]
+    },
+    "room": "Sala 6",
+    "vo": false,
+    "url": "https://ucicinemas.it/film/caro-mondo-crudele/",
+    "smart": {
+      "2026-10-27": 53,
+      "2026-10-28": 54
+    },
+    "rankUscita": 11,
+    "rankVoto": 10
   },
   {
     "title": "Clayface",
@@ -711,7 +758,7 @@
       "2026-10-28": 72
     },
     "rankUscita": 12,
-    "rankVoto": 10
+    "rankVoto": 11
   },
   {
     "title": "Urchin",
@@ -758,7 +805,7 @@
       "2026-10-28": 54
     },
     "rankUscita": 13,
-    "rankVoto": 11
+    "rankVoto": 12
   },
   {
     "title": "Primetime",
@@ -827,15 +874,84 @@
       "2026-10-28": 60
     },
     "rankUscita": 19,
-    "rankVoto": 12
+    "rankVoto": 13
   },
   {
-    "title": "Je so’ pazzo",
-    "poster": "https://image.tmdb.org/t/p/w185/eDfWOV5oad5wbI8AdzsMhnq7Zbd.jpg",
+    "title": "L'assurda storia della Gialappa's Band",
+    "poster": "https://image.tmdb.org/t/p/w185/cmzJAwJZPcX6oooyP6alOx7K9sm.jpg",
     "rating": 6.8,
     "ratings": {
       "letterboxd": null,
       "imdb": 6.8,
+      "metacritic": null,
+      "mubi": null
+    },
+    "releaseDate": "2026-10-22",
+    "showtimes": [
+      "13:50",
+      "16:30",
+      "21:40"
+    ],
+    "showtimesDate": "2026-10-27",
+    "days": {
+      "2026-10-27": [
+        "13:50",
+        "16:30",
+        "21:40"
+      ],
+      "2026-10-28": [
+        "13:50",
+        "16:30",
+        "21:40"
+      ]
+    },
+    "shows": {
+      "2026-10-27": [
+        {
+          "time": "13:50",
+          "tags": []
+        },
+        {
+          "time": "16:30",
+          "tags": []
+        },
+        {
+          "time": "21:40",
+          "tags": []
+        }
+      ],
+      "2026-10-28": [
+        {
+          "time": "13:50",
+          "tags": []
+        },
+        {
+          "time": "16:30",
+          "tags": []
+        },
+        {
+          "time": "21:40",
+          "tags": []
+        }
+      ]
+    },
+    "room": "Sala 12",
+    "vo": false,
+    "url": "https://ucicinemas.it/film/lassurda-storia-della-gialappas-band/",
+    "smart": {
+      "2026-10-27": 61,
+      "2026-10-28": 63
+    },
+    "rankUscita": 14,
+    "rankVoto": 14
+  },
+  {
+    "title": "Je so’ pazzo",
+    "poster": "https://image.tmdb.org/t/p/w185/eDfWOV5oad5wbI8AdzsMhnq7Zbd.jpg",
+    "rating": 6.7,
+    "ratings": {
+      "letterboxd": null,
+      "imdb": 6.7,
       "metacritic": null,
       "mubi": null
     },
@@ -903,11 +1019,11 @@
     "vo": false,
     "url": "https://ucicinemas.it/film/je-so-pazzo/",
     "smart": {
-      "2026-10-27": 60,
-      "2026-10-28": 64
+      "2026-10-27": 59,
+      "2026-10-28": 63
     },
     "rankUscita": 20,
-    "rankVoto": 13
+    "rankVoto": 15
   },
   {
     "title": "Hope",
@@ -973,7 +1089,7 @@
       "2026-11-01": 67
     },
     "rankUscita": 1,
-    "rankVoto": 14
+    "rankVoto": 16
   },
   {
     "title": "Heart of the Beast - Nel profondo selvaggio",
@@ -1010,7 +1126,7 @@
       "2026-10-27": 34
     },
     "rankUscita": 29,
-    "rankVoto": 15
+    "rankVoto": 17
   },
   {
     "title": "It Ends",
@@ -1129,7 +1245,7 @@
       "2026-11-02": 60
     },
     "rankUscita": 7,
-    "rankVoto": 16
+    "rankVoto": 18
   },
   {
     "title": "Dio ride",
@@ -1206,7 +1322,7 @@
       "2026-11-02": 58
     },
     "rankUscita": 3,
-    "rankVoto": 17
+    "rankVoto": 19
   },
   {
     "title": "Dracula - L’amore perduto",
@@ -1263,7 +1379,7 @@
       "2026-11-01": 24
     },
     "rankUscita": 33,
-    "rankVoto": 18
+    "rankVoto": 20
   },
   {
     "title": "Taddeo l’esploratore e la lampada magica",
@@ -1305,8 +1421,8 @@
     "smart": {
       "2026-10-27": 47
     },
-    "rankUscita": 14,
-    "rankVoto": 19
+    "rankUscita": 15,
+    "rankVoto": 21
   },
   {
     "title": "Whalefall - Nella balena",
@@ -1314,7 +1430,7 @@
     "rating": 6,
     "ratings": {
       "letterboxd": 6.5,
-      "imdb": 6.7,
+      "imdb": 6.6,
       "metacritic": 5.9,
       "mubi": 4.9
     },
@@ -1353,7 +1469,7 @@
       "2026-10-28": 37
     },
     "rankUscita": 21,
-    "rankVoto": 20
+    "rankVoto": 22
   },
   {
     "title": "Frankie e le creature dimenticate",
@@ -1400,7 +1516,7 @@
       "2026-10-28": 35
     },
     "rankUscita": 22,
-    "rankVoto": 21
+    "rankVoto": 23
   },
   {
     "title": "Klara e il sole",
@@ -1457,8 +1573,8 @@
       "2026-10-27": 40,
       "2026-10-28": 42
     },
-    "rankUscita": 15,
-    "rankVoto": 22
+    "rankUscita": 16,
+    "rankVoto": 24
   },
   {
     "title": "Fast & furious - Solo parti originali",
@@ -1561,7 +1677,7 @@
       "2026-11-02": 33
     },
     "rankUscita": 34,
-    "rankVoto": 23
+    "rankVoto": 25
   },
   {
     "title": "Street Fighter",
@@ -1633,7 +1749,7 @@
       "2026-10-28": 34
     },
     "rankUscita": 23,
-    "rankVoto": 24
+    "rankVoto": 26
   },
   {
     "title": "Verity",
@@ -1670,7 +1786,7 @@
       "2026-10-27": 17
     },
     "rankUscita": 27,
-    "rankVoto": 25
+    "rankVoto": 27
   },
   {
     "title": "Mammina",
@@ -1717,7 +1833,7 @@
       "2026-10-28": 21
     },
     "rankUscita": 26,
-    "rankVoto": 26
+    "rankVoto": 28
   },
   {
     "title": "Ice Cream Man",
@@ -1820,7 +1936,7 @@
       "2026-11-02": 57
     },
     "rankUscita": 4,
-    "rankVoto": 27
+    "rankVoto": 29
   },
   {
     "title": "Il gatto col cappello",
@@ -1889,7 +2005,7 @@
       "2026-11-01": 79
     },
     "rankUscita": 2,
-    "rankVoto": 28
+    "rankVoto": 30
   },
   {
     "title": "Un tranquillo funerale di famiglia",
@@ -1938,122 +2054,6 @@
       "2026-10-30": 64
     },
     "rankUscita": 5,
-    "rankVoto": 29
-  },
-  {
-    "title": "BTS - World tour Arirang in Buenos Aires e Sao Paulo",
-    "poster": "https://storage.googleapis.com/uci-infrastructure-bucket/Common/Movies/Posters/01M2J6DGWNFCSTK3BZR1MXBFFA_resized_at_20260915112958.jpg",
-    "rating": null,
-    "ratings": {
-      "letterboxd": null,
-      "imdb": null,
-      "metacritic": null,
-      "mubi": null
-    },
-    "releaseDate": "2026-10-24",
-    "showtimes": [
-      "14:45",
-      "18:30"
-    ],
-    "showtimesDate": "2026-10-31",
-    "days": {
-      "2026-10-31": [
-        "14:45",
-        "18:30"
-      ]
-    },
-    "shows": {
-      "2026-10-31": [
-        {
-          "time": "14:45",
-          "tags": [
-            "VO"
-          ]
-        },
-        {
-          "time": "18:30",
-          "tags": [
-            "VO"
-          ]
-        }
-      ]
-    },
-    "room": "Sala 8",
-    "vo": true,
-    "url": "https://ucicinemas.it/film/bts-world-tour-arirang-in-buenos-aires-e-sao-paulo/",
-    "smart": {
-      "2026-10-31": 66
-    },
-    "rankUscita": 8,
-    "rankVoto": 30
-  },
-  {
-    "title": "L'assurda storia della Gialappa's Band",
-    "poster": "https://image.tmdb.org/t/p/w185/cmzJAwJZPcX6oooyP6alOx7K9sm.jpg",
-    "rating": null,
-    "ratings": {
-      "letterboxd": null,
-      "imdb": null,
-      "metacritic": null,
-      "mubi": null
-    },
-    "releaseDate": "2026-10-22",
-    "showtimes": [
-      "13:50",
-      "16:30",
-      "21:40"
-    ],
-    "showtimesDate": "2026-10-27",
-    "days": {
-      "2026-10-27": [
-        "13:50",
-        "16:30",
-        "21:40"
-      ],
-      "2026-10-28": [
-        "13:50",
-        "16:30",
-        "21:40"
-      ]
-    },
-    "shows": {
-      "2026-10-27": [
-        {
-          "time": "13:50",
-          "tags": []
-        },
-        {
-          "time": "16:30",
-          "tags": []
-        },
-        {
-          "time": "21:40",
-          "tags": []
-        }
-      ],
-      "2026-10-28": [
-        {
-          "time": "13:50",
-          "tags": []
-        },
-        {
-          "time": "16:30",
-          "tags": []
-        },
-        {
-          "time": "21:40",
-          "tags": []
-        }
-      ]
-    },
-    "room": "Sala 12",
-    "vo": false,
-    "url": "https://ucicinemas.it/film/lassurda-storia-della-gialappas-band/",
-    "smart": {
-      "2026-10-27": 60,
-      "2026-10-28": 63
-    },
-    "rankUscita": 16,
     "rankVoto": 31
   },
   {
