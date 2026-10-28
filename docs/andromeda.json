@@ -11,73 +11,30 @@
     },
     "releaseDate": "2026-10-22",
     "showtimes": [
-      "16:30",
-      "18:40"
+      "21:15"
     ],
-    "showtimesDate": "2026-10-28",
+    "showtimesDate": "2026-10-29",
     "days": {
-      "2026-10-28": [
-        "16:30",
-        "18:40"
+      "2026-10-29": [
+        "21:15"
       ]
     },
     "shows": {
-      "2026-10-28": [
+      "2026-10-29": [
         {
-          "time": "16:30",
-          "tags": []
-        },
-        {
-          "time": "18:40",
-          "tags": []
-        }
-      ]
-    },
-    "room": "Sala 7",
-    "vo": false,
-    "url": "https://roma.andromeda.18tickets.it/film/86023",
-    "smart": {
-      "2026-10-28": 81
-    },
-    "rankUscita": 6,
-    "rankVoto": 0
-  },
-  {
-    "title": "L'isola dei ricordi",
-    "poster": "https://image.tmdb.org/t/p/w185/p8YpBFMmccQQoeQie9XKv6loDSa.jpg",
-    "rating": 7.6,
-    "ratings": {
-      "letterboxd": 7.8,
-      "imdb": 7.7,
-      "metacritic": 7.4,
-      "mubi": 7.5
-    },
-    "releaseDate": "2026-09-24",
-    "showtimes": [
-      "17:15"
-    ],
-    "showtimesDate": "2026-10-28",
-    "days": {
-      "2026-10-28": [
-        "17:15"
-      ]
-    },
-    "shows": {
-      "2026-10-28": [
-        {
-          "time": "17:15",
+          "time": "21:15",
           "tags": []
         }
       ]
     },
     "room": null,
     "vo": false,
-    "url": "https://roma.andromeda.18tickets.it/film/78266",
+    "url": "https://roma.andromeda.18tickets.it/film/86023",
     "smart": {
-      "2026-10-28": 48
+      "2026-10-29": 76
     },
-    "rankUscita": 16,
-    "rankVoto": 1
+    "rankUscita": 6,
+    "rankVoto": 0
   },
   {
     "title": "Shaun Vita da Pecora - Operazione Z.u.c.c.a",
@@ -91,30 +48,36 @@
     },
     "releaseDate": "2026-10-28",
     "showtimes": [
-      "17:00"
+      "17:00",
+      "18:30"
     ],
-    "showtimesDate": "2026-10-28",
+    "showtimesDate": "2026-10-29",
     "days": {
-      "2026-10-28": [
-        "17:00"
+      "2026-10-29": [
+        "17:00",
+        "18:30"
       ]
     },
     "shows": {
-      "2026-10-28": [
+      "2026-10-29": [
         {
           "time": "17:00",
+          "tags": []
+        },
+        {
+          "time": "18:30",
           "tags": []
         }
       ]
     },
-    "room": null,
+    "room": "Sala 5",
     "vo": false,
     "url": "https://roma.andromeda.18tickets.it/film/86813",
     "smart": {
-      "2026-10-28": 65
+      "2026-10-29": 77
     },
     "rankUscita": 5,
-    "rankVoto": 2
+    "rankVoto": 1
   },
   {
     "title": "Ragione e sentimento",
@@ -122,7 +85,7 @@
     "rating": 7.2,
     "ratings": {
       "letterboxd": 8,
-      "imdb": 7.4,
+      "imdb": 7.3,
       "metacritic": 7.1,
       "mubi": 6.4
     },
@@ -130,20 +93,18 @@
     "showtimes": [
       "16:30",
       "18:45",
-      "21:00",
-      "21:20"
+      "21:15"
     ],
-    "showtimesDate": "2026-10-28",
+    "showtimesDate": "2026-10-29",
     "days": {
-      "2026-10-28": [
+      "2026-10-29": [
         "16:30",
         "18:45",
-        "21:00",
-        "21:20"
+        "21:15"
       ]
     },
     "shows": {
-      "2026-10-28": [
+      "2026-10-29": [
         {
           "time": "16:30",
           "tags": []
@@ -153,14 +114,10 @@
           "tags": []
         },
         {
-          "time": "21:00",
+          "time": "21:15",
           "tags": [
             "VO"
           ]
-        },
-        {
-          "time": "21:20",
-          "tags": []
         }
       ]
     },
@@ -168,10 +125,10 @@
     "vo": false,
     "url": "https://roma.andromeda.18tickets.it/film/86021",
     "smart": {
-      "2026-10-28": 79
+      "2026-10-29": 79
     },
     "rankUscita": 7,
-    "rankVoto": 3
+    "rankVoto": 2
   },
   {
     "title": "L'estranea",
@@ -179,30 +136,24 @@
     "rating": 7.1,
     "ratings": {
       "letterboxd": 7.3,
-      "imdb": 7.4,
+      "imdb": 7.5,
       "metacritic": null,
       "mubi": 6.5
     },
     "releaseDate": "2026-10-08",
     "showtimes": [
-      "16:50",
       "18:50",
       "21:15"
     ],
-    "showtimesDate": "2026-10-28",
+    "showtimesDate": "2026-10-29",
     "days": {
-      "2026-10-28": [
-        "16:50",
+      "2026-10-29": [
         "18:50",
         "21:15"
       ]
     },
     "shows": {
-      "2026-10-28": [
-        {
-          "time": "16:50",
-          "tags": []
-        },
+      "2026-10-29": [
         {
           "time": "18:50",
           "tags": []
@@ -217,10 +168,10 @@
     "vo": false,
     "url": "https://roma.andromeda.18tickets.it/film/80411",
     "smart": {
-      "2026-10-28": 62
+      "2026-10-29": 60
     },
-    "rankUscita": 15,
-    "rankVoto": 4
+    "rankUscita": 13,
+    "rankVoto": 3
   },
   {
     "title": "Clayface",
@@ -234,18 +185,18 @@
     },
     "releaseDate": "2026-10-22",
     "showtimes": [
-      "21:30"
+      "19:00"
     ],
-    "showtimesDate": "2026-10-28",
+    "showtimesDate": "2026-10-29",
     "days": {
-      "2026-10-28": [
-        "21:30"
+      "2026-10-29": [
+        "19:00"
       ]
     },
     "shows": {
-      "2026-10-28": [
+      "2026-10-29": [
         {
-          "time": "21:30",
+          "time": "19:00",
           "tags": []
         }
       ]
@@ -254,14 +205,14 @@
     "vo": false,
     "url": "https://roma.andromeda.18tickets.it/film/87572",
     "smart": {
-      "2026-10-28": 55
+      "2026-10-29": 57
     },
     "rankUscita": 8,
-    "rankVoto": 5
+    "rankVoto": 4
   },
   {
-    "title": "L'assurda storia della Gialappa's Band",
-    "poster": "https://image.tmdb.org/t/p/w185/cmzJAwJZPcX6oooyP6alOx7K9sm.jpg",
+    "title": "Je so’ pazzo",
+    "poster": "https://image.tmdb.org/t/p/w185/eDfWOV5oad5wbI8AdzsMhnq7Zbd.jpg",
     "rating": 6.8,
     "ratings": {
       "letterboxd": null,
@@ -269,71 +220,28 @@
       "metacritic": null,
       "mubi": null
     },
-    "releaseDate": "2026-10-22",
-    "showtimes": [
-      "19:30",
-      "21:30"
-    ],
-    "showtimesDate": "2026-10-28",
-    "days": {
-      "2026-10-28": [
-        "19:30",
-        "21:30"
-      ]
-    },
-    "shows": {
-      "2026-10-28": [
-        {
-          "time": "19:30",
-          "tags": []
-        },
-        {
-          "time": "21:30",
-          "tags": []
-        }
-      ]
-    },
-    "room": "Sala 4",
-    "vo": false,
-    "url": "https://roma.andromeda.18tickets.it/film/86022",
-    "smart": {
-      "2026-10-28": 60
-    },
-    "rankUscita": 9,
-    "rankVoto": 6
-  },
-  {
-    "title": "Je so’ pazzo",
-    "poster": "https://image.tmdb.org/t/p/w185/eDfWOV5oad5wbI8AdzsMhnq7Zbd.jpg",
-    "rating": 6.7,
-    "ratings": {
-      "letterboxd": null,
-      "imdb": 6.7,
-      "metacritic": null,
-      "mubi": null
-    },
     "releaseDate": "2026-10-15",
     "showtimes": [
-      "16:30",
-      "18:45",
+      "17:30",
+      "19:20",
       "21:20"
     ],
-    "showtimesDate": "2026-10-28",
+    "showtimesDate": "2026-10-29",
     "days": {
-      "2026-10-28": [
-        "16:30",
-        "18:45",
+      "2026-10-29": [
+        "17:30",
+        "19:20",
         "21:20"
       ]
     },
     "shows": {
-      "2026-10-28": [
+      "2026-10-29": [
         {
-          "time": "16:30",
+          "time": "17:30",
           "tags": []
         },
         {
-          "time": "18:45",
+          "time": "19:20",
           "tags": []
         },
         {
@@ -342,14 +250,14 @@
         }
       ]
     },
-    "room": "Sala 1",
+    "room": "Sala 4",
     "vo": false,
     "url": "https://roma.andromeda.18tickets.it/film/82094",
     "smart": {
-      "2026-10-28": 61
+      "2026-10-29": 69
     },
-    "rankUscita": 12,
-    "rankVoto": 7
+    "rankUscita": 11,
+    "rankVoto": 5
   },
   {
     "title": "Hope",
@@ -386,7 +294,7 @@
       "2026-10-31": 58
     },
     "rankUscita": 0,
-    "rankVoto": 8
+    "rankVoto": 6
   },
   {
     "title": "Dio ride",
@@ -435,7 +343,7 @@
       "2026-10-29": 72
     },
     "rankUscita": 2,
-    "rankVoto": 9
+    "rankVoto": 7
   },
   {
     "title": "Taddeo l’esploratore e la lampada magica",
@@ -471,45 +379,8 @@
     "smart": {
       "2026-10-29": 46
     },
-    "rankUscita": 10,
-    "rankVoto": 10
-  },
-  {
-    "title": "Whalefall - Nella balena",
-    "poster": "https://image.tmdb.org/t/p/w185/auhdhcoWhQzMovY2pa71BTgDAa7.jpg",
-    "rating": 6,
-    "ratings": {
-      "letterboxd": 6.4,
-      "imdb": 6.6,
-      "metacritic": 5.9,
-      "mubi": 5
-    },
-    "releaseDate": "2026-10-15",
-    "showtimes": [
-      "18:50"
-    ],
-    "showtimesDate": "2026-10-28",
-    "days": {
-      "2026-10-28": [
-        "18:50"
-      ]
-    },
-    "shows": {
-      "2026-10-28": [
-        {
-          "time": "18:50",
-          "tags": []
-        }
-      ]
-    },
-    "room": null,
-    "vo": false,
-    "url": "https://roma.andromeda.18tickets.it/film/85394",
-    "smart": {
-      "2026-10-28": 38
-    },
-    "rankUscita": 13,
-    "rankVoto": 11
+    "rankUscita": 9,
+    "rankVoto": 8
   },
   {
     "title": "Frankie e le creature dimenticate",
@@ -525,14 +396,14 @@
     "showtimes": [
       "16:50"
     ],
-    "showtimesDate": "2026-10-28",
+    "showtimesDate": "2026-10-29",
     "days": {
-      "2026-10-28": [
+      "2026-10-29": [
         "16:50"
       ]
     },
     "shows": {
-      "2026-10-28": [
+      "2026-10-29": [
         {
           "time": "16:50",
           "tags": []
@@ -543,10 +414,10 @@
     "vo": false,
     "url": "https://roma.andromeda.18tickets.it/film/85428",
     "smart": {
-      "2026-10-28": 36
+      "2026-10-29": 38
     },
-    "rankUscita": 14,
-    "rankVoto": 12
+    "rankUscita": 12,
+    "rankVoto": 9
   },
   {
     "title": "Fast & Furious – 25Th Anniversary",
@@ -582,8 +453,8 @@
     "smart": {
       "2026-10-29": 14
     },
-    "rankUscita": 17,
-    "rankVoto": 13
+    "rankUscita": 14,
+    "rankVoto": 10
   },
   {
     "title": "Ice Cream Man",
@@ -620,7 +491,7 @@
       "2026-10-29": 38
     },
     "rankUscita": 3,
-    "rankVoto": 14
+    "rankVoto": 11
   },
   {
     "title": "Il gatto col cappello",
@@ -669,7 +540,7 @@
       "2026-10-31": 79
     },
     "rankUscita": 1,
-    "rankVoto": 15
+    "rankVoto": 12
   },
   {
     "title": "Un tranquillo funerale di famiglia",
@@ -718,7 +589,7 @@
       "2026-10-29": 79
     },
     "rankUscita": 4,
-    "rankVoto": 16
+    "rankVoto": 13
   },
   {
     "title": "Se ami qualcuno dillo",
@@ -735,15 +606,15 @@
       "16:30",
       "19:00"
     ],
-    "showtimesDate": "2026-10-28",
+    "showtimesDate": "2026-10-29",
     "days": {
-      "2026-10-28": [
+      "2026-10-29": [
         "16:30",
         "19:00"
       ]
     },
     "shows": {
-      "2026-10-28": [
+      "2026-10-29": [
         {
           "time": "16:30",
           "tags": []
@@ -754,58 +625,13 @@
         }
       ]
     },
-    "room": "Sala 2",
+    "room": "Sala 3",
     "vo": false,
     "url": "https://roma.andromeda.18tickets.it/film/82128",
     "smart": {
-      "2026-10-28": 55
+      "2026-10-29": 60
     },
-    "rankUscita": 11,
-    "rankVoto": 17
-  },
-  {
-    "title": "Matrix 4K",
-    "poster": "https://cdn.18tickets.net/ccroma/uploads/film/playbill/87407/standard_44084c2d-6eae-4e98-945f-37768361d033.jpg",
-    "rating": null,
-    "ratings": {
-      "letterboxd": null,
-      "imdb": null,
-      "metacritic": null,
-      "mubi": null
-    },
-    "releaseDate": null,
-    "showtimes": [
-      "18:40",
-      "21:15"
-    ],
-    "showtimesDate": "2026-10-28",
-    "days": {
-      "2026-10-28": [
-        "18:40",
-        "21:15"
-      ]
-    },
-    "shows": {
-      "2026-10-28": [
-        {
-          "time": "18:40",
-          "tags": []
-        },
-        {
-          "time": "21:15",
-          "tags": [
-            "VO"
-          ]
-        }
-      ]
-    },
-    "room": null,
-    "vo": false,
-    "url": "https://roma.andromeda.18tickets.it/film/87407",
-    "smart": {
-      "2026-10-28": 50
-    },
-    "rankUscita": 18,
-    "rankVoto": 18
+    "rankUscita": 10,
+    "rankVoto": 14
   }
 ]
