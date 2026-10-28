@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-28T01:01:20.125Z",
+  "updatedAt": "2026-10-28T10:23:33.667Z",
   "today": "2026-10-28",
   "ratingScale": 10,
   "ratingSources": {
@@ -38,7 +38,6 @@
     }
   ],
   "warnings": [
-    "Letterboxd: 2 richieste fallite (HTTP 503)",
     "Metacritic: 2 richieste fallite (HTTP 301)"
   ]
 }
