@@ -74,9 +74,9 @@
     "vo": false,
     "url": "https://roma.andromeda.18tickets.it/film/78266",
     "smart": {
-      "2026-10-28": 49
+      "2026-10-28": 48
     },
-    "rankUscita": 17,
+    "rankUscita": 16,
     "rankVoto": 1
   },
   {
@@ -168,7 +168,7 @@
     "vo": false,
     "url": "https://roma.andromeda.18tickets.it/film/86021",
     "smart": {
-      "2026-10-28": 80
+      "2026-10-28": 79
     },
     "rankUscita": 7,
     "rankVoto": 3
@@ -236,14 +236,14 @@
     "showtimes": [
       "21:30"
     ],
-    "showtimesDate": "2026-10-27",
+    "showtimesDate": "2026-10-28",
     "days": {
-      "2026-10-27": [
+      "2026-10-28": [
         "21:30"
       ]
     },
     "shows": {
-      "2026-10-27": [
+      "2026-10-28": [
         {
           "time": "21:30",
           "tags": []
@@ -254,7 +254,7 @@
     "vo": false,
     "url": "https://roma.andromeda.18tickets.it/film/87572",
     "smart": {
-      "2026-10-27": 77
+      "2026-10-28": 55
     },
     "rankUscita": 8,
     "rankVoto": 5
@@ -271,27 +271,33 @@
     },
     "releaseDate": "2026-10-22",
     "showtimes": [
+      "19:30",
       "21:30"
     ],
-    "showtimesDate": "2026-10-27",
+    "showtimesDate": "2026-10-28",
     "days": {
-      "2026-10-27": [
+      "2026-10-28": [
+        "19:30",
         "21:30"
       ]
     },
     "shows": {
-      "2026-10-27": [
+      "2026-10-28": [
+        {
+          "time": "19:30",
+          "tags": []
+        },
         {
           "time": "21:30",
           "tags": []
         }
       ]
     },
-    "room": null,
+    "room": "Sala 4",
     "vo": false,
     "url": "https://roma.andromeda.18tickets.it/film/86022",
     "smart": {
-      "2026-10-27": 75
+      "2026-10-28": 60
     },
     "rankUscita": 9,
     "rankVoto": 6
@@ -383,43 +389,6 @@
     "rankVoto": 8
   },
   {
-    "title": "Whalefall - Nella balena",
-    "poster": "https://image.tmdb.org/t/p/w185/auhdhcoWhQzMovY2pa71BTgDAa7.jpg",
-    "rating": 6.3,
-    "ratings": {
-      "letterboxd": 6.5,
-      "imdb": 6.6,
-      "metacritic": 5.9,
-      "mubi": null
-    },
-    "releaseDate": "2026-10-15",
-    "showtimes": [
-      "18:50"
-    ],
-    "showtimesDate": "2026-10-28",
-    "days": {
-      "2026-10-28": [
-        "18:50"
-      ]
-    },
-    "shows": {
-      "2026-10-28": [
-        {
-          "time": "18:50",
-          "tags": []
-        }
-      ]
-    },
-    "room": null,
-    "vo": false,
-    "url": "https://roma.andromeda.18tickets.it/film/85394",
-    "smart": {
-      "2026-10-28": 42
-    },
-    "rankUscita": 13,
-    "rankVoto": 9
-  },
-  {
     "title": "Dio ride",
     "poster": "https://image.tmdb.org/t/p/w185/p5cuENoUviYoK6IBHg2FS4oTRGD.jpg",
     "rating": 6.2,
@@ -466,7 +435,7 @@
       "2026-10-29": 72
     },
     "rankUscita": 2,
-    "rankVoto": 10
+    "rankVoto": 9
   },
   {
     "title": "Taddeo l’esploratore e la lampada magica",
@@ -500,9 +469,46 @@
     "vo": false,
     "url": "https://roma.andromeda.18tickets.it/film/87440",
     "smart": {
-      "2026-10-29": 47
+      "2026-10-29": 46
     },
     "rankUscita": 10,
+    "rankVoto": 10
+  },
+  {
+    "title": "Whalefall - Nella balena",
+    "poster": "https://image.tmdb.org/t/p/w185/auhdhcoWhQzMovY2pa71BTgDAa7.jpg",
+    "rating": 6,
+    "ratings": {
+      "letterboxd": 6.4,
+      "imdb": 6.6,
+      "metacritic": 5.9,
+      "mubi": 5
+    },
+    "releaseDate": "2026-10-15",
+    "showtimes": [
+      "18:50"
+    ],
+    "showtimesDate": "2026-10-28",
+    "days": {
+      "2026-10-28": [
+        "18:50"
+      ]
+    },
+    "shows": {
+      "2026-10-28": [
+        {
+          "time": "18:50",
+          "tags": []
+        }
+      ]
+    },
+    "room": null,
+    "vo": false,
+    "url": "https://roma.andromeda.18tickets.it/film/85394",
+    "smart": {
+      "2026-10-28": 38
+    },
+    "rankUscita": 13,
     "rankVoto": 11
   },
   {
@@ -576,45 +582,8 @@
     "smart": {
       "2026-10-29": 14
     },
-    "rankUscita": 18,
+    "rankUscita": 17,
     "rankVoto": 13
-  },
-  {
-    "title": "Mammina",
-    "poster": "https://image.tmdb.org/t/p/w185/ir1esRZZk49yKaLAVQd2FgvLxLf.jpg",
-    "rating": 4.4,
-    "ratings": {
-      "letterboxd": 4.4,
-      "imdb": 5.3,
-      "metacritic": 3.8,
-      "mubi": 4.1
-    },
-    "releaseDate": "2026-10-08",
-    "showtimes": [
-      "21:30"
-    ],
-    "showtimesDate": "2026-10-27",
-    "days": {
-      "2026-10-27": [
-        "21:30"
-      ]
-    },
-    "shows": {
-      "2026-10-27": [
-        {
-          "time": "21:30",
-          "tags": []
-        }
-      ]
-    },
-    "room": null,
-    "vo": false,
-    "url": "https://roma.andromeda.18tickets.it/film/80743",
-    "smart": {
-      "2026-10-27": 44
-    },
-    "rankUscita": 16,
-    "rankVoto": 14
   },
   {
     "title": "Ice Cream Man",
@@ -651,7 +620,7 @@
       "2026-10-29": 38
     },
     "rankUscita": 3,
-    "rankVoto": 15
+    "rankVoto": 14
   },
   {
     "title": "Il gatto col cappello",
@@ -700,7 +669,7 @@
       "2026-10-31": 79
     },
     "rankUscita": 1,
-    "rankVoto": 16
+    "rankVoto": 15
   },
   {
     "title": "Un tranquillo funerale di famiglia",
@@ -749,7 +718,7 @@
       "2026-10-29": 79
     },
     "rankUscita": 4,
-    "rankVoto": 17
+    "rankVoto": 16
   },
   {
     "title": "Se ami qualcuno dillo",
@@ -789,10 +758,10 @@
     "vo": false,
     "url": "https://roma.andromeda.18tickets.it/film/82128",
     "smart": {
-      "2026-10-28": 56
+      "2026-10-28": 55
     },
     "rankUscita": 11,
-    "rankVoto": 18
+    "rankVoto": 17
   },
   {
     "title": "Matrix 4K",
@@ -836,7 +805,7 @@
     "smart": {
       "2026-10-28": 50
     },
-    "rankUscita": 19,
-    "rankVoto": 19
+    "rankUscita": 18,
+    "rankVoto": 18
   }
 ]
