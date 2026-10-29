@@ -31,7 +31,7 @@
     "vo": false,
     "url": "https://roma.andromeda.18tickets.it/film/86023",
     "smart": {
-      "2026-10-29": 76
+      "2026-10-29": 75
     },
     "rankUscita": 6,
     "rankVoto": 0
@@ -74,7 +74,7 @@
     "vo": false,
     "url": "https://roma.andromeda.18tickets.it/film/86813",
     "smart": {
-      "2026-10-29": 77
+      "2026-10-29": 76
     },
     "rankUscita": 5,
     "rankVoto": 1
@@ -125,7 +125,7 @@
     "vo": false,
     "url": "https://roma.andromeda.18tickets.it/film/86021",
     "smart": {
-      "2026-10-29": 79
+      "2026-10-29": 78
     },
     "rankUscita": 7,
     "rankVoto": 2
@@ -168,7 +168,7 @@
     "vo": false,
     "url": "https://roma.andromeda.18tickets.it/film/80411",
     "smart": {
-      "2026-10-29": 60
+      "2026-10-29": 59
     },
     "rankUscita": 13,
     "rankVoto": 3
@@ -176,12 +176,12 @@
   {
     "title": "Clayface",
     "poster": "https://image.tmdb.org/t/p/w185/t6snh7pOxNjqs5rwP28TZmTQ0Ul.jpg",
-    "rating": 7,
+    "rating": 6.9,
     "ratings": {
-      "letterboxd": 7.4,
+      "letterboxd": 7.5,
       "imdb": 7.6,
       "metacritic": 5.9,
-      "mubi": null
+      "mubi": 6.4
     },
     "releaseDate": "2026-10-22",
     "showtimes": [
@@ -205,7 +205,7 @@
     "vo": false,
     "url": "https://roma.andromeda.18tickets.it/film/87572",
     "smart": {
-      "2026-10-29": 57
+      "2026-10-29": 55
     },
     "rankUscita": 8,
     "rankVoto": 4
@@ -414,7 +414,7 @@
     "vo": false,
     "url": "https://roma.andromeda.18tickets.it/film/85428",
     "smart": {
-      "2026-10-29": 38
+      "2026-10-29": 37
     },
     "rankUscita": 12,
     "rankVoto": 9
@@ -629,7 +629,7 @@
     "vo": false,
     "url": "https://roma.andromeda.18tickets.it/film/82128",
     "smart": {
-      "2026-10-29": 60
+      "2026-10-29": 59
     },
     "rankUscita": 10,
     "rankVoto": 14
