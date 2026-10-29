@@ -869,12 +869,12 @@
   {
     "title": "L'estranea",
     "poster": "https://image.tmdb.org/t/p/w185/6GisyPsQBvnpgMKXqtPuwJqpZzl.jpg",
-    "rating": 7.1,
+    "rating": 7.2,
     "ratings": {
-      "letterboxd": 7.3,
+      "letterboxd": 7.4,
       "imdb": 7.5,
       "metacritic": null,
-      "mubi": 6.5
+      "mubi": 6.6
     },
     "releaseDate": "2026-10-08",
     "showtimes": [
@@ -1022,13 +1022,13 @@
     "vo": false,
     "url": "https://ucicinemas.it/film/lestranea/",
     "smart": {
-      "2026-10-29": 44,
-      "2026-10-30": 48,
-      "2026-10-31": 52,
-      "2026-11-01": 60,
-      "2026-11-02": 54,
-      "2026-11-03": 54,
-      "2026-11-04": 52
+      "2026-10-29": 45,
+      "2026-10-30": 49,
+      "2026-10-31": 53,
+      "2026-11-01": 62,
+      "2026-11-02": 56,
+      "2026-11-03": 56,
+      "2026-11-04": 53
     },
     "rankUscita": 21,
     "rankVoto": 9
