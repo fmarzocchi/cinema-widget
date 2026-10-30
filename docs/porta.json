@@ -231,7 +231,7 @@
     "rating": 8.1,
     "ratings": {
       "letterboxd": 8.2,
-      "imdb": 8.2,
+      "imdb": 8.1,
       "metacritic": 7.9,
       "mubi": 8.2
     },
@@ -261,53 +261,6 @@
     },
     "rankUscita": 0,
     "rankVoto": 2
-  },
-  {
-    "title": "BTS - World tour Arirang in Buenos Aires e Sao Paulo",
-    "poster": "https://storage.googleapis.com/uci-infrastructure-bucket/Common/Movies/Posters/01M2J6DGWNFCSTK3BZR1MXBFFA_resized_at_20260915112958.jpg",
-    "rating": 7.8,
-    "ratings": {
-      "letterboxd": null,
-      "imdb": 7.8,
-      "metacritic": null,
-      "mubi": null
-    },
-    "releaseDate": "2026-10-24",
-    "showtimes": [
-      "14:45",
-      "18:30"
-    ],
-    "showtimesDate": "2026-10-31",
-    "days": {
-      "2026-10-31": [
-        "14:45",
-        "18:30"
-      ]
-    },
-    "shows": {
-      "2026-10-31": [
-        {
-          "time": "14:45",
-          "tags": [
-            "VO"
-          ]
-        },
-        {
-          "time": "18:30",
-          "tags": [
-            "VO"
-          ]
-        }
-      ]
-    },
-    "room": "Sala 8",
-    "vo": true,
-    "url": "https://ucicinemas.it/film/bts-world-tour-arirang-in-buenos-aires-e-sao-paulo/",
-    "smart": {
-      "2026-10-31": 67
-    },
-    "rankUscita": 12,
-    "rankVoto": 3
   },
   {
     "title": "Fatherland",
@@ -344,7 +297,7 @@
       "2026-11-02": 56
     },
     "rankUscita": 19,
-    "rankVoto": 4
+    "rankVoto": 3
   },
   {
     "title": "The Nameless Ballad",
@@ -381,6 +334,53 @@
       "2026-11-05": 71
     },
     "rankUscita": 1,
+    "rankVoto": 4
+  },
+  {
+    "title": "BTS - World tour Arirang in Buenos Aires e Sao Paulo",
+    "poster": "https://storage.googleapis.com/uci-infrastructure-bucket/Common/Movies/Posters/01M2J6DGWNFCSTK3BZR1MXBFFA_resized_at_20260915112958.jpg",
+    "rating": 7.7,
+    "ratings": {
+      "letterboxd": null,
+      "imdb": 7.7,
+      "metacritic": null,
+      "mubi": null
+    },
+    "releaseDate": "2026-10-24",
+    "showtimes": [
+      "14:45",
+      "18:30"
+    ],
+    "showtimesDate": "2026-10-31",
+    "days": {
+      "2026-10-31": [
+        "14:45",
+        "18:30"
+      ]
+    },
+    "shows": {
+      "2026-10-31": [
+        {
+          "time": "14:45",
+          "tags": [
+            "VO"
+          ]
+        },
+        {
+          "time": "18:30",
+          "tags": [
+            "VO"
+          ]
+        }
+      ]
+    },
+    "room": "Sala 8",
+    "vo": true,
+    "url": "https://ucicinemas.it/film/bts-world-tour-arirang-in-buenos-aires-e-sao-paulo/",
+    "smart": {
+      "2026-10-31": 66
+    },
+    "rankUscita": 12,
     "rankVoto": 5
   },
   {
@@ -389,7 +389,7 @@
     "rating": 7.6,
     "ratings": {
       "letterboxd": 7.8,
-      "imdb": 7.7,
+      "imdb": 7.6,
       "metacritic": 7.4,
       "mubi": 7.5
     },
@@ -503,13 +503,15 @@
     "releaseDate": "2026-10-28",
     "showtimes": [
       "15:00",
-      "17:20"
+      "17:20",
+      "18:50"
     ],
     "showtimesDate": "2026-10-30",
     "days": {
       "2026-10-30": [
         "15:00",
-        "17:20"
+        "17:20",
+        "18:50"
       ],
       "2026-10-31": [
         "10:30",
@@ -542,6 +544,10 @@
         },
         {
           "time": "17:20",
+          "tags": []
+        },
+        {
+          "time": "18:50",
           "tags": []
         }
       ],
@@ -608,7 +614,7 @@
     "vo": false,
     "url": "https://ucicinemas.it/film/shaun-vita-da-pecora-operazione-zucca/",
     "smart": {
-      "2026-10-30": 66,
+      "2026-10-30": 70,
       "2026-10-31": 70,
       "2026-11-01": 64,
       "2026-11-02": 67,
@@ -1021,10 +1027,10 @@
   {
     "title": "Clayface",
     "poster": "https://image.tmdb.org/t/p/w185/t6snh7pOxNjqs5rwP28TZmTQ0Ul.jpg",
-    "rating": 6.9,
+    "rating": 6.8,
     "ratings": {
       "letterboxd": 7.5,
-      "imdb": 7.6,
+      "imdb": 7.5,
       "metacritic": 5.9,
       "mubi": 6.4
     },
@@ -1167,15 +1173,92 @@
     "vo": false,
     "url": "https://ucicinemas.it/film/clayface/",
     "smart": {
-      "2026-10-30": 59,
-      "2026-10-31": 64,
-      "2026-11-01": 62,
-      "2026-11-02": 56,
-      "2026-11-03": 59,
-      "2026-11-04": 57
+      "2026-10-30": 58,
+      "2026-10-31": 63,
+      "2026-11-01": 60,
+      "2026-11-02": 55,
+      "2026-11-03": 58,
+      "2026-11-04": 56
     },
     "rankUscita": 15,
     "rankVoto": 12
+  },
+  {
+    "title": "L'assurda storia della Gialappa's Band",
+    "poster": "https://image.tmdb.org/t/p/w185/cmzJAwJZPcX6oooyP6alOx7K9sm.jpg",
+    "rating": 6.7,
+    "ratings": {
+      "letterboxd": null,
+      "imdb": 6.7,
+      "metacritic": null,
+      "mubi": null
+    },
+    "releaseDate": "2026-10-22",
+    "showtimes": [
+      "13:40"
+    ],
+    "showtimesDate": "2026-10-31",
+    "days": {
+      "2026-10-31": [
+        "13:40"
+      ],
+      "2026-11-01": [
+        "13:40"
+      ],
+      "2026-11-02": [
+        "13:40"
+      ],
+      "2026-11-03": [
+        "14:20"
+      ],
+      "2026-11-04": [
+        "14:20"
+      ]
+    },
+    "shows": {
+      "2026-10-31": [
+        {
+          "time": "13:40",
+          "tags": []
+        }
+      ],
+      "2026-11-01": [
+        {
+          "time": "13:40",
+          "tags": []
+        }
+      ],
+      "2026-11-02": [
+        {
+          "time": "13:40",
+          "tags": []
+        }
+      ],
+      "2026-11-03": [
+        {
+          "time": "14:20",
+          "tags": []
+        }
+      ],
+      "2026-11-04": [
+        {
+          "time": "14:20",
+          "tags": []
+        }
+      ]
+    },
+    "room": "Sala 12",
+    "vo": false,
+    "url": "https://ucicinemas.it/film/lassurda-storia-della-gialappas-band/",
+    "smart": {
+      "2026-10-31": 48,
+      "2026-11-01": 47,
+      "2026-11-02": 46,
+      "2026-11-03": 48,
+      "2026-11-04": 47
+    },
+    "rankUscita": 16,
+    "rankVoto": 13
   },
   {
     "title": "Je so’ pazzo",
@@ -1324,7 +1407,7 @@
       "2026-11-04": 50
     },
     "rankUscita": 22,
-    "rankVoto": 13
+    "rankVoto": 14
   },
   {
     "title": "Digger",
@@ -1361,7 +1444,7 @@
       "2026-11-03": 37
     },
     "rankUscita": 27,
-    "rankVoto": 14
+    "rankVoto": 15
   },
   {
     "title": "Hope",
@@ -1499,83 +1582,6 @@
       "2026-11-04": 56
     },
     "rankUscita": 2,
-    "rankVoto": 15
-  },
-  {
-    "title": "L'assurda storia della Gialappa's Band",
-    "poster": "https://image.tmdb.org/t/p/w185/cmzJAwJZPcX6oooyP6alOx7K9sm.jpg",
-    "rating": 6.6,
-    "ratings": {
-      "letterboxd": null,
-      "imdb": 6.6,
-      "metacritic": null,
-      "mubi": null
-    },
-    "releaseDate": "2026-10-22",
-    "showtimes": [
-      "13:40"
-    ],
-    "showtimesDate": "2026-10-31",
-    "days": {
-      "2026-10-31": [
-        "13:40"
-      ],
-      "2026-11-01": [
-        "13:40"
-      ],
-      "2026-11-02": [
-        "13:40"
-      ],
-      "2026-11-03": [
-        "14:20"
-      ],
-      "2026-11-04": [
-        "14:20"
-      ]
-    },
-    "shows": {
-      "2026-10-31": [
-        {
-          "time": "13:40",
-          "tags": []
-        }
-      ],
-      "2026-11-01": [
-        {
-          "time": "13:40",
-          "tags": []
-        }
-      ],
-      "2026-11-02": [
-        {
-          "time": "13:40",
-          "tags": []
-        }
-      ],
-      "2026-11-03": [
-        {
-          "time": "14:20",
-          "tags": []
-        }
-      ],
-      "2026-11-04": [
-        {
-          "time": "14:20",
-          "tags": []
-        }
-      ]
-    },
-    "room": "Sala 12",
-    "vo": false,
-    "url": "https://ucicinemas.it/film/lassurda-storia-della-gialappas-band/",
-    "smart": {
-      "2026-10-31": 46,
-      "2026-11-01": 46,
-      "2026-11-02": 45,
-      "2026-11-03": 46,
-      "2026-11-04": 46
-    },
-    "rankUscita": 16,
     "rankVoto": 16
   },
   {
@@ -2024,7 +2030,7 @@
     "rating": 6,
     "ratings": {
       "letterboxd": 6.5,
-      "imdb": 5.5,
+      "imdb": 5.4,
       "metacritic": null,
       "mubi": null
     },
@@ -2598,8 +2604,8 @@
     "ratings": {
       "letterboxd": 5.6,
       "imdb": 6.2,
-      "metacritic": 4.4,
-      "mubi": 4.9
+      "metacritic": 4.3,
+      "mubi": 5
     },
     "releaseDate": "2026-10-15",
     "showtimes": [

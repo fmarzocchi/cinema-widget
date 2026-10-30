@@ -176,10 +176,10 @@
   {
     "title": "Clayface",
     "poster": "https://image.tmdb.org/t/p/w185/t6snh7pOxNjqs5rwP28TZmTQ0Ul.jpg",
-    "rating": 6.9,
+    "rating": 6.8,
     "ratings": {
       "letterboxd": 7.5,
-      "imdb": 7.6,
+      "imdb": 7.5,
       "metacritic": 5.9,
       "mubi": 6.4
     },
@@ -205,7 +205,7 @@
     "vo": false,
     "url": "https://roma.andromeda.18tickets.it/film/87572",
     "smart": {
-      "2026-10-30": 55
+      "2026-10-30": 54
     },
     "rankUscita": 8,
     "rankVoto": 4
@@ -339,7 +339,7 @@
     "rating": 6,
     "ratings": {
       "letterboxd": 6.5,
-      "imdb": 5.5,
+      "imdb": 5.4,
       "metacritic": null,
       "mubi": null
     },

@@ -83,7 +83,7 @@
     "rating": 8.1,
     "ratings": {
       "letterboxd": 8.2,
-      "imdb": 8.2,
+      "imdb": 8.1,
       "metacritic": 7.9,
       "mubi": 8.2
     },
@@ -376,6 +376,43 @@
     "rankVoto": 7
   },
   {
+    "title": "Il buio si avvicina",
+    "poster": "https://image.tmdb.org/t/p/w185/eTVoMyRHlolWkF41oQMGMnq4Sh2.jpg",
+    "rating": 7.2,
+    "ratings": {
+      "letterboxd": 7,
+      "imdb": 6.9,
+      "metacritic": 7.8,
+      "mubi": 6.9
+    },
+    "releaseDate": "1988-08-24",
+    "showtimes": [
+      "04:00"
+    ],
+    "showtimesDate": "2026-11-01",
+    "days": {
+      "2026-11-01": [
+        "04:00"
+      ]
+    },
+    "shows": {
+      "2026-11-01": [
+        {
+          "time": "04:00",
+          "tags": []
+        }
+      ]
+    },
+    "room": null,
+    "vo": false,
+    "url": "https://www.liveticket.it/opera.aspx?Id=704999",
+    "smart": {
+      "2026-11-01": 56
+    },
+    "rankUscita": 22,
+    "rankVoto": 8
+  },
+  {
     "title": "The Addiction - Vampiri a New York",
     "poster": "https://image.tmdb.org/t/p/w185/q2mEvrEUfPxiFUBBR0QsidrZwaa.jpg",
     "rating": 7.1,
@@ -410,43 +447,6 @@
       "2026-10-31": 54
     },
     "rankUscita": 18,
-    "rankVoto": 8
-  },
-  {
-    "title": "Il buio si avvicina",
-    "poster": "https://image.tmdb.org/t/p/w185/eTVoMyRHlolWkF41oQMGMnq4Sh2.jpg",
-    "rating": 7.1,
-    "ratings": {
-      "letterboxd": 7,
-      "imdb": 6.8,
-      "metacritic": 7.8,
-      "mubi": 6.9
-    },
-    "releaseDate": "1988-08-24",
-    "showtimes": [
-      "04:00"
-    ],
-    "showtimesDate": "2026-11-01",
-    "days": {
-      "2026-11-01": [
-        "04:00"
-      ]
-    },
-    "shows": {
-      "2026-11-01": [
-        {
-          "time": "04:00",
-          "tags": []
-        }
-      ]
-    },
-    "room": null,
-    "vo": false,
-    "url": "https://www.liveticket.it/opera.aspx?Id=704999",
-    "smart": {
-      "2026-11-01": 54
-    },
-    "rankUscita": 22,
     "rankVoto": 9
   },
   {
