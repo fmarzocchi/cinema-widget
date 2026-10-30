@@ -13,14 +13,14 @@
     "showtimes": [
       "21:15"
     ],
-    "showtimesDate": "2026-10-30",
+    "showtimesDate": "2026-11-01",
     "days": {
-      "2026-10-30": [
+      "2026-11-01": [
         "21:15"
       ]
     },
     "shows": {
-      "2026-10-30": [
+      "2026-11-01": [
         {
           "time": "21:15",
           "tags": []
@@ -31,7 +31,7 @@
     "vo": false,
     "url": "https://roma.andromeda.18tickets.it/film/86023",
     "smart": {
-      "2026-10-30": 74
+      "2026-11-01": 93
     },
     "rankUscita": 6,
     "rankVoto": 0
@@ -48,24 +48,24 @@
     },
     "releaseDate": "2026-10-28",
     "showtimes": [
-      "17:00",
-      "18:30"
+      "15:30",
+      "18:40"
     ],
-    "showtimesDate": "2026-10-30",
+    "showtimesDate": "2026-10-31",
     "days": {
-      "2026-10-30": [
-        "17:00",
-        "18:30"
+      "2026-10-31": [
+        "15:30",
+        "18:40"
       ]
     },
     "shows": {
-      "2026-10-30": [
+      "2026-10-31": [
         {
-          "time": "17:00",
+          "time": "15:30",
           "tags": []
         },
         {
-          "time": "18:30",
+          "time": "18:40",
           "tags": []
         }
       ]
@@ -74,7 +74,7 @@
     "vo": false,
     "url": "https://roma.andromeda.18tickets.it/film/86813",
     "smart": {
-      "2026-10-30": 75
+      "2026-10-31": 75
     },
     "rankUscita": 5,
     "rankVoto": 1
@@ -91,26 +91,26 @@
     },
     "releaseDate": "2026-10-22",
     "showtimes": [
-      "16:30",
-      "18:45",
+      "16:20",
+      "18:50",
       "21:15"
     ],
-    "showtimesDate": "2026-10-30",
+    "showtimesDate": "2026-10-31",
     "days": {
-      "2026-10-30": [
-        "16:30",
-        "18:45",
+      "2026-10-31": [
+        "16:20",
+        "18:50",
         "21:15"
       ]
     },
     "shows": {
-      "2026-10-30": [
+      "2026-10-31": [
         {
-          "time": "16:30",
+          "time": "16:20",
           "tags": []
         },
         {
-          "time": "18:45",
+          "time": "18:50",
           "tags": []
         },
         {
@@ -121,11 +121,11 @@
         }
       ]
     },
-    "room": "Sala 6",
+    "room": "Sala 3",
     "vo": false,
     "url": "https://roma.andromeda.18tickets.it/film/86021",
     "smart": {
-      "2026-10-30": 77
+      "2026-10-31": 77
     },
     "rankUscita": 7,
     "rankVoto": 2
@@ -142,20 +142,20 @@
     },
     "releaseDate": "2026-10-08",
     "showtimes": [
-      "18:50",
+      "19:15",
       "21:15"
     ],
-    "showtimesDate": "2026-10-30",
+    "showtimesDate": "2026-10-31",
     "days": {
-      "2026-10-30": [
-        "18:50",
+      "2026-10-31": [
+        "19:15",
         "21:15"
       ]
     },
     "shows": {
-      "2026-10-30": [
+      "2026-10-31": [
         {
-          "time": "18:50",
+          "time": "19:15",
           "tags": []
         },
         {
@@ -168,7 +168,7 @@
     "vo": false,
     "url": "https://roma.andromeda.18tickets.it/film/80411",
     "smart": {
-      "2026-10-30": 60
+      "2026-10-31": 60
     },
     "rankUscita": 13,
     "rankVoto": 3
@@ -187,14 +187,14 @@
     "showtimes": [
       "19:00"
     ],
-    "showtimesDate": "2026-10-30",
+    "showtimesDate": "2026-10-31",
     "days": {
-      "2026-10-30": [
+      "2026-10-31": [
         "19:00"
       ]
     },
     "shows": {
-      "2026-10-30": [
+      "2026-10-31": [
         {
           "time": "19:00",
           "tags": []
@@ -205,7 +205,7 @@
     "vo": false,
     "url": "https://roma.andromeda.18tickets.it/film/87572",
     "smart": {
-      "2026-10-30": 54
+      "2026-10-31": 54
     },
     "rankUscita": 8,
     "rankVoto": 4
@@ -222,35 +222,23 @@
     },
     "releaseDate": "2026-10-15",
     "showtimes": [
-      "17:30",
-      "19:20",
       "21:20"
     ],
     "showtimesDate": "2026-10-30",
     "days": {
       "2026-10-30": [
-        "17:30",
-        "19:20",
         "21:20"
       ]
     },
     "shows": {
       "2026-10-30": [
         {
-          "time": "17:30",
-          "tags": []
-        },
-        {
-          "time": "19:20",
-          "tags": []
-        },
-        {
           "time": "21:20",
           "tags": []
         }
       ]
     },
-    "room": "Sala 4",
+    "room": null,
     "vo": false,
     "url": "https://roma.andromeda.18tickets.it/film/82094",
     "smart": {
@@ -310,14 +298,14 @@
     "showtimes": [
       "17:00"
     ],
-    "showtimesDate": "2026-10-30",
+    "showtimesDate": "2026-10-31",
     "days": {
-      "2026-10-30": [
+      "2026-10-31": [
         "17:00"
       ]
     },
     "shows": {
-      "2026-10-30": [
+      "2026-10-31": [
         {
           "time": "17:00",
           "tags": []
@@ -328,7 +316,7 @@
     "vo": false,
     "url": "https://roma.andromeda.18tickets.it/film/87440",
     "smart": {
-      "2026-10-30": 45
+      "2026-10-31": 45
     },
     "rankUscita": 9,
     "rankVoto": 7
@@ -349,16 +337,16 @@
       "18:45",
       "21:15"
     ],
-    "showtimesDate": "2026-10-30",
+    "showtimesDate": "2026-10-31",
     "days": {
-      "2026-10-30": [
+      "2026-10-31": [
         "16:30",
         "18:45",
         "21:15"
       ]
     },
     "shows": {
-      "2026-10-30": [
+      "2026-10-31": [
         {
           "time": "16:30",
           "tags": []
@@ -377,7 +365,7 @@
     "vo": false,
     "url": "https://roma.andromeda.18tickets.it/film/88991",
     "smart": {
-      "2026-10-30": 68
+      "2026-10-31": 68
     },
     "rankUscita": 2,
     "rankVoto": 8
@@ -394,27 +382,33 @@
     },
     "releaseDate": "2026-10-15",
     "showtimes": [
-      "16:50"
+      "15:30",
+      "17:20"
     ],
-    "showtimesDate": "2026-10-30",
+    "showtimesDate": "2026-10-31",
     "days": {
-      "2026-10-30": [
-        "16:50"
+      "2026-10-31": [
+        "15:30",
+        "17:20"
       ]
     },
     "shows": {
-      "2026-10-30": [
+      "2026-10-31": [
         {
-          "time": "16:50",
+          "time": "15:30",
+          "tags": []
+        },
+        {
+          "time": "17:20",
           "tags": []
         }
       ]
     },
-    "room": null,
+    "room": "Sala 7",
     "vo": false,
     "url": "https://roma.andromeda.18tickets.it/film/85428",
     "smart": {
-      "2026-10-30": 37
+      "2026-10-31": 46
     },
     "rankUscita": 12,
     "rankVoto": 9
@@ -451,7 +445,7 @@
     "vo": false,
     "url": "https://roma.andromeda.18tickets.it/film/86582",
     "smart": {
-      "2026-10-30": 14
+      "2026-10-30": 33
     },
     "rankUscita": 14,
     "rankVoto": 10
@@ -488,7 +482,7 @@
     "vo": false,
     "url": "https://roma.andromeda.18tickets.it/film/86648",
     "smart": {
-      "2026-10-30": 37
+      "2026-10-30": 56
     },
     "rankUscita": 3,
     "rankVoto": 11
@@ -506,14 +500,14 @@
     "releaseDate": "2026-11-05",
     "showtimes": [
       "15:30",
-      "16:45",
+      "16:30",
       "18:45"
     ],
     "showtimesDate": "2026-10-31",
     "days": {
       "2026-10-31": [
         "15:30",
-        "16:45",
+        "16:30",
         "18:45"
       ]
     },
@@ -524,7 +518,7 @@
           "tags": []
         },
         {
-          "time": "16:45",
+          "time": "16:30",
           "tags": []
         },
         {
@@ -554,35 +548,23 @@
     },
     "releaseDate": "2026-10-29",
     "showtimes": [
-      "16:45",
-      "18:45",
       "21:20"
     ],
     "showtimesDate": "2026-10-30",
     "days": {
       "2026-10-30": [
-        "16:45",
-        "18:45",
         "21:20"
       ]
     },
     "shows": {
       "2026-10-30": [
         {
-          "time": "16:45",
-          "tags": []
-        },
-        {
-          "time": "18:45",
-          "tags": []
-        },
-        {
           "time": "21:20",
           "tags": []
         }
       ]
     },
-    "room": "Sala 2",
+    "room": null,
     "vo": false,
     "url": "https://roma.andromeda.18tickets.it/film/86054",
     "smart": {
@@ -603,33 +585,27 @@
     },
     "releaseDate": "2026-10-16",
     "showtimes": [
-      "16:30",
-      "19:00"
+      "16:30"
     ],
-    "showtimesDate": "2026-10-30",
+    "showtimesDate": "2026-10-31",
     "days": {
-      "2026-10-30": [
-        "16:30",
-        "19:00"
+      "2026-10-31": [
+        "16:30"
       ]
     },
     "shows": {
-      "2026-10-30": [
+      "2026-10-31": [
         {
           "time": "16:30",
-          "tags": []
-        },
-        {
-          "time": "19:00",
           "tags": []
         }
       ]
     },
-    "room": "Sala 3",
+    "room": null,
     "vo": false,
     "url": "https://roma.andromeda.18tickets.it/film/82128",
     "smart": {
-      "2026-10-30": 58
+      "2026-10-31": 49
     },
     "rankUscita": 10,
     "rankVoto": 14
