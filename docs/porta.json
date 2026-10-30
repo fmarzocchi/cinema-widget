@@ -4,20 +4,18 @@
     "poster": "https://image.tmdb.org/t/p/w185/kfczsvfehVNDwzWiPuKAuQclzl7.jpg",
     "rating": 8.7,
     "ratings": {
-      "letterboxd": 8.6,
+      "letterboxd": 8.9,
       "imdb": 8.7,
-      "metacritic": 8.7,
-      "mubi": null
+      "metacritic": 8.8,
+      "mubi": 8.2
     },
     "releaseDate": "2026-10-22",
     "showtimes": [
-      "21:50"
+      "14:50",
+      "16:20"
     ],
-    "showtimesDate": "2026-10-29",
+    "showtimesDate": "2026-10-30",
     "days": {
-      "2026-10-29": [
-        "21:50"
-      ],
       "2026-10-30": [
         "14:50",
         "16:20"
@@ -49,12 +47,6 @@
       ]
     },
     "shows": {
-      "2026-10-29": [
-        {
-          "time": "21:50",
-          "tags": []
-        }
-      ],
       "2026-10-30": [
         {
           "time": "14:50",
@@ -136,19 +128,18 @@
         }
       ]
     },
-    "room": "Sala 2",
+    "room": "Sala 7",
     "vo": false,
     "url": "https://ucicinemas.it/film/wildwood/",
     "smart": {
-      "2026-10-29": 75,
-      "2026-10-30": 75,
-      "2026-10-31": 80,
-      "2026-11-01": 78,
-      "2026-11-02": 80,
-      "2026-11-03": 80,
-      "2026-11-04": 74
+      "2026-10-30": 74,
+      "2026-10-31": 79,
+      "2026-11-01": 77,
+      "2026-11-02": 79,
+      "2026-11-03": 79,
+      "2026-11-04": 73
     },
-    "rankUscita": 10,
+    "rankUscita": 13,
     "rankVoto": 0
   },
   {
@@ -231,8 +222,45 @@
       "2026-11-01": 45,
       "2026-11-02": 45
     },
-    "rankUscita": 28,
+    "rankUscita": 31,
     "rankVoto": 1
+  },
+  {
+    "title": "Wild Horse Nine",
+    "poster": "https://image.tmdb.org/t/p/w185/og5qagWp4ZqVl28nbBwiBHZprJM.jpg",
+    "rating": 8.1,
+    "ratings": {
+      "letterboxd": 8.2,
+      "imdb": 8.2,
+      "metacritic": 7.9,
+      "mubi": 8.2
+    },
+    "releaseDate": "2026-11-05",
+    "showtimes": [
+      "21:10"
+    ],
+    "showtimesDate": "2026-11-05",
+    "days": {
+      "2026-11-05": [
+        "21:10"
+      ]
+    },
+    "shows": {
+      "2026-11-05": [
+        {
+          "time": "21:10",
+          "tags": []
+        }
+      ]
+    },
+    "room": "Sala 2",
+    "vo": false,
+    "url": "https://ucicinemas.it/film/wild-horse-nine/",
+    "smart": {
+      "2026-11-05": 76
+    },
+    "rankUscita": 0,
+    "rankVoto": 2
   },
   {
     "title": "BTS - World tour Arirang in Buenos Aires e Sao Paulo",
@@ -276,10 +304,10 @@
     "vo": true,
     "url": "https://ucicinemas.it/film/bts-world-tour-arirang-in-buenos-aires-e-sao-paulo/",
     "smart": {
-      "2026-10-31": 68
+      "2026-10-31": 67
     },
-    "rankUscita": 9,
-    "rankVoto": 2
+    "rankUscita": 12,
+    "rankVoto": 3
   },
   {
     "title": "Fatherland",
@@ -315,8 +343,45 @@
     "smart": {
       "2026-11-02": 56
     },
-    "rankUscita": 16,
-    "rankVoto": 3
+    "rankUscita": 19,
+    "rankVoto": 4
+  },
+  {
+    "title": "The Nameless Ballad",
+    "poster": "https://image.tmdb.org/t/p/w185/g691fkK4mB5GCFziGG7gZP6oP2Y.jpg",
+    "rating": 7.7,
+    "ratings": {
+      "letterboxd": null,
+      "imdb": 7.7,
+      "metacritic": null,
+      "mubi": null
+    },
+    "releaseDate": "2026-11-05",
+    "showtimes": [
+      "22:20"
+    ],
+    "showtimesDate": "2026-11-05",
+    "days": {
+      "2026-11-05": [
+        "22:20"
+      ]
+    },
+    "shows": {
+      "2026-11-05": [
+        {
+          "time": "22:20",
+          "tags": []
+        }
+      ]
+    },
+    "room": "Sala 6",
+    "vo": false,
+    "url": "https://ucicinemas.it/film/the-nameless-ballad/",
+    "smart": {
+      "2026-11-05": 71
+    },
+    "rankUscita": 1,
+    "rankVoto": 5
   },
   {
     "title": "L'isola dei ricordi",
@@ -415,15 +480,15 @@
     "vo": false,
     "url": "https://ucicinemas.it/film/lisola-dei-ricordi/",
     "smart": {
-      "2026-10-30": 46,
+      "2026-10-30": 45,
       "2026-10-31": 50,
       "2026-11-01": 49,
-      "2026-11-02": 52,
-      "2026-11-03": 46,
+      "2026-11-02": 51,
+      "2026-11-03": 45,
       "2026-11-04": 45
     },
-    "rankUscita": 26,
-    "rankVoto": 4
+    "rankUscita": 29,
+    "rankVoto": 6
   },
   {
     "title": "Shaun, vita da pecora - Operazione Z.U.C.C.A.",
@@ -543,15 +608,15 @@
     "vo": false,
     "url": "https://ucicinemas.it/film/shaun-vita-da-pecora-operazione-zucca/",
     "smart": {
-      "2026-10-30": 67,
-      "2026-10-31": 71,
-      "2026-11-01": 65,
-      "2026-11-02": 68,
-      "2026-11-03": 67,
-      "2026-11-04": 65
+      "2026-10-30": 66,
+      "2026-10-31": 70,
+      "2026-11-01": 64,
+      "2026-11-02": 67,
+      "2026-11-03": 66,
+      "2026-11-04": 64
     },
-    "rankUscita": 7,
-    "rankVoto": 5
+    "rankUscita": 10,
+    "rankVoto": 7
   },
   {
     "title": "Jumbo - La voce di Don",
@@ -585,10 +650,10 @@
     "vo": false,
     "url": "https://ucicinemas.it/film/jumbo-la-voce-di-don/",
     "smart": {
-      "2026-11-02": 51
+      "2026-11-02": 50
     },
-    "rankUscita": 18,
-    "rankVoto": 6
+    "rankUscita": 21,
+    "rankVoto": 8
   },
   {
     "title": "Resident Evil",
@@ -669,13 +734,13 @@
     "smart": {
       "2026-10-30": 41,
       "2026-10-31": 41,
-      "2026-11-01": 41,
+      "2026-11-01": 40,
       "2026-11-02": 40,
       "2026-11-03": 41,
-      "2026-11-04": 41
+      "2026-11-04": 40
     },
-    "rankUscita": 27,
-    "rankVoto": 7
+    "rankUscita": 30,
+    "rankVoto": 9
   },
   {
     "title": "Ragione e sentimento",
@@ -785,15 +850,15 @@
     "vo": false,
     "url": "https://ucicinemas.it/film/ragione-e-sentimento/",
     "smart": {
-      "2026-10-30": 59,
-      "2026-10-31": 59,
-      "2026-11-01": 58,
-      "2026-11-02": 57,
-      "2026-11-03": 59,
-      "2026-11-04": 58
+      "2026-10-30": 58,
+      "2026-10-31": 58,
+      "2026-11-01": 57,
+      "2026-11-02": 56,
+      "2026-11-03": 58,
+      "2026-11-04": 57
     },
-    "rankUscita": 11,
-    "rankVoto": 8
+    "rankUscita": 14,
+    "rankVoto": 10
   },
   {
     "title": "L'estranea",
@@ -943,15 +1008,15 @@
     "vo": false,
     "url": "https://ucicinemas.it/film/lestranea/",
     "smart": {
-      "2026-10-30": 51,
-      "2026-10-31": 56,
-      "2026-11-01": 62,
-      "2026-11-02": 56,
-      "2026-11-03": 56,
+      "2026-10-30": 50,
+      "2026-10-31": 55,
+      "2026-11-01": 61,
+      "2026-11-02": 55,
+      "2026-11-03": 55,
       "2026-11-04": 53
     },
-    "rankUscita": 22,
-    "rankVoto": 9
+    "rankUscita": 25,
+    "rankVoto": 11
   },
   {
     "title": "Clayface",
@@ -965,13 +1030,12 @@
     },
     "releaseDate": "2026-10-22",
     "showtimes": [
+      "00:35",
+      "17:30",
       "22:25"
     ],
-    "showtimesDate": "2026-10-29",
+    "showtimesDate": "2026-10-30",
     "days": {
-      "2026-10-29": [
-        "22:25"
-      ],
       "2026-10-30": [
         "00:35",
         "17:30",
@@ -1006,12 +1070,6 @@
       ]
     },
     "shows": {
-      "2026-10-29": [
-        {
-          "time": "22:25",
-          "tags": []
-        }
-      ],
       "2026-10-30": [
         {
           "time": "00:35",
@@ -1105,20 +1163,19 @@
         }
       ]
     },
-    "room": "Sala 11",
+    "room": "Sala 8",
     "vo": false,
     "url": "https://ucicinemas.it/film/clayface/",
     "smart": {
-      "2026-10-29": 55,
-      "2026-10-30": 60,
-      "2026-10-31": 65,
+      "2026-10-30": 59,
+      "2026-10-31": 64,
       "2026-11-01": 62,
-      "2026-11-02": 57,
-      "2026-11-03": 60,
-      "2026-11-04": 58
+      "2026-11-02": 56,
+      "2026-11-03": 59,
+      "2026-11-04": 57
     },
-    "rankUscita": 12,
-    "rankVoto": 10
+    "rankUscita": 15,
+    "rankVoto": 12
   },
   {
     "title": "Je so’ pazzo",
@@ -1261,13 +1318,13 @@
     "smart": {
       "2026-10-30": 53,
       "2026-10-31": 53,
-      "2026-11-01": 51,
-      "2026-11-02": 50,
+      "2026-11-01": 50,
+      "2026-11-02": 49,
       "2026-11-03": 53,
-      "2026-11-04": 51
+      "2026-11-04": 50
     },
-    "rankUscita": 19,
-    "rankVoto": 11
+    "rankUscita": 22,
+    "rankVoto": 13
   },
   {
     "title": "Digger",
@@ -1303,8 +1360,8 @@
     "smart": {
       "2026-11-03": 37
     },
-    "rankUscita": 24,
-    "rankVoto": 12
+    "rankUscita": 27,
+    "rankVoto": 14
   },
   {
     "title": "Hope",
@@ -1441,8 +1498,8 @@
       "2026-11-03": 58,
       "2026-11-04": 56
     },
-    "rankUscita": 0,
-    "rankVoto": 13
+    "rankUscita": 2,
+    "rankVoto": 15
   },
   {
     "title": "L'assurda storia della Gialappa's Band",
@@ -1512,14 +1569,14 @@
     "vo": false,
     "url": "https://ucicinemas.it/film/lassurda-storia-della-gialappas-band/",
     "smart": {
-      "2026-10-31": 47,
+      "2026-10-31": 46,
       "2026-11-01": 46,
-      "2026-11-02": 46,
-      "2026-11-03": 47,
+      "2026-11-02": 45,
+      "2026-11-03": 46,
       "2026-11-04": 46
     },
-    "rankUscita": 13,
-    "rankVoto": 14
+    "rankUscita": 16,
+    "rankVoto": 16
   },
   {
     "title": "It Ends",
@@ -1533,15 +1590,15 @@
     },
     "releaseDate": "2026-10-28",
     "showtimes": [
-      "22:20",
-      "23:55"
+      "00:30",
+      "16:20",
+      "19:00",
+      "20:35",
+      "22:10",
+      "23:40"
     ],
-    "showtimesDate": "2026-10-29",
+    "showtimesDate": "2026-10-30",
     "days": {
-      "2026-10-29": [
-        "22:20",
-        "23:55"
-      ],
       "2026-10-30": [
         "00:30",
         "16:20",
@@ -1587,18 +1644,6 @@
       ]
     },
     "shows": {
-      "2026-10-29": [
-        {
-          "time": "22:20",
-          "tags": [
-            "XL"
-          ]
-        },
-        {
-          "time": "23:55",
-          "tags": []
-        }
-      ],
       "2026-10-30": [
         {
           "time": "00:30",
@@ -1758,16 +1803,15 @@
     "vo": false,
     "url": "https://ucicinemas.it/film/it-ends/",
     "smart": {
-      "2026-10-29": 64,
-      "2026-10-30": 73,
-      "2026-10-31": 73,
-      "2026-11-01": 69,
-      "2026-11-02": 59,
-      "2026-11-03": 64,
-      "2026-11-04": 65
+      "2026-10-30": 72,
+      "2026-10-31": 72,
+      "2026-11-01": 68,
+      "2026-11-02": 58,
+      "2026-11-03": 63,
+      "2026-11-04": 64
     },
-    "rankUscita": 8,
-    "rankVoto": 15
+    "rankUscita": 11,
+    "rankVoto": 17
   },
   {
     "title": "Dracula - L’amore perduto",
@@ -1859,8 +1903,8 @@
       "2026-10-31": 29,
       "2026-11-01": 27
     },
-    "rankUscita": 30,
-    "rankVoto": 16
+    "rankUscita": 33,
+    "rankVoto": 18
   },
   {
     "title": "Taddeo l’esploratore e la lampada magica",
@@ -1964,15 +2008,15 @@
     "vo": false,
     "url": "https://ucicinemas.it/film/taddeo-lesploratore-e-la-lampada-magica/",
     "smart": {
-      "2026-10-30": 41,
-      "2026-10-31": 46,
+      "2026-10-30": 40,
+      "2026-10-31": 45,
       "2026-11-01": 44,
       "2026-11-02": 43,
-      "2026-11-03": 41,
-      "2026-11-04": 40
+      "2026-11-03": 40,
+      "2026-11-04": 39
     },
-    "rankUscita": 14,
-    "rankVoto": 17
+    "rankUscita": 17,
+    "rankVoto": 19
   },
   {
     "title": "Dio ride",
@@ -1986,13 +2030,11 @@
     },
     "releaseDate": "2026-10-29",
     "showtimes": [
+      "15:00",
       "21:10"
     ],
-    "showtimesDate": "2026-10-29",
+    "showtimesDate": "2026-10-30",
     "days": {
-      "2026-10-29": [
-        "21:10"
-      ],
       "2026-10-30": [
         "15:00",
         "21:10"
@@ -2022,12 +2064,6 @@
       ]
     },
     "shows": {
-      "2026-10-29": [
-        {
-          "time": "21:10",
-          "tags": []
-        }
-      ],
       "2026-10-30": [
         {
           "time": "15:00",
@@ -2101,20 +2137,19 @@
         }
       ]
     },
-    "room": "Sala 12",
+    "room": "Sala 8",
     "vo": false,
     "url": "https://ucicinemas.it/film/dio-ride/",
     "smart": {
-      "2026-10-29": 50,
-      "2026-10-30": 50,
-      "2026-10-31": 50,
-      "2026-11-01": 49,
-      "2026-11-02": 52,
-      "2026-11-03": 55,
-      "2026-11-04": 53
+      "2026-10-30": 49,
+      "2026-10-31": 49,
+      "2026-11-01": 48,
+      "2026-11-02": 51,
+      "2026-11-03": 54,
+      "2026-11-04": 52
     },
-    "rankUscita": 3,
-    "rankVoto": 18
+    "rankUscita": 6,
+    "rankVoto": 20
   },
   {
     "title": "Frankie e le creature dimenticate",
@@ -2231,13 +2266,13 @@
     "smart": {
       "2026-10-30": 37,
       "2026-10-31": 37,
-      "2026-11-01": 36,
-      "2026-11-02": 39,
+      "2026-11-01": 35,
+      "2026-11-02": 38,
       "2026-11-03": 37,
-      "2026-11-04": 36
+      "2026-11-04": 35
     },
-    "rankUscita": 20,
-    "rankVoto": 19
+    "rankUscita": 23,
+    "rankVoto": 21
   },
   {
     "title": "Klara e il sole",
@@ -2316,15 +2351,15 @@
     "vo": false,
     "url": "https://ucicinemas.it/film/klara-e-il-sole/",
     "smart": {
-      "2026-10-30": 34,
-      "2026-10-31": 34,
-      "2026-11-01": 33,
+      "2026-10-30": 33,
+      "2026-10-31": 33,
+      "2026-11-01": 32,
       "2026-11-02": 32,
-      "2026-11-03": 34,
-      "2026-11-04": 33
+      "2026-11-03": 33,
+      "2026-11-04": 32
     },
-    "rankUscita": 15,
-    "rankVoto": 20
+    "rankUscita": 18,
+    "rankVoto": 22
   },
   {
     "title": "Fast & furious - Solo parti originali",
@@ -2338,17 +2373,15 @@
     },
     "releaseDate": "2009-04-17",
     "showtimes": [
+      "00:00",
+      "15:20",
+      "16:50",
+      "19:40",
       "21:30",
-      "22:10",
-      "23:00"
+      "22:10"
     ],
-    "showtimesDate": "2026-10-29",
+    "showtimesDate": "2026-10-30",
     "days": {
-      "2026-10-29": [
-        "21:30",
-        "22:10",
-        "23:00"
-      ],
       "2026-10-30": [
         "00:00",
         "15:20",
@@ -2395,20 +2428,6 @@
       ]
     },
     "shows": {
-      "2026-10-29": [
-        {
-          "time": "21:30",
-          "tags": []
-        },
-        {
-          "time": "22:10",
-          "tags": []
-        },
-        {
-          "time": "23:00",
-          "tags": []
-        }
-      ],
       "2026-10-30": [
         {
           "time": "00:00",
@@ -2558,11 +2577,10 @@
         }
       ]
     },
-    "room": "Sala 10",
+    "room": "Sala 11",
     "vo": false,
     "url": "https://ucicinemas.it/film/fast-and-furious/",
     "smart": {
-      "2026-10-29": 33,
       "2026-10-30": 33,
       "2026-10-31": 24,
       "2026-11-01": 33,
@@ -2570,8 +2588,8 @@
       "2026-11-03": 29,
       "2026-11-04": 25
     },
-    "rankUscita": 31,
-    "rankVoto": 21
+    "rankUscita": 34,
+    "rankVoto": 23
   },
   {
     "title": "Street Fighter",
@@ -2676,15 +2694,15 @@
     "vo": false,
     "url": "https://ucicinemas.it/film/street-fighter/",
     "smart": {
-      "2026-10-30": 36,
+      "2026-10-30": 35,
       "2026-10-31": 26,
-      "2026-11-01": 26,
+      "2026-11-01": 25,
       "2026-11-02": 25,
       "2026-11-03": 26,
-      "2026-11-04": 26
+      "2026-11-04": 25
     },
-    "rankUscita": 21,
-    "rankVoto": 22
+    "rankUscita": 24,
+    "rankVoto": 24
   },
   {
     "title": "Verity",
@@ -2760,8 +2778,8 @@
       "2026-11-03": 16,
       "2026-11-04": 15
     },
-    "rankUscita": 25,
-    "rankVoto": 23
+    "rankUscita": 28,
+    "rankVoto": 25
   },
   {
     "title": "Mammina",
@@ -2775,15 +2793,12 @@
     },
     "releaseDate": "2026-10-08",
     "showtimes": [
-      "23:00",
+      "00:55",
+      "22:50",
       "23:45"
     ],
-    "showtimesDate": "2026-10-29",
+    "showtimesDate": "2026-10-30",
     "days": {
-      "2026-10-29": [
-        "23:00",
-        "23:45"
-      ],
       "2026-10-30": [
         "00:55",
         "22:50",
@@ -2813,16 +2828,6 @@
       ]
     },
     "shows": {
-      "2026-10-29": [
-        {
-          "time": "23:00",
-          "tags": []
-        },
-        {
-          "time": "23:45",
-          "tags": []
-        }
-      ],
       "2026-10-30": [
         {
           "time": "00:55",
@@ -2900,16 +2905,15 @@
     "vo": false,
     "url": "https://ucicinemas.it/film/mammina/",
     "smart": {
-      "2026-10-29": 33,
-      "2026-10-30": 29,
-      "2026-10-31": 29,
-      "2026-11-01": 27,
+      "2026-10-30": 28,
+      "2026-10-31": 28,
+      "2026-11-01": 26,
       "2026-11-02": 21,
-      "2026-11-03": 24,
+      "2026-11-03": 23,
       "2026-11-04": 22
     },
-    "rankUscita": 23,
-    "rankVoto": 24
+    "rankUscita": 26,
+    "rankVoto": 26
   },
   {
     "title": "Ice Cream Man",
@@ -2923,15 +2927,15 @@
     },
     "releaseDate": "2026-10-29",
     "showtimes": [
+      "00:20",
+      "17:45",
+      "20:10",
+      "21:31",
       "22:30",
-      "23:10"
+      "23:20"
     ],
-    "showtimesDate": "2026-10-29",
+    "showtimesDate": "2026-10-30",
     "days": {
-      "2026-10-29": [
-        "22:30",
-        "23:10"
-      ],
       "2026-10-30": [
         "00:20",
         "17:45",
@@ -2972,16 +2976,6 @@
       ]
     },
     "shows": {
-      "2026-10-29": [
-        {
-          "time": "22:30",
-          "tags": []
-        },
-        {
-          "time": "23:10",
-          "tags": []
-        }
-      ],
       "2026-10-30": [
         {
           "time": "00:20",
@@ -3105,20 +3099,19 @@
         }
       ]
     },
-    "room": "Sala 9",
+    "room": "Sala 5 XL",
     "vo": false,
     "url": "https://ucicinemas.it/film/ice-cream-man/",
     "smart": {
-      "2026-10-29": 48,
-      "2026-10-30": 57,
-      "2026-10-31": 57,
-      "2026-11-01": 49,
-      "2026-11-02": 39,
-      "2026-11-03": 43,
-      "2026-11-04": 41
+      "2026-10-30": 56,
+      "2026-10-31": 56,
+      "2026-11-01": 48,
+      "2026-11-02": 38,
+      "2026-11-03": 42,
+      "2026-11-04": 40
     },
-    "rankUscita": 4,
-    "rankVoto": 25
+    "rankUscita": 7,
+    "rankVoto": 27
   },
   {
     "title": "Il gatto col cappello",
@@ -3197,8 +3190,63 @@
       "2026-10-31": 69,
       "2026-11-01": 66
     },
-    "rankUscita": 1,
-    "rankVoto": 26
+    "rankUscita": 3,
+    "rankVoto": 28
+  },
+  {
+    "title": "Se domani non torno",
+    "poster": "https://image.tmdb.org/t/p/w185/yfnAxbirYCIm1qP9ZT9LjYIj6DQ.jpg",
+    "rating": null,
+    "ratings": {
+      "letterboxd": null,
+      "imdb": null,
+      "metacritic": null,
+      "mubi": null
+    },
+    "releaseDate": "2026-11-05",
+    "showtimes": [
+      "16:30",
+      "19:00",
+      "21:30"
+    ],
+    "showtimesDate": "2026-11-05",
+    "days": {
+      "2026-11-05": [
+        "16:30",
+        "19:00",
+        "21:30"
+      ]
+    },
+    "shows": {
+      "2026-11-05": [
+        {
+          "time": "16:30",
+          "tags": [
+            "XL"
+          ]
+        },
+        {
+          "time": "19:00",
+          "tags": [
+            "XL"
+          ]
+        },
+        {
+          "time": "21:30",
+          "tags": [
+            "XL"
+          ]
+        }
+      ]
+    },
+    "room": "Sala 5 XL",
+    "vo": false,
+    "url": "https://ucicinemas.it/film/se-domani-non-torno/",
+    "smart": {
+      "2026-11-05": 79
+    },
+    "rankUscita": 4,
+    "rankVoto": 29
   },
   {
     "title": "Rammstein – Live in Mexico City",
@@ -3236,8 +3284,8 @@
     "smart": {
       "2026-11-04": 54
     },
-    "rankUscita": 2,
-    "rankVoto": 27
+    "rankUscita": 5,
+    "rankVoto": 30
   },
   {
     "title": "Quello che Resta di Noi",
@@ -3257,6 +3305,9 @@
     "days": {
       "2026-11-03": [
         "21:00"
+      ],
+      "2026-11-05": [
+        "20:00"
       ]
     },
     "shows": {
@@ -3267,16 +3318,23 @@
             "XL"
           ]
         }
+      ],
+      "2026-11-05": [
+        {
+          "time": "20:00",
+          "tags": []
+        }
       ]
     },
     "room": "Sala 5 XL",
     "vo": false,
     "url": "https://ucicinemas.it/film/quello-che-resta-di-noi/",
     "smart": {
-      "2026-11-03": 55
+      "2026-11-03": 54,
+      "2026-11-05": 59
     },
-    "rankUscita": 5,
-    "rankVoto": 28
+    "rankUscita": 8,
+    "rankVoto": 31
   },
   {
     "title": "Un tranquillo funerale di famiglia",
@@ -3290,15 +3348,15 @@
     },
     "releaseDate": "2026-10-29",
     "showtimes": [
-      "21:40",
-      "22:40"
+      "14:00",
+      "16:30",
+      "18:20",
+      "19:20",
+      "19:55",
+      "21:40"
     ],
-    "showtimesDate": "2026-10-29",
+    "showtimesDate": "2026-10-30",
     "days": {
-      "2026-10-29": [
-        "21:40",
-        "22:40"
-      ],
       "2026-10-30": [
         "14:00",
         "16:30",
@@ -3352,16 +3410,6 @@
       ]
     },
     "shows": {
-      "2026-10-29": [
-        {
-          "time": "21:40",
-          "tags": []
-        },
-        {
-          "time": "22:40",
-          "tags": []
-        }
-      ],
       "2026-10-30": [
         {
           "time": "14:00",
@@ -3547,20 +3595,19 @@
         }
       ]
     },
-    "room": "Sala 6",
+    "room": "Sala 5 XL",
     "vo": false,
     "url": "https://ucicinemas.it/film/un-tranquillo-funerale-di-famiglia/",
     "smart": {
-      "2026-10-29": 69,
-      "2026-10-30": 79,
-      "2026-10-31": 79,
+      "2026-10-30": 78,
+      "2026-10-31": 78,
       "2026-11-01": 74,
-      "2026-11-02": 79,
-      "2026-11-03": 79,
-      "2026-11-04": 79
+      "2026-11-02": 78,
+      "2026-11-03": 78,
+      "2026-11-04": 78
     },
-    "rankUscita": 6,
-    "rankVoto": 29
+    "rankUscita": 9,
+    "rankVoto": 32
   },
   {
     "title": "Se ami qualcuno dillo",
@@ -3603,11 +3650,11 @@
     "vo": false,
     "url": "https://ucicinemas.it/film/se-ami-qualcuno-dillo/",
     "smart": {
-      "2026-10-31": 45,
+      "2026-10-31": 44,
       "2026-11-01": 44
     },
-    "rankUscita": 17,
-    "rankVoto": 30
+    "rankUscita": 20,
+    "rankVoto": 33
   },
   {
     "title": "Seventeen world tour NEW",
@@ -3645,8 +3692,8 @@
     "smart": {
       "2026-10-30": 26
     },
-    "rankUscita": 29,
-    "rankVoto": 31
+    "rankUscita": 32,
+    "rankVoto": 34
   },
   {
     "title": "Hybe cheering party",
@@ -3698,8 +3745,8 @@
       "2026-10-30": 40,
       "2026-10-31": 40
     },
-    "rankUscita": 32,
-    "rankVoto": 32
+    "rankUscita": 35,
+    "rankVoto": 35
   },
   {
     "title": "Il gruffalò e la strega Rossella",
@@ -3760,8 +3807,8 @@
       "2026-10-31": 45,
       "2026-11-01": 44
     },
-    "rankUscita": 33,
-    "rankVoto": 33
+    "rankUscita": 36,
+    "rankVoto": 36
   },
   {
     "title": "Ozzy & Black Sabbath: Back To The Beginning",
@@ -3775,26 +3822,15 @@
     },
     "releaseDate": null,
     "showtimes": [
-      "21:20"
+      "19:50"
     ],
-    "showtimesDate": "2026-10-29",
+    "showtimesDate": "2026-10-31",
     "days": {
-      "2026-10-29": [
-        "21:20"
-      ],
       "2026-10-31": [
         "19:50"
       ]
     },
     "shows": {
-      "2026-10-29": [
-        {
-          "time": "21:20",
-          "tags": [
-            "VO"
-          ]
-        }
-      ],
       "2026-10-31": [
         {
           "time": "19:50",
@@ -3804,14 +3840,13 @@
         }
       ]
     },
-    "room": "Sala 14",
+    "room": "Sala 13",
     "vo": true,
     "url": "https://ucicinemas.it/film/ozzy-black-sabbath-back-to-the-beginning/",
     "smart": {
-      "2026-10-29": 45,
       "2026-10-31": 40
     },
-    "rankUscita": 34,
-    "rankVoto": 34
+    "rankUscita": 37,
+    "rankVoto": 37
   }
 ]

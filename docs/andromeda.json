@@ -4,10 +4,10 @@
     "poster": "https://image.tmdb.org/t/p/w185/kfczsvfehVNDwzWiPuKAuQclzl7.jpg",
     "rating": 8.7,
     "ratings": {
-      "letterboxd": 8.6,
+      "letterboxd": 8.9,
       "imdb": 8.7,
-      "metacritic": 8.7,
-      "mubi": null
+      "metacritic": 8.8,
+      "mubi": 8.2
     },
     "releaseDate": "2026-10-22",
     "showtimes": [
@@ -31,7 +31,7 @@
     "vo": false,
     "url": "https://roma.andromeda.18tickets.it/film/86023",
     "smart": {
-      "2026-10-30": 75
+      "2026-10-30": 74
     },
     "rankUscita": 6,
     "rankVoto": 0
@@ -74,7 +74,7 @@
     "vo": false,
     "url": "https://roma.andromeda.18tickets.it/film/86813",
     "smart": {
-      "2026-10-30": 76
+      "2026-10-30": 75
     },
     "rankUscita": 5,
     "rankVoto": 1
@@ -125,7 +125,7 @@
     "vo": false,
     "url": "https://roma.andromeda.18tickets.it/film/86021",
     "smart": {
-      "2026-10-30": 78
+      "2026-10-30": 77
     },
     "rankUscita": 7,
     "rankVoto": 2
@@ -328,7 +328,7 @@
     "vo": false,
     "url": "https://roma.andromeda.18tickets.it/film/87440",
     "smart": {
-      "2026-10-30": 46
+      "2026-10-30": 45
     },
     "rankUscita": 9,
     "rankVoto": 7
@@ -377,7 +377,7 @@
     "vo": false,
     "url": "https://roma.andromeda.18tickets.it/film/88991",
     "smart": {
-      "2026-10-30": 69
+      "2026-10-30": 68
     },
     "rankUscita": 2,
     "rankVoto": 8
@@ -488,7 +488,7 @@
     "vo": false,
     "url": "https://roma.andromeda.18tickets.it/film/86648",
     "smart": {
-      "2026-10-30": 38
+      "2026-10-30": 37
     },
     "rankUscita": 3,
     "rankVoto": 11
@@ -586,7 +586,7 @@
     "vo": false,
     "url": "https://roma.andromeda.18tickets.it/film/86054",
     "smart": {
-      "2026-10-30": 79
+      "2026-10-30": 78
     },
     "rankUscita": 4,
     "rankVoto": 13
@@ -629,7 +629,7 @@
     "vo": false,
     "url": "https://roma.andromeda.18tickets.it/film/82128",
     "smart": {
-      "2026-10-30": 59
+      "2026-10-30": 58
     },
     "rankUscita": 10,
     "rankVoto": 14

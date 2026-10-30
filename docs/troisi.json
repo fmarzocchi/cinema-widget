@@ -11,26 +11,15 @@
     },
     "releaseDate": "2026-10-22",
     "showtimes": [
-      "11:00"
+      "21:00"
     ],
-    "showtimesDate": "2026-10-29",
+    "showtimesDate": "2026-11-03",
     "days": {
-      "2026-10-29": [
-        "11:00"
-      ],
       "2026-11-03": [
         "21:00"
       ]
     },
     "shows": {
-      "2026-10-29": [
-        {
-          "time": "11:00",
-          "tags": [
-            "VO"
-          ]
-        }
-      ],
       "2026-11-03": [
         {
           "time": "21:00",
@@ -44,10 +33,9 @@
     "vo": true,
     "url": "https://www.liveticket.it/opera.aspx?Id=709495",
     "smart": {
-      "2026-10-29": 94,
-      "2026-11-03": 94
+      "2026-11-03": 93
     },
-    "rankUscita": 3,
+    "rankUscita": 4,
     "rankVoto": 0
   },
   {
@@ -86,8 +74,55 @@
     "smart": {
       "2026-10-31": 70
     },
-    "rankUscita": 8,
+    "rankUscita": 9,
     "rankVoto": 1
+  },
+  {
+    "title": "Wild Horse Nine",
+    "poster": "https://image.tmdb.org/t/p/w185/og5qagWp4ZqVl28nbBwiBHZprJM.jpg",
+    "rating": 8.1,
+    "ratings": {
+      "letterboxd": 8.2,
+      "imdb": 8.2,
+      "metacritic": 7.9,
+      "mubi": 8.2
+    },
+    "releaseDate": "2026-11-05",
+    "showtimes": [
+      "19:00",
+      "21:30"
+    ],
+    "showtimesDate": "2026-11-05",
+    "days": {
+      "2026-11-05": [
+        "19:00",
+        "21:30"
+      ]
+    },
+    "shows": {
+      "2026-11-05": [
+        {
+          "time": "19:00",
+          "tags": [
+            "VO"
+          ]
+        },
+        {
+          "time": "21:30",
+          "tags": [
+            "VO"
+          ]
+        }
+      ]
+    },
+    "room": null,
+    "vo": true,
+    "url": "https://www.liveticket.it/opera.aspx?Id=705621",
+    "smart": {
+      "2026-11-05": 95
+    },
+    "rankUscita": 0,
+    "rankVoto": 2
   },
   {
     "title": "Matrix",
@@ -101,13 +136,10 @@
     },
     "releaseDate": "1999-05-07",
     "showtimes": [
-      "16:30"
+      "19:30"
     ],
-    "showtimesDate": "2026-10-29",
+    "showtimesDate": "2026-10-30",
     "days": {
-      "2026-10-29": [
-        "16:30"
-      ],
       "2026-10-30": [
         "19:30"
       ],
@@ -116,14 +148,6 @@
       ]
     },
     "shows": {
-      "2026-10-29": [
-        {
-          "time": "16:30",
-          "tags": [
-            "VO"
-          ]
-        }
-      ],
       "2026-10-30": [
         {
           "time": "19:30",
@@ -145,12 +169,11 @@
     "vo": true,
     "url": "https://www.liveticket.it/opera.aspx?Id=709504",
     "smart": {
-      "2026-10-29": 67,
       "2026-10-30": 52,
       "2026-11-02": 67
     },
-    "rankUscita": 15,
-    "rankVoto": 2
+    "rankUscita": 17,
+    "rankVoto": 3
   },
   {
     "title": "Nosferatu, il vampiro",
@@ -186,8 +209,8 @@
     "smart": {
       "2026-11-01": 65
     },
-    "rankUscita": 9,
-    "rankVoto": 3
+    "rankUscita": 11,
+    "rankVoto": 4
   },
   {
     "title": "Fatherland",
@@ -273,8 +296,8 @@
       "2026-11-03": 81,
       "2026-11-04": 81
     },
-    "rankUscita": 5,
-    "rankVoto": 4
+    "rankUscita": 6,
+    "rankVoto": 5
   },
   {
     "title": "Solo gli Amanti Sopravvivono (Only Lover",
@@ -310,8 +333,8 @@
     "smart": {
       "2026-11-01": 63
     },
-    "rankUscita": 10,
-    "rankVoto": 5
+    "rankUscita": 12,
+    "rankVoto": 6
   },
   {
     "title": "The Dreamers - I sognatori",
@@ -349,8 +372,8 @@
     "smart": {
       "2026-11-02": 56
     },
-    "rankUscita": 14,
-    "rankVoto": 6
+    "rankUscita": 16,
+    "rankVoto": 7
   },
   {
     "title": "The Addiction - Vampiri a New York",
@@ -386,8 +409,8 @@
     "smart": {
       "2026-10-31": 54
     },
-    "rankUscita": 16,
-    "rankVoto": 7
+    "rankUscita": 18,
+    "rankVoto": 8
   },
   {
     "title": "Il buio si avvicina",
@@ -423,8 +446,8 @@
     "smart": {
       "2026-11-01": 54
     },
-    "rankUscita": 20,
-    "rankVoto": 8
+    "rankUscita": 22,
+    "rankVoto": 9
   },
   {
     "title": "Urchin",
@@ -438,13 +461,10 @@
     },
     "releaseDate": "2026-10-22",
     "showtimes": [
-      "14:30"
+      "17:30"
     ],
-    "showtimesDate": "2026-10-29",
+    "showtimesDate": "2026-10-30",
     "days": {
-      "2026-10-29": [
-        "14:30"
-      ],
       "2026-10-30": [
         "17:30"
       ],
@@ -462,14 +482,6 @@
       ]
     },
     "shows": {
-      "2026-10-29": [
-        {
-          "time": "14:30",
-          "tags": [
-            "VO"
-          ]
-        }
-      ],
       "2026-10-30": [
         {
           "time": "17:30",
@@ -515,15 +527,14 @@
     "vo": true,
     "url": "https://www.liveticket.it/opera.aspx?Id=709498",
     "smart": {
-      "2026-10-29": 76,
       "2026-10-30": 61,
-      "2026-10-31": 76,
-      "2026-11-01": 76,
-      "2026-11-02": 76,
-      "2026-11-03": 76
+      "2026-10-31": 75,
+      "2026-11-01": 75,
+      "2026-11-02": 75,
+      "2026-11-03": 75
     },
-    "rankUscita": 4,
-    "rankVoto": 9
+    "rankUscita": 5,
+    "rankVoto": 10
   },
   {
     "title": "Essi vivono",
@@ -561,8 +572,8 @@
     "smart": {
       "2026-11-01": 53
     },
-    "rankUscita": 19,
-    "rankVoto": 10
+    "rankUscita": 21,
+    "rankVoto": 11
   },
   {
     "title": "Ganja & Hess",
@@ -598,8 +609,8 @@
     "smart": {
       "2026-10-31": 53
     },
-    "rankUscita": 21,
-    "rankVoto": 11
+    "rankUscita": 23,
+    "rankVoto": 12
   },
   {
     "title": "Le avventure di Ichabod e Mr. Toad",
@@ -635,8 +646,8 @@
     "smart": {
       "2026-11-01": 52
     },
-    "rankUscita": 13,
-    "rankVoto": 12
+    "rankUscita": 15,
+    "rankVoto": 13
   },
   {
     "title": "Dracula di Bram Stoker",
@@ -682,8 +693,8 @@
     "smart": {
       "2026-10-30": 52
     },
-    "rankUscita": 17,
-    "rankVoto": 13
+    "rankUscita": 19,
+    "rankVoto": 14
   },
   {
     "title": "La stazione",
@@ -719,8 +730,55 @@
     "smart": {
       "2026-11-02": 51
     },
-    "rankUscita": 18,
-    "rankVoto": 14
+    "rankUscita": 20,
+    "rankVoto": 15
+  },
+  {
+    "title": "Hope",
+    "poster": "https://image.tmdb.org/t/p/w185/fbFxZSSw2kQoAkyXosVoOyBX0Z4.jpg",
+    "rating": 6.6,
+    "ratings": {
+      "letterboxd": 6.4,
+      "imdb": 6.6,
+      "metacritic": 6.7,
+      "mubi": 6.8
+    },
+    "releaseDate": "2026-11-05",
+    "showtimes": [
+      "11:00",
+      "16:00"
+    ],
+    "showtimesDate": "2026-11-05",
+    "days": {
+      "2026-11-05": [
+        "11:00",
+        "16:00"
+      ]
+    },
+    "shows": {
+      "2026-11-05": [
+        {
+          "time": "11:00",
+          "tags": [
+            "VO"
+          ]
+        },
+        {
+          "time": "16:00",
+          "tags": [
+            "VO"
+          ]
+        }
+      ]
+    },
+    "room": null,
+    "vo": true,
+    "url": "https://www.liveticket.it/opera.aspx?Id=709667",
+    "smart": {
+      "2026-11-05": 77
+    },
+    "rankUscita": 1,
+    "rankVoto": 16
   },
   {
     "title": "Anna",
@@ -756,8 +814,8 @@
     "smart": {
       "2026-11-04": 46
     },
-    "rankUscita": 6,
-    "rankVoto": 15
+    "rankUscita": 7,
+    "rankVoto": 17
   },
   {
     "title": "Thirst",
@@ -793,8 +851,8 @@
     "smart": {
       "2026-11-01": 44
     },
-    "rankUscita": 12,
-    "rankVoto": 16
+    "rankUscita": 14,
+    "rankVoto": 18
   },
   {
     "title": "Solo Dio perdona",
@@ -832,8 +890,8 @@
     "smart": {
       "2026-10-31": 33
     },
-    "rankUscita": 11,
-    "rankVoto": 17
+    "rankUscita": 13,
+    "rankVoto": 19
   },
   {
     "title": "Carla Lonzi - Dentro e",
@@ -867,10 +925,10 @@
     "vo": false,
     "url": "https://www.liveticket.it/opera.aspx?Id=709718",
     "smart": {
-      "2026-11-03": 76
+      "2026-11-03": 75
     },
-    "rankUscita": 0,
-    "rankVoto": 18
+    "rankUscita": 2,
+    "rankVoto": 20
   },
   {
     "title": "Carla Lonzi - Dentro e fuori",
@@ -928,49 +986,12 @@
     "vo": true,
     "url": "https://www.liveticket.it/opera.aspx?Id=709509",
     "smart": {
-      "2026-10-30": 62,
-      "2026-11-01": 76,
-      "2026-11-04": 76
+      "2026-10-30": 61,
+      "2026-11-01": 75,
+      "2026-11-04": 75
     },
-    "rankUscita": 1,
-    "rankVoto": 19
-  },
-  {
-    "title": "Carla Lonzi - Dentro e fuori dal mondo",
-    "poster": "https://image.tmdb.org/t/p/w185/xoZsnMCVVO1pWRSUbaJHzTjBCi6.jpg",
-    "rating": null,
-    "ratings": {
-      "letterboxd": null,
-      "imdb": null,
-      "metacritic": null,
-      "mubi": null
-    },
-    "releaseDate": "2026-10-26",
-    "showtimes": [
-      "19:00"
-    ],
-    "showtimesDate": "2026-10-29",
-    "days": {
-      "2026-10-29": [
-        "19:00"
-      ]
-    },
-    "shows": {
-      "2026-10-29": [
-        {
-          "time": "19:00",
-          "tags": []
-        }
-      ]
-    },
-    "room": null,
-    "vo": false,
-    "url": "https://www.liveticket.it/opera.aspx?Id=708322",
-    "smart": {
-      "2026-10-29": 76
-    },
-    "rankUscita": 2,
-    "rankVoto": 20
+    "rankUscita": 3,
+    "rankVoto": 21
   },
   {
     "title": "Sisters",
@@ -986,11 +1007,8 @@
     "showtimes": [
       "00:30"
     ],
-    "showtimesDate": "2026-10-30",
+    "showtimesDate": "2026-10-31",
     "days": {
-      "2026-10-30": [
-        "00:30"
-      ],
       "2026-10-31": [
         "00:30"
       ],
@@ -999,14 +1017,6 @@
       ]
     },
     "shows": {
-      "2026-10-30": [
-        {
-          "time": "00:30",
-          "tags": [
-            "VO"
-          ]
-        }
-      ],
       "2026-10-31": [
         {
           "time": "00:30",
@@ -1028,16 +1038,15 @@
     "vo": true,
     "url": "https://www.liveticket.it/opera.aspx?Id=709524",
     "smart": {
-      "2026-10-30": 36,
       "2026-10-31": 50,
       "2026-11-02": 50
     },
-    "rankUscita": 7,
-    "rankVoto": 21
+    "rankUscita": 8,
+    "rankVoto": 22
   },
   {
-    "title": "52 is a Machine + Urchin",
-    "poster": "https://cinematroisi.liveticket.it/wp-content/uploads/sites/48/00311719-180x257.jpg",
+    "title": "Il canto di Alina",
+    "poster": "https://image.tmdb.org/t/p/w185/kVMdFxJJS3Y5MCpU68mmv9QyTDI.jpg",
     "rating": null,
     "ratings": {
       "letterboxd": null,
@@ -1045,32 +1054,32 @@
       "metacritic": null,
       "mubi": null
     },
-    "releaseDate": null,
+    "releaseDate": "2024-10-11",
     "showtimes": [
-      "21:30"
+      "14:00"
     ],
-    "showtimesDate": "2026-10-29",
+    "showtimesDate": "2026-11-05",
     "days": {
-      "2026-10-29": [
-        "21:30"
+      "2026-11-05": [
+        "14:00"
       ]
     },
     "shows": {
-      "2026-10-29": [
+      "2026-11-05": [
         {
-          "time": "21:30",
+          "time": "14:00",
           "tags": []
         }
       ]
     },
     "room": null,
     "vo": false,
-    "url": "https://www.liveticket.it/opera.aspx?Id=708351",
+    "url": "https://www.liveticket.it/opera.aspx?Id=705579",
     "smart": {
-      "2026-10-29": 64
+      "2026-11-05": 36
     },
-    "rankUscita": 22,
-    "rankVoto": 22
+    "rankUscita": 10,
+    "rankVoto": 23
   },
   {
     "title": "Dracula di Bram Stoker 4K (Ried. 2026)",
@@ -1106,8 +1115,8 @@
     "smart": {
       "2026-10-31": 64
     },
-    "rankUscita": 23,
-    "rankVoto": 23
+    "rankUscita": 24,
+    "rankVoto": 24
   },
   {
     "title": "Partner + Agonia 26",
@@ -1143,8 +1152,8 @@
     "smart": {
       "2026-11-03": 64
     },
-    "rankUscita": 24,
-    "rankVoto": 24
+    "rankUscita": 25,
+    "rankVoto": 25
   },
   {
     "title": "Wildwood - Doppiato In Italiano",
@@ -1190,7 +1199,7 @@
       "2026-11-02": 64,
       "2026-11-04": 64
     },
-    "rankUscita": 25,
-    "rankVoto": 25
+    "rankUscita": 26,
+    "rankVoto": 26
   }
 ]
