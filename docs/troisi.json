@@ -97,6 +97,10 @@
       "2026-11-05": [
         "19:00",
         "21:30"
+      ],
+      "2026-11-06": [
+        "14:00",
+        "19:15"
       ]
     },
     "shows": {
@@ -113,13 +117,28 @@
             "VO"
           ]
         }
+      ],
+      "2026-11-06": [
+        {
+          "time": "14:00",
+          "tags": [
+            "VO"
+          ]
+        },
+        {
+          "time": "19:15",
+          "tags": [
+            "VO"
+          ]
+        }
       ]
     },
     "room": null,
     "vo": true,
     "url": "https://www.liveticket.it/opera.aspx?Id=705621",
     "smart": {
-      "2026-11-05": 95
+      "2026-11-05": 95,
+      "2026-11-06": 86
     },
     "rankUscita": 0,
     "rankVoto": 2
@@ -136,26 +155,15 @@
     },
     "releaseDate": "1999-05-07",
     "showtimes": [
-      "19:30"
+      "11:00"
     ],
-    "showtimesDate": "2026-10-30",
+    "showtimesDate": "2026-11-02",
     "days": {
-      "2026-10-30": [
-        "19:30"
-      ],
       "2026-11-02": [
         "11:00"
       ]
     },
     "shows": {
-      "2026-10-30": [
-        {
-          "time": "19:30",
-          "tags": [
-            "VO"
-          ]
-        }
-      ],
       "2026-11-02": [
         {
           "time": "11:00",
@@ -169,7 +177,6 @@
     "vo": true,
     "url": "https://www.liveticket.it/opera.aspx?Id=709504",
     "smart": {
-      "2026-10-30": 52,
       "2026-11-02": 67
     },
     "rankUscita": 17,
@@ -224,13 +231,10 @@
     },
     "releaseDate": "2026-10-16",
     "showtimes": [
-      "15:30"
+      "13:00"
     ],
-    "showtimesDate": "2026-10-30",
+    "showtimesDate": "2026-11-01",
     "days": {
-      "2026-10-30": [
-        "15:30"
-      ],
       "2026-11-01": [
         "13:00"
       ],
@@ -245,14 +249,6 @@
       ]
     },
     "shows": {
-      "2026-10-30": [
-        {
-          "time": "15:30",
-          "tags": [
-            "VO"
-          ]
-        }
-      ],
       "2026-11-01": [
         {
           "time": "13:00",
@@ -290,11 +286,10 @@
     "vo": true,
     "url": "https://www.liveticket.it/opera.aspx?Id=704008",
     "smart": {
-      "2026-10-30": 67,
-      "2026-11-01": 81,
-      "2026-11-02": 81,
-      "2026-11-03": 81,
-      "2026-11-04": 81
+      "2026-11-01": 80,
+      "2026-11-02": 80,
+      "2026-11-03": 80,
+      "2026-11-04": 80
     },
     "rankUscita": 6,
     "rankVoto": 5
@@ -337,6 +332,45 @@
     "rankVoto": 6
   },
   {
+    "title": "I Diavoli (the Devils)",
+    "poster": "https://cinematroisi.liveticket.it/wp-content/uploads/sites/48/31767it1_it-180x257.jpg",
+    "rating": 7.8,
+    "ratings": {
+      "letterboxd": 8.5,
+      "imdb": 7.8,
+      "metacritic": 6.4,
+      "mubi": 8.4
+    },
+    "releaseDate": "1971-09-11",
+    "showtimes": [
+      "11:00"
+    ],
+    "showtimesDate": "2026-11-06",
+    "days": {
+      "2026-11-06": [
+        "11:00"
+      ]
+    },
+    "shows": {
+      "2026-11-06": [
+        {
+          "time": "11:00",
+          "tags": [
+            "VO"
+          ]
+        }
+      ]
+    },
+    "room": null,
+    "vo": true,
+    "url": "https://www.liveticket.it/opera.aspx?Id=705302",
+    "smart": {
+      "2026-11-06": 44
+    },
+    "rankUscita": 23,
+    "rankVoto": 7
+  },
+  {
     "title": "The Dreamers - I sognatori",
     "poster": "https://image.tmdb.org/t/p/w185/pinNViE433kLUrJppjFAOzgWxdl.jpg",
     "rating": 7.2,
@@ -373,7 +407,7 @@
       "2026-11-02": 56
     },
     "rankUscita": 16,
-    "rankVoto": 7
+    "rankVoto": 8
   },
   {
     "title": "Il buio si avvicina",
@@ -409,8 +443,8 @@
     "smart": {
       "2026-11-01": 56
     },
-    "rankUscita": 22,
-    "rankVoto": 8
+    "rankUscita": 21,
+    "rankVoto": 9
   },
   {
     "title": "The Addiction - Vampiri a New York",
@@ -447,7 +481,7 @@
       "2026-10-31": 54
     },
     "rankUscita": 18,
-    "rankVoto": 9
+    "rankVoto": 10
   },
   {
     "title": "Urchin",
@@ -461,13 +495,10 @@
     },
     "releaseDate": "2026-10-22",
     "showtimes": [
-      "17:30"
+      "14:30"
     ],
-    "showtimesDate": "2026-10-30",
+    "showtimesDate": "2026-10-31",
     "days": {
-      "2026-10-30": [
-        "17:30"
-      ],
       "2026-10-31": [
         "14:30"
       ],
@@ -482,14 +513,6 @@
       ]
     },
     "shows": {
-      "2026-10-30": [
-        {
-          "time": "17:30",
-          "tags": [
-            "VO"
-          ]
-        }
-      ],
       "2026-10-31": [
         {
           "time": "14:30",
@@ -527,14 +550,13 @@
     "vo": true,
     "url": "https://www.liveticket.it/opera.aspx?Id=709498",
     "smart": {
-      "2026-10-30": 61,
-      "2026-10-31": 75,
-      "2026-11-01": 75,
-      "2026-11-02": 75,
-      "2026-11-03": 75
+      "2026-10-31": 74,
+      "2026-11-01": 74,
+      "2026-11-02": 74,
+      "2026-11-03": 74
     },
     "rankUscita": 5,
-    "rankVoto": 10
+    "rankVoto": 11
   },
   {
     "title": "Essi vivono",
@@ -572,8 +594,8 @@
     "smart": {
       "2026-11-01": 53
     },
-    "rankUscita": 21,
-    "rankVoto": 11
+    "rankUscita": 20,
+    "rankVoto": 12
   },
   {
     "title": "Ganja & Hess",
@@ -609,8 +631,8 @@
     "smart": {
       "2026-10-31": 53
     },
-    "rankUscita": 23,
-    "rankVoto": 12
+    "rankUscita": 22,
+    "rankVoto": 13
   },
   {
     "title": "Le avventure di Ichabod e Mr. Toad",
@@ -647,53 +669,6 @@
       "2026-11-01": 52
     },
     "rankUscita": 15,
-    "rankVoto": 13
-  },
-  {
-    "title": "Dracula di Bram Stoker",
-    "poster": "https://image.tmdb.org/t/p/w185/4F3t9sAdpmJ8adyForeCcj5G8pX.jpg",
-    "rating": 6.9,
-    "ratings": {
-      "letterboxd": 7.5,
-      "imdb": 7.4,
-      "metacritic": 5.7,
-      "mubi": 7
-    },
-    "releaseDate": "1993-01-21",
-    "showtimes": [
-      "11:00",
-      "22:00"
-    ],
-    "showtimesDate": "2026-10-30",
-    "days": {
-      "2026-10-30": [
-        "11:00",
-        "22:00"
-      ]
-    },
-    "shows": {
-      "2026-10-30": [
-        {
-          "time": "11:00",
-          "tags": [
-            "VO"
-          ]
-        },
-        {
-          "time": "22:00",
-          "tags": [
-            "VO"
-          ]
-        }
-      ]
-    },
-    "room": null,
-    "vo": true,
-    "url": "https://www.liveticket.it/opera.aspx?Id=709507",
-    "smart": {
-      "2026-10-30": 52
-    },
-    "rankUscita": 19,
     "rankVoto": 14
   },
   {
@@ -730,7 +705,7 @@
     "smart": {
       "2026-11-02": 51
     },
-    "rankUscita": 20,
+    "rankUscita": 19,
     "rankVoto": 15
   },
   {
@@ -753,6 +728,11 @@
       "2026-11-05": [
         "11:00",
         "16:00"
+      ],
+      "2026-11-06": [
+        "00:30",
+        "16:15",
+        "21:30"
       ]
     },
     "shows": {
@@ -769,13 +749,34 @@
             "VO"
           ]
         }
+      ],
+      "2026-11-06": [
+        {
+          "time": "00:30",
+          "tags": [
+            "VO"
+          ]
+        },
+        {
+          "time": "16:15",
+          "tags": [
+            "VO"
+          ]
+        },
+        {
+          "time": "21:30",
+          "tags": [
+            "VO"
+          ]
+        }
       ]
     },
     "room": null,
     "vo": true,
     "url": "https://www.liveticket.it/opera.aspx?Id=709667",
     "smart": {
-      "2026-11-05": 77
+      "2026-11-05": 77,
+      "2026-11-06": 77
     },
     "rankUscita": 1,
     "rankVoto": 16
@@ -925,7 +926,7 @@
     "vo": false,
     "url": "https://www.liveticket.it/opera.aspx?Id=709718",
     "smart": {
-      "2026-11-03": 75
+      "2026-11-03": 74
     },
     "rankUscita": 2,
     "rankVoto": 20
@@ -942,13 +943,10 @@
     },
     "releaseDate": "2026-10-26",
     "showtimes": [
-      "13:30"
+      "15:00"
     ],
-    "showtimesDate": "2026-10-30",
+    "showtimesDate": "2026-11-01",
     "days": {
-      "2026-10-30": [
-        "13:30"
-      ],
       "2026-11-01": [
         "15:00"
       ],
@@ -957,14 +955,6 @@
       ]
     },
     "shows": {
-      "2026-10-30": [
-        {
-          "time": "13:30",
-          "tags": [
-            "VO"
-          ]
-        }
-      ],
       "2026-11-01": [
         {
           "time": "15:00",
@@ -986,9 +976,8 @@
     "vo": true,
     "url": "https://www.liveticket.it/opera.aspx?Id=709509",
     "smart": {
-      "2026-10-30": 61,
-      "2026-11-01": 75,
-      "2026-11-04": 75
+      "2026-11-01": 74,
+      "2026-11-04": 74
     },
     "rankUscita": 3,
     "rankVoto": 21
@@ -1007,24 +996,13 @@
     "showtimes": [
       "00:30"
     ],
-    "showtimesDate": "2026-10-31",
+    "showtimesDate": "2026-11-02",
     "days": {
-      "2026-10-31": [
-        "00:30"
-      ],
       "2026-11-02": [
         "00:30"
       ]
     },
     "shows": {
-      "2026-10-31": [
-        {
-          "time": "00:30",
-          "tags": [
-            "VO"
-          ]
-        }
-      ],
       "2026-11-02": [
         {
           "time": "00:30",
@@ -1038,7 +1016,6 @@
     "vo": true,
     "url": "https://www.liveticket.it/opera.aspx?Id=709524",
     "smart": {
-      "2026-10-31": 50,
       "2026-11-02": 50
     },
     "rankUscita": 8,
