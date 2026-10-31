@@ -505,7 +505,6 @@
     },
     "releaseDate": "2026-10-28",
     "showtimes": [
-      "10:30",
       "15:00",
       "17:20",
       "18:50"
@@ -513,7 +512,6 @@
     "showtimesDate": "2026-10-31",
     "days": {
       "2026-10-31": [
-        "10:30",
         "15:00",
         "17:20",
         "18:50"
@@ -539,10 +537,6 @@
     },
     "shows": {
       "2026-10-31": [
-        {
-          "time": "10:30",
-          "tags": []
-        },
         {
           "time": "15:00",
           "tags": []
@@ -609,7 +603,7 @@
     "vo": false,
     "url": "https://ucicinemas.it/film/shaun-vita-da-pecora-operazione-zucca/",
     "smart": {
-      "2026-10-31": 74,
+      "2026-10-31": 70,
       "2026-11-01": 68,
       "2026-11-02": 66,
       "2026-11-03": 65,
@@ -992,7 +986,6 @@
     "releaseDate": "2026-10-22",
     "showtimes": [
       "00:40",
-      "10:20",
       "17:55",
       "22:00"
     ],
@@ -1000,7 +993,6 @@
     "days": {
       "2026-10-31": [
         "00:40",
-        "10:20",
         "17:55",
         "22:00"
       ],
@@ -1030,10 +1022,6 @@
       "2026-10-31": [
         {
           "time": "00:40",
-          "tags": []
-        },
-        {
-          "time": "10:20",
           "tags": []
         },
         {
@@ -1106,11 +1094,11 @@
         }
       ]
     },
-    "room": "Sala 3",
+    "room": "Sala 11",
     "vo": false,
     "url": "https://ucicinemas.it/film/clayface/",
     "smart": {
-      "2026-10-31": 62,
+      "2026-10-31": 58,
       "2026-11-01": 60,
       "2026-11-02": 54,
       "2026-11-03": 58,
@@ -1201,7 +1189,7 @@
     "poster": "https://image.tmdb.org/t/p/w185/eDfWOV5oad5wbI8AdzsMhnq7Zbd.jpg",
     "rating": 6.7,
     "ratings": {
-      "letterboxd": null,
+      "letterboxd": 6.6,
       "imdb": 6.7,
       "metacritic": null,
       "mubi": null
