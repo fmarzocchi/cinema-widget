@@ -260,12 +260,61 @@
     "rankVoto": 5
   },
   {
+    "title": "Un tranquillo funerale di famiglia",
+    "poster": "https://image.tmdb.org/t/p/w185/iXtZ4Y28GTw1BJFHgcmHrICoyL1.jpg",
+    "rating": 6.6,
+    "ratings": {
+      "letterboxd": null,
+      "imdb": 6.6,
+      "metacritic": null,
+      "mubi": null
+    },
+    "releaseDate": "2026-10-29",
+    "showtimes": [
+      "16:45",
+      "18:45",
+      "21:20"
+    ],
+    "showtimesDate": "2026-11-01",
+    "days": {
+      "2026-11-01": [
+        "16:45",
+        "18:45",
+        "21:20"
+      ]
+    },
+    "shows": {
+      "2026-11-01": [
+        {
+          "time": "16:45",
+          "tags": []
+        },
+        {
+          "time": "18:45",
+          "tags": []
+        },
+        {
+          "time": "21:20",
+          "tags": []
+        }
+      ]
+    },
+    "room": "Sala 2",
+    "vo": false,
+    "url": "https://roma.andromeda.18tickets.it/film/86054",
+    "smart": {
+      "2026-11-01": 74
+    },
+    "rankUscita": 1,
+    "rankVoto": 6
+  },
+  {
     "title": "Dio ride",
     "poster": "https://image.tmdb.org/t/p/w185/p5cuENoUviYoK6IBHg2FS4oTRGD.jpg",
-    "rating": 6.3,
+    "rating": 6.4,
     "ratings": {
       "letterboxd": 6.5,
-      "imdb": 6,
+      "imdb": 6.2,
       "metacritic": null,
       "mubi": null
     },
@@ -303,10 +352,10 @@
     "vo": false,
     "url": "https://roma.andromeda.18tickets.it/film/88991",
     "smart": {
-      "2026-11-01": 70
+      "2026-11-01": 72
     },
-    "rankUscita": 1,
-    "rankVoto": 6
+    "rankUscita": 2,
+    "rankVoto": 7
   },
   {
     "title": "Taddeo l’esploratore e la lampada magica",
@@ -343,7 +392,7 @@
       "2026-11-01": 44
     },
     "rankUscita": 8,
-    "rankVoto": 7
+    "rankVoto": 8
   },
   {
     "title": "Frankie e le creature dimenticate",
@@ -386,7 +435,7 @@
       "2026-11-01": 45
     },
     "rankUscita": 11,
-    "rankVoto": 8
+    "rankVoto": 9
   },
   {
     "title": "Fast & Furious – 25Th Anniversary",
@@ -423,7 +472,7 @@
       "2026-11-01": 14
     },
     "rankUscita": 13,
-    "rankVoto": 9
+    "rankVoto": 10
   },
   {
     "title": "Ice Cream Man",
@@ -459,8 +508,8 @@
     "smart": {
       "2026-11-01": 35
     },
-    "rankUscita": 2,
-    "rankVoto": 10
+    "rankUscita": 3,
+    "rankVoto": 11
   },
   {
     "title": "Il gatto col cappello",
@@ -509,55 +558,6 @@
       "2026-11-01": 79
     },
     "rankUscita": 0,
-    "rankVoto": 11
-  },
-  {
-    "title": "Un tranquillo funerale di famiglia",
-    "poster": "https://image.tmdb.org/t/p/w185/iXtZ4Y28GTw1BJFHgcmHrICoyL1.jpg",
-    "rating": null,
-    "ratings": {
-      "letterboxd": null,
-      "imdb": null,
-      "metacritic": null,
-      "mubi": null
-    },
-    "releaseDate": "2026-10-29",
-    "showtimes": [
-      "16:45",
-      "18:45",
-      "21:20"
-    ],
-    "showtimesDate": "2026-11-01",
-    "days": {
-      "2026-11-01": [
-        "16:45",
-        "18:45",
-        "21:20"
-      ]
-    },
-    "shows": {
-      "2026-11-01": [
-        {
-          "time": "16:45",
-          "tags": []
-        },
-        {
-          "time": "18:45",
-          "tags": []
-        },
-        {
-          "time": "21:20",
-          "tags": []
-        }
-      ]
-    },
-    "room": "Sala 2",
-    "vo": false,
-    "url": "https://roma.andromeda.18tickets.it/film/86054",
-    "smart": {
-      "2026-11-01": 76
-    },
-    "rankUscita": 3,
     "rankVoto": 12
   },
   {
