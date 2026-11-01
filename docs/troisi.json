@@ -35,7 +35,7 @@
     "smart": {
       "2026-11-07": 57
     },
-    "rankUscita": 22,
+    "rankUscita": 23,
     "rankVoto": 0
   },
   {
@@ -233,7 +233,7 @@
     "vo": false,
     "url": "https://www.liveticket.it/opera.aspx?Id=704990",
     "smart": {
-      "2026-11-01": 65
+      "2026-11-01": 51
     },
     "rankUscita": 11,
     "rankVoto": 4
@@ -287,12 +287,14 @@
     },
     "releaseDate": "2026-10-16",
     "showtimes": [
-      "13:00"
+      "13:00",
+      "19:16"
     ],
     "showtimesDate": "2026-11-01",
     "days": {
       "2026-11-01": [
-        "13:00"
+        "13:00",
+        "19:16"
       ],
       "2026-11-02": [
         "21:45"
@@ -308,6 +310,12 @@
       "2026-11-01": [
         {
           "time": "13:00",
+          "tags": [
+            "VO"
+          ]
+        },
+        {
+          "time": "19:16",
           "tags": [
             "VO"
           ]
@@ -382,7 +390,7 @@
     "vo": false,
     "url": "https://www.liveticket.it/opera.aspx?Id=704988",
     "smart": {
-      "2026-11-01": 63
+      "2026-11-01": 49
     },
     "rankUscita": 12,
     "rankVoto": 7
@@ -423,7 +431,7 @@
     "smart": {
       "2026-11-06": 44
     },
-    "rankUscita": 21,
+    "rankUscita": 22,
     "rankVoto": 8
   },
   {
@@ -497,9 +505,9 @@
     "vo": false,
     "url": "https://www.liveticket.it/opera.aspx?Id=704999",
     "smart": {
-      "2026-11-01": 56
+      "2026-11-01": 41
     },
-    "rankUscita": 20,
+    "rankUscita": 21,
     "rankVoto": 10
   },
   {
@@ -558,7 +566,7 @@
     "vo": true,
     "url": "https://www.liveticket.it/opera.aspx?Id=709498",
     "smart": {
-      "2026-11-01": 74,
+      "2026-11-01": 59,
       "2026-11-02": 74,
       "2026-11-03": 74
     },
@@ -599,9 +607,9 @@
     "vo": true,
     "url": "https://www.liveticket.it/opera.aspx?Id=704613",
     "smart": {
-      "2026-11-01": 53
+      "2026-11-01": 39
     },
-    "rankUscita": 19,
+    "rankUscita": 20,
     "rankVoto": 12
   },
   {
@@ -636,10 +644,49 @@
     "vo": false,
     "url": "https://www.liveticket.it/opera.aspx?Id=696623",
     "smart": {
-      "2026-11-01": 52
+      "2026-11-01": 38
     },
     "rankUscita": 14,
     "rankVoto": 13
+  },
+  {
+    "title": "Dracula di Bram Stoker",
+    "poster": "https://image.tmdb.org/t/p/w185/4F3t9sAdpmJ8adyForeCcj5G8pX.jpg",
+    "rating": 6.9,
+    "ratings": {
+      "letterboxd": 7.5,
+      "imdb": 7.4,
+      "metacritic": 5.7,
+      "mubi": 7
+    },
+    "releaseDate": "1993-01-21",
+    "showtimes": [
+      "16:45"
+    ],
+    "showtimesDate": "2026-11-01",
+    "days": {
+      "2026-11-01": [
+        "16:45"
+      ]
+    },
+    "shows": {
+      "2026-11-01": [
+        {
+          "time": "16:45",
+          "tags": [
+            "VO"
+          ]
+        }
+      ]
+    },
+    "room": null,
+    "vo": true,
+    "url": "https://www.liveticket.it/opera.aspx?Id=709507",
+    "smart": {
+      "2026-11-01": 38
+    },
+    "rankUscita": 18,
+    "rankVoto": 14
   },
   {
     "title": "La stazione",
@@ -675,8 +722,8 @@
     "smart": {
       "2026-11-02": 51
     },
-    "rankUscita": 18,
-    "rankVoto": 14
+    "rankUscita": 19,
+    "rankVoto": 15
   },
   {
     "title": "Hope",
@@ -768,7 +815,7 @@
       "2026-11-07": 77
     },
     "rankUscita": 1,
-    "rankVoto": 15
+    "rankVoto": 16
   },
   {
     "title": "Anna",
@@ -805,7 +852,7 @@
       "2026-11-04": 46
     },
     "rankUscita": 7,
-    "rankVoto": 16
+    "rankVoto": 17
   },
   {
     "title": "Thirst",
@@ -839,10 +886,10 @@
     "vo": false,
     "url": "https://www.liveticket.it/opera.aspx?Id=705002",
     "smart": {
-      "2026-11-01": 44
+      "2026-11-01": 30
     },
     "rankUscita": 13,
-    "rankVoto": 17
+    "rankVoto": 18
   },
   {
     "title": "The Neon Demon",
@@ -881,7 +928,7 @@
       "2026-11-07": 27
     },
     "rankUscita": 10,
-    "rankVoto": 18
+    "rankVoto": 19
   },
   {
     "title": "Carla Lonzi - Dentro e",
@@ -918,7 +965,7 @@
       "2026-11-03": 73
     },
     "rankUscita": 2,
-    "rankVoto": 19
+    "rankVoto": 20
   },
   {
     "title": "Carla Lonzi - Dentro e fuori",
@@ -965,11 +1012,11 @@
     "vo": true,
     "url": "https://www.liveticket.it/opera.aspx?Id=709509",
     "smart": {
-      "2026-11-01": 73,
+      "2026-11-01": 59,
       "2026-11-04": 73
     },
     "rankUscita": 3,
-    "rankVoto": 20
+    "rankVoto": 21
   },
   {
     "title": "Sisters",
@@ -1008,7 +1055,7 @@
       "2026-11-02": 50
     },
     "rankUscita": 8,
-    "rankVoto": 21
+    "rankVoto": 22
   },
   {
     "title": "Il canto di Alina",
@@ -1045,7 +1092,7 @@
       "2026-11-05": 36
     },
     "rankUscita": 9,
-    "rankVoto": 22
+    "rankVoto": 23
   },
   {
     "title": "Partner + Agonia 26",
@@ -1081,8 +1128,8 @@
     "smart": {
       "2026-11-03": 64
     },
-    "rankUscita": 23,
-    "rankVoto": 23
+    "rankUscita": 24,
+    "rankVoto": 24
   },
   {
     "title": "Wildwood - Doppiato In Italiano",
@@ -1128,7 +1175,7 @@
       "2026-11-02": 64,
       "2026-11-04": 64
     },
-    "rankUscita": 24,
-    "rankVoto": 24
+    "rankUscita": 25,
+    "rankVoto": 25
   }
 ]
