@@ -31,9 +31,9 @@
     "vo": false,
     "url": "https://roma.andromeda.18tickets.it/film/86023",
     "smart": {
-      "2026-11-01": 74
+      "2026-11-01": 73
     },
-    "rankUscita": 6,
+    "rankUscita": 5,
     "rankVoto": 0
   },
   {
@@ -74,9 +74,9 @@
     "vo": false,
     "url": "https://roma.andromeda.18tickets.it/film/86813",
     "smart": {
-      "2026-11-01": 74
+      "2026-11-01": 73
     },
-    "rankUscita": 5,
+    "rankUscita": 4,
     "rankVoto": 1
   },
   {
@@ -91,27 +91,19 @@
     },
     "releaseDate": "2026-10-22",
     "showtimes": [
+      "16:20",
+      "18:50",
       "21:15"
     ],
-    "showtimesDate": "2026-10-31",
+    "showtimesDate": "2026-11-01",
     "days": {
-      "2026-10-31": [
-        "21:15"
-      ],
       "2026-11-01": [
         "16:20",
-        "18:50"
+        "18:50",
+        "21:15"
       ]
     },
     "shows": {
-      "2026-10-31": [
-        {
-          "time": "21:15",
-          "tags": [
-            "VO"
-          ]
-        }
-      ],
       "2026-11-01": [
         {
           "time": "16:20",
@@ -120,17 +112,22 @@
         {
           "time": "18:50",
           "tags": []
+        },
+        {
+          "time": "21:15",
+          "tags": [
+            "VO"
+          ]
         }
       ]
     },
-    "room": null,
+    "room": "Sala 3",
     "vo": false,
-    "url": "https://roma.andromeda.18tickets.it/film/87374",
+    "url": "https://roma.andromeda.18tickets.it/film/86021",
     "smart": {
-      "2026-10-31": 77,
-      "2026-11-01": 67
+      "2026-11-01": 76
     },
-    "rankUscita": 7,
+    "rankUscita": 6,
     "rankVoto": 2
   },
   {
@@ -145,29 +142,35 @@
     },
     "releaseDate": "2026-10-08",
     "showtimes": [
+      "19:15",
       "21:15"
     ],
-    "showtimesDate": "2026-10-31",
+    "showtimesDate": "2026-11-01",
     "days": {
-      "2026-10-31": [
+      "2026-11-01": [
+        "19:15",
         "21:15"
       ]
     },
     "shows": {
-      "2026-10-31": [
+      "2026-11-01": [
+        {
+          "time": "19:15",
+          "tags": []
+        },
         {
           "time": "21:15",
           "tags": []
         }
       ]
     },
-    "room": null,
+    "room": "Sala 8",
     "vo": false,
     "url": "https://roma.andromeda.18tickets.it/film/80411",
     "smart": {
-      "2026-10-31": 69
+      "2026-11-01": 59
     },
-    "rankUscita": 13,
+    "rankUscita": 12,
     "rankVoto": 3
   },
   {
@@ -202,9 +205,9 @@
     "vo": false,
     "url": "https://roma.andromeda.18tickets.it/film/87572",
     "smart": {
-      "2026-11-01": 53
+      "2026-11-01": 52
     },
-    "rankUscita": 8,
+    "rankUscita": 7,
     "rankVoto": 4
   },
   {
@@ -219,67 +222,42 @@
     },
     "releaseDate": "2026-10-15",
     "showtimes": [
+      "17:40",
+      "19:30",
       "21:20"
     ],
-    "showtimesDate": "2026-10-31",
+    "showtimesDate": "2026-11-01",
     "days": {
-      "2026-10-31": [
+      "2026-11-01": [
+        "17:40",
+        "19:30",
         "21:20"
       ]
     },
     "shows": {
-      "2026-10-31": [
+      "2026-11-01": [
+        {
+          "time": "17:40",
+          "tags": []
+        },
+        {
+          "time": "19:30",
+          "tags": []
+        },
         {
           "time": "21:20",
           "tags": []
         }
       ]
     },
-    "room": null,
+    "room": "Sala 4",
     "vo": false,
     "url": "https://roma.andromeda.18tickets.it/film/82094",
     "smart": {
-      "2026-10-31": 66
+      "2026-11-01": 66
     },
-    "rankUscita": 11,
+    "rankUscita": 10,
     "rankVoto": 5
-  },
-  {
-    "title": "Hope",
-    "poster": "https://image.tmdb.org/t/p/w185/fbFxZSSw2kQoAkyXosVoOyBX0Z4.jpg",
-    "rating": 6.6,
-    "ratings": {
-      "letterboxd": 6.4,
-      "imdb": 6.6,
-      "metacritic": 6.7,
-      "mubi": 6.8
-    },
-    "releaseDate": "2026-11-05",
-    "showtimes": [
-      "21:00"
-    ],
-    "showtimesDate": "2026-10-31",
-    "days": {
-      "2026-10-31": [
-        "21:00"
-      ]
-    },
-    "shows": {
-      "2026-10-31": [
-        {
-          "time": "21:00",
-          "tags": []
-        }
-      ]
-    },
-    "room": null,
-    "vo": false,
-    "url": "https://roma.andromeda.18tickets.it/film/88925",
-    "smart": {
-      "2026-10-31": 77
-    },
-    "rankUscita": 0,
-    "rankVoto": 6
   },
   {
     "title": "Dio ride",
@@ -293,30 +271,42 @@
     },
     "releaseDate": "2026-10-29",
     "showtimes": [
+      "16:30",
+      "18:45",
       "21:15"
     ],
-    "showtimesDate": "2026-10-31",
+    "showtimesDate": "2026-11-01",
     "days": {
-      "2026-10-31": [
+      "2026-11-01": [
+        "16:30",
+        "18:45",
         "21:15"
       ]
     },
     "shows": {
-      "2026-10-31": [
+      "2026-11-01": [
+        {
+          "time": "16:30",
+          "tags": []
+        },
+        {
+          "time": "18:45",
+          "tags": []
+        },
         {
           "time": "21:15",
           "tags": []
         }
       ]
     },
-    "room": null,
+    "room": "Sala 1",
     "vo": false,
     "url": "https://roma.andromeda.18tickets.it/film/88991",
     "smart": {
-      "2026-10-31": 71
+      "2026-11-01": 70
     },
-    "rankUscita": 2,
-    "rankVoto": 7
+    "rankUscita": 1,
+    "rankVoto": 6
   },
   {
     "title": "Taddeo l’esploratore e la lampada magica",
@@ -352,8 +342,8 @@
     "smart": {
       "2026-11-01": 44
     },
-    "rankUscita": 9,
-    "rankVoto": 8
+    "rankUscita": 8,
+    "rankVoto": 7
   },
   {
     "title": "Frankie e le creature dimenticate",
@@ -393,10 +383,10 @@
     "vo": false,
     "url": "https://roma.andromeda.18tickets.it/film/85428",
     "smart": {
-      "2026-11-01": 46
+      "2026-11-01": 45
     },
-    "rankUscita": 12,
-    "rankVoto": 9
+    "rankUscita": 11,
+    "rankVoto": 8
   },
   {
     "title": "Fast & Furious – 25Th Anniversary",
@@ -412,14 +402,14 @@
     "showtimes": [
       "21:30"
     ],
-    "showtimesDate": "2026-10-31",
+    "showtimesDate": "2026-11-01",
     "days": {
-      "2026-10-31": [
+      "2026-11-01": [
         "21:30"
       ]
     },
     "shows": {
-      "2026-10-31": [
+      "2026-11-01": [
         {
           "time": "21:30",
           "tags": []
@@ -430,10 +420,10 @@
     "vo": false,
     "url": "https://roma.andromeda.18tickets.it/film/86582",
     "smart": {
-      "2026-10-31": 33
+      "2026-11-01": 14
     },
-    "rankUscita": 14,
-    "rankVoto": 10
+    "rankUscita": 13,
+    "rankVoto": 9
   },
   {
     "title": "Ice Cream Man",
@@ -449,14 +439,14 @@
     "showtimes": [
       "21:30"
     ],
-    "showtimesDate": "2026-10-31",
+    "showtimesDate": "2026-11-01",
     "days": {
-      "2026-10-31": [
+      "2026-11-01": [
         "21:30"
       ]
     },
     "shows": {
-      "2026-10-31": [
+      "2026-11-01": [
         {
           "time": "21:30",
           "tags": []
@@ -467,10 +457,10 @@
     "vo": false,
     "url": "https://roma.andromeda.18tickets.it/film/86648",
     "smart": {
-      "2026-10-31": 55
+      "2026-11-01": 35
     },
-    "rankUscita": 3,
-    "rankVoto": 11
+    "rankUscita": 2,
+    "rankVoto": 10
   },
   {
     "title": "Il gatto col cappello",
@@ -518,8 +508,8 @@
     "smart": {
       "2026-11-01": 79
     },
-    "rankUscita": 1,
-    "rankVoto": 12
+    "rankUscita": 0,
+    "rankVoto": 11
   },
   {
     "title": "Un tranquillo funerale di famiglia",
@@ -533,30 +523,42 @@
     },
     "releaseDate": "2026-10-29",
     "showtimes": [
+      "16:45",
+      "18:45",
       "21:20"
     ],
-    "showtimesDate": "2026-10-31",
+    "showtimesDate": "2026-11-01",
     "days": {
-      "2026-10-31": [
+      "2026-11-01": [
+        "16:45",
+        "18:45",
         "21:20"
       ]
     },
     "shows": {
-      "2026-10-31": [
+      "2026-11-01": [
+        {
+          "time": "16:45",
+          "tags": []
+        },
+        {
+          "time": "18:45",
+          "tags": []
+        },
         {
           "time": "21:20",
           "tags": []
         }
       ]
     },
-    "room": null,
+    "room": "Sala 2",
     "vo": false,
     "url": "https://roma.andromeda.18tickets.it/film/86054",
     "smart": {
-      "2026-10-31": 77
+      "2026-11-01": 76
     },
-    "rankUscita": 4,
-    "rankVoto": 13
+    "rankUscita": 3,
+    "rankVoto": 12
   },
   {
     "title": "Se ami qualcuno dillo",
@@ -592,7 +594,7 @@
     "smart": {
       "2026-11-01": 48
     },
-    "rankUscita": 10,
-    "rankVoto": 14
+    "rankUscita": 9,
+    "rankVoto": 13
   }
 ]
