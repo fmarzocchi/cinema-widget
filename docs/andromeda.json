@@ -260,61 +260,12 @@
     "rankVoto": 5
   },
   {
-    "title": "Un tranquillo funerale di famiglia",
-    "poster": "https://image.tmdb.org/t/p/w185/iXtZ4Y28GTw1BJFHgcmHrICoyL1.jpg",
-    "rating": 6.6,
-    "ratings": {
-      "letterboxd": null,
-      "imdb": 6.6,
-      "metacritic": null,
-      "mubi": null
-    },
-    "releaseDate": "2026-10-29",
-    "showtimes": [
-      "16:45",
-      "18:45",
-      "21:20"
-    ],
-    "showtimesDate": "2026-11-02",
-    "days": {
-      "2026-11-02": [
-        "16:45",
-        "18:45",
-        "21:20"
-      ]
-    },
-    "shows": {
-      "2026-11-02": [
-        {
-          "time": "16:45",
-          "tags": []
-        },
-        {
-          "time": "18:45",
-          "tags": []
-        },
-        {
-          "time": "21:20",
-          "tags": []
-        }
-      ]
-    },
-    "room": "Sala 2",
-    "vo": false,
-    "url": "https://roma.andromeda.18tickets.it/film/86054",
-    "smart": {
-      "2026-11-02": 73
-    },
-    "rankUscita": 0,
-    "rankVoto": 6
-  },
-  {
     "title": "Dio ride",
     "poster": "https://image.tmdb.org/t/p/w185/p5cuENoUviYoK6IBHg2FS4oTRGD.jpg",
-    "rating": 6.4,
+    "rating": 6.5,
     "ratings": {
       "letterboxd": 6.5,
-      "imdb": 6.2,
+      "imdb": 6.5,
       "metacritic": null,
       "mubi": null
     },
@@ -352,7 +303,56 @@
     "vo": false,
     "url": "https://roma.andromeda.18tickets.it/film/88991",
     "smart": {
-      "2026-11-02": 71
+      "2026-11-02": 72
+    },
+    "rankUscita": 0,
+    "rankVoto": 6
+  },
+  {
+    "title": "Un tranquillo funerale di famiglia",
+    "poster": "https://image.tmdb.org/t/p/w185/iXtZ4Y28GTw1BJFHgcmHrICoyL1.jpg",
+    "rating": 6.3,
+    "ratings": {
+      "letterboxd": null,
+      "imdb": 6.3,
+      "metacritic": null,
+      "mubi": null
+    },
+    "releaseDate": "2026-10-29",
+    "showtimes": [
+      "16:45",
+      "18:45",
+      "21:20"
+    ],
+    "showtimesDate": "2026-11-02",
+    "days": {
+      "2026-11-02": [
+        "16:45",
+        "18:45",
+        "21:20"
+      ]
+    },
+    "shows": {
+      "2026-11-02": [
+        {
+          "time": "16:45",
+          "tags": []
+        },
+        {
+          "time": "18:45",
+          "tags": []
+        },
+        {
+          "time": "21:20",
+          "tags": []
+        }
+      ]
+    },
+    "room": "Sala 2",
+    "vo": false,
+    "url": "https://roma.andromeda.18tickets.it/film/86054",
+    "smart": {
+      "2026-11-02": 70
     },
     "rankUscita": 1,
     "rankVoto": 7
