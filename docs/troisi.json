@@ -20,6 +20,9 @@
       ],
       "2026-11-08": [
         "16:30"
+      ],
+      "2026-11-09": [
+        "14:00"
       ]
     },
     "shows": {
@@ -38,6 +41,14 @@
             "VO"
           ]
         }
+      ],
+      "2026-11-09": [
+        {
+          "time": "14:00",
+          "tags": [
+            "VO"
+          ]
+        }
       ]
     },
     "room": null,
@@ -45,9 +56,10 @@
     "url": "https://www.liveticket.it/opera.aspx?Id=709700",
     "smart": {
       "2026-11-07": 57,
-      "2026-11-08": 57
+      "2026-11-08": 57,
+      "2026-11-09": 52
     },
-    "rankUscita": 15,
+    "rankUscita": 13,
     "rankVoto": 0
   },
   {
@@ -121,6 +133,10 @@
       "2026-11-08": [
         "14:00",
         "19:00"
+      ],
+      "2026-11-09": [
+        "16:15",
+        "21:30"
       ]
     },
     "shows": {
@@ -179,6 +195,20 @@
             "VO"
           ]
         }
+      ],
+      "2026-11-09": [
+        {
+          "time": "16:15",
+          "tags": [
+            "VO"
+          ]
+        },
+        {
+          "time": "21:30",
+          "tags": [
+            "VO"
+          ]
+        }
       ]
     },
     "room": null,
@@ -188,49 +218,11 @@
       "2026-11-05": 95,
       "2026-11-06": 86,
       "2026-11-07": 95,
-      "2026-11-08": 95
+      "2026-11-08": 95,
+      "2026-11-09": 86
     },
     "rankUscita": 0,
     "rankVoto": 2
-  },
-  {
-    "title": "Matrix",
-    "poster": "https://image.tmdb.org/t/p/w185/3vmTUXJHlKkvenf8G35dr5HlTEh.jpg",
-    "rating": 8.1,
-    "ratings": {
-      "letterboxd": 8.4,
-      "imdb": 8.7,
-      "metacritic": 7.3,
-      "mubi": 8
-    },
-    "releaseDate": "1999-05-07",
-    "showtimes": [
-      "11:00"
-    ],
-    "showtimesDate": "2026-11-02",
-    "days": {
-      "2026-11-02": [
-        "11:00"
-      ]
-    },
-    "shows": {
-      "2026-11-02": [
-        {
-          "time": "11:00",
-          "tags": [
-            "VO"
-          ]
-        }
-      ]
-    },
-    "room": null,
-    "vo": true,
-    "url": "https://www.liveticket.it/opera.aspx?Id=709504",
-    "smart": {
-      "2026-11-02": 67
-    },
-    "rankUscita": 11,
-    "rankVoto": 3
   },
   {
     "title": "Gatto Nero Gatto Bianco (Black Cat, Whit",
@@ -266,8 +258,8 @@
     "smart": {
       "2026-11-07": 51
     },
-    "rankUscita": 12,
-    "rankVoto": 4
+    "rankUscita": 11,
+    "rankVoto": 3
   },
   {
     "title": "Fatherland",
@@ -281,13 +273,10 @@
     },
     "releaseDate": "2026-10-16",
     "showtimes": [
-      "21:45"
+      "14:30"
     ],
-    "showtimesDate": "2026-11-02",
+    "showtimesDate": "2026-11-03",
     "days": {
-      "2026-11-02": [
-        "21:45"
-      ],
       "2026-11-03": [
         "14:30"
       ],
@@ -296,14 +285,6 @@
       ]
     },
     "shows": {
-      "2026-11-02": [
-        {
-          "time": "21:45",
-          "tags": [
-            "VO"
-          ]
-        }
-      ],
       "2026-11-03": [
         {
           "time": "14:30",
@@ -325,12 +306,11 @@
     "vo": true,
     "url": "https://www.liveticket.it/opera.aspx?Id=704008",
     "smart": {
-      "2026-11-02": 79,
       "2026-11-03": 79,
       "2026-11-04": 79
     },
     "rankUscita": 6,
-    "rankVoto": 5
+    "rankVoto": 4
   },
   {
     "title": "I Diavoli (the Devils)",
@@ -368,8 +348,8 @@
     "smart": {
       "2026-11-06": 44
     },
-    "rankUscita": 14,
-    "rankVoto": 6
+    "rankUscita": 12,
+    "rankVoto": 5
   },
   {
     "title": "The Dreamers - I sognatori",
@@ -385,14 +365,14 @@
     "showtimes": [
       "23:59"
     ],
-    "showtimesDate": "2026-11-02",
+    "showtimesDate": "2026-11-09",
     "days": {
-      "2026-11-02": [
+      "2026-11-09": [
         "23:59"
       ]
     },
     "shows": {
-      "2026-11-02": [
+      "2026-11-09": [
         {
           "time": "23:59",
           "tags": [
@@ -405,10 +385,10 @@
     "vo": true,
     "url": "https://www.liveticket.it/opera.aspx?Id=638825",
     "smart": {
-      "2026-11-02": 56
+      "2026-11-09": 36
     },
     "rankUscita": 10,
-    "rankVoto": 7
+    "rankVoto": 6
   },
   {
     "title": "Urchin",
@@ -422,26 +402,15 @@
     },
     "releaseDate": "2026-10-22",
     "showtimes": [
-      "14:30"
+      "16:30"
     ],
-    "showtimesDate": "2026-11-02",
+    "showtimesDate": "2026-11-03",
     "days": {
-      "2026-11-02": [
-        "14:30"
-      ],
       "2026-11-03": [
         "16:30"
       ]
     },
     "shows": {
-      "2026-11-02": [
-        {
-          "time": "14:30",
-          "tags": [
-            "VO"
-          ]
-        }
-      ],
       "2026-11-03": [
         {
           "time": "16:30",
@@ -455,48 +424,10 @@
     "vo": true,
     "url": "https://www.liveticket.it/opera.aspx?Id=709498",
     "smart": {
-      "2026-11-02": 73,
-      "2026-11-03": 73
+      "2026-11-03": 72
     },
     "rankUscita": 5,
-    "rankVoto": 8
-  },
-  {
-    "title": "La stazione",
-    "poster": "https://image.tmdb.org/t/p/w185/5IzdhIK4mAXWCjsaXIb1QnnTsij.jpg",
-    "rating": 6.8,
-    "ratings": {
-      "letterboxd": 7,
-      "imdb": 6.9,
-      "metacritic": null,
-      "mubi": 6.5
-    },
-    "releaseDate": "1990-09-27",
-    "showtimes": [
-      "19:00"
-    ],
-    "showtimesDate": "2026-11-02",
-    "days": {
-      "2026-11-02": [
-        "19:00"
-      ]
-    },
-    "shows": {
-      "2026-11-02": [
-        {
-          "time": "19:00",
-          "tags": []
-        }
-      ]
-    },
-    "room": null,
-    "vo": false,
-    "url": "https://www.liveticket.it/opera.aspx?Id=706676",
-    "smart": {
-      "2026-11-02": 51
-    },
-    "rankUscita": 13,
-    "rankVoto": 9
+    "rankVoto": 7
   },
   {
     "title": "Hope",
@@ -530,6 +461,11 @@
       ],
       "2026-11-08": [
         "21:15"
+      ],
+      "2026-11-09": [
+        "00:30",
+        "11:00",
+        "18:30"
       ]
     },
     "shows": {
@@ -588,6 +524,26 @@
             "VO"
           ]
         }
+      ],
+      "2026-11-09": [
+        {
+          "time": "00:30",
+          "tags": [
+            "VO"
+          ]
+        },
+        {
+          "time": "11:00",
+          "tags": [
+            "VO"
+          ]
+        },
+        {
+          "time": "18:30",
+          "tags": [
+            "VO"
+          ]
+        }
       ]
     },
     "room": null,
@@ -597,10 +553,11 @@
       "2026-11-05": 77,
       "2026-11-06": 77,
       "2026-11-07": 77,
-      "2026-11-08": 62
+      "2026-11-08": 62,
+      "2026-11-09": 77
     },
     "rankUscita": 1,
-    "rankVoto": 10
+    "rankVoto": 8
   },
   {
     "title": "Anna",
@@ -637,7 +594,7 @@
       "2026-11-04": 46
     },
     "rankUscita": 7,
-    "rankVoto": 11
+    "rankVoto": 9
   },
   {
     "title": "The Neon Demon",
@@ -676,7 +633,7 @@
       "2026-11-07": 27
     },
     "rankUscita": 9,
-    "rankVoto": 12
+    "rankVoto": 10
   },
   {
     "title": "Carla Lonzi - Dentro e",
@@ -710,10 +667,10 @@
     "vo": false,
     "url": "https://www.liveticket.it/opera.aspx?Id=709718",
     "smart": {
-      "2026-11-03": 73
+      "2026-11-03": 72
     },
     "rankUscita": 2,
-    "rankVoto": 13
+    "rankVoto": 11
   },
   {
     "title": "Carla Lonzi - Dentro e fuori",
@@ -749,10 +706,10 @@
     "vo": true,
     "url": "https://www.liveticket.it/opera.aspx?Id=709509",
     "smart": {
-      "2026-11-04": 73
+      "2026-11-04": 72
     },
     "rankUscita": 3,
-    "rankVoto": 14
+    "rankVoto": 12
   },
   {
     "title": "Il canto di Alina",
@@ -789,7 +746,7 @@
       "2026-11-05": 36
     },
     "rankUscita": 8,
-    "rankVoto": 15
+    "rankVoto": 13
   },
   {
     "title": "Partner + Agonia 26",
@@ -825,8 +782,8 @@
     "smart": {
       "2026-11-03": 64
     },
-    "rankUscita": 16,
-    "rankVoto": 16
+    "rankUscita": 14,
+    "rankVoto": 14
   },
   {
     "title": "Wildwood - Doppiato In Italiano",
@@ -840,24 +797,15 @@
     },
     "releaseDate": null,
     "showtimes": [
-      "16:30"
+      "14:00"
     ],
-    "showtimesDate": "2026-11-02",
+    "showtimesDate": "2026-11-04",
     "days": {
-      "2026-11-02": [
-        "16:30"
-      ],
       "2026-11-04": [
         "14:00"
       ]
     },
     "shows": {
-      "2026-11-02": [
-        {
-          "time": "16:30",
-          "tags": []
-        }
-      ],
       "2026-11-04": [
         {
           "time": "14:00",
@@ -869,10 +817,9 @@
     "vo": false,
     "url": "https://www.liveticket.it/opera.aspx?Id=709501",
     "smart": {
-      "2026-11-02": 64,
       "2026-11-04": 64
     },
-    "rankUscita": 17,
-    "rankVoto": 17
+    "rankUscita": 15,
+    "rankVoto": 15
   }
 ]
