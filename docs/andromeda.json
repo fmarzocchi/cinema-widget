@@ -85,7 +85,7 @@
     "rating": 7.2,
     "ratings": {
       "letterboxd": 8,
-      "imdb": 7.3,
+      "imdb": 7.2,
       "metacritic": 7.1,
       "mubi": 6.4
     },
@@ -216,7 +216,7 @@
     "rating": 6.7,
     "ratings": {
       "letterboxd": 6.6,
-      "imdb": 6.7,
+      "imdb": 6.8,
       "metacritic": null,
       "mubi": null
     },
@@ -262,10 +262,10 @@
   {
     "title": "Dio ride",
     "poster": "https://image.tmdb.org/t/p/w185/p5cuENoUviYoK6IBHg2FS4oTRGD.jpg",
-    "rating": 6.5,
+    "rating": 6.6,
     "ratings": {
       "letterboxd": 6.5,
-      "imdb": 6.5,
+      "imdb": 6.7,
       "metacritic": null,
       "mubi": null
     },
@@ -303,7 +303,7 @@
     "vo": false,
     "url": "https://roma.andromeda.18tickets.it/film/88991",
     "smart": {
-      "2026-11-03": 71
+      "2026-11-03": 72
     },
     "rankUscita": 0,
     "rankVoto": 6
@@ -362,7 +362,7 @@
     "poster": "https://image.tmdb.org/t/p/w185/h4HmEpoNoFCuOkOzY0LIGEeQTuX.jpg",
     "rating": 6.1,
     "ratings": {
-      "letterboxd": 5.8,
+      "letterboxd": 5.7,
       "imdb": 6.4,
       "metacritic": null,
       "mubi": null

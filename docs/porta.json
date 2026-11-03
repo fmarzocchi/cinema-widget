@@ -273,7 +273,7 @@
     "rating": 7.6,
     "ratings": {
       "letterboxd": 7.8,
-      "imdb": 7.6,
+      "imdb": 7.5,
       "metacritic": 7.4,
       "mubi": 7.5
     },
@@ -425,7 +425,7 @@
     "rating": 7.2,
     "ratings": {
       "letterboxd": 8,
-      "imdb": 7.3,
+      "imdb": 7.2,
       "metacritic": 7.1,
       "mubi": 6.4
     },
@@ -547,6 +547,43 @@
     "rankVoto": 7
   },
   {
+    "title": "Hunger Games",
+    "poster": "https://image.tmdb.org/t/p/w185/azsm2nqX2eMJQ2eI6FjCIk17ncx.jpg",
+    "rating": 6.9,
+    "ratings": {
+      "letterboxd": 7.7,
+      "imdb": 7.2,
+      "metacritic": 6.8,
+      "mubi": 5.8
+    },
+    "releaseDate": "2012-05-01",
+    "showtimes": [
+      "20:30"
+    ],
+    "showtimesDate": "2026-11-09",
+    "days": {
+      "2026-11-09": [
+        "20:30"
+      ]
+    },
+    "shows": {
+      "2026-11-09": [
+        {
+          "time": "20:30",
+          "tags": []
+        }
+      ]
+    },
+    "room": "Sala 9",
+    "vo": false,
+    "url": "https://ucicinemas.it/film/hunger-games/",
+    "smart": {
+      "2026-11-09": 33
+    },
+    "rankUscita": 29,
+    "rankVoto": 8
+  },
+  {
     "title": "Clayface",
     "poster": "https://image.tmdb.org/t/p/w185/t6snh7pOxNjqs5rwP28TZmTQ0Ul.jpg",
     "rating": 6.8,
@@ -613,7 +650,7 @@
       "2026-11-04": 54
     },
     "rankUscita": 16,
-    "rankVoto": 8
+    "rankVoto": 9
   },
   {
     "title": "L'assurda storia della Gialappa's Band",
@@ -660,7 +697,7 @@
       "2026-11-04": 45
     },
     "rankUscita": 17,
-    "rankVoto": 9
+    "rankVoto": 10
   },
   {
     "title": "Je so’ pazzo",
@@ -668,7 +705,7 @@
     "rating": 6.7,
     "ratings": {
       "letterboxd": 6.6,
-      "imdb": 6.7,
+      "imdb": 6.8,
       "metacritic": null,
       "mubi": null
     },
@@ -729,7 +766,7 @@
       "2026-11-04": 48
     },
     "rankUscita": 20,
-    "rankVoto": 10
+    "rankVoto": 11
   },
   {
     "title": "Digger",
@@ -766,7 +803,7 @@
       "2026-11-03": 35
     },
     "rankUscita": 25,
-    "rankVoto": 11
+    "rankVoto": 12
   },
   {
     "title": "Hope",
@@ -908,15 +945,15 @@
       "2026-11-08": 62
     },
     "rankUscita": 3,
-    "rankVoto": 12
+    "rankVoto": 13
   },
   {
     "title": "Dio ride",
     "poster": "https://image.tmdb.org/t/p/w185/p5cuENoUviYoK6IBHg2FS4oTRGD.jpg",
-    "rating": 6.5,
+    "rating": 6.6,
     "ratings": {
       "letterboxd": 6.5,
-      "imdb": 6.5,
+      "imdb": 6.7,
       "metacritic": null,
       "mubi": null
     },
@@ -973,11 +1010,11 @@
     "vo": false,
     "url": "https://ucicinemas.it/film/dio-ride/",
     "smart": {
-      "2026-11-03": 57,
-      "2026-11-04": 55
+      "2026-11-03": 58,
+      "2026-11-04": 56
     },
     "rankUscita": 8,
-    "rankVoto": 13
+    "rankVoto": 14
   },
   {
     "title": "It Ends",
@@ -1066,7 +1103,7 @@
       "2026-11-04": 61
     },
     "rankUscita": 13,
-    "rankVoto": 14
+    "rankVoto": 15
   },
   {
     "title": "Un tranquillo funerale di famiglia",
@@ -1179,14 +1216,14 @@
       "2026-11-04": 69
     },
     "rankUscita": 9,
-    "rankVoto": 15
+    "rankVoto": 16
   },
   {
     "title": "Taddeo l’esploratore e la lampada magica",
     "poster": "https://image.tmdb.org/t/p/w185/h4HmEpoNoFCuOkOzY0LIGEeQTuX.jpg",
     "rating": 6.1,
     "ratings": {
-      "letterboxd": 5.8,
+      "letterboxd": 5.7,
       "imdb": 6.4,
       "metacritic": null,
       "mubi": null
@@ -1226,7 +1263,7 @@
       "2026-11-04": 37
     },
     "rankUscita": 18,
-    "rankVoto": 16
+    "rankVoto": 17
   },
   {
     "title": "Frankie e le creature dimenticate",
@@ -1284,17 +1321,17 @@
       "2026-11-04": 33
     },
     "rankUscita": 21,
-    "rankVoto": 17
+    "rankVoto": 18
   },
   {
     "title": "Klara e il sole",
     "poster": "https://image.tmdb.org/t/p/w185/9pbXmKk4EgTkQKBdiCgiEdhI6eG.jpg",
-    "rating": 5.5,
+    "rating": 5.4,
     "ratings": {
-      "letterboxd": 6.3,
+      "letterboxd": 6.2,
       "imdb": 6.4,
       "metacritic": 3,
-      "mubi": 6.2
+      "mubi": 5.8
     },
     "releaseDate": "2026-10-22",
     "showtimes": [
@@ -1327,11 +1364,11 @@
     "vo": false,
     "url": "https://ucicinemas.it/film/klara-e-il-sole/",
     "smart": {
-      "2026-11-03": 30,
-      "2026-11-04": 29
+      "2026-11-03": 29,
+      "2026-11-04": 28
     },
     "rankUscita": 19,
-    "rankVoto": 18
+    "rankVoto": 19
   },
   {
     "title": "Fast & furious - Solo parti originali",
@@ -1425,8 +1462,8 @@
       "2026-11-03": 29,
       "2026-11-04": 25
     },
-    "rankUscita": 29,
-    "rankVoto": 19
+    "rankUscita": 30,
+    "rankVoto": 20
   },
   {
     "title": "Street Fighter",
@@ -1477,7 +1514,7 @@
       "2026-11-04": 23
     },
     "rankUscita": 22,
-    "rankVoto": 20
+    "rankVoto": 21
   },
   {
     "title": "Verity",
@@ -1524,7 +1561,7 @@
       "2026-11-04": 14
     },
     "rankUscita": 26,
-    "rankVoto": 21
+    "rankVoto": 22
   },
   {
     "title": "Mammina",
@@ -1582,7 +1619,7 @@
       "2026-11-04": 20
     },
     "rankUscita": 24,
-    "rankVoto": 22
+    "rankVoto": 23
   },
   {
     "title": "Ice Cream Man",
@@ -1651,7 +1688,7 @@
       "2026-11-04": 36
     },
     "rankUscita": 10,
-    "rankVoto": 23
+    "rankVoto": 24
   },
   {
     "title": "Stray Kids World Tour RUN IT",
@@ -1700,7 +1737,7 @@
       "2026-11-07": 69
     },
     "rankUscita": 0,
-    "rankVoto": 24
+    "rankVoto": 25
   },
   {
     "title": "George Michael: The Faith Tour",
@@ -1779,7 +1816,7 @@
       "2026-11-09": 60
     },
     "rankUscita": 4,
-    "rankVoto": 25
+    "rankVoto": 26
   },
   {
     "title": "Il gatto col cappello",
@@ -1846,7 +1883,7 @@
       "2026-11-08": 57
     },
     "rankUscita": 5,
-    "rankVoto": 26
+    "rankVoto": 27
   },
   {
     "title": "Se domani non torno",
@@ -2017,7 +2054,7 @@
       "2026-11-09": 79
     },
     "rankUscita": 6,
-    "rankVoto": 27
+    "rankVoto": 28
   },
   {
     "title": "Rammstein – Live in Mexico City",
@@ -2068,7 +2105,7 @@
       "2026-11-07": 60
     },
     "rankUscita": 7,
-    "rankVoto": 28
+    "rankVoto": 29
   },
   {
     "title": "Quello che Resta di Noi",
@@ -2157,6 +2194,6 @@
       "2026-11-09": 55
     },
     "rankUscita": 11,
-    "rankVoto": 29
+    "rankVoto": 30
   }
 ]
