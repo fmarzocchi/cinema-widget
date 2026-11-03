@@ -59,7 +59,7 @@
       "2026-11-08": 57,
       "2026-11-09": 52
     },
-    "rankUscita": 13,
+    "rankUscita": 14,
     "rankVoto": 0
   },
   {
@@ -348,8 +348,45 @@
     "smart": {
       "2026-11-06": 44
     },
-    "rankUscita": 12,
+    "rankUscita": 13,
     "rankVoto": 5
+  },
+  {
+    "title": "Willy Wonka e la fabbrica di cioccolato",
+    "poster": "https://image.tmdb.org/t/p/w185/55YAF9n4BuhtcCs8R8ZnxotEfz5.jpg",
+    "rating": 7.4,
+    "ratings": {
+      "letterboxd": 7.5,
+      "imdb": 7.8,
+      "metacritic": 6.7,
+      "mubi": 7.6
+    },
+    "releaseDate": "1971-10-22",
+    "showtimes": [
+      "11:00"
+    ],
+    "showtimesDate": "2026-11-08",
+    "days": {
+      "2026-11-08": [
+        "11:00"
+      ]
+    },
+    "shows": {
+      "2026-11-08": [
+        {
+          "time": "11:00",
+          "tags": []
+        }
+      ]
+    },
+    "room": null,
+    "vo": false,
+    "url": "https://www.liveticket.it/opera.aspx?Id=412949",
+    "smart": {
+      "2026-11-08": 44
+    },
+    "rankUscita": 12,
+    "rankVoto": 6
   },
   {
     "title": "The Dreamers - I sognatori",
@@ -388,7 +425,7 @@
       "2026-11-09": 36
     },
     "rankUscita": 10,
-    "rankVoto": 6
+    "rankVoto": 7
   },
   {
     "title": "Urchin",
@@ -427,7 +464,7 @@
       "2026-11-03": 72
     },
     "rankUscita": 5,
-    "rankVoto": 7
+    "rankVoto": 8
   },
   {
     "title": "Hope",
@@ -557,7 +594,7 @@
       "2026-11-09": 77
     },
     "rankUscita": 1,
-    "rankVoto": 8
+    "rankVoto": 9
   },
   {
     "title": "Anna",
@@ -594,7 +631,7 @@
       "2026-11-04": 46
     },
     "rankUscita": 7,
-    "rankVoto": 9
+    "rankVoto": 10
   },
   {
     "title": "The Neon Demon",
@@ -633,7 +670,7 @@
       "2026-11-07": 27
     },
     "rankUscita": 9,
-    "rankVoto": 10
+    "rankVoto": 11
   },
   {
     "title": "Carla Lonzi - Dentro e",
@@ -670,7 +707,7 @@
       "2026-11-03": 72
     },
     "rankUscita": 2,
-    "rankVoto": 11
+    "rankVoto": 12
   },
   {
     "title": "Carla Lonzi - Dentro e fuori",
@@ -709,7 +746,7 @@
       "2026-11-04": 72
     },
     "rankUscita": 3,
-    "rankVoto": 12
+    "rankVoto": 13
   },
   {
     "title": "Il canto di Alina",
@@ -746,7 +783,7 @@
       "2026-11-05": 36
     },
     "rankUscita": 8,
-    "rankVoto": 13
+    "rankVoto": 14
   },
   {
     "title": "Partner + Agonia 26",
@@ -782,8 +819,8 @@
     "smart": {
       "2026-11-03": 64
     },
-    "rankUscita": 14,
-    "rankVoto": 14
+    "rankUscita": 15,
+    "rankVoto": 15
   },
   {
     "title": "Wildwood - Doppiato In Italiano",
@@ -819,7 +856,7 @@
     "smart": {
       "2026-11-04": 64
     },
-    "rankUscita": 15,
-    "rankVoto": 15
+    "rankUscita": 16,
+    "rankVoto": 16
   }
 ]
