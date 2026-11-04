@@ -1,42 +1,5 @@
 [
   {
-    "title": "Wildwood - I segreti del bosco proibito",
-    "poster": "https://image.tmdb.org/t/p/w185/kfczsvfehVNDwzWiPuKAuQclzl7.jpg",
-    "rating": 8.7,
-    "ratings": {
-      "letterboxd": 8.9,
-      "imdb": 8.7,
-      "metacritic": 8.8,
-      "mubi": 8.2
-    },
-    "releaseDate": "2026-10-22",
-    "showtimes": [
-      "21:15"
-    ],
-    "showtimesDate": "2026-11-04",
-    "days": {
-      "2026-11-04": [
-        "21:15"
-      ]
-    },
-    "shows": {
-      "2026-11-04": [
-        {
-          "time": "21:15",
-          "tags": []
-        }
-      ]
-    },
-    "room": null,
-    "vo": false,
-    "url": "https://roma.andromeda.18tickets.it/film/86023",
-    "smart": {
-      "2026-11-04": 71
-    },
-    "rankUscita": 9,
-    "rankVoto": 0
-  },
-  {
     "title": "Wild Horse Nine",
     "poster": "https://image.tmdb.org/t/p/w185/og5qagWp4ZqVl28nbBwiBHZprJM.jpg",
     "rating": 8.1,
@@ -91,7 +54,7 @@
       "2026-11-05": 95
     },
     "rankUscita": 0,
-    "rankVoto": 1
+    "rankVoto": 0
   },
   {
     "title": "Shaun Vita da Pecora - Operazione Z.u.c.c.a",
@@ -108,15 +71,15 @@
       "17:00",
       "18:30"
     ],
-    "showtimesDate": "2026-11-04",
+    "showtimesDate": "2026-11-05",
     "days": {
-      "2026-11-04": [
+      "2026-11-05": [
         "17:00",
         "18:30"
       ]
     },
     "shows": {
-      "2026-11-04": [
+      "2026-11-05": [
         {
           "time": "17:00",
           "tags": []
@@ -127,65 +90,14 @@
         }
       ]
     },
-    "room": "Sala 5",
+    "room": "Sala 8",
     "vo": false,
     "url": "https://roma.andromeda.18tickets.it/film/86813",
     "smart": {
-      "2026-11-04": 71
+      "2026-11-05": 66
     },
-    "rankUscita": 8,
-    "rankVoto": 2
-  },
-  {
-    "title": "Ragione e sentimento",
-    "poster": "https://image.tmdb.org/t/p/w185/bwZCHb0qCFP2QT3QylGixpsNo8D.jpg",
-    "rating": 7.2,
-    "ratings": {
-      "letterboxd": 8,
-      "imdb": 7.2,
-      "metacritic": 7.1,
-      "mubi": 6.5
-    },
-    "releaseDate": "2026-10-22",
-    "showtimes": [
-      "16:30",
-      "18:45",
-      "21:15"
-    ],
-    "showtimesDate": "2026-11-04",
-    "days": {
-      "2026-11-04": [
-        "16:30",
-        "18:45",
-        "21:15"
-      ]
-    },
-    "shows": {
-      "2026-11-04": [
-        {
-          "time": "16:30",
-          "tags": []
-        },
-        {
-          "time": "18:45",
-          "tags": []
-        },
-        {
-          "time": "21:15",
-          "tags": [
-            "VO"
-          ]
-        }
-      ]
-    },
-    "room": "Sala 6",
-    "vo": false,
-    "url": "https://roma.andromeda.18tickets.it/film/86021",
-    "smart": {
-      "2026-11-04": 74
-    },
-    "rankUscita": 10,
-    "rankVoto": 3
+    "rankUscita": 7,
+    "rankVoto": 1
   },
   {
     "title": "L'estranea",
@@ -199,73 +111,30 @@
     },
     "releaseDate": "2026-10-08",
     "showtimes": [
-      "18:50",
-      "21:15"
+      "21:20"
     ],
-    "showtimesDate": "2026-11-04",
+    "showtimesDate": "2026-11-05",
     "days": {
-      "2026-11-04": [
-        "18:50",
-        "21:15"
+      "2026-11-05": [
+        "21:20"
       ]
     },
     "shows": {
-      "2026-11-04": [
+      "2026-11-05": [
         {
-          "time": "18:50",
-          "tags": []
-        },
-        {
-          "time": "21:15",
-          "tags": []
-        }
-      ]
-    },
-    "room": "Sala 7",
-    "vo": false,
-    "url": "https://roma.andromeda.18tickets.it/film/80411",
-    "smart": {
-      "2026-11-04": 58
-    },
-    "rankUscita": 16,
-    "rankVoto": 4
-  },
-  {
-    "title": "Clayface",
-    "poster": "https://image.tmdb.org/t/p/w185/t6snh7pOxNjqs5rwP28TZmTQ0Ul.jpg",
-    "rating": 6.8,
-    "ratings": {
-      "letterboxd": 7.5,
-      "imdb": 7.5,
-      "metacritic": 5.9,
-      "mubi": 6.4
-    },
-    "releaseDate": "2026-10-22",
-    "showtimes": [
-      "19:00"
-    ],
-    "showtimesDate": "2026-11-04",
-    "days": {
-      "2026-11-04": [
-        "19:00"
-      ]
-    },
-    "shows": {
-      "2026-11-04": [
-        {
-          "time": "19:00",
+          "time": "21:20",
           "tags": []
         }
       ]
     },
     "room": null,
     "vo": false,
-    "url": "https://roma.andromeda.18tickets.it/film/87572",
+    "url": "https://roma.andromeda.18tickets.it/film/80411",
     "smart": {
-      "2026-11-04": 50
+      "2026-11-05": 46
     },
-    "rankUscita": 11,
-    "rankVoto": 5
+    "rankUscita": 9,
+    "rankVoto": 2
   },
   {
     "title": "Dio ride",
@@ -281,18 +150,20 @@
     "showtimes": [
       "16:30",
       "18:45",
+      "20:15",
       "21:15"
     ],
-    "showtimesDate": "2026-11-04",
+    "showtimesDate": "2026-11-05",
     "days": {
-      "2026-11-04": [
+      "2026-11-05": [
         "16:30",
         "18:45",
+        "20:15",
         "21:15"
       ]
     },
     "shows": {
-      "2026-11-04": [
+      "2026-11-05": [
         {
           "time": "16:30",
           "tags": []
@@ -302,19 +173,23 @@
           "tags": []
         },
         {
+          "time": "20:15",
+          "tags": []
+        },
+        {
           "time": "21:15",
           "tags": []
         }
       ]
     },
-    "room": "Sala 1",
+    "room": "Sala 5",
     "vo": false,
     "url": "https://roma.andromeda.18tickets.it/film/88991",
     "smart": {
-      "2026-11-04": 73
+      "2026-11-05": 73
     },
     "rankUscita": 5,
-    "rankVoto": 6
+    "rankVoto": 3
   },
   {
     "title": "Je so’ pazzo",
@@ -328,42 +203,30 @@
     },
     "releaseDate": "2026-10-15",
     "showtimes": [
-      "17:30",
-      "19:20",
-      "21:20"
+      "16:20"
     ],
-    "showtimesDate": "2026-11-04",
+    "showtimesDate": "2026-11-05",
     "days": {
-      "2026-11-04": [
-        "17:30",
-        "19:20",
-        "21:20"
+      "2026-11-05": [
+        "16:20"
       ]
     },
     "shows": {
-      "2026-11-04": [
+      "2026-11-05": [
         {
-          "time": "17:30",
-          "tags": []
-        },
-        {
-          "time": "19:20",
-          "tags": []
-        },
-        {
-          "time": "21:20",
+          "time": "16:20",
           "tags": []
         }
       ]
     },
-    "room": "Sala 4",
+    "room": null,
     "vo": false,
     "url": "https://roma.andromeda.18tickets.it/film/82094",
     "smart": {
-      "2026-11-04": 64
+      "2026-11-05": 43
     },
-    "rankUscita": 14,
-    "rankVoto": 7
+    "rankUscita": 8,
+    "rankVoto": 4
   },
   {
     "title": "Hope",
@@ -406,7 +269,7 @@
       "2026-11-05": 62
     },
     "rankUscita": 1,
-    "rankVoto": 8
+    "rankVoto": 5
   },
   {
     "title": "Un tranquillo funerale di famiglia",
@@ -420,22 +283,22 @@
     },
     "releaseDate": "2026-10-29",
     "showtimes": [
-      "16:45",
+      "16:40",
       "18:45",
       "21:20"
     ],
-    "showtimesDate": "2026-11-04",
+    "showtimesDate": "2026-11-05",
     "days": {
-      "2026-11-04": [
-        "16:45",
+      "2026-11-05": [
+        "16:40",
         "18:45",
         "21:20"
       ]
     },
     "shows": {
-      "2026-11-04": [
+      "2026-11-05": [
         {
-          "time": "16:45",
+          "time": "16:40",
           "tags": []
         },
         {
@@ -452,158 +315,10 @@
     "vo": false,
     "url": "https://roma.andromeda.18tickets.it/film/86054",
     "smart": {
-      "2026-11-04": 68
+      "2026-11-05": 61
     },
     "rankUscita": 6,
-    "rankVoto": 9
-  },
-  {
-    "title": "Taddeo l’esploratore e la lampada magica",
-    "poster": "https://image.tmdb.org/t/p/w185/h4HmEpoNoFCuOkOzY0LIGEeQTuX.jpg",
-    "rating": 6.1,
-    "ratings": {
-      "letterboxd": 5.7,
-      "imdb": 6.4,
-      "metacritic": null,
-      "mubi": null
-    },
-    "releaseDate": "2026-10-22",
-    "showtimes": [
-      "17:00"
-    ],
-    "showtimesDate": "2026-11-04",
-    "days": {
-      "2026-11-04": [
-        "17:00"
-      ]
-    },
-    "shows": {
-      "2026-11-04": [
-        {
-          "time": "17:00",
-          "tags": []
-        }
-      ]
-    },
-    "room": null,
-    "vo": false,
-    "url": "https://roma.andromeda.18tickets.it/film/87440",
-    "smart": {
-      "2026-11-04": 42
-    },
-    "rankUscita": 12,
-    "rankVoto": 10
-  },
-  {
-    "title": "Frankie e le creature dimenticate",
-    "poster": "https://image.tmdb.org/t/p/w185/AaDoLXs4D22i65OLw7HxMkj5sKN.jpg",
-    "rating": 5.8,
-    "ratings": {
-      "letterboxd": 5.6,
-      "imdb": 5.8,
-      "metacritic": 6,
-      "mubi": null
-    },
-    "releaseDate": "2026-10-15",
-    "showtimes": [
-      "16:50"
-    ],
-    "showtimesDate": "2026-11-04",
-    "days": {
-      "2026-11-04": [
-        "16:50"
-      ]
-    },
-    "shows": {
-      "2026-11-04": [
-        {
-          "time": "16:50",
-          "tags": []
-        }
-      ]
-    },
-    "room": null,
-    "vo": false,
-    "url": "https://roma.andromeda.18tickets.it/film/85428",
-    "smart": {
-      "2026-11-04": 34
-    },
-    "rankUscita": 15,
-    "rankVoto": 11
-  },
-  {
-    "title": "Fast & Furious – 25Th Anniversary",
-    "poster": "https://cdn.18tickets.net/ccroma/uploads/film/playbill/86582/standard_85e9f6e5-cd7f-4187-b988-bc8dcd1f66fd.jpg",
-    "rating": 5.4,
-    "ratings": {
-      "letterboxd": 6.1,
-      "imdb": 6.5,
-      "metacritic": 4.6,
-      "mubi": 4.6
-    },
-    "releaseDate": "2009-04-17",
-    "showtimes": [
-      "21:30"
-    ],
-    "showtimesDate": "2026-11-04",
-    "days": {
-      "2026-11-04": [
-        "21:30"
-      ]
-    },
-    "shows": {
-      "2026-11-04": [
-        {
-          "time": "21:30",
-          "tags": []
-        }
-      ]
-    },
-    "room": null,
-    "vo": false,
-    "url": "https://roma.andromeda.18tickets.it/film/86582",
-    "smart": {
-      "2026-11-04": 14
-    },
-    "rankUscita": 17,
-    "rankVoto": 12
-  },
-  {
-    "title": "Ice Cream Man",
-    "poster": "https://image.tmdb.org/t/p/w185/bnZUCOLv2Br3VOxnDMo5qPOncJF.jpg",
-    "rating": 3.5,
-    "ratings": {
-      "letterboxd": 2.7,
-      "imdb": 4,
-      "metacritic": 3.3,
-      "mubi": 4
-    },
-    "releaseDate": "2026-10-29",
-    "showtimes": [
-      "21:30"
-    ],
-    "showtimesDate": "2026-11-04",
-    "days": {
-      "2026-11-04": [
-        "21:30"
-      ]
-    },
-    "shows": {
-      "2026-11-04": [
-        {
-          "time": "21:30",
-          "tags": []
-        }
-      ]
-    },
-    "room": null,
-    "vo": false,
-    "url": "https://roma.andromeda.18tickets.it/film/86648",
-    "smart": {
-      "2026-11-04": 33
-    },
-    "rankUscita": 7,
-    "rankVoto": 13
+    "rankVoto": 6
   },
   {
     "title": "George Michael: The Faith Tour",
@@ -646,7 +361,7 @@
       "2026-11-06": 79
     },
     "rankUscita": 2,
-    "rankVoto": 14
+    "rankVoto": 7
   },
   {
     "title": "Il gatto col cappello",
@@ -689,7 +404,7 @@
       "2026-11-05": 64
     },
     "rankUscita": 3,
-    "rankVoto": 15
+    "rankVoto": 8
   },
   {
     "title": "Se domani non torno",
@@ -738,49 +453,6 @@
       "2026-11-05": 71
     },
     "rankUscita": 4,
-    "rankVoto": 16
-  },
-  {
-    "title": "Se ami qualcuno dillo",
-    "poster": "https://image.tmdb.org/t/p/w185/sX7tCKtYbqmO9CuzXs2piz5AflT.jpg",
-    "rating": null,
-    "ratings": {
-      "letterboxd": null,
-      "imdb": null,
-      "metacritic": null,
-      "mubi": null
-    },
-    "releaseDate": "2026-10-16",
-    "showtimes": [
-      "16:30",
-      "19:00"
-    ],
-    "showtimesDate": "2026-11-04",
-    "days": {
-      "2026-11-04": [
-        "16:30",
-        "19:00"
-      ]
-    },
-    "shows": {
-      "2026-11-04": [
-        {
-          "time": "16:30",
-          "tags": []
-        },
-        {
-          "time": "19:00",
-          "tags": []
-        }
-      ]
-    },
-    "room": "Sala 3",
-    "vo": false,
-    "url": "https://roma.andromeda.18tickets.it/film/82128",
-    "smart": {
-      "2026-11-04": 56
-    },
-    "rankUscita": 13,
-    "rankVoto": 17
+    "rankVoto": 9
   }
 ]
