@@ -144,7 +144,7 @@
       "letterboxd": 8,
       "imdb": 7.2,
       "metacritic": 7.1,
-      "mubi": 6.4
+      "mubi": 6.5
     },
     "releaseDate": "2026-10-22",
     "showtimes": [
@@ -268,6 +268,55 @@
     "rankVoto": 5
   },
   {
+    "title": "Dio ride",
+    "poster": "https://image.tmdb.org/t/p/w185/p5cuENoUviYoK6IBHg2FS4oTRGD.jpg",
+    "rating": 6.7,
+    "ratings": {
+      "letterboxd": 6.5,
+      "imdb": 6.8,
+      "metacritic": null,
+      "mubi": null
+    },
+    "releaseDate": "2026-10-29",
+    "showtimes": [
+      "16:30",
+      "18:45",
+      "21:15"
+    ],
+    "showtimesDate": "2026-11-04",
+    "days": {
+      "2026-11-04": [
+        "16:30",
+        "18:45",
+        "21:15"
+      ]
+    },
+    "shows": {
+      "2026-11-04": [
+        {
+          "time": "16:30",
+          "tags": []
+        },
+        {
+          "time": "18:45",
+          "tags": []
+        },
+        {
+          "time": "21:15",
+          "tags": []
+        }
+      ]
+    },
+    "room": "Sala 1",
+    "vo": false,
+    "url": "https://roma.andromeda.18tickets.it/film/88991",
+    "smart": {
+      "2026-11-04": 73
+    },
+    "rankUscita": 5,
+    "rankVoto": 6
+  },
+  {
     "title": "Je so’ pazzo",
     "poster": "https://image.tmdb.org/t/p/w185/eDfWOV5oad5wbI8AdzsMhnq7Zbd.jpg",
     "rating": 6.7,
@@ -314,7 +363,7 @@
       "2026-11-04": 64
     },
     "rankUscita": 14,
-    "rankVoto": 6
+    "rankVoto": 7
   },
   {
     "title": "Hope",
@@ -357,55 +406,6 @@
       "2026-11-05": 62
     },
     "rankUscita": 1,
-    "rankVoto": 7
-  },
-  {
-    "title": "Dio ride",
-    "poster": "https://image.tmdb.org/t/p/w185/p5cuENoUviYoK6IBHg2FS4oTRGD.jpg",
-    "rating": 6.6,
-    "ratings": {
-      "letterboxd": 6.5,
-      "imdb": 6.7,
-      "metacritic": null,
-      "mubi": null
-    },
-    "releaseDate": "2026-10-29",
-    "showtimes": [
-      "16:30",
-      "18:45",
-      "21:15"
-    ],
-    "showtimesDate": "2026-11-04",
-    "days": {
-      "2026-11-04": [
-        "16:30",
-        "18:45",
-        "21:15"
-      ]
-    },
-    "shows": {
-      "2026-11-04": [
-        {
-          "time": "16:30",
-          "tags": []
-        },
-        {
-          "time": "18:45",
-          "tags": []
-        },
-        {
-          "time": "21:15",
-          "tags": []
-        }
-      ]
-    },
-    "room": "Sala 1",
-    "vo": false,
-    "url": "https://roma.andromeda.18tickets.it/film/88991",
-    "smart": {
-      "2026-11-04": 72
-    },
-    "rankUscita": 5,
     "rankVoto": 8
   },
   {
