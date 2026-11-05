@@ -26,6 +26,9 @@
       ],
       "2026-11-10": [
         "16:15"
+      ],
+      "2026-11-11": [
+        "11:00"
       ]
     },
     "shows": {
@@ -60,6 +63,14 @@
             "VO"
           ]
         }
+      ],
+      "2026-11-11": [
+        {
+          "time": "11:00",
+          "tags": [
+            "VO"
+          ]
+        }
       ]
     },
     "room": null,
@@ -69,9 +80,10 @@
       "2026-11-07": 57,
       "2026-11-08": 57,
       "2026-11-09": 52,
-      "2026-11-10": 57
+      "2026-11-10": 57,
+      "2026-11-11": 57
     },
-    "rankUscita": 12,
+    "rankUscita": 9,
     "rankVoto": 0
   },
   {
@@ -114,6 +126,10 @@
       "2026-11-10": [
         "11:00",
         "20:30"
+      ],
+      "2026-11-11": [
+        "13:30",
+        "19:00"
       ]
     },
     "shows": {
@@ -200,6 +216,20 @@
             "VO"
           ]
         }
+      ],
+      "2026-11-11": [
+        {
+          "time": "13:30",
+          "tags": [
+            "VO"
+          ]
+        },
+        {
+          "time": "19:00",
+          "tags": [
+            "VO"
+          ]
+        }
       ]
     },
     "room": null,
@@ -211,7 +241,8 @@
       "2026-11-07": 95,
       "2026-11-08": 95,
       "2026-11-09": 86,
-      "2026-11-10": 95
+      "2026-11-10": 95,
+      "2026-11-11": 95
     },
     "rankUscita": 0,
     "rankVoto": 1
@@ -250,47 +281,8 @@
     "smart": {
       "2026-11-07": 51
     },
-    "rankUscita": 8,
+    "rankUscita": 5,
     "rankVoto": 2
-  },
-  {
-    "title": "Fatherland",
-    "poster": "https://image.tmdb.org/t/p/w185/7VjwmvDG5mksJBXMcmK6PudqH88.jpg",
-    "rating": 7.8,
-    "ratings": {
-      "letterboxd": 7.3,
-      "imdb": 7.3,
-      "metacritic": 8.7,
-      "mubi": 7.9
-    },
-    "releaseDate": "2026-10-16",
-    "showtimes": [
-      "11:00"
-    ],
-    "showtimesDate": "2026-11-04",
-    "days": {
-      "2026-11-04": [
-        "11:00"
-      ]
-    },
-    "shows": {
-      "2026-11-04": [
-        {
-          "time": "11:00",
-          "tags": [
-            "VO"
-          ]
-        }
-      ]
-    },
-    "room": null,
-    "vo": true,
-    "url": "https://www.liveticket.it/opera.aspx?Id=704008",
-    "smart": {
-      "2026-11-04": 78
-    },
-    "rankUscita": 3,
-    "rankVoto": 3
   },
   {
     "title": "I Diavoli (the Devils)",
@@ -328,8 +320,8 @@
     "smart": {
       "2026-11-06": 44
     },
-    "rankUscita": 11,
-    "rankVoto": 4
+    "rankUscita": 8,
+    "rankVoto": 3
   },
   {
     "title": "Willy Wonka e la fabbrica di cioccolato",
@@ -365,8 +357,8 @@
     "smart": {
       "2026-11-08": 44
     },
-    "rankUscita": 10,
-    "rankVoto": 5
+    "rankUscita": 7,
+    "rankVoto": 4
   },
   {
     "title": "The Dreamers - I sognatori",
@@ -404,8 +396,8 @@
     "smart": {
       "2026-11-09": 36
     },
-    "rankUscita": 7,
-    "rankVoto": 6
+    "rankUscita": 4,
+    "rankVoto": 5
   },
   {
     "title": "Strategia del ragno",
@@ -441,8 +433,8 @@
     "smart": {
       "2026-11-10": 41
     },
-    "rankUscita": 9,
-    "rankVoto": 7
+    "rankUscita": 6,
+    "rankVoto": 6
   },
   {
     "title": "Hope",
@@ -485,6 +477,10 @@
       "2026-11-10": [
         "13:15",
         "22:45"
+      ],
+      "2026-11-11": [
+        "16:00",
+        "21:30"
       ]
     },
     "shows": {
@@ -577,6 +573,20 @@
             "VO"
           ]
         }
+      ],
+      "2026-11-11": [
+        {
+          "time": "16:00",
+          "tags": [
+            "VO"
+          ]
+        },
+        {
+          "time": "21:30",
+          "tags": [
+            "VO"
+          ]
+        }
       ]
     },
     "room": null,
@@ -588,47 +598,11 @@
       "2026-11-07": 77,
       "2026-11-08": 62,
       "2026-11-09": 77,
-      "2026-11-10": 77
+      "2026-11-10": 77,
+      "2026-11-11": 77
     },
     "rankUscita": 1,
-    "rankVoto": 8
-  },
-  {
-    "title": "Anna",
-    "poster": "https://image.tmdb.org/t/p/w185/6P0pmiLEnf5TI4SQ4aYNRLFO8ky.jpg",
-    "rating": 6.4,
-    "ratings": {
-      "letterboxd": 5.8,
-      "imdb": 7,
-      "metacritic": null,
-      "mubi": null
-    },
-    "releaseDate": "2025-11-06",
-    "showtimes": [
-      "18:30"
-    ],
-    "showtimesDate": "2026-11-04",
-    "days": {
-      "2026-11-04": [
-        "18:30"
-      ]
-    },
-    "shows": {
-      "2026-11-04": [
-        {
-          "time": "18:30",
-          "tags": []
-        }
-      ]
-    },
-    "room": null,
-    "vo": false,
-    "url": "https://www.liveticket.it/opera.aspx?Id=708349",
-    "smart": {
-      "2026-11-04": 46
-    },
-    "rankUscita": 4,
-    "rankVoto": 9
+    "rankVoto": 7
   },
   {
     "title": "The Neon Demon",
@@ -666,47 +640,8 @@
     "smart": {
       "2026-11-07": 27
     },
-    "rankUscita": 6,
-    "rankVoto": 10
-  },
-  {
-    "title": "Carla Lonzi - Dentro e fuori",
-    "poster": "https://cinematroisi.liveticket.it/wp-content/uploads/sites/48/1735959it_it-180x257.jpg",
-    "rating": null,
-    "ratings": {
-      "letterboxd": null,
-      "imdb": null,
-      "metacritic": null,
-      "mubi": null
-    },
-    "releaseDate": "2026-10-26",
-    "showtimes": [
-      "16:30"
-    ],
-    "showtimesDate": "2026-11-04",
-    "days": {
-      "2026-11-04": [
-        "16:30"
-      ]
-    },
-    "shows": {
-      "2026-11-04": [
-        {
-          "time": "16:30",
-          "tags": [
-            "VO"
-          ]
-        }
-      ]
-    },
-    "room": null,
-    "vo": true,
-    "url": "https://www.liveticket.it/opera.aspx?Id=709509",
-    "smart": {
-      "2026-11-04": 71
-    },
-    "rankUscita": 2,
-    "rankVoto": 11
+    "rankUscita": 3,
+    "rankVoto": 8
   },
   {
     "title": "Il canto di Alina",
@@ -742,44 +677,7 @@
     "smart": {
       "2026-11-05": 36
     },
-    "rankUscita": 5,
-    "rankVoto": 12
-  },
-  {
-    "title": "Wildwood - Doppiato In Italiano",
-    "poster": "https://cinematroisi.liveticket.it/wp-content/uploads/sites/48/791523it_it-180x257.jpg",
-    "rating": null,
-    "ratings": {
-      "letterboxd": null,
-      "imdb": null,
-      "metacritic": null,
-      "mubi": null
-    },
-    "releaseDate": null,
-    "showtimes": [
-      "14:00"
-    ],
-    "showtimesDate": "2026-11-04",
-    "days": {
-      "2026-11-04": [
-        "14:00"
-      ]
-    },
-    "shows": {
-      "2026-11-04": [
-        {
-          "time": "14:00",
-          "tags": []
-        }
-      ]
-    },
-    "room": null,
-    "vo": false,
-    "url": "https://www.liveticket.it/opera.aspx?Id=709501",
-    "smart": {
-      "2026-11-04": 64
-    },
-    "rankUscita": 13,
-    "rankVoto": 13
+    "rankUscita": 2,
+    "rankVoto": 9
   }
 ]
