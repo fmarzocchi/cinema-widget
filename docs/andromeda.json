@@ -107,7 +107,7 @@
       "letterboxd": 7.4,
       "imdb": 7.5,
       "metacritic": null,
-      "mubi": 6.6
+      "mubi": 6.8
     },
     "releaseDate": "2026-10-08",
     "showtimes": [
@@ -142,7 +142,7 @@
     "rating": 6.7,
     "ratings": {
       "letterboxd": 6.5,
-      "imdb": 6.8,
+      "imdb": 6.9,
       "metacritic": null,
       "mubi": null
     },
@@ -274,10 +274,10 @@
   {
     "title": "Un tranquillo funerale di famiglia",
     "poster": "https://image.tmdb.org/t/p/w185/iXtZ4Y28GTw1BJFHgcmHrICoyL1.jpg",
-    "rating": 6.3,
+    "rating": 5.9,
     "ratings": {
       "letterboxd": null,
-      "imdb": 6.3,
+      "imdb": 5.9,
       "metacritic": null,
       "mubi": null
     },
@@ -315,7 +315,7 @@
     "vo": false,
     "url": "https://roma.andromeda.18tickets.it/film/86054",
     "smart": {
-      "2026-11-05": 60
+      "2026-11-05": 55
     },
     "rankUscita": 6,
     "rankVoto": 6

@@ -123,7 +123,6 @@
     },
     "releaseDate": "2026-11-05",
     "showtimes": [
-      "11:40",
       "15:40",
       "18:30",
       "21:10"
@@ -131,7 +130,6 @@
     "showtimesDate": "2026-11-05",
     "days": {
       "2026-11-05": [
-        "11:40",
         "15:40",
         "18:30",
         "21:10"
@@ -175,12 +173,6 @@
     },
     "shows": {
       "2026-11-05": [
-        {
-          "time": "11:40",
-          "tags": [
-            "VO"
-          ]
-        },
         {
           "time": "15:40",
           "tags": []
@@ -327,7 +319,7 @@
     "vo": false,
     "url": "https://ucicinemas.it/film/wild-horse-nine/",
     "smart": {
-      "2026-11-05": 78,
+      "2026-11-05": 76,
       "2026-11-06": 81,
       "2026-11-07": 84,
       "2026-11-08": 82,
@@ -339,12 +331,51 @@
     "rankVoto": 1
   },
   {
-    "title": "The Nameless Ballad",
-    "poster": "https://image.tmdb.org/t/p/w185/g691fkK4mB5GCFziGG7gZP6oP2Y.jpg",
+    "title": "Rammstein – Live in Mexico City",
+    "poster": "https://image.tmdb.org/t/p/w185/jWASRyL51gUMeQJuZLdgDC3rTKa.jpg",
     "rating": 7.7,
     "ratings": {
+      "letterboxd": 7.7,
+      "imdb": null,
+      "metacritic": null,
+      "mubi": null
+    },
+    "releaseDate": "2026-11-04",
+    "showtimes": [
+      "14:10"
+    ],
+    "showtimesDate": "2026-11-07",
+    "days": {
+      "2026-11-07": [
+        "14:10"
+      ]
+    },
+    "shows": {
+      "2026-11-07": [
+        {
+          "time": "14:10",
+          "tags": [
+            "VO"
+          ]
+        }
+      ]
+    },
+    "room": "Sala 8",
+    "vo": true,
+    "url": "https://ucicinemas.it/film/rammstein-live-in-mexico-city/",
+    "smart": {
+      "2026-11-07": 64
+    },
+    "rankUscita": 8,
+    "rankVoto": 2
+  },
+  {
+    "title": "The Nameless Ballad",
+    "poster": "https://image.tmdb.org/t/p/w185/g691fkK4mB5GCFziGG7gZP6oP2Y.jpg",
+    "rating": 7.5,
+    "ratings": {
       "letterboxd": null,
-      "imdb": 7.7,
+      "imdb": 7.5,
       "metacritic": null,
       "mubi": null
     },
@@ -434,54 +465,15 @@
     "vo": false,
     "url": "https://ucicinemas.it/film/the-nameless-ballad/",
     "smart": {
-      "2026-11-05": 64,
-      "2026-11-06": 67,
-      "2026-11-07": 69,
-      "2026-11-08": 65,
-      "2026-11-09": 65,
-      "2026-11-10": 65,
-      "2026-11-11": 65
+      "2026-11-05": 62,
+      "2026-11-06": 65,
+      "2026-11-07": 66,
+      "2026-11-08": 62,
+      "2026-11-09": 63,
+      "2026-11-10": 63,
+      "2026-11-11": 63
     },
     "rankUscita": 2,
-    "rankVoto": 2
-  },
-  {
-    "title": "Rammstein – Live in Mexico City",
-    "poster": "https://image.tmdb.org/t/p/w185/jWASRyL51gUMeQJuZLdgDC3rTKa.jpg",
-    "rating": 7.7,
-    "ratings": {
-      "letterboxd": 7.7,
-      "imdb": null,
-      "metacritic": null,
-      "mubi": null
-    },
-    "releaseDate": "2026-11-04",
-    "showtimes": [
-      "14:10"
-    ],
-    "showtimesDate": "2026-11-07",
-    "days": {
-      "2026-11-07": [
-        "14:10"
-      ]
-    },
-    "shows": {
-      "2026-11-07": [
-        {
-          "time": "14:10",
-          "tags": [
-            "VO"
-          ]
-        }
-      ]
-    },
-    "room": "Sala 8",
-    "vo": true,
-    "url": "https://ucicinemas.it/film/rammstein-live-in-mexico-city/",
-    "smart": {
-      "2026-11-07": 64
-    },
-    "rankUscita": 8,
     "rankVoto": 3
   },
   {
@@ -621,7 +613,7 @@
     "vo": false,
     "url": "https://ucicinemas.it/film/shaun-vita-da-pecora-operazione-zucca/",
     "smart": {
-      "2026-11-05": 57,
+      "2026-11-05": 58,
       "2026-11-06": 60,
       "2026-11-07": 62,
       "2026-11-08": 61,
@@ -837,7 +829,7 @@
       "letterboxd": 7.4,
       "imdb": 7.5,
       "metacritic": null,
-      "mubi": 6.6
+      "mubi": 6.8
     },
     "releaseDate": "2026-10-08",
     "showtimes": [
@@ -1117,7 +1109,7 @@
     "vo": false,
     "url": "https://ucicinemas.it/film/clayface/",
     "smart": {
-      "2026-11-05": 51,
+      "2026-11-05": 53,
       "2026-11-06": 51,
       "2026-11-07": 54,
       "2026-11-08": 50,
@@ -1134,7 +1126,7 @@
     "rating": 6.7,
     "ratings": {
       "letterboxd": 6.5,
-      "imdb": 6.8,
+      "imdb": 6.9,
       "metacritic": null,
       "mubi": null
     },
@@ -1293,7 +1285,7 @@
     "vo": false,
     "url": "https://ucicinemas.it/film/dio-ride/",
     "smart": {
-      "2026-11-05": 52,
+      "2026-11-05": 53,
       "2026-11-06": 52,
       "2026-11-07": 54,
       "2026-11-08": 56,
@@ -1383,7 +1375,6 @@
     },
     "releaseDate": "2026-11-05",
     "showtimes": [
-      "11:30",
       "15:30",
       "19:10",
       "21:40",
@@ -1392,7 +1383,6 @@
     "showtimesDate": "2026-11-05",
     "days": {
       "2026-11-05": [
-        "11:30",
         "15:30",
         "19:10",
         "21:40",
@@ -1441,12 +1431,6 @@
     },
     "shows": {
       "2026-11-05": [
-        {
-          "time": "11:30",
-          "tags": [
-            "IMAX"
-          ]
-        },
         {
           "time": "15:30",
           "tags": [
@@ -1627,7 +1611,7 @@
     "vo": false,
     "url": "https://ucicinemas.it/film/hope/",
     "smart": {
-      "2026-11-05": 62,
+      "2026-11-05": 61,
       "2026-11-06": 68,
       "2026-11-07": 62,
       "2026-11-08": 64,
@@ -1808,7 +1792,7 @@
     "vo": false,
     "url": "https://ucicinemas.it/film/it-ends/",
     "smart": {
-      "2026-11-05": 48,
+      "2026-11-05": 49,
       "2026-11-06": 51,
       "2026-11-07": 53,
       "2026-11-08": 49,
@@ -1936,7 +1920,7 @@
     "vo": false,
     "url": "https://ucicinemas.it/film/ferine/",
     "smart": {
-      "2026-11-05": 50,
+      "2026-11-05": 51,
       "2026-11-06": 50,
       "2026-11-07": 52,
       "2026-11-08": 51,
@@ -1948,18 +1932,64 @@
     "rankVoto": 15
   },
   {
+    "title": "Taddeo l’esploratore e la lampada magica",
+    "poster": "https://image.tmdb.org/t/p/w185/h4HmEpoNoFCuOkOzY0LIGEeQTuX.jpg",
+    "rating": 6.1,
+    "ratings": {
+      "letterboxd": 5.7,
+      "imdb": 6.4,
+      "metacritic": null,
+      "mubi": null
+    },
+    "releaseDate": "2026-10-22",
+    "showtimes": [
+      "11:05"
+    ],
+    "showtimesDate": "2026-11-07",
+    "days": {
+      "2026-11-07": [
+        "11:05"
+      ],
+      "2026-11-08": [
+        "11:05"
+      ]
+    },
+    "shows": {
+      "2026-11-07": [
+        {
+          "time": "11:05",
+          "tags": []
+        }
+      ],
+      "2026-11-08": [
+        {
+          "time": "11:05",
+          "tags": []
+        }
+      ]
+    },
+    "room": "Sala 13",
+    "vo": false,
+    "url": "https://ucicinemas.it/film/taddeo-lesploratore-e-la-lampada-magica/",
+    "smart": {
+      "2026-11-07": 35,
+      "2026-11-08": 35
+    },
+    "rankUscita": 19,
+    "rankVoto": 16
+  },
+  {
     "title": "Un tranquillo funerale di famiglia",
     "poster": "https://image.tmdb.org/t/p/w185/iXtZ4Y28GTw1BJFHgcmHrICoyL1.jpg",
-    "rating": 6.3,
+    "rating": 5.9,
     "ratings": {
       "letterboxd": null,
-      "imdb": 6.3,
+      "imdb": 5.9,
       "metacritic": null,
       "mubi": null
     },
     "releaseDate": "2026-10-29",
     "showtimes": [
-      "10:20",
       "14:15",
       "16:00",
       "19:40",
@@ -1970,7 +2000,6 @@
     "showtimesDate": "2026-11-05",
     "days": {
       "2026-11-05": [
-        "10:20",
         "14:15",
         "16:00",
         "19:40",
@@ -2034,12 +2063,6 @@
     },
     "shows": {
       "2026-11-05": [
-        {
-          "time": "10:20",
-          "tags": [
-            "XL"
-          ]
-        },
         {
           "time": "14:15",
           "tags": []
@@ -2246,66 +2269,19 @@
         }
       ]
     },
-    "room": "Sala 5 XL",
+    "room": "Sala 12",
     "vo": false,
     "url": "https://ucicinemas.it/film/un-tranquillo-funerale-di-famiglia/",
     "smart": {
-      "2026-11-05": 59,
-      "2026-11-06": 59,
-      "2026-11-07": 67,
-      "2026-11-08": 64,
-      "2026-11-09": 60,
-      "2026-11-10": 60,
-      "2026-11-11": 60
+      "2026-11-05": 53,
+      "2026-11-06": 54,
+      "2026-11-07": 62,
+      "2026-11-08": 59,
+      "2026-11-09": 55,
+      "2026-11-10": 55,
+      "2026-11-11": 55
     },
     "rankUscita": 10,
-    "rankVoto": 16
-  },
-  {
-    "title": "Taddeo l’esploratore e la lampada magica",
-    "poster": "https://image.tmdb.org/t/p/w185/h4HmEpoNoFCuOkOzY0LIGEeQTuX.jpg",
-    "rating": 6.1,
-    "ratings": {
-      "letterboxd": 5.7,
-      "imdb": 6.4,
-      "metacritic": null,
-      "mubi": null
-    },
-    "releaseDate": "2026-10-22",
-    "showtimes": [
-      "11:05"
-    ],
-    "showtimesDate": "2026-11-07",
-    "days": {
-      "2026-11-07": [
-        "11:05"
-      ],
-      "2026-11-08": [
-        "11:05"
-      ]
-    },
-    "shows": {
-      "2026-11-07": [
-        {
-          "time": "11:05",
-          "tags": []
-        }
-      ],
-      "2026-11-08": [
-        {
-          "time": "11:05",
-          "tags": []
-        }
-      ]
-    },
-    "room": "Sala 13",
-    "vo": false,
-    "url": "https://ucicinemas.it/film/taddeo-lesploratore-e-la-lampada-magica/",
-    "smart": {
-      "2026-11-07": 35,
-      "2026-11-08": 35
-    },
-    "rankUscita": 19,
     "rankVoto": 17
   },
   {
@@ -2569,7 +2545,7 @@
     "vo": false,
     "url": "https://ucicinemas.it/film/ice-cream-man/",
     "smart": {
-      "2026-11-05": 28,
+      "2026-11-05": 29,
       "2026-11-06": 31,
       "2026-11-07": 30,
       "2026-11-08": 29,
@@ -2759,7 +2735,6 @@
     },
     "releaseDate": "2026-11-05",
     "showtimes": [
-      "11:20",
       "13:20",
       "14:10",
       "14:30",
@@ -2771,7 +2746,6 @@
     "showtimesDate": "2026-11-05",
     "days": {
       "2026-11-05": [
-        "11:20",
         "13:20",
         "14:10",
         "14:30",
@@ -2837,10 +2811,6 @@
     },
     "shows": {
       "2026-11-05": [
-        {
-          "time": "11:20",
-          "tags": []
-        },
         {
           "time": "13:20",
           "tags": []
@@ -3071,7 +3041,7 @@
     "vo": false,
     "url": "https://ucicinemas.it/film/il-gatto-col-cappello/",
     "smart": {
-      "2026-11-05": 73,
+      "2026-11-05": 72,
       "2026-11-06": 73,
       "2026-11-07": 75,
       "2026-11-08": 79,
@@ -3094,7 +3064,6 @@
     },
     "releaseDate": "2026-11-05",
     "showtimes": [
-      "10:50",
       "14:00",
       "15:00",
       "16:30",
@@ -3108,7 +3077,6 @@
     "showtimesDate": "2026-11-05",
     "days": {
       "2026-11-05": [
-        "10:50",
         "14:00",
         "15:00",
         "16:30",
@@ -3184,10 +3152,6 @@
     },
     "shows": {
       "2026-11-05": [
-        {
-          "time": "10:50",
-          "tags": []
-        },
         {
           "time": "14:00",
           "tags": [
