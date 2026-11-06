@@ -59,10 +59,10 @@
   {
     "title": "George Michael: The Faith Tour",
     "poster": "https://image.tmdb.org/t/p/w185/LXqHnaJ4ffkcx5YCuJN1noxkhr.jpg",
-    "rating": 7.4,
+    "rating": 7.5,
     "ratings": {
       "letterboxd": null,
-      "imdb": 7.4,
+      "imdb": 7.5,
       "metacritic": null,
       "mubi": null
     },
@@ -94,7 +94,7 @@
     "vo": false,
     "url": "https://roma.andromeda.18tickets.it/film/83218",
     "smart": {
-      "2026-11-06": 71
+      "2026-11-06": 73
     },
     "rankUscita": 1,
     "rankVoto": 1
@@ -180,6 +180,49 @@
     "rankVoto": 3
   },
   {
+    "title": "Il gatto col cappello",
+    "poster": "https://image.tmdb.org/t/p/w185/reGVZn7oCOXM5oaOTjV4MZhFwqT.jpg",
+    "rating": 6.9,
+    "ratings": {
+      "letterboxd": null,
+      "imdb": 6.9,
+      "metacritic": null,
+      "mubi": null
+    },
+    "releaseDate": "2026-11-05",
+    "showtimes": [
+      "17:00",
+      "18:40"
+    ],
+    "showtimesDate": "2026-11-06",
+    "days": {
+      "2026-11-06": [
+        "17:00",
+        "18:40"
+      ]
+    },
+    "shows": {
+      "2026-11-06": [
+        {
+          "time": "17:00",
+          "tags": []
+        },
+        {
+          "time": "18:40",
+          "tags": []
+        }
+      ]
+    },
+    "room": "Sala 4",
+    "vo": false,
+    "url": "https://roma.andromeda.18tickets.it/film/86057",
+    "smart": {
+      "2026-11-06": 65
+    },
+    "rankUscita": 2,
+    "rankVoto": 4
+  },
+  {
     "title": "Dio ride",
     "poster": "https://image.tmdb.org/t/p/w185/p5cuENoUviYoK6IBHg2FS4oTRGD.jpg",
     "rating": 6.8,
@@ -226,49 +269,6 @@
       "2026-11-06": 65
     },
     "rankUscita": 5,
-    "rankVoto": 4
-  },
-  {
-    "title": "Il gatto col cappello",
-    "poster": "https://image.tmdb.org/t/p/w185/reGVZn7oCOXM5oaOTjV4MZhFwqT.jpg",
-    "rating": 6.7,
-    "ratings": {
-      "letterboxd": null,
-      "imdb": 6.7,
-      "metacritic": null,
-      "mubi": null
-    },
-    "releaseDate": "2026-11-05",
-    "showtimes": [
-      "17:00",
-      "18:40"
-    ],
-    "showtimesDate": "2026-11-06",
-    "days": {
-      "2026-11-06": [
-        "17:00",
-        "18:40"
-      ]
-    },
-    "shows": {
-      "2026-11-06": [
-        {
-          "time": "17:00",
-          "tags": []
-        },
-        {
-          "time": "18:40",
-          "tags": []
-        }
-      ]
-    },
-    "room": "Sala 4",
-    "vo": false,
-    "url": "https://roma.andromeda.18tickets.it/film/86057",
-    "smart": {
-      "2026-11-06": 63
-    },
-    "rankUscita": 2,
     "rankVoto": 5
   },
   {
@@ -354,10 +354,10 @@
   {
     "title": "Un tranquillo funerale di famiglia",
     "poster": "https://image.tmdb.org/t/p/w185/iXtZ4Y28GTw1BJFHgcmHrICoyL1.jpg",
-    "rating": 5.9,
+    "rating": 6,
     "ratings": {
       "letterboxd": null,
-      "imdb": 5.9,
+      "imdb": 6,
       "metacritic": null,
       "mubi": null
     },
@@ -395,7 +395,7 @@
     "vo": false,
     "url": "https://roma.andromeda.18tickets.it/film/86054",
     "smart": {
-      "2026-11-06": 54
+      "2026-11-06": 56
     },
     "rankUscita": 6,
     "rankVoto": 8
