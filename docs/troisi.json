@@ -79,22 +79,18 @@
     "poster": "https://image.tmdb.org/t/p/w185/og5qagWp4ZqVl28nbBwiBHZprJM.jpg",
     "rating": 8.1,
     "ratings": {
-      "letterboxd": 8.2,
+      "letterboxd": 8.3,
       "imdb": 8.1,
-      "metacritic": 7.9,
-      "mubi": 8.2
+      "metacritic": 7.8,
+      "mubi": 8.3
     },
     "releaseDate": "2026-11-05",
     "showtimes": [
-      "19:00",
-      "21:30"
+      "14:00",
+      "19:15"
     ],
-    "showtimesDate": "2026-11-05",
+    "showtimesDate": "2026-11-06",
     "days": {
-      "2026-11-05": [
-        "19:00",
-        "21:30"
-      ],
       "2026-11-06": [
         "14:00",
         "19:15"
@@ -121,20 +117,6 @@
       ]
     },
     "shows": {
-      "2026-11-05": [
-        {
-          "time": "19:00",
-          "tags": [
-            "VO"
-          ]
-        },
-        {
-          "time": "21:30",
-          "tags": [
-            "VO"
-          ]
-        }
-      ],
       "2026-11-06": [
         {
           "time": "14:00",
@@ -224,13 +206,12 @@
     "vo": true,
     "url": "https://www.liveticket.it/opera.aspx?Id=705621",
     "smart": {
-      "2026-11-05": 95,
-      "2026-11-06": 86,
-      "2026-11-07": 95,
-      "2026-11-08": 95,
-      "2026-11-09": 86,
-      "2026-11-10": 95,
-      "2026-11-11": 95
+      "2026-11-06": 94,
+      "2026-11-07": 94,
+      "2026-11-08": 94,
+      "2026-11-09": 85,
+      "2026-11-10": 94,
+      "2026-11-11": 94
     },
     "rankUscita": 0,
     "rankVoto": 1
@@ -306,7 +287,7 @@
     "vo": true,
     "url": "https://www.liveticket.it/opera.aspx?Id=705302",
     "smart": {
-      "2026-11-06": 44
+      "2026-11-06": 49
     },
     "rankUscita": 8,
     "rankVoto": 3
@@ -384,8 +365,45 @@
     "smart": {
       "2026-11-09": 36
     },
-    "rankUscita": 4,
+    "rankUscita": 3,
     "rankVoto": 5
+  },
+  {
+    "title": "The Nine Lives of Tomas Katz",
+    "poster": "https://image.tmdb.org/t/p/w185/gTzWCN5g1eSS7pLH6lgVzLdr25J.jpg",
+    "rating": 7.2,
+    "ratings": {
+      "letterboxd": 7.2,
+      "imdb": 6.8,
+      "metacritic": null,
+      "mubi": 7.5
+    },
+    "releaseDate": "2000-03-01",
+    "showtimes": [
+      "20:00"
+    ],
+    "showtimesDate": "2026-11-12",
+    "days": {
+      "2026-11-12": [
+        "20:00"
+      ]
+    },
+    "shows": {
+      "2026-11-12": [
+        {
+          "time": "20:00",
+          "tags": []
+        }
+      ]
+    },
+    "room": null,
+    "vo": false,
+    "url": "https://www.liveticket.it/opera.aspx?Id=710224",
+    "smart": {
+      "2026-11-12": 56
+    },
+    "rankUscita": 4,
+    "rankVoto": 6
   },
   {
     "title": "Strategia del ragno",
@@ -422,7 +440,7 @@
       "2026-11-10": 41
     },
     "rankUscita": 6,
-    "rankVoto": 6
+    "rankVoto": 7
   },
   {
     "title": "Hope",
@@ -436,17 +454,12 @@
     },
     "releaseDate": "2026-11-05",
     "showtimes": [
-      "11:00",
-      "16:00"
+      "16:15",
+      "21:30"
     ],
-    "showtimesDate": "2026-11-05",
+    "showtimesDate": "2026-11-06",
     "days": {
-      "2026-11-05": [
-        "11:00",
-        "16:00"
-      ],
       "2026-11-06": [
-        "00:30",
         "16:15",
         "21:30"
       ],
@@ -471,27 +484,7 @@
       ]
     },
     "shows": {
-      "2026-11-05": [
-        {
-          "time": "11:00",
-          "tags": [
-            "VO"
-          ]
-        },
-        {
-          "time": "16:00",
-          "tags": [
-            "VO"
-          ]
-        }
-      ],
       "2026-11-06": [
-        {
-          "time": "00:30",
-          "tags": [
-            "VO"
-          ]
-        },
         {
           "time": "16:15",
           "tags": [
@@ -574,16 +567,15 @@
     "vo": true,
     "url": "https://www.liveticket.it/opera.aspx?Id=710218",
     "smart": {
-      "2026-11-05": 77,
-      "2026-11-06": 77,
-      "2026-11-07": 77,
+      "2026-11-06": 76,
+      "2026-11-07": 76,
       "2026-11-08": 62,
-      "2026-11-09": 77,
+      "2026-11-09": 76,
       "2026-11-10": 62,
-      "2026-11-11": 77
+      "2026-11-11": 76
     },
     "rankUscita": 1,
-    "rankVoto": 7
+    "rankVoto": 8
   },
   {
     "title": "The Neon Demon",
@@ -620,43 +612,6 @@
     "url": "https://www.liveticket.it/opera.aspx?Id=694378",
     "smart": {
       "2026-11-07": 27
-    },
-    "rankUscita": 3,
-    "rankVoto": 8
-  },
-  {
-    "title": "Il canto di Alina",
-    "poster": "https://image.tmdb.org/t/p/w185/kVMdFxJJS3Y5MCpU68mmv9QyTDI.jpg",
-    "rating": null,
-    "ratings": {
-      "letterboxd": null,
-      "imdb": null,
-      "metacritic": null,
-      "mubi": null
-    },
-    "releaseDate": "2024-10-11",
-    "showtimes": [
-      "14:00"
-    ],
-    "showtimesDate": "2026-11-05",
-    "days": {
-      "2026-11-05": [
-        "14:00"
-      ]
-    },
-    "shows": {
-      "2026-11-05": [
-        {
-          "time": "14:00",
-          "tags": []
-        }
-      ]
-    },
-    "room": null,
-    "vo": false,
-    "url": "https://www.liveticket.it/opera.aspx?Id=705579",
-    "smart": {
-      "2026-11-05": 36
     },
     "rankUscita": 2,
     "rankVoto": 9
