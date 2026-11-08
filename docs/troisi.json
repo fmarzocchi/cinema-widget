@@ -11,13 +11,10 @@
     },
     "releaseDate": "1958-08-16",
     "showtimes": [
-      "16:00"
+      "16:30"
     ],
-    "showtimesDate": "2026-11-07",
+    "showtimesDate": "2026-11-08",
     "days": {
-      "2026-11-07": [
-        "16:00"
-      ],
       "2026-11-08": [
         "16:30"
       ],
@@ -29,14 +26,6 @@
       ]
     },
     "shows": {
-      "2026-11-07": [
-        {
-          "time": "16:00",
-          "tags": [
-            "VO"
-          ]
-        }
-      ],
       "2026-11-08": [
         {
           "time": "16:30",
@@ -66,12 +55,11 @@
     "vo": true,
     "url": "https://www.liveticket.it/opera.aspx?Id=709700",
     "smart": {
-      "2026-11-07": 57,
       "2026-11-08": 57,
       "2026-11-09": 52,
       "2026-11-11": 57
     },
-    "rankUscita": 8,
+    "rankUscita": 6,
     "rankVoto": 0
   },
   {
@@ -86,15 +74,11 @@
     },
     "releaseDate": "2026-11-05",
     "showtimes": [
-      "13:30",
-      "21:30"
+      "14:00",
+      "19:00"
     ],
-    "showtimesDate": "2026-11-07",
+    "showtimesDate": "2026-11-08",
     "days": {
-      "2026-11-07": [
-        "13:30",
-        "21:30"
-      ],
       "2026-11-08": [
         "14:00",
         "19:00"
@@ -112,20 +96,6 @@
       ]
     },
     "shows": {
-      "2026-11-07": [
-        {
-          "time": "13:30",
-          "tags": [
-            "VO"
-          ]
-        },
-        {
-          "time": "21:30",
-          "tags": [
-            "VO"
-          ]
-        }
-      ],
       "2026-11-08": [
         {
           "time": "14:00",
@@ -181,51 +151,13 @@
     "vo": true,
     "url": "https://www.liveticket.it/opera.aspx?Id=705621",
     "smart": {
-      "2026-11-07": 93,
-      "2026-11-08": 93,
-      "2026-11-09": 84,
-      "2026-11-10": 93,
-      "2026-11-11": 93
+      "2026-11-08": 92,
+      "2026-11-09": 83,
+      "2026-11-10": 92,
+      "2026-11-11": 92
     },
     "rankUscita": 0,
     "rankVoto": 1
-  },
-  {
-    "title": "Gatto Nero Gatto Bianco (Black Cat, Whit",
-    "poster": "https://cinematroisi.liveticket.it/wp-content/uploads/sites/48/tt0118843_it-180x257.jpg",
-    "rating": 8,
-    "ratings": {
-      "letterboxd": 8.2,
-      "imdb": 8,
-      "metacritic": 7.3,
-      "mubi": 8.6
-    },
-    "releaseDate": "1998-09-11",
-    "showtimes": [
-      "18:30"
-    ],
-    "showtimesDate": "2026-11-07",
-    "days": {
-      "2026-11-07": [
-        "18:30"
-      ]
-    },
-    "shows": {
-      "2026-11-07": [
-        {
-          "time": "18:30",
-          "tags": []
-        }
-      ]
-    },
-    "room": null,
-    "vo": false,
-    "url": "https://www.liveticket.it/opera.aspx?Id=709613",
-    "smart": {
-      "2026-11-07": 51
-    },
-    "rankUscita": 5,
-    "rankVoto": 2
   },
   {
     "title": "Willy Wonka e la fabbrica di cioccolato",
@@ -261,8 +193,8 @@
     "smart": {
       "2026-11-08": 44
     },
-    "rankUscita": 7,
-    "rankVoto": 3
+    "rankUscita": 5,
+    "rankVoto": 2
   },
   {
     "title": "The Dreamers - I sognatori",
@@ -300,8 +232,8 @@
     "smart": {
       "2026-11-09": 36
     },
-    "rankUscita": 3,
-    "rankVoto": 4
+    "rankUscita": 2,
+    "rankVoto": 3
   },
   {
     "title": "The Nine Lives of Tomas Katz",
@@ -337,8 +269,8 @@
     "smart": {
       "2026-11-12": 56
     },
-    "rankUscita": 4,
-    "rankVoto": 5
+    "rankUscita": 3,
+    "rankVoto": 4
   },
   {
     "title": "Strategia del ragno",
@@ -374,8 +306,8 @@
     "smart": {
       "2026-11-10": 56
     },
-    "rankUscita": 6,
-    "rankVoto": 6
+    "rankUscita": 4,
+    "rankVoto": 5
   },
   {
     "title": "Hope",
@@ -389,13 +321,10 @@
     },
     "releaseDate": "2026-11-05",
     "showtimes": [
-      "23:59"
+      "21:15"
     ],
-    "showtimesDate": "2026-11-07",
+    "showtimesDate": "2026-11-08",
     "days": {
-      "2026-11-07": [
-        "23:59"
-      ],
       "2026-11-08": [
         "21:15"
       ],
@@ -413,14 +342,6 @@
       ]
     },
     "shows": {
-      "2026-11-07": [
-        {
-          "time": "23:59",
-          "tags": [
-            "VO"
-          ]
-        }
-      ],
       "2026-11-08": [
         {
           "time": "21:15",
@@ -474,54 +395,14 @@
     },
     "room": null,
     "vo": true,
-    "url": "https://www.liveticket.it/opera.aspx?Id=710218",
+    "url": "https://www.liveticket.it/opera.aspx?Id=709667",
     "smart": {
-      "2026-11-07": 61,
-      "2026-11-08": 61,
-      "2026-11-09": 75,
-      "2026-11-10": 75,
-      "2026-11-11": 75
+      "2026-11-08": 60,
+      "2026-11-09": 74,
+      "2026-11-10": 74,
+      "2026-11-11": 74
     },
     "rankUscita": 1,
-    "rankVoto": 7
-  },
-  {
-    "title": "The Neon Demon",
-    "poster": "https://image.tmdb.org/t/p/w185/xecpbH1yzrOirRWE48QJGCwDana.jpg",
-    "rating": 6,
-    "ratings": {
-      "letterboxd": 6.3,
-      "imdb": 6.1,
-      "metacritic": 5.1,
-      "mubi": 6.6
-    },
-    "releaseDate": "2016-06-08",
-    "showtimes": [
-      "11:00"
-    ],
-    "showtimesDate": "2026-11-07",
-    "days": {
-      "2026-11-07": [
-        "11:00"
-      ]
-    },
-    "shows": {
-      "2026-11-07": [
-        {
-          "time": "11:00",
-          "tags": [
-            "VO"
-          ]
-        }
-      ]
-    },
-    "room": null,
-    "vo": true,
-    "url": "https://www.liveticket.it/opera.aspx?Id=694378",
-    "smart": {
-      "2026-11-07": 27
-    },
-    "rankUscita": 2,
-    "rankVoto": 8
+    "rankVoto": 6
   }
 ]

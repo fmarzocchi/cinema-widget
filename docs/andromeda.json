@@ -11,27 +11,33 @@
     },
     "releaseDate": "2026-11-04",
     "showtimes": [
+      "19:30",
       "21:30"
     ],
-    "showtimesDate": "2026-11-07",
+    "showtimesDate": "2026-11-08",
     "days": {
-      "2026-11-07": [
+      "2026-11-08": [
+        "19:30",
         "21:30"
       ]
     },
     "shows": {
-      "2026-11-07": [
+      "2026-11-08": [
+        {
+          "time": "19:30",
+          "tags": []
+        },
         {
           "time": "21:30",
           "tags": []
         }
       ]
     },
-    "room": null,
+    "room": "Sala 1",
     "vo": false,
     "url": "https://roma.andromeda.18tickets.it/film/83218",
     "smart": {
-      "2026-11-07": 81
+      "2026-11-08": 80
     },
     "rankUscita": 4,
     "rankVoto": 0
@@ -48,18 +54,30 @@
     },
     "releaseDate": "2026-11-05",
     "showtimes": [
+      "16:30",
+      "18:50",
       "21:00",
       "21:20"
     ],
-    "showtimesDate": "2026-11-07",
+    "showtimesDate": "2026-11-08",
     "days": {
-      "2026-11-07": [
+      "2026-11-08": [
+        "16:30",
+        "18:50",
         "21:00",
         "21:20"
       ]
     },
     "shows": {
-      "2026-11-07": [
+      "2026-11-08": [
+        {
+          "time": "16:30",
+          "tags": []
+        },
+        {
+          "time": "18:50",
+          "tags": []
+        },
         {
           "time": "21:00",
           "tags": [
@@ -72,11 +90,11 @@
         }
       ]
     },
-    "room": null,
+    "room": "Sala 7",
     "vo": false,
-    "url": "https://roma.andromeda.18tickets.it/film/89750",
+    "url": "https://roma.andromeda.18tickets.it/film/89717",
     "smart": {
-      "2026-11-07": 93
+      "2026-11-08": 92
     },
     "rankUscita": 0,
     "rankVoto": 1
@@ -144,14 +162,14 @@
     "showtimes": [
       "21:20"
     ],
-    "showtimesDate": "2026-11-07",
+    "showtimesDate": "2026-11-08",
     "days": {
-      "2026-11-07": [
+      "2026-11-08": [
         "21:20"
       ]
     },
     "shows": {
-      "2026-11-07": [
+      "2026-11-08": [
         {
           "time": "21:20",
           "tags": []
@@ -162,7 +180,7 @@
     "vo": false,
     "url": "https://roma.andromeda.18tickets.it/film/80411",
     "smart": {
-      "2026-11-07": 52
+      "2026-11-08": 44
     },
     "rankUscita": 9,
     "rankVoto": 3
@@ -179,27 +197,39 @@
     },
     "releaseDate": "2026-10-29",
     "showtimes": [
+      "16:30",
+      "18:45",
       "21:15"
     ],
-    "showtimesDate": "2026-11-07",
+    "showtimesDate": "2026-11-08",
     "days": {
-      "2026-11-07": [
+      "2026-11-08": [
+        "16:30",
+        "18:45",
         "21:15"
       ]
     },
     "shows": {
-      "2026-11-07": [
+      "2026-11-08": [
+        {
+          "time": "16:30",
+          "tags": []
+        },
+        {
+          "time": "18:45",
+          "tags": []
+        },
         {
           "time": "21:15",
           "tags": []
         }
       ]
     },
-    "room": null,
+    "room": "Sala 5",
     "vo": false,
     "url": "https://roma.andromeda.18tickets.it/film/88991",
     "smart": {
-      "2026-11-07": 59
+      "2026-11-08": 65
     },
     "rankUscita": 5,
     "rankVoto": 4
@@ -253,27 +283,33 @@
     },
     "releaseDate": "2026-11-05",
     "showtimes": [
+      "18:00",
       "21:00"
     ],
-    "showtimesDate": "2026-11-07",
+    "showtimesDate": "2026-11-08",
     "days": {
-      "2026-11-07": [
+      "2026-11-08": [
+        "18:00",
         "21:00"
       ]
     },
     "shows": {
-      "2026-11-07": [
+      "2026-11-08": [
+        {
+          "time": "18:00",
+          "tags": []
+        },
         {
           "time": "21:00",
           "tags": []
         }
       ]
     },
-    "room": null,
+    "room": "Sala 3",
     "vo": false,
     "url": "https://roma.andromeda.18tickets.it/film/88925",
     "smart": {
-      "2026-11-07": 61
+      "2026-11-08": 60
     },
     "rankUscita": 1,
     "rankVoto": 6
@@ -290,39 +326,106 @@
     },
     "releaseDate": "2026-11-05",
     "showtimes": [
+      "15:20",
+      "17:20",
+      "19:20",
       "21:20"
     ],
-    "showtimesDate": "2026-11-07",
+    "showtimesDate": "2026-11-08",
     "days": {
-      "2026-11-07": [
+      "2026-11-08": [
+        "15:20",
+        "17:20",
+        "19:20",
         "21:20"
       ]
     },
     "shows": {
-      "2026-11-07": [
+      "2026-11-08": [
+        {
+          "time": "15:20",
+          "tags": []
+        },
+        {
+          "time": "17:20",
+          "tags": []
+        },
+        {
+          "time": "19:20",
+          "tags": []
+        },
         {
           "time": "21:20",
           "tags": []
         }
       ]
     },
-    "room": null,
+    "room": "Sala 6",
     "vo": false,
     "url": "https://roma.andromeda.18tickets.it/film/86088",
     "smart": {
-      "2026-11-07": 61
+      "2026-11-08": 74
     },
     "rankUscita": 2,
     "rankVoto": 7
   },
   {
-    "title": "Il gatto col cappello",
-    "poster": "https://image.tmdb.org/t/p/w185/reGVZn7oCOXM5oaOTjV4MZhFwqT.jpg",
-    "rating": 6.5,
+    "title": "Un tranquillo funerale di famiglia",
+    "poster": "https://image.tmdb.org/t/p/w185/iXtZ4Y28GTw1BJFHgcmHrICoyL1.jpg",
+    "rating": 6.1,
     "ratings": {
       "letterboxd": null,
-      "imdb": 6.5,
+      "imdb": 6.1,
       "metacritic": null,
+      "mubi": null
+    },
+    "releaseDate": "2026-10-29",
+    "showtimes": [
+      "16:40",
+      "18:45",
+      "21:20"
+    ],
+    "showtimesDate": "2026-11-08",
+    "days": {
+      "2026-11-08": [
+        "16:40",
+        "18:45",
+        "21:20"
+      ]
+    },
+    "shows": {
+      "2026-11-08": [
+        {
+          "time": "16:40",
+          "tags": []
+        },
+        {
+          "time": "18:45",
+          "tags": []
+        },
+        {
+          "time": "21:20",
+          "tags": []
+        }
+      ]
+    },
+    "room": "Sala 2",
+    "vo": false,
+    "url": "https://roma.andromeda.18tickets.it/film/86054",
+    "smart": {
+      "2026-11-08": 55
+    },
+    "rankUscita": 6,
+    "rankVoto": 8
+  },
+  {
+    "title": "Il gatto col cappello",
+    "poster": "https://image.tmdb.org/t/p/w185/reGVZn7oCOXM5oaOTjV4MZhFwqT.jpg",
+    "rating": 5.8,
+    "ratings": {
+      "letterboxd": 6.3,
+      "imdb": 6.5,
+      "metacritic": 4.6,
       "mubi": null
     },
     "releaseDate": "2026-11-05",
@@ -365,46 +468,9 @@
     "vo": false,
     "url": "https://roma.andromeda.18tickets.it/film/86057",
     "smart": {
-      "2026-11-08": 74
+      "2026-11-08": 64
     },
     "rankUscita": 3,
-    "rankVoto": 8
-  },
-  {
-    "title": "Un tranquillo funerale di famiglia",
-    "poster": "https://image.tmdb.org/t/p/w185/iXtZ4Y28GTw1BJFHgcmHrICoyL1.jpg",
-    "rating": 6.1,
-    "ratings": {
-      "letterboxd": null,
-      "imdb": 6.1,
-      "metacritic": null,
-      "mubi": null
-    },
-    "releaseDate": "2026-10-29",
-    "showtimes": [
-      "21:20"
-    ],
-    "showtimesDate": "2026-11-07",
-    "days": {
-      "2026-11-07": [
-        "21:20"
-      ]
-    },
-    "shows": {
-      "2026-11-07": [
-        {
-          "time": "21:20",
-          "tags": []
-        }
-      ]
-    },
-    "room": null,
-    "vo": false,
-    "url": "https://roma.andromeda.18tickets.it/film/86054",
-    "smart": {
-      "2026-11-07": 49
-    },
-    "rankUscita": 6,
     "rankVoto": 9
   }
 ]
