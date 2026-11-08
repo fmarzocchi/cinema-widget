@@ -2,10 +2,10 @@
   {
     "title": "George Michael: The Faith Tour",
     "poster": "https://image.tmdb.org/t/p/w185/LXqHnaJ4ffkcx5YCuJN1noxkhr.jpg",
-    "rating": 8.3,
+    "rating": 8.8,
     "ratings": {
       "letterboxd": null,
-      "imdb": 8.3,
+      "imdb": 8.8,
       "metacritic": null,
       "mubi": null
     },
@@ -37,7 +37,7 @@
     "vo": false,
     "url": "https://roma.andromeda.18tickets.it/film/83218",
     "smart": {
-      "2026-11-08": 80
+      "2026-11-08": 82
     },
     "rankUscita": 4,
     "rankVoto": 0
@@ -188,10 +188,10 @@
   {
     "title": "Dio ride",
     "poster": "https://image.tmdb.org/t/p/w185/p5cuENoUviYoK6IBHg2FS4oTRGD.jpg",
-    "rating": 6.9,
+    "rating": 6.8,
     "ratings": {
       "letterboxd": 6.6,
-      "imdb": 7.1,
+      "imdb": 7,
       "metacritic": null,
       "mubi": null
     },
@@ -229,7 +229,7 @@
     "vo": false,
     "url": "https://roma.andromeda.18tickets.it/film/88991",
     "smart": {
-      "2026-11-08": 65
+      "2026-11-08": 64
     },
     "rankUscita": 5,
     "rankVoto": 4
@@ -317,10 +317,10 @@
   {
     "title": "Se domani non torno",
     "poster": "https://image.tmdb.org/t/p/w185/yfnAxbirYCIm1qP9ZT9LjYIj6DQ.jpg",
-    "rating": 6.6,
+    "rating": 6.3,
     "ratings": {
       "letterboxd": null,
-      "imdb": 6.6,
+      "imdb": 6.3,
       "metacritic": null,
       "mubi": null
     },
@@ -364,7 +364,7 @@
     "vo": false,
     "url": "https://roma.andromeda.18tickets.it/film/86088",
     "smart": {
-      "2026-11-08": 74
+      "2026-11-08": 70
     },
     "rankUscita": 2,
     "rankVoto": 7
@@ -424,7 +424,7 @@
     "rating": 5.8,
     "ratings": {
       "letterboxd": 6.3,
-      "imdb": 6.5,
+      "imdb": 6.4,
       "metacritic": 4.6,
       "mubi": null
     },
