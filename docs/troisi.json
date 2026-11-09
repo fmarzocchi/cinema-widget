@@ -11,13 +11,10 @@
     },
     "releaseDate": "1958-08-16",
     "showtimes": [
-      "16:30"
+      "14:00"
     ],
-    "showtimesDate": "2026-11-08",
+    "showtimesDate": "2026-11-09",
     "days": {
-      "2026-11-08": [
-        "16:30"
-      ],
       "2026-11-09": [
         "14:00"
       ],
@@ -26,14 +23,6 @@
       ]
     },
     "shows": {
-      "2026-11-08": [
-        {
-          "time": "16:30",
-          "tags": [
-            "VO"
-          ]
-        }
-      ],
       "2026-11-09": [
         {
           "time": "14:00",
@@ -55,8 +44,7 @@
     "vo": true,
     "url": "https://www.liveticket.it/opera.aspx?Id=709700",
     "smart": {
-      "2026-11-08": 57,
-      "2026-11-09": 52,
+      "2026-11-09": 57,
       "2026-11-11": 57
     },
     "rankUscita": 6,
@@ -74,15 +62,11 @@
     },
     "releaseDate": "2026-11-05",
     "showtimes": [
-      "14:00",
-      "19:00"
+      "16:15",
+      "21:30"
     ],
-    "showtimesDate": "2026-11-08",
+    "showtimesDate": "2026-11-09",
     "days": {
-      "2026-11-08": [
-        "14:00",
-        "19:00"
-      ],
       "2026-11-09": [
         "16:15",
         "21:30"
@@ -96,20 +80,6 @@
       ]
     },
     "shows": {
-      "2026-11-08": [
-        {
-          "time": "14:00",
-          "tags": [
-            "VO"
-          ]
-        },
-        {
-          "time": "19:00",
-          "tags": [
-            "VO"
-          ]
-        }
-      ],
       "2026-11-09": [
         {
           "time": "16:15",
@@ -151,50 +121,12 @@
     "vo": true,
     "url": "https://www.liveticket.it/opera.aspx?Id=705621",
     "smart": {
-      "2026-11-08": 92,
-      "2026-11-09": 83,
+      "2026-11-09": 92,
       "2026-11-10": 92,
       "2026-11-11": 92
     },
     "rankUscita": 0,
     "rankVoto": 1
-  },
-  {
-    "title": "Willy Wonka e la fabbrica di cioccolato",
-    "poster": "https://image.tmdb.org/t/p/w185/55YAF9n4BuhtcCs8R8ZnxotEfz5.jpg",
-    "rating": 7.4,
-    "ratings": {
-      "letterboxd": 7.5,
-      "imdb": 7.8,
-      "metacritic": 6.7,
-      "mubi": 7.6
-    },
-    "releaseDate": "1971-10-22",
-    "showtimes": [
-      "11:00"
-    ],
-    "showtimesDate": "2026-11-08",
-    "days": {
-      "2026-11-08": [
-        "11:00"
-      ]
-    },
-    "shows": {
-      "2026-11-08": [
-        {
-          "time": "11:00",
-          "tags": []
-        }
-      ]
-    },
-    "room": null,
-    "vo": false,
-    "url": "https://www.liveticket.it/opera.aspx?Id=412949",
-    "smart": {
-      "2026-11-08": 44
-    },
-    "rankUscita": 5,
-    "rankVoto": 2
   },
   {
     "title": "The Dreamers - I sognatori",
@@ -230,10 +162,10 @@
     "vo": true,
     "url": "https://www.liveticket.it/opera.aspx?Id=638825",
     "smart": {
-      "2026-11-09": 36
+      "2026-11-09": 41
     },
     "rankUscita": 2,
-    "rankVoto": 3
+    "rankVoto": 2
   },
   {
     "title": "The Nine Lives of Tomas Katz",
@@ -270,7 +202,7 @@
       "2026-11-12": 56
     },
     "rankUscita": 3,
-    "rankVoto": 4
+    "rankVoto": 3
   },
   {
     "title": "Strategia del ragno",
@@ -306,6 +238,43 @@
     "smart": {
       "2026-11-10": 56
     },
+    "rankUscita": 5,
+    "rankVoto": 4
+  },
+  {
+    "title": "Chi ha paura delle streghe?",
+    "poster": "https://image.tmdb.org/t/p/w185/cXAqZpuFqRUmggj99lihMlZbo6A.jpg",
+    "rating": 7.1,
+    "ratings": {
+      "letterboxd": 6.9,
+      "imdb": 6.8,
+      "metacritic": 7.8,
+      "mubi": 6.7
+    },
+    "releaseDate": "1990-08-25",
+    "showtimes": [
+      "11:00"
+    ],
+    "showtimesDate": "2026-11-15",
+    "days": {
+      "2026-11-15": [
+        "11:00"
+      ]
+    },
+    "shows": {
+      "2026-11-15": [
+        {
+          "time": "11:00",
+          "tags": []
+        }
+      ]
+    },
+    "room": null,
+    "vo": false,
+    "url": "https://www.liveticket.it/opera.aspx?Id=413819",
+    "smart": {
+      "2026-11-15": 54
+    },
     "rankUscita": 4,
     "rankVoto": 5
   },
@@ -321,15 +290,12 @@
     },
     "releaseDate": "2026-11-05",
     "showtimes": [
-      "21:15"
+      "11:00",
+      "18:30"
     ],
-    "showtimesDate": "2026-11-08",
+    "showtimesDate": "2026-11-09",
     "days": {
-      "2026-11-08": [
-        "21:15"
-      ],
       "2026-11-09": [
-        "00:30",
         "11:00",
         "18:30"
       ],
@@ -342,21 +308,7 @@
       ]
     },
     "shows": {
-      "2026-11-08": [
-        {
-          "time": "21:15",
-          "tags": [
-            "VO"
-          ]
-        }
-      ],
       "2026-11-09": [
-        {
-          "time": "00:30",
-          "tags": [
-            "VO"
-          ]
-        },
         {
           "time": "11:00",
           "tags": [
@@ -397,10 +349,9 @@
     "vo": true,
     "url": "https://www.liveticket.it/opera.aspx?Id=709667",
     "smart": {
-      "2026-11-08": 60,
-      "2026-11-09": 74,
-      "2026-11-10": 74,
-      "2026-11-11": 74
+      "2026-11-09": 73,
+      "2026-11-10": 73,
+      "2026-11-11": 73
     },
     "rankUscita": 1,
     "rankVoto": 6
