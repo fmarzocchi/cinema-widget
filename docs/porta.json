@@ -628,7 +628,7 @@
     "rating": 6.9,
     "ratings": {
       "letterboxd": 6.6,
-      "imdb": 7.1,
+      "imdb": 7.2,
       "metacritic": null,
       "mubi": null
     },
@@ -824,7 +824,7 @@
     "rating": 6.7,
     "ratings": {
       "letterboxd": 6,
-      "imdb": 7.3,
+      "imdb": 7.4,
       "metacritic": null,
       "mubi": null
     },
@@ -965,49 +965,12 @@
     "rankVoto": 13
   },
   {
-    "title": "La storia infinita",
-    "poster": "https://image.tmdb.org/t/p/w185/m5plr6ylu6sXPPRQ5hlQC8JkYWx.jpg",
-    "rating": 6.6,
-    "ratings": {
-      "letterboxd": 7.3,
-      "imdb": 7.3,
-      "metacritic": 4.9,
-      "mubi": 6.9
-    },
-    "releaseDate": "1984-12-06",
-    "showtimes": [
-      "20:50"
-    ],
-    "showtimesDate": "2026-11-16",
-    "days": {
-      "2026-11-16": [
-        "20:50"
-      ]
-    },
-    "shows": {
-      "2026-11-16": [
-        {
-          "time": "20:50",
-          "tags": []
-        }
-      ]
-    },
-    "room": "Sala 7",
-    "vo": false,
-    "url": "https://ucicinemas.it/film/la-storia-infinita/",
-    "smart": {
-      "2026-11-16": 27
-    },
-    "rankUscita": 25,
-    "rankVoto": 14
-  },
-  {
     "title": "Se domani non torno",
     "poster": "https://image.tmdb.org/t/p/w185/yfnAxbirYCIm1qP9ZT9LjYIj6DQ.jpg",
-    "rating": 6.5,
+    "rating": 6.6,
     "ratings": {
       "letterboxd": null,
-      "imdb": 6.5,
+      "imdb": 6.6,
       "metacritic": null,
       "mubi": null
     },
@@ -1135,10 +1098,47 @@
     "vo": false,
     "url": "https://ucicinemas.it/film/se-domani-non-torno/",
     "smart": {
-      "2026-11-10": 71,
-      "2026-11-11": 71
+      "2026-11-10": 72,
+      "2026-11-11": 72
     },
     "rankUscita": 8,
+    "rankVoto": 14
+  },
+  {
+    "title": "La storia infinita",
+    "poster": "https://image.tmdb.org/t/p/w185/m5plr6ylu6sXPPRQ5hlQC8JkYWx.jpg",
+    "rating": 6.6,
+    "ratings": {
+      "letterboxd": 7.3,
+      "imdb": 7.3,
+      "metacritic": 4.9,
+      "mubi": 6.9
+    },
+    "releaseDate": "1984-12-06",
+    "showtimes": [
+      "20:50"
+    ],
+    "showtimesDate": "2026-11-16",
+    "days": {
+      "2026-11-16": [
+        "20:50"
+      ]
+    },
+    "shows": {
+      "2026-11-16": [
+        {
+          "time": "20:50",
+          "tags": []
+        }
+      ]
+    },
+    "room": "Sala 7",
+    "vo": false,
+    "url": "https://ucicinemas.it/film/la-storia-infinita/",
+    "smart": {
+      "2026-11-16": 27
+    },
+    "rankUscita": 25,
     "rankVoto": 15
   },
   {
@@ -1394,6 +1394,7 @@
       ],
       "2026-11-15": [
         "10:50",
+        "16:40",
         "19:00",
         "21:40"
       ],
@@ -1463,6 +1464,10 @@
           "tags": []
         },
         {
+          "time": "16:40",
+          "tags": []
+        },
+        {
           "time": "19:00",
           "tags": [
             "XL"
@@ -1497,7 +1502,7 @@
       "2026-11-12": 57,
       "2026-11-13": 57,
       "2026-11-14": 57,
-      "2026-11-15": 57,
+      "2026-11-15": 62,
       "2026-11-16": 54
     },
     "rankUscita": 2,

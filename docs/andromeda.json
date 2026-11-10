@@ -222,7 +222,7 @@
     "rating": 6.9,
     "ratings": {
       "letterboxd": 6.6,
-      "imdb": 7.1,
+      "imdb": 7.2,
       "metacritic": null,
       "mubi": null
     },
@@ -348,10 +348,10 @@
   {
     "title": "Se domani non torno",
     "poster": "https://image.tmdb.org/t/p/w185/yfnAxbirYCIm1qP9ZT9LjYIj6DQ.jpg",
-    "rating": 6.5,
+    "rating": 6.6,
     "ratings": {
       "letterboxd": null,
-      "imdb": 6.5,
+      "imdb": 6.6,
       "metacritic": null,
       "mubi": null
     },
@@ -389,7 +389,7 @@
     "vo": false,
     "url": "https://roma.andromeda.18tickets.it/film/86088",
     "smart": {
-      "2026-11-10": 64
+      "2026-11-10": 65
     },
     "rankUscita": 5,
     "rankVoto": 8

@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-11-09T23:58:51.465Z",
+  "updatedAt": "2026-11-10T12:08:17.300Z",
   "today": "2026-11-10",
   "ratingScale": 10,
   "ratingSources": {
-    "film": 41,
-    "letterboxd": 26,
-    "imdb": 28,
-    "metacritic": 18,
-    "mubi": 20,
-    "media": 29
+    "film": 42,
+    "letterboxd": 27,
+    "imdb": 29,
+    "metacritic": 19,
+    "mubi": 21,
+    "media": 30
   },
   "widgetUrl": "https://fmarzocchi.github.io/cinema-widget/cinema.json",
   "feeds": [
@@ -24,7 +24,7 @@
       "key": "troisi",
       "label": "TROISI",
       "cinema": "Cinema Troisi",
-      "count": 6,
+      "count": 7,
       "state": "ok",
       "url": "https://fmarzocchi.github.io/cinema-widget/troisi.json"
     },
