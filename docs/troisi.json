@@ -1,5 +1,42 @@
 [
   {
+    "title": "Il conformista",
+    "poster": "https://image.tmdb.org/t/p/w185/cLguHl1zGwhAUjDG0VAxAuwVOxV.jpg",
+    "rating": 8.7,
+    "ratings": {
+      "letterboxd": 8.4,
+      "imdb": 7.9,
+      "metacritic": 10,
+      "mubi": 8.6
+    },
+    "releaseDate": "1971-01-29",
+    "showtimes": [
+      "18:30"
+    ],
+    "showtimesDate": "2026-11-17",
+    "days": {
+      "2026-11-17": [
+        "18:30"
+      ]
+    },
+    "shows": {
+      "2026-11-17": [
+        {
+          "time": "18:30",
+          "tags": []
+        }
+      ]
+    },
+    "room": null,
+    "vo": false,
+    "url": "https://www.liveticket.it/opera.aspx?Id=705639",
+    "smart": {
+      "2026-11-17": 57
+    },
+    "rankUscita": 6,
+    "rankVoto": 0
+  },
+  {
     "title": "L'infernale Quinlan",
     "poster": "https://image.tmdb.org/t/p/w185/liLUacZTs3J5UXt1OlBNuvGOZ5T.jpg",
     "rating": 8.7,
@@ -36,7 +73,7 @@
       "2026-11-11": 57
     },
     "rankUscita": 7,
-    "rankVoto": 0
+    "rankVoto": 1
   },
   {
     "title": "La fiamma del peccato",
@@ -75,7 +112,7 @@
       "2026-11-14": 57
     },
     "rankUscita": 8,
-    "rankVoto": 1
+    "rankVoto": 2
   },
   {
     "title": "Look Back",
@@ -113,6 +150,10 @@
       "2026-11-16": [
         "14:30",
         "19:00"
+      ],
+      "2026-11-17": [
+        "11:00",
+        "16:30"
       ]
     },
     "shows": {
@@ -185,6 +226,20 @@
             "VO"
           ]
         }
+      ],
+      "2026-11-17": [
+        {
+          "time": "11:00",
+          "tags": [
+            "VO"
+          ]
+        },
+        {
+          "time": "16:30",
+          "tags": [
+            "VO"
+          ]
+        }
       ]
     },
     "room": null,
@@ -195,10 +250,11 @@
       "2026-11-13": 70,
       "2026-11-14": 70,
       "2026-11-15": 61,
-      "2026-11-16": 70
+      "2026-11-16": 70,
+      "2026-11-17": 70
     },
     "rankUscita": 2,
-    "rankVoto": 2
+    "rankVoto": 3
   },
   {
     "title": "Wild Horse Nine",
@@ -212,13 +268,11 @@
     },
     "releaseDate": "2026-11-05",
     "showtimes": [
-      "20:30"
+      "13:30",
+      "19:00"
     ],
-    "showtimesDate": "2026-11-10",
+    "showtimesDate": "2026-11-11",
     "days": {
-      "2026-11-10": [
-        "20:30"
-      ],
       "2026-11-11": [
         "13:30",
         "19:00"
@@ -243,17 +297,12 @@
       "2026-11-16": [
         "16:30",
         "21:00"
+      ],
+      "2026-11-17": [
+        "14:00"
       ]
     },
     "shows": {
-      "2026-11-10": [
-        {
-          "time": "20:30",
-          "tags": [
-            "VO"
-          ]
-        }
-      ],
       "2026-11-11": [
         {
           "time": "13:30",
@@ -343,22 +392,30 @@
             "VO"
           ]
         }
+      ],
+      "2026-11-17": [
+        {
+          "time": "14:00",
+          "tags": [
+            "VO"
+          ]
+        }
       ]
     },
     "room": null,
     "vo": true,
     "url": "https://www.liveticket.it/opera.aspx?Id=705621",
     "smart": {
-      "2026-11-10": 91,
-      "2026-11-11": 91,
-      "2026-11-12": 91,
-      "2026-11-13": 91,
-      "2026-11-14": 91,
-      "2026-11-15": 91,
-      "2026-11-16": 91
+      "2026-11-11": 90,
+      "2026-11-12": 90,
+      "2026-11-13": 90,
+      "2026-11-14": 90,
+      "2026-11-15": 90,
+      "2026-11-16": 90,
+      "2026-11-17": 76
     },
     "rankUscita": 0,
-    "rankVoto": 3
+    "rankVoto": 4
   },
   {
     "title": "The Dreamers - I sognatori",
@@ -397,7 +454,7 @@
       "2026-11-16": 41
     },
     "rankUscita": 3,
-    "rankVoto": 4
+    "rankVoto": 5
   },
   {
     "title": "The Nine Lives of Tomas Katz",
@@ -434,43 +491,6 @@
       "2026-11-12": 41
     },
     "rankUscita": 4,
-    "rankVoto": 5
-  },
-  {
-    "title": "Strategia del ragno",
-    "poster": "https://image.tmdb.org/t/p/w185/qxg1zB70olHgLuZPemVGYKBfwu8.jpg",
-    "rating": 7.2,
-    "ratings": {
-      "letterboxd": 7.3,
-      "imdb": 6.8,
-      "metacritic": null,
-      "mubi": 7.5
-    },
-    "releaseDate": "1973-03-25",
-    "showtimes": [
-      "18:30"
-    ],
-    "showtimesDate": "2026-11-10",
-    "days": {
-      "2026-11-10": [
-        "18:30"
-      ]
-    },
-    "shows": {
-      "2026-11-10": [
-        {
-          "time": "18:30",
-          "tags": []
-        }
-      ]
-    },
-    "room": null,
-    "vo": false,
-    "url": "https://www.liveticket.it/opera.aspx?Id=705637",
-    "smart": {
-      "2026-11-10": 56
-    },
-    "rankUscita": 6,
     "rankVoto": 6
   },
   {
@@ -522,13 +542,11 @@
     },
     "releaseDate": "2026-11-05",
     "showtimes": [
-      "22:45"
+      "16:00",
+      "21:30"
     ],
-    "showtimesDate": "2026-11-10",
+    "showtimesDate": "2026-11-11",
     "days": {
-      "2026-11-10": [
-        "22:45"
-      ],
       "2026-11-11": [
         "16:00",
         "21:30"
@@ -553,14 +571,6 @@
       ]
     },
     "shows": {
-      "2026-11-10": [
-        {
-          "time": "22:45",
-          "tags": [
-            "VO"
-          ]
-        }
-      ],
       "2026-11-11": [
         {
           "time": "16:00",
@@ -638,9 +648,8 @@
     "vo": true,
     "url": "https://www.liveticket.it/opera.aspx?Id=709667",
     "smart": {
-      "2026-11-10": 72,
       "2026-11-11": 72,
-      "2026-11-12": 58,
+      "2026-11-12": 57,
       "2026-11-13": 72,
       "2026-11-14": 72,
       "2026-11-15": 53,
@@ -648,5 +657,42 @@
     },
     "rankUscita": 1,
     "rankVoto": 8
+  },
+  {
+    "title": "À la grâce de dieu",
+    "poster": "https://cinematroisi.liveticket.it/wp-content/uploads/sites/48/00312477-180x257.jpg",
+    "rating": null,
+    "ratings": {
+      "letterboxd": null,
+      "imdb": null,
+      "metacritic": null,
+      "mubi": null
+    },
+    "releaseDate": null,
+    "showtimes": [
+      "21:00"
+    ],
+    "showtimesDate": "2026-11-17",
+    "days": {
+      "2026-11-17": [
+        "21:00"
+      ]
+    },
+    "shows": {
+      "2026-11-17": [
+        {
+          "time": "21:00",
+          "tags": []
+        }
+      ]
+    },
+    "room": null,
+    "vo": false,
+    "url": "https://www.liveticket.it/opera.aspx?Id=710226",
+    "smart": {
+      "2026-11-17": 50
+    },
+    "rankUscita": 9,
+    "rankVoto": 9
   }
 ]
