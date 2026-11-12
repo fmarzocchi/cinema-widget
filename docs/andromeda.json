@@ -80,7 +80,7 @@
     "vo": false,
     "url": "https://roma.andromeda.18tickets.it/film/89717",
     "smart": {
-      "2026-11-12": 83
+      "2026-11-12": 82
     },
     "rankUscita": 4,
     "rankVoto": 1
@@ -117,10 +117,53 @@
     "vo": false,
     "url": "https://roma.andromeda.18tickets.it/film/86813",
     "smart": {
-      "2026-11-14": 75
+      "2026-11-14": 74
     },
     "rankUscita": 10,
     "rankVoto": 2
+  },
+  {
+    "title": "Se domani non torno",
+    "poster": "https://image.tmdb.org/t/p/w185/yfnAxbirYCIm1qP9ZT9LjYIj6DQ.jpg",
+    "rating": 6.9,
+    "ratings": {
+      "letterboxd": null,
+      "imdb": 6.9,
+      "metacritic": null,
+      "mubi": null
+    },
+    "releaseDate": "2026-11-05",
+    "showtimes": [
+      "16:30",
+      "18:40"
+    ],
+    "showtimesDate": "2026-11-12",
+    "days": {
+      "2026-11-12": [
+        "16:30",
+        "18:40"
+      ]
+    },
+    "shows": {
+      "2026-11-12": [
+        {
+          "time": "16:30",
+          "tags": []
+        },
+        {
+          "time": "18:40",
+          "tags": []
+        }
+      ]
+    },
+    "room": "Sala 3",
+    "vo": false,
+    "url": "https://roma.andromeda.18tickets.it/film/86088",
+    "smart": {
+      "2026-11-12": 60
+    },
+    "rankUscita": 5,
+    "rankVoto": 3
   },
   {
     "title": "Dio ride",
@@ -169,49 +212,6 @@
       "2026-11-12": 63
     },
     "rankUscita": 8,
-    "rankVoto": 3
-  },
-  {
-    "title": "Se domani non torno",
-    "poster": "https://image.tmdb.org/t/p/w185/yfnAxbirYCIm1qP9ZT9LjYIj6DQ.jpg",
-    "rating": 6.8,
-    "ratings": {
-      "letterboxd": null,
-      "imdb": 6.8,
-      "metacritic": null,
-      "mubi": null
-    },
-    "releaseDate": "2026-11-05",
-    "showtimes": [
-      "16:30",
-      "18:40"
-    ],
-    "showtimesDate": "2026-11-12",
-    "days": {
-      "2026-11-12": [
-        "16:30",
-        "18:40"
-      ]
-    },
-    "shows": {
-      "2026-11-12": [
-        {
-          "time": "16:30",
-          "tags": []
-        },
-        {
-          "time": "18:40",
-          "tags": []
-        }
-      ]
-    },
-    "room": "Sala 3",
-    "vo": false,
-    "url": "https://roma.andromeda.18tickets.it/film/86088",
-    "smart": {
-      "2026-11-12": 60
-    },
-    "rankUscita": 5,
     "rankVoto": 4
   },
   {
@@ -246,7 +246,7 @@
     "vo": false,
     "url": "https://roma.andromeda.18tickets.it/film/88925",
     "smart": {
-      "2026-11-12": 50
+      "2026-11-12": 49
     },
     "rankUscita": 6,
     "rankVoto": 5
@@ -295,7 +295,7 @@
     "vo": false,
     "url": "https://roma.andromeda.18tickets.it/film/86054",
     "smart": {
-      "2026-11-12": 56
+      "2026-11-12": 55
     },
     "rankUscita": 9,
     "rankVoto": 6
@@ -387,7 +387,7 @@
     "vo": false,
     "url": "https://roma.andromeda.18tickets.it/film/86057",
     "smart": {
-      "2026-11-12": 48
+      "2026-11-12": 47
     },
     "rankUscita": 7,
     "rankVoto": 8
