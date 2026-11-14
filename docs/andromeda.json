@@ -228,7 +228,7 @@
     "rating": 6.9,
     "ratings": {
       "letterboxd": 6.6,
-      "imdb": 7.1,
+      "imdb": 7.2,
       "metacritic": null,
       "mubi": null
     },
@@ -419,12 +419,14 @@
     "releaseDate": "2026-11-05",
     "showtimes": [
       "15:30",
+      "16:50",
       "18:40"
     ],
     "showtimesDate": "2026-11-14",
     "days": {
       "2026-11-14": [
         "15:30",
+        "16:50",
         "18:40"
       ]
     },
@@ -435,16 +437,20 @@
           "tags": []
         },
         {
+          "time": "16:50",
+          "tags": []
+        },
+        {
           "time": "18:40",
           "tags": []
         }
       ]
     },
-    "room": "Sala 5",
+    "room": "Sala 1",
     "vo": false,
     "url": "https://roma.andromeda.18tickets.it/film/86057",
     "smart": {
-      "2026-11-14": 45
+      "2026-11-14": 52
     },
     "rankUscita": 8,
     "rankVoto": 9
