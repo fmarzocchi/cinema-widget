@@ -119,10 +119,10 @@
   {
     "title": "Scrooge e gli spiriti del Natale",
     "poster": "https://image.tmdb.org/t/p/w185/drg45KOBksTrv9qQA0EmNuFgHG9.jpg",
-    "rating": 7,
+    "rating": 7.1,
     "ratings": {
       "letterboxd": null,
-      "imdb": 7,
+      "imdb": 7.1,
       "metacritic": null,
       "mubi": null
     },
@@ -168,7 +168,7 @@
     "vo": false,
     "url": "https://roma.andromeda.18tickets.it/film/88595",
     "smart": {
-      "2026-11-15": 79
+      "2026-11-15": 80
     },
     "rankUscita": 2,
     "rankVoto": 3
@@ -308,7 +308,7 @@
     "rating": 6.3,
     "ratings": {
       "letterboxd": 6.2,
-      "imdb": 6.3,
+      "imdb": 6.4,
       "metacritic": null,
       "mubi": null
     },
@@ -450,6 +450,55 @@
     "rankVoto": 9
   },
   {
+    "title": "Un weekend artificiale",
+    "poster": "https://image.tmdb.org/t/p/w185/x8fbJstLDEYYlJSCDj3v0MD9Lqd.jpg",
+    "rating": 5,
+    "ratings": {
+      "letterboxd": null,
+      "imdb": 5,
+      "metacritic": null,
+      "mubi": null
+    },
+    "releaseDate": "2026-11-12",
+    "showtimes": [
+      "17:30",
+      "19:30",
+      "21:20"
+    ],
+    "showtimesDate": "2026-11-15",
+    "days": {
+      "2026-11-15": [
+        "17:30",
+        "19:30",
+        "21:20"
+      ]
+    },
+    "shows": {
+      "2026-11-15": [
+        {
+          "time": "17:30",
+          "tags": []
+        },
+        {
+          "time": "19:30",
+          "tags": []
+        },
+        {
+          "time": "21:20",
+          "tags": []
+        }
+      ]
+    },
+    "room": "Sala 8",
+    "vo": false,
+    "url": "https://roma.andromeda.18tickets.it/film/90344",
+    "smart": {
+      "2026-11-15": 47
+    },
+    "rankUscita": 4,
+    "rankVoto": 10
+  },
+  {
     "title": "Hunger Games - L'alba sulla mietitura",
     "poster": "https://image.tmdb.org/t/p/w185/uR1lZA2ET3gf7uGVgbRwSeSkEsU.jpg",
     "rating": null,
@@ -490,7 +539,7 @@
       "2026-11-19": 79
     },
     "rankUscita": 0,
-    "rankVoto": 10
+    "rankVoto": 11
   },
   {
     "title": "In un battito",
@@ -527,55 +576,6 @@
       "2026-11-17": 79
     },
     "rankUscita": 1,
-    "rankVoto": 11
-  },
-  {
-    "title": "Un weekend artificiale",
-    "poster": "https://image.tmdb.org/t/p/w185/x8fbJstLDEYYlJSCDj3v0MD9Lqd.jpg",
-    "rating": null,
-    "ratings": {
-      "letterboxd": null,
-      "imdb": null,
-      "metacritic": null,
-      "mubi": null
-    },
-    "releaseDate": "2026-11-12",
-    "showtimes": [
-      "17:30",
-      "19:30",
-      "21:20"
-    ],
-    "showtimesDate": "2026-11-15",
-    "days": {
-      "2026-11-15": [
-        "17:30",
-        "19:30",
-        "21:20"
-      ]
-    },
-    "shows": {
-      "2026-11-15": [
-        {
-          "time": "17:30",
-          "tags": []
-        },
-        {
-          "time": "19:30",
-          "tags": []
-        },
-        {
-          "time": "21:20",
-          "tags": []
-        }
-      ]
-    },
-    "room": "Sala 8",
-    "vo": false,
-    "url": "https://roma.andromeda.18tickets.it/film/90344",
-    "smart": {
-      "2026-11-15": 69
-    },
-    "rankUscita": 4,
     "rankVoto": 12
   },
   {
