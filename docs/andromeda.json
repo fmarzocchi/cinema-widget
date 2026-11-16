@@ -82,10 +82,10 @@
   {
     "title": "Scrooge e gli spiriti del Natale",
     "poster": "https://image.tmdb.org/t/p/w185/drg45KOBksTrv9qQA0EmNuFgHG9.jpg",
-    "rating": 7.1,
+    "rating": 7.2,
     "ratings": {
       "letterboxd": null,
-      "imdb": 7.1,
+      "imdb": 7.2,
       "metacritic": null,
       "mubi": null
     },
@@ -131,7 +131,7 @@
     "vo": false,
     "url": "https://roma.andromeda.18tickets.it/film/88595",
     "smart": {
-      "2026-11-16": 79
+      "2026-11-16": 81
     },
     "rankUscita": 2,
     "rankVoto": 2
@@ -391,10 +391,10 @@
   {
     "title": "Un weekend artificiale",
     "poster": "https://image.tmdb.org/t/p/w185/x8fbJstLDEYYlJSCDj3v0MD9Lqd.jpg",
-    "rating": 5,
+    "rating": 5.2,
     "ratings": {
       "letterboxd": null,
-      "imdb": 5,
+      "imdb": 5.2,
       "metacritic": null,
       "mubi": null
     },
@@ -426,7 +426,7 @@
     "vo": false,
     "url": "https://roma.andromeda.18tickets.it/film/90344",
     "smart": {
-      "2026-11-16": 39
+      "2026-11-16": 42
     },
     "rankUscita": 4,
     "rankVoto": 9

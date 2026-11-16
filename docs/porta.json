@@ -49,7 +49,7 @@
     "vo": false,
     "url": "https://ucicinemas.it/film/wildwood/",
     "smart": {
-      "2026-11-16": 60,
+      "2026-11-16": 59,
       "2026-11-17": 60,
       "2026-11-18": 60
     },
@@ -122,7 +122,7 @@
     "vo": false,
     "url": "https://ucicinemas.it/film/2001-odissea-nello-spazio/",
     "smart": {
-      "2026-11-16": 52,
+      "2026-11-16": 49,
       "2026-11-17": 52,
       "2026-11-18": 52
     },
@@ -179,7 +179,7 @@
     "vo": false,
     "url": "https://ucicinemas.it/film/wild-horse-nine/",
     "smart": {
-      "2026-11-16": 61,
+      "2026-11-16": 60,
       "2026-11-17": 61,
       "2026-11-18": 61
     },
@@ -376,7 +376,7 @@
     "vo": false,
     "url": "https://ucicinemas.it/film/godzilla-minus-zero/",
     "smart": {
-      "2026-11-16": 87,
+      "2026-11-16": 77,
       "2026-11-17": 87,
       "2026-11-18": 87,
       "2026-11-19": 61,
@@ -401,11 +401,8 @@
     "showtimes": [
       "20:20"
     ],
-    "showtimesDate": "2026-11-16",
+    "showtimesDate": "2026-11-17",
     "days": {
-      "2026-11-16": [
-        "20:20"
-      ],
       "2026-11-17": [
         "20:20"
       ],
@@ -414,12 +411,6 @@
       ]
     },
     "shows": {
-      "2026-11-16": [
-        {
-          "time": "20:20",
-          "tags": []
-        }
-      ],
       "2026-11-17": [
         {
           "time": "20:20",
@@ -437,7 +428,6 @@
     "vo": false,
     "url": "https://ucicinemas.it/film/il-canto-della-foresta/",
     "smart": {
-      "2026-11-16": 63,
       "2026-11-17": 63,
       "2026-11-18": 63
     },
@@ -510,7 +500,7 @@
     "vo": false,
     "url": "https://ucicinemas.it/film/look-back/",
     "smart": {
-      "2026-11-16": 68,
+      "2026-11-16": 64,
       "2026-11-17": 68,
       "2026-11-18": 68
     },
@@ -529,12 +519,14 @@
     },
     "releaseDate": "2026-10-28",
     "showtimes": [
-      "15:20"
+      "15:20",
+      "16:50"
     ],
     "showtimesDate": "2026-11-16",
     "days": {
       "2026-11-16": [
-        "15:20"
+        "15:20",
+        "16:50"
       ],
       "2026-11-17": [
         "15:20"
@@ -547,6 +539,10 @@
       "2026-11-16": [
         {
           "time": "15:20",
+          "tags": []
+        },
+        {
+          "time": "16:50",
           "tags": []
         }
       ],
@@ -567,7 +563,7 @@
     "vo": false,
     "url": "https://ucicinemas.it/film/shaun-vita-da-pecora-operazione-zucca/",
     "smart": {
-      "2026-11-16": 48,
+      "2026-11-16": 50,
       "2026-11-17": 48,
       "2026-11-18": 48
     },
@@ -768,7 +764,7 @@
     "vo": false,
     "url": "https://ucicinemas.it/film/se-domani-non-torno/",
     "smart": {
-      "2026-11-16": 63,
+      "2026-11-16": 57,
       "2026-11-17": 63,
       "2026-11-18": 63
     },
@@ -789,14 +785,14 @@
     "showtimes": [
       "15:50",
       "17:50",
-      "21:10"
+      "21:40"
     ],
     "showtimesDate": "2026-11-16",
     "days": {
       "2026-11-16": [
         "15:50",
         "17:50",
-        "21:10"
+        "21:40"
       ],
       "2026-11-17": [
         "15:50",
@@ -820,7 +816,7 @@
           "tags": []
         },
         {
-          "time": "21:10",
+          "time": "21:40",
           "tags": []
         }
       ],
@@ -857,7 +853,7 @@
     "vo": false,
     "url": "https://ucicinemas.it/film/dio-ride/",
     "smart": {
-      "2026-11-16": 53,
+      "2026-11-16": 49,
       "2026-11-17": 53,
       "2026-11-18": 53
     },
@@ -943,7 +939,7 @@
     "vo": false,
     "url": "https://ucicinemas.it/film/balcanica/",
     "smart": {
-      "2026-11-16": 29
+      "2026-11-16": 28
     },
     "rankUscita": 23,
     "rankVoto": 11
@@ -1014,7 +1010,7 @@
     "vo": false,
     "url": "https://ucicinemas.it/film/hope/",
     "smart": {
-      "2026-11-16": 50,
+      "2026-11-16": 47,
       "2026-11-17": 50,
       "2026-11-18": 50
     },
@@ -1034,13 +1030,15 @@
     "releaseDate": "1984-12-06",
     "showtimes": [
       "16:00",
-      "20:50"
+      "20:50",
+      "21:10"
     ],
     "showtimesDate": "2026-11-16",
     "days": {
       "2026-11-16": [
         "16:00",
-        "20:50"
+        "20:50",
+        "21:10"
       ],
       "2026-11-17": [
         "16:00",
@@ -1059,6 +1057,10 @@
         },
         {
           "time": "20:50",
+          "tags": []
+        },
+        {
+          "time": "21:10",
           "tags": []
         }
       ],
@@ -1140,11 +1142,11 @@
         }
       ]
     },
-    "room": "Sala 12",
+    "room": "Sala 8",
     "vo": false,
     "url": "https://ucicinemas.it/film/it-ends/",
     "smart": {
-      "2026-11-16": 37,
+      "2026-11-16": 36,
       "2026-11-17": 37,
       "2026-11-18": 37
     },
@@ -1163,14 +1165,12 @@
     },
     "releaseDate": "2026-10-29",
     "showtimes": [
-      "14:05",
-      "18:20"
+      "14:05"
     ],
     "showtimesDate": "2026-11-16",
     "days": {
       "2026-11-16": [
-        "14:05",
-        "18:20"
+        "14:05"
       ],
       "2026-11-17": [
         "14:05",
@@ -1186,10 +1186,6 @@
       "2026-11-16": [
         {
           "time": "14:05",
-          "tags": []
-        },
-        {
-          "time": "18:20",
           "tags": []
         }
       ],
@@ -1222,7 +1218,7 @@
     "vo": false,
     "url": "https://ucicinemas.it/film/un-tranquillo-funerale-di-famiglia/",
     "smart": {
-      "2026-11-16": 41,
+      "2026-11-16": 35,
       "2026-11-17": 41,
       "2026-11-18": 46
     },
@@ -1242,13 +1238,15 @@
     "releaseDate": "2026-11-12",
     "showtimes": [
       "14:10",
-      "19:00"
+      "19:00",
+      "22:40"
     ],
     "showtimesDate": "2026-11-16",
     "days": {
       "2026-11-16": [
         "14:10",
-        "19:00"
+        "19:00",
+        "22:40"
       ],
       "2026-11-17": [
         "14:10",
@@ -1282,6 +1280,10 @@
           "tags": [
             "XL"
           ]
+        },
+        {
+          "time": "22:40",
+          "tags": []
         }
       ],
       "2026-11-17": [
@@ -1360,11 +1362,13 @@
     },
     "releaseDate": "2026-11-12",
     "showtimes": [
+      "17:20",
       "22:30"
     ],
     "showtimesDate": "2026-11-16",
     "days": {
       "2026-11-16": [
+        "17:20",
         "22:30"
       ],
       "2026-11-17": [
@@ -1377,6 +1381,10 @@
     "shows": {
       "2026-11-16": [
         {
+          "time": "17:20",
+          "tags": []
+        },
+        {
           "time": "22:30",
           "tags": []
         }
@@ -1394,11 +1402,11 @@
         }
       ]
     },
-    "room": "Sala 14",
+    "room": "Sala 3",
     "vo": false,
     "url": "https://ucicinemas.it/film/come-rapinare-una-banca/",
     "smart": {
-      "2026-11-16": 40,
+      "2026-11-16": 41,
       "2026-11-17": 40,
       "2026-11-18": 40
     },
@@ -1493,7 +1501,7 @@
     "vo": false,
     "url": "https://ucicinemas.it/film/il-gatto-col-cappello/",
     "smart": {
-      "2026-11-16": 44,
+      "2026-11-16": 39,
       "2026-11-17": 44,
       "2026-11-18": 44
     },
@@ -1501,49 +1509,12 @@
     "rankVoto": 18
   },
   {
-    "title": "Street Fighter",
-    "poster": "https://image.tmdb.org/t/p/w185/uKMRx1OQfzwTKtn8Wm4uIizxBzG.jpg",
-    "rating": 5.2,
-    "ratings": {
-      "letterboxd": 5.5,
-      "imdb": 6.1,
-      "metacritic": 4.3,
-      "mubi": 5
-    },
-    "releaseDate": "2026-10-15",
-    "showtimes": [
-      "21:10"
-    ],
-    "showtimesDate": "2026-11-17",
-    "days": {
-      "2026-11-17": [
-        "21:10"
-      ]
-    },
-    "shows": {
-      "2026-11-17": [
-        {
-          "time": "21:10",
-          "tags": []
-        }
-      ]
-    },
-    "room": "Sala 12",
-    "vo": false,
-    "url": "https://ucicinemas.it/film/street-fighter/",
-    "smart": {
-      "2026-11-17": 17
-    },
-    "rankUscita": 21,
-    "rankVoto": 19
-  },
-  {
     "title": "Un weekend artificiale",
     "poster": "https://image.tmdb.org/t/p/w185/x8fbJstLDEYYlJSCDj3v0MD9Lqd.jpg",
-    "rating": 5,
+    "rating": 5.2,
     "ratings": {
       "letterboxd": null,
-      "imdb": 5,
+      "imdb": 5.2,
       "metacritic": null,
       "mubi": null
     },
@@ -1551,14 +1522,16 @@
     "showtimes": [
       "14:40",
       "17:10",
-      "22:10"
+      "19:30",
+      "21:50"
     ],
     "showtimesDate": "2026-11-16",
     "days": {
       "2026-11-16": [
         "14:40",
         "17:10",
-        "22:10"
+        "19:30",
+        "21:50"
       ],
       "2026-11-17": [
         "14:40",
@@ -1582,7 +1555,11 @@
           "tags": []
         },
         {
-          "time": "22:10",
+          "time": "19:30",
+          "tags": []
+        },
+        {
+          "time": "21:50",
           "tags": []
         }
       ],
@@ -1619,11 +1596,48 @@
     "vo": false,
     "url": "https://ucicinemas.it/film/un-weekend-artificiale/",
     "smart": {
-      "2026-11-16": 39,
-      "2026-11-17": 39,
-      "2026-11-18": 39
+      "2026-11-16": 40,
+      "2026-11-17": 42,
+      "2026-11-18": 42
     },
     "rankUscita": 10,
+    "rankVoto": 19
+  },
+  {
+    "title": "Street Fighter",
+    "poster": "https://image.tmdb.org/t/p/w185/uKMRx1OQfzwTKtn8Wm4uIizxBzG.jpg",
+    "rating": 5.2,
+    "ratings": {
+      "letterboxd": 5.5,
+      "imdb": 6.1,
+      "metacritic": 4.3,
+      "mubi": 5
+    },
+    "releaseDate": "2026-10-15",
+    "showtimes": [
+      "21:10"
+    ],
+    "showtimesDate": "2026-11-17",
+    "days": {
+      "2026-11-17": [
+        "21:10"
+      ]
+    },
+    "shows": {
+      "2026-11-17": [
+        {
+          "time": "21:10",
+          "tags": []
+        }
+      ]
+    },
+    "room": "Sala 12",
+    "vo": false,
+    "url": "https://ucicinemas.it/film/street-fighter/",
+    "smart": {
+      "2026-11-17": 17
+    },
+    "rankUscita": 21,
     "rankVoto": 20
   },
   {
@@ -1638,27 +1652,27 @@
     },
     "releaseDate": "2026-10-08",
     "showtimes": [
-      "23:00"
+      "23:20"
     ],
     "showtimesDate": "2026-11-16",
     "days": {
       "2026-11-16": [
-        "23:00"
+        "23:20"
       ]
     },
     "shows": {
       "2026-11-16": [
         {
-          "time": "23:00",
+          "time": "23:20",
           "tags": []
         }
       ]
     },
-    "room": "Sala 13",
+    "room": "Sala 12",
     "vo": false,
     "url": "https://ucicinemas.it/film/mammina/",
     "smart": {
-      "2026-11-16": 13
+      "2026-11-16": 11
     },
     "rankUscita": 22,
     "rankVoto": 21
@@ -2114,7 +2128,7 @@
     "vo": false,
     "url": "https://ucicinemas.it/film/in-un-battito/",
     "smart": {
-      "2026-11-16": 55,
+      "2026-11-16": 53,
       "2026-11-17": 55,
       "2026-11-18": 55
     },
@@ -2135,20 +2149,26 @@
     "showtimes": [
       "14:00",
       "16:30",
+      "18:10",
       "18:40",
       "19:38",
+      "20:10",
       "21:40",
-      "22:40"
+      "22:40",
+      "23:00"
     ],
     "showtimesDate": "2026-11-16",
     "days": {
       "2026-11-16": [
         "14:00",
         "16:30",
+        "18:10",
         "18:40",
         "19:38",
+        "20:10",
         "21:40",
-        "22:40"
+        "22:40",
+        "23:00"
       ],
       "2026-11-17": [
         "14:00",
@@ -2190,6 +2210,10 @@
           "tags": []
         },
         {
+          "time": "18:10",
+          "tags": []
+        },
+        {
           "time": "18:40",
           "tags": [
             "VO"
@@ -2200,6 +2224,10 @@
           "tags": []
         },
         {
+          "time": "20:10",
+          "tags": []
+        },
+        {
           "time": "21:40",
           "tags": [
             "XL"
@@ -2207,6 +2235,10 @@
         },
         {
           "time": "22:40",
+          "tags": []
+        },
+        {
+          "time": "23:00",
           "tags": []
         }
       ],
