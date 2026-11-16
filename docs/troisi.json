@@ -33,7 +33,7 @@
     "smart": {
       "2026-11-17": 57
     },
-    "rankUscita": 6,
+    "rankUscita": 7,
     "rankVoto": 0
   },
   {
@@ -57,6 +57,9 @@
       ],
       "2026-11-21": [
         "00:30"
+      ],
+      "2026-11-22": [
+        "00:30"
       ]
     },
     "shows": {
@@ -75,6 +78,14 @@
             "VO"
           ]
         }
+      ],
+      "2026-11-22": [
+        {
+          "time": "00:30",
+          "tags": [
+            "VO"
+          ]
+        }
       ]
     },
     "room": null,
@@ -82,9 +93,10 @@
     "url": "https://www.liveticket.it/opera.aspx?Id=713343",
     "smart": {
       "2026-11-20": 52,
-      "2026-11-21": 52
+      "2026-11-21": 52,
+      "2026-11-22": 57
     },
-    "rankUscita": 7,
+    "rankUscita": 8,
     "rankVoto": 1
   },
   {
@@ -123,7 +135,7 @@
     "smart": {
       "2026-11-21": 50
     },
-    "rankUscita": 8,
+    "rankUscita": 9,
     "rankVoto": 2
   },
   {
@@ -138,17 +150,11 @@
     },
     "releaseDate": "2026-11-05",
     "showtimes": [
-      "13:30",
-      "20:00",
-      "22:15"
+      "16:30",
+      "21:00"
     ],
-    "showtimesDate": "2026-11-15",
+    "showtimesDate": "2026-11-16",
     "days": {
-      "2026-11-15": [
-        "13:30",
-        "20:00",
-        "22:15"
-      ],
       "2026-11-16": [
         "16:30",
         "21:00"
@@ -163,26 +169,6 @@
       ]
     },
     "shows": {
-      "2026-11-15": [
-        {
-          "time": "13:30",
-          "tags": [
-            "VO"
-          ]
-        },
-        {
-          "time": "20:00",
-          "tags": [
-            "VO"
-          ]
-        },
-        {
-          "time": "22:15",
-          "tags": [
-            "VO"
-          ]
-        }
-      ],
       "2026-11-16": [
         {
           "time": "16:30",
@@ -230,10 +216,9 @@
     "vo": true,
     "url": "https://www.liveticket.it/opera.aspx?Id=705621",
     "smart": {
-      "2026-11-15": 86,
-      "2026-11-16": 86,
-      "2026-11-17": 86,
-      "2026-11-18": 86
+      "2026-11-16": 85,
+      "2026-11-17": 85,
+      "2026-11-18": 85
     },
     "rankUscita": 2,
     "rankVoto": 3
@@ -250,15 +235,11 @@
     },
     "releaseDate": "2026-11-12",
     "showtimes": [
-      "16:00",
-      "18:00"
+      "14:30",
+      "19:00"
     ],
-    "showtimesDate": "2026-11-15",
+    "showtimesDate": "2026-11-16",
     "days": {
-      "2026-11-15": [
-        "16:00",
-        "18:00"
-      ],
       "2026-11-16": [
         "14:30",
         "19:00"
@@ -283,23 +264,13 @@
         "14:30",
         "19:30",
         "19:35"
+      ],
+      "2026-11-22": [
+        "15:45",
+        "22:45"
       ]
     },
     "shows": {
-      "2026-11-15": [
-        {
-          "time": "16:00",
-          "tags": [
-            "VO"
-          ]
-        },
-        {
-          "time": "18:00",
-          "tags": [
-            "VO"
-          ]
-        }
-      ],
       "2026-11-16": [
         {
           "time": "14:30",
@@ -389,19 +360,33 @@
             "VO"
           ]
         }
+      ],
+      "2026-11-22": [
+        {
+          "time": "15:45",
+          "tags": [
+            "VO"
+          ]
+        },
+        {
+          "time": "22:45",
+          "tags": [
+            "VO"
+          ]
+        }
       ]
     },
     "room": null,
     "vo": true,
     "url": "https://www.liveticket.it/opera.aspx?Id=707729",
     "smart": {
-      "2026-11-15": 78,
-      "2026-11-16": 88,
-      "2026-11-17": 88,
-      "2026-11-18": 73,
-      "2026-11-19": 88,
-      "2026-11-20": 88,
-      "2026-11-21": 88
+      "2026-11-16": 87,
+      "2026-11-17": 87,
+      "2026-11-18": 72,
+      "2026-11-19": 87,
+      "2026-11-20": 87,
+      "2026-11-21": 87,
+      "2026-11-22": 87
     },
     "rankUscita": 1,
     "rankVoto": 4
@@ -436,6 +421,10 @@
       "2026-11-21": [
         "16:30",
         "21:30"
+      ],
+      "2026-11-22": [
+        "13:00",
+        "17:45"
       ]
     },
     "shows": {
@@ -488,6 +477,20 @@
             "VO"
           ]
         }
+      ],
+      "2026-11-22": [
+        {
+          "time": "13:00",
+          "tags": [
+            "VO"
+          ]
+        },
+        {
+          "time": "17:45",
+          "tags": [
+            "VO"
+          ]
+        }
       ]
     },
     "room": null,
@@ -497,7 +500,8 @@
       "2026-11-18": 75,
       "2026-11-19": 89,
       "2026-11-20": 79,
-      "2026-11-21": 79
+      "2026-11-21": 79,
+      "2026-11-22": 89
     },
     "rankUscita": 0,
     "rankVoto": 5
@@ -538,31 +542,31 @@
     "smart": {
       "2026-11-16": 41
     },
-    "rankUscita": 4,
+    "rankUscita": 5,
     "rankVoto": 6
   },
   {
-    "title": "Chi ha paura delle streghe?",
-    "poster": "https://image.tmdb.org/t/p/w185/cXAqZpuFqRUmggj99lihMlZbo6A.jpg",
+    "title": "James e la pesca gigante",
+    "poster": "https://image.tmdb.org/t/p/w185/nG4BgOB9OqYFDN6s1QmuYCHBd9F.jpg",
     "rating": 7.1,
     "ratings": {
       "letterboxd": 6.9,
-      "imdb": 6.8,
+      "imdb": 6.7,
       "metacritic": 7.8,
-      "mubi": 6.7
+      "mubi": 7
     },
-    "releaseDate": "1990-08-25",
+    "releaseDate": "1997-05-16",
     "showtimes": [
       "11:00"
     ],
-    "showtimesDate": "2026-11-15",
+    "showtimesDate": "2026-11-22",
     "days": {
-      "2026-11-15": [
+      "2026-11-22": [
         "11:00"
       ]
     },
     "shows": {
-      "2026-11-15": [
+      "2026-11-22": [
         {
           "time": "11:00",
           "tags": []
@@ -571,11 +575,11 @@
     },
     "room": null,
     "vo": false,
-    "url": "https://www.liveticket.it/opera.aspx?Id=413819",
+    "url": "https://www.liveticket.it/opera.aspx?Id=413821",
     "smart": {
-      "2026-11-15": 35
+      "2026-11-22": 40
     },
-    "rankUscita": 5,
+    "rankUscita": 6,
     "rankVoto": 7
   },
   {
@@ -590,13 +594,11 @@
     },
     "releaseDate": "2026-11-05",
     "showtimes": [
-      "00:30",
       "11:00"
     ],
     "showtimesDate": "2026-11-16",
     "days": {
       "2026-11-16": [
-        "00:30",
         "11:00"
       ],
       "2026-11-18": [
@@ -605,12 +607,6 @@
     },
     "shows": {
       "2026-11-16": [
-        {
-          "time": "00:30",
-          "tags": [
-            "VO"
-          ]
-        },
         {
           "time": "11:00",
           "tags": [
@@ -631,11 +627,48 @@
     "vo": true,
     "url": "https://www.liveticket.it/opera.aspx?Id=709667",
     "smart": {
-      "2026-11-16": 70,
-      "2026-11-18": 56
+      "2026-11-16": 55,
+      "2026-11-18": 55
     },
     "rankUscita": 3,
     "rankVoto": 8
+  },
+  {
+    "title": "Wax & Gold",
+    "poster": "https://image.tmdb.org/t/p/w185/f9eRzaSG6W98i9sZhyT77LVsawF.jpg",
+    "rating": 6.2,
+    "ratings": {
+      "letterboxd": 6.3,
+      "imdb": 6,
+      "metacritic": null,
+      "mubi": null
+    },
+    "releaseDate": "2026-02-15",
+    "showtimes": [
+      "20:30"
+    ],
+    "showtimesDate": "2026-11-22",
+    "days": {
+      "2026-11-22": [
+        "20:30"
+      ]
+    },
+    "shows": {
+      "2026-11-22": [
+        {
+          "time": "20:30",
+          "tags": []
+        }
+      ]
+    },
+    "room": null,
+    "vo": false,
+    "url": "https://www.liveticket.it/opera.aspx?Id=710238",
+    "smart": {
+      "2026-11-22": 29
+    },
+    "rankUscita": 4,
+    "rankVoto": 9
   },
   {
     "title": "À la grâce de dieu",
@@ -671,7 +704,7 @@
     "smart": {
       "2026-11-17": 50
     },
-    "rankUscita": 9,
-    "rankVoto": 9
+    "rankUscita": 10,
+    "rankVoto": 10
   }
 ]
