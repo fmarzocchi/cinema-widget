@@ -1,42 +1,5 @@
 [
   {
-    "title": "Il conformista",
-    "poster": "https://image.tmdb.org/t/p/w185/cLguHl1zGwhAUjDG0VAxAuwVOxV.jpg",
-    "rating": 8.7,
-    "ratings": {
-      "letterboxd": 8.4,
-      "imdb": 7.9,
-      "metacritic": 10,
-      "mubi": 8.6
-    },
-    "releaseDate": "1971-01-29",
-    "showtimes": [
-      "18:30"
-    ],
-    "showtimesDate": "2026-11-17",
-    "days": {
-      "2026-11-17": [
-        "18:30"
-      ]
-    },
-    "shows": {
-      "2026-11-17": [
-        {
-          "time": "18:30",
-          "tags": []
-        }
-      ]
-    },
-    "room": null,
-    "vo": false,
-    "url": "https://www.liveticket.it/opera.aspx?Id=705639",
-    "smart": {
-      "2026-11-17": 57
-    },
-    "rankUscita": 7,
-    "rankVoto": 0
-  },
-  {
     "title": "2001: Odissea nello spazio",
     "poster": "https://image.tmdb.org/t/p/w185/uvSRVMXGHaCeYAj2pCYNdC31b2u.jpg",
     "rating": 8.6,
@@ -108,7 +71,44 @@
       "2026-11-22": 57,
       "2026-11-23": 52
     },
-    "rankUscita": 8,
+    "rankUscita": 9,
+    "rankVoto": 0
+  },
+  {
+    "title": "Once Upon a Time in Harlem",
+    "poster": "https://image.tmdb.org/t/p/w185/9eukk5gby8NZCwraiC7mloZmasP.jpg",
+    "rating": 8.3,
+    "ratings": {
+      "letterboxd": 8,
+      "imdb": 7.7,
+      "metacritic": 9.6,
+      "mubi": 7.9
+    },
+    "releaseDate": "2026-10-24",
+    "showtimes": [
+      "21:00"
+    ],
+    "showtimesDate": "2026-11-24",
+    "days": {
+      "2026-11-24": [
+        "21:00"
+      ]
+    },
+    "shows": {
+      "2026-11-24": [
+        {
+          "time": "21:00",
+          "tags": []
+        }
+      ]
+    },
+    "room": null,
+    "vo": false,
+    "url": "https://www.liveticket.it/opera.aspx?Id=710258",
+    "smart": {
+      "2026-11-24": 67
+    },
+    "rankUscita": 4,
     "rankVoto": 1
   },
   {
@@ -147,7 +147,7 @@
     "smart": {
       "2026-11-21": 50
     },
-    "rankUscita": 9,
+    "rankUscita": 10,
     "rankVoto": 2
   },
   {
@@ -162,34 +162,15 @@
     },
     "releaseDate": "2026-11-05",
     "showtimes": [
-      "11:00",
-      "16:00"
+      "14:30"
     ],
-    "showtimesDate": "2026-11-17",
+    "showtimesDate": "2026-11-18",
     "days": {
-      "2026-11-17": [
-        "11:00",
-        "16:00"
-      ],
       "2026-11-18": [
         "14:30"
       ]
     },
     "shows": {
-      "2026-11-17": [
-        {
-          "time": "11:00",
-          "tags": [
-            "VO"
-          ]
-        },
-        {
-          "time": "16:00",
-          "tags": [
-            "VO"
-          ]
-        }
-      ],
       "2026-11-18": [
         {
           "time": "14:30",
@@ -203,7 +184,6 @@
     "vo": true,
     "url": "https://www.liveticket.it/opera.aspx?Id=705621",
     "smart": {
-      "2026-11-17": 85,
       "2026-11-18": 70
     },
     "rankUscita": 2,
@@ -222,14 +202,10 @@
     "releaseDate": "2026-11-12",
     "showtimes": [
       "11:00",
-      "14:00"
+      "17:00"
     ],
-    "showtimesDate": "2026-11-17",
+    "showtimesDate": "2026-11-18",
     "days": {
-      "2026-11-17": [
-        "11:00",
-        "14:00"
-      ],
       "2026-11-18": [
         "11:00",
         "17:00"
@@ -255,23 +231,13 @@
       "2026-11-23": [
         "14:30",
         "19:30"
+      ],
+      "2026-11-24": [
+        "11:00",
+        "13:00"
       ]
     },
     "shows": {
-      "2026-11-17": [
-        {
-          "time": "11:00",
-          "tags": [
-            "VO"
-          ]
-        },
-        {
-          "time": "14:00",
-          "tags": [
-            "VO"
-          ]
-        }
-      ],
       "2026-11-18": [
         {
           "time": "11:00",
@@ -367,19 +333,33 @@
             "VO"
           ]
         }
+      ],
+      "2026-11-24": [
+        {
+          "time": "11:00",
+          "tags": [
+            "VO"
+          ]
+        },
+        {
+          "time": "13:00",
+          "tags": [
+            "VO"
+          ]
+        }
       ]
     },
     "room": null,
     "vo": true,
     "url": "https://www.liveticket.it/opera.aspx?Id=707729",
     "smart": {
-      "2026-11-17": 86,
-      "2026-11-18": 86,
-      "2026-11-19": 86,
-      "2026-11-20": 86,
-      "2026-11-21": 86,
-      "2026-11-22": 86,
-      "2026-11-23": 76
+      "2026-11-18": 85,
+      "2026-11-19": 85,
+      "2026-11-20": 85,
+      "2026-11-21": 85,
+      "2026-11-22": 85,
+      "2026-11-23": 76,
+      "2026-11-24": 85
     },
     "rankUscita": 1,
     "rankVoto": 4
@@ -423,6 +403,9 @@
         "11:00",
         "16:30",
         "21:30"
+      ],
+      "2026-11-24": [
+        "15:30"
       ]
     },
     "shows": {
@@ -509,6 +492,14 @@
             "VO"
           ]
         }
+      ],
+      "2026-11-24": [
+        {
+          "time": "15:30",
+          "tags": [
+            "VO"
+          ]
+        }
       ]
     },
     "room": null,
@@ -520,7 +511,8 @@
       "2026-11-20": 79,
       "2026-11-21": 79,
       "2026-11-22": 89,
-      "2026-11-23": 89
+      "2026-11-23": 89,
+      "2026-11-24": 75
     },
     "rankUscita": 0,
     "rankVoto": 5
@@ -561,7 +553,7 @@
     "smart": {
       "2026-11-23": 36
     },
-    "rankUscita": 5,
+    "rankUscita": 6,
     "rankVoto": 6
   },
   {
@@ -598,8 +590,45 @@
     "smart": {
       "2026-11-22": 40
     },
-    "rankUscita": 6,
+    "rankUscita": 7,
     "rankVoto": 7
+  },
+  {
+    "title": "Ultimo tango a Parigi",
+    "poster": "https://image.tmdb.org/t/p/w185/qX0Chw8rJP1RwcXEVAvMCPanGR2.jpg",
+    "rating": 7,
+    "ratings": {
+      "letterboxd": 6.2,
+      "imdb": 6.8,
+      "metacritic": 7.7,
+      "mubi": 7.4
+    },
+    "releaseDate": "1972-12-15",
+    "showtimes": [
+      "18:30"
+    ],
+    "showtimesDate": "2026-11-24",
+    "days": {
+      "2026-11-24": [
+        "18:30"
+      ]
+    },
+    "shows": {
+      "2026-11-24": [
+        {
+          "time": "18:30",
+          "tags": []
+        }
+      ]
+    },
+    "room": null,
+    "vo": false,
+    "url": "https://www.liveticket.it/opera.aspx?Id=705641",
+    "smart": {
+      "2026-11-24": 39
+    },
+    "rankUscita": 8,
+    "rankVoto": 8
   },
   {
     "title": "Hope",
@@ -638,7 +667,7 @@
       "2026-11-18": 54
     },
     "rankUscita": 3,
-    "rankVoto": 8
+    "rankVoto": 9
   },
   {
     "title": "Wax & Gold",
@@ -674,44 +703,7 @@
     "smart": {
       "2026-11-22": 29
     },
-    "rankUscita": 4,
-    "rankVoto": 9
-  },
-  {
-    "title": "À la grâce de dieu",
-    "poster": "https://cinematroisi.liveticket.it/wp-content/uploads/sites/48/00312477-180x257.jpg",
-    "rating": null,
-    "ratings": {
-      "letterboxd": null,
-      "imdb": null,
-      "metacritic": null,
-      "mubi": null
-    },
-    "releaseDate": null,
-    "showtimes": [
-      "21:00"
-    ],
-    "showtimesDate": "2026-11-17",
-    "days": {
-      "2026-11-17": [
-        "21:00"
-      ]
-    },
-    "shows": {
-      "2026-11-17": [
-        {
-          "time": "21:00",
-          "tags": []
-        }
-      ]
-    },
-    "room": null,
-    "vo": false,
-    "url": "https://www.liveticket.it/opera.aspx?Id=710226",
-    "smart": {
-      "2026-11-17": 50
-    },
-    "rankUscita": 10,
+    "rankUscita": 5,
     "rankVoto": 10
   }
 ]
