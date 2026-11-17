@@ -98,7 +98,7 @@
     "vo": false,
     "url": "https://ucicinemas.it/film/2001-odissea-nello-spazio/",
     "smart": {
-      "2026-11-17": 50,
+      "2026-11-17": 51,
       "2026-11-18": 52
     },
     "rankUscita": 24,
@@ -185,7 +185,7 @@
         "18:00",
         "19:30",
         "21:00",
-        "22:20",
+        "22:30",
         "23:10"
       ],
       "2026-11-19": [
@@ -262,7 +262,7 @@
           ]
         },
         {
-          "time": "22:20",
+          "time": "22:30",
           "tags": []
         },
         {
@@ -299,7 +299,7 @@
     "vo": false,
     "url": "https://ucicinemas.it/film/godzilla-minus-zero/",
     "smart": {
-      "2026-11-17": 79,
+      "2026-11-17": 82,
       "2026-11-18": 86,
       "2026-11-19": 60,
       "2026-11-20": 60,
@@ -378,8 +378,7 @@
         "19:20"
       ],
       "2026-11-18": [
-        "15:30",
-        "19:20"
+        "15:30"
       ]
     },
     "shows": {
@@ -397,10 +396,6 @@
         {
           "time": "15:30",
           "tags": []
-        },
-        {
-          "time": "19:20",
-          "tags": []
         }
       ]
     },
@@ -408,8 +403,8 @@
     "vo": false,
     "url": "https://ucicinemas.it/film/look-back/",
     "smart": {
-      "2026-11-17": 64,
-      "2026-11-18": 67
+      "2026-11-17": 65,
+      "2026-11-18": 62
     },
     "rankUscita": 7,
     "rankVoto": 5
@@ -461,7 +456,7 @@
     "vo": false,
     "url": "https://ucicinemas.it/film/shaun-vita-da-pecora-operazione-zucca/",
     "smart": {
-      "2026-11-17": 50,
+      "2026-11-17": 51,
       "2026-11-18": 48
     },
     "rankUscita": 17,
@@ -473,7 +468,7 @@
     "rating": 7.1,
     "ratings": {
       "letterboxd": 7.2,
-      "imdb": 8.3,
+      "imdb": 8.2,
       "metacritic": 5.8,
       "mubi": null
     },
@@ -654,7 +649,7 @@
     "vo": false,
     "url": "https://ucicinemas.it/film/se-domani-non-torno/",
     "smart": {
-      "2026-11-17": 58,
+      "2026-11-17": 60,
       "2026-11-18": 63
     },
     "rankUscita": 12,
@@ -766,7 +761,7 @@
     "vo": false,
     "url": "https://ucicinemas.it/film/dio-ride/",
     "smart": {
-      "2026-11-17": 49,
+      "2026-11-17": 51,
       "2026-11-18": 53
     },
     "rankUscita": 15,
@@ -871,7 +866,7 @@
     "vo": false,
     "url": "https://ucicinemas.it/film/hope/",
     "smart": {
-      "2026-11-17": 47,
+      "2026-11-17": 48,
       "2026-11-18": 50
     },
     "rankUscita": 13,
@@ -935,7 +930,7 @@
     "vo": false,
     "url": "https://ucicinemas.it/film/la-storia-infinita/",
     "smart": {
-      "2026-11-17": 30,
+      "2026-11-17": 32,
       "2026-11-18": 29
     },
     "rankUscita": 23,
@@ -982,7 +977,7 @@
     "vo": false,
     "url": "https://ucicinemas.it/film/it-ends/",
     "smart": {
-      "2026-11-17": 35,
+      "2026-11-17": 36,
       "2026-11-18": 37
     },
     "rankUscita": 18,
@@ -994,7 +989,7 @@
     "rating": 6.3,
     "ratings": {
       "letterboxd": 6.2,
-      "imdb": 6.4,
+      "imdb": 6.3,
       "metacritic": null,
       "mubi": null
     },
@@ -1045,7 +1040,7 @@
     "vo": false,
     "url": "https://ucicinemas.it/film/un-tranquillo-funerale-di-famiglia/",
     "smart": {
-      "2026-11-17": 38,
+      "2026-11-17": 39,
       "2026-11-18": 45
     },
     "rankUscita": 16,
@@ -1143,7 +1138,7 @@
     "vo": false,
     "url": "https://ucicinemas.it/film/il-rumore-delle-cose-nuove/",
     "smart": {
-      "2026-11-17": 45,
+      "2026-11-17": 46,
       "2026-11-18": 47,
       "2026-11-19": 41,
       "2026-11-20": 41,
@@ -1159,7 +1154,7 @@
     "rating": 5.8,
     "ratings": {
       "letterboxd": 6.2,
-      "imdb": 6.4,
+      "imdb": 6.5,
       "metacritic": 4.7,
       "mubi": null
     },
@@ -1267,7 +1262,7 @@
     "vo": false,
     "url": "https://ucicinemas.it/film/il-gatto-col-cappello/",
     "smart": {
-      "2026-11-17": 40,
+      "2026-11-17": 41,
       "2026-11-18": 43
     },
     "rankUscita": 14,
@@ -1276,10 +1271,10 @@
   {
     "title": "Un weekend artificiale",
     "poster": "https://image.tmdb.org/t/p/w185/x8fbJstLDEYYlJSCDj3v0MD9Lqd.jpg",
-    "rating": 5.2,
+    "rating": 5.3,
     "ratings": {
       "letterboxd": null,
-      "imdb": 5.2,
+      "imdb": 5.3,
       "metacritic": null,
       "mubi": null
     },
@@ -1297,7 +1292,7 @@
       "2026-11-18": [
         "14:40",
         "17:10",
-        "22:10"
+        "22:35"
       ]
     },
     "shows": {
@@ -1321,7 +1316,7 @@
           "tags": []
         },
         {
-          "time": "22:10",
+          "time": "22:35",
           "tags": []
         }
       ]
@@ -1330,8 +1325,8 @@
     "vo": false,
     "url": "https://ucicinemas.it/film/un-weekend-artificiale/",
     "smart": {
-      "2026-11-17": 34,
-      "2026-11-18": 41
+      "2026-11-17": 36,
+      "2026-11-18": 42
     },
     "rankUscita": 10,
     "rankVoto": 19
@@ -1868,7 +1863,7 @@
     "vo": false,
     "url": "https://ucicinemas.it/film/in-un-battito/",
     "smart": {
-      "2026-11-17": 56,
+      "2026-11-17": 57,
       "2026-11-18": 54
     },
     "rankUscita": 4,
@@ -1890,7 +1885,6 @@
       "16:30",
       "18:00",
       "18:40",
-      "19:10",
       "19:38",
       "21:40",
       "22:40"
@@ -1902,7 +1896,6 @@
         "16:30",
         "18:00",
         "18:40",
-        "19:10",
         "19:38",
         "21:40",
         "22:40"
@@ -1911,7 +1904,7 @@
         "14:00",
         "16:30",
         "18:40",
-        "19:38",
+        "19:35",
         "21:40",
         "22:40"
       ],
@@ -1949,10 +1942,6 @@
           ]
         },
         {
-          "time": "19:10",
-          "tags": []
-        },
-        {
           "time": "19:38",
           "tags": []
         },
@@ -1983,7 +1972,7 @@
           ]
         },
         {
-          "time": "19:38",
+          "time": "19:35",
           "tags": []
         },
         {

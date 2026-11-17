@@ -208,7 +208,7 @@
     "rating": 6.3,
     "ratings": {
       "letterboxd": 6.2,
-      "imdb": 6.4,
+      "imdb": 6.3,
       "metacritic": null,
       "mubi": null
     },
@@ -397,10 +397,10 @@
   {
     "title": "Un weekend artificiale",
     "poster": "https://image.tmdb.org/t/p/w185/x8fbJstLDEYYlJSCDj3v0MD9Lqd.jpg",
-    "rating": 5.2,
+    "rating": 5.3,
     "ratings": {
       "letterboxd": null,
-      "imdb": 5.2,
+      "imdb": 5.3,
       "metacritic": null,
       "mubi": null
     },
@@ -438,7 +438,7 @@
     "vo": false,
     "url": "https://roma.andromeda.18tickets.it/film/90344",
     "smart": {
-      "2026-11-17": 48
+      "2026-11-17": 49
     },
     "rankUscita": 4,
     "rankVoto": 9
