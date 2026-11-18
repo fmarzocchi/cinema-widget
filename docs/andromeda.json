@@ -1,42 +1,5 @@
 [
   {
-    "title": "2001: Odissea nello spazio",
-    "poster": "https://image.tmdb.org/t/p/w185/uvSRVMXGHaCeYAj2pCYNdC31b2u.jpg",
-    "rating": 8.6,
-    "ratings": {
-      "letterboxd": 8.5,
-      "imdb": 8.3,
-      "metacritic": 8.4,
-      "mubi": 9
-    },
-    "releaseDate": "1968-12-12",
-    "showtimes": [
-      "21:10"
-    ],
-    "showtimesDate": "2026-11-18",
-    "days": {
-      "2026-11-18": [
-        "21:10"
-      ]
-    },
-    "shows": {
-      "2026-11-18": [
-        {
-          "time": "21:10",
-          "tags": []
-        }
-      ]
-    },
-    "room": null,
-    "vo": false,
-    "url": "https://roma.andromeda.18tickets.it/film/92357",
-    "smart": {
-      "2026-11-18": 50
-    },
-    "rankUscita": 13,
-    "rankVoto": 0
-  },
-  {
     "title": "Wild Horse Nine",
     "poster": "https://image.tmdb.org/t/p/w185/og5qagWp4ZqVl28nbBwiBHZprJM.jpg",
     "rating": 8,
@@ -48,36 +11,36 @@
     },
     "releaseDate": "2026-11-05",
     "showtimes": [
-      "16:30",
-      "18:50"
+      "19:10",
+      "21:20"
     ],
-    "showtimesDate": "2026-11-18",
+    "showtimesDate": "2026-11-19",
     "days": {
-      "2026-11-18": [
-        "16:30",
-        "18:50"
+      "2026-11-19": [
+        "19:10",
+        "21:20"
       ]
     },
     "shows": {
-      "2026-11-18": [
+      "2026-11-19": [
         {
-          "time": "16:30",
+          "time": "19:10",
           "tags": []
         },
         {
-          "time": "18:50",
+          "time": "21:20",
           "tags": []
         }
       ]
     },
-    "room": "Sala 4",
+    "room": "Sala 7",
     "vo": false,
     "url": "https://roma.andromeda.18tickets.it/film/89717",
     "smart": {
-      "2026-11-18": 70
+      "2026-11-19": 74
     },
-    "rankUscita": 6,
-    "rankVoto": 1
+    "rankUscita": 5,
+    "rankVoto": 0
   },
   {
     "title": "Shaun Vita da Pecora - Operazione Z.u.c.c.a",
@@ -113,8 +76,8 @@
     "smart": {
       "2026-11-21": 71
     },
-    "rankUscita": 12,
-    "rankVoto": 2
+    "rankUscita": 10,
+    "rankVoto": 1
   },
   {
     "title": "Se domani non torno",
@@ -131,15 +94,15 @@
       "16:30",
       "18:40"
     ],
-    "showtimesDate": "2026-11-18",
+    "showtimesDate": "2026-11-19",
     "days": {
-      "2026-11-18": [
+      "2026-11-19": [
         "16:30",
         "18:40"
       ]
     },
     "shows": {
-      "2026-11-18": [
+      "2026-11-19": [
         {
           "time": "16:30",
           "tags": []
@@ -150,14 +113,14 @@
         }
       ]
     },
-    "room": "Sala 3",
+    "room": "Sala 5",
     "vo": false,
     "url": "https://roma.andromeda.18tickets.it/film/86088",
     "smart": {
-      "2026-11-18": 57
+      "2026-11-19": 62
     },
-    "rankUscita": 7,
-    "rankVoto": 3
+    "rankUscita": 6,
+    "rankVoto": 2
   },
   {
     "title": "Dio ride",
@@ -172,23 +135,29 @@
     "releaseDate": "2026-10-29",
     "showtimes": [
       "16:30",
-      "18:50"
+      "18:50",
+      "21:20"
     ],
-    "showtimesDate": "2026-11-18",
+    "showtimesDate": "2026-11-19",
     "days": {
-      "2026-11-18": [
+      "2026-11-19": [
         "16:30",
-        "18:50"
+        "18:50",
+        "21:20"
       ]
     },
     "shows": {
-      "2026-11-18": [
+      "2026-11-19": [
         {
           "time": "16:30",
           "tags": []
         },
         {
           "time": "18:50",
+          "tags": []
+        },
+        {
+          "time": "21:20",
           "tags": []
         }
       ]
@@ -197,47 +166,10 @@
     "vo": false,
     "url": "https://roma.andromeda.18tickets.it/film/88991",
     "smart": {
-      "2026-11-18": 52
-    },
-    "rankUscita": 10,
-    "rankVoto": 4
-  },
-  {
-    "title": "Hope",
-    "poster": "https://image.tmdb.org/t/p/w185/fbFxZSSw2kQoAkyXosVoOyBX0Z4.jpg",
-    "rating": 6.7,
-    "ratings": {
-      "letterboxd": 6.3,
-      "imdb": 6.6,
-      "metacritic": 6.7,
-      "mubi": 7
-    },
-    "releaseDate": "2026-11-05",
-    "showtimes": [
-      "21:00"
-    ],
-    "showtimesDate": "2026-11-18",
-    "days": {
-      "2026-11-18": [
-        "21:00"
-      ]
-    },
-    "shows": {
-      "2026-11-18": [
-        {
-          "time": "21:00",
-          "tags": []
-        }
-      ]
-    },
-    "room": null,
-    "vo": false,
-    "url": "https://roma.andromeda.18tickets.it/film/88925",
-    "smart": {
-      "2026-11-18": 47
+      "2026-11-19": 67
     },
     "rankUscita": 8,
-    "rankVoto": 5
+    "rankVoto": 3
   },
   {
     "title": "Il fuoco che ti porti dentro",
@@ -286,7 +218,7 @@
       "2026-11-19": 77
     },
     "rankUscita": 0,
-    "rankVoto": 6
+    "rankVoto": 4
   },
   {
     "title": "Un tranquillo funerale di famiglia",
@@ -300,18 +232,18 @@
     },
     "releaseDate": "2026-10-29",
     "showtimes": [
-      "18:45"
+      "17:00"
     ],
-    "showtimesDate": "2026-11-18",
+    "showtimesDate": "2026-11-19",
     "days": {
-      "2026-11-18": [
-        "18:45"
+      "2026-11-19": [
+        "17:00"
       ]
     },
     "shows": {
-      "2026-11-18": [
+      "2026-11-19": [
         {
-          "time": "18:45",
+          "time": "17:00",
           "tags": []
         }
       ]
@@ -320,10 +252,10 @@
     "vo": false,
     "url": "https://roma.andromeda.18tickets.it/film/86054",
     "smart": {
-      "2026-11-18": 38
+      "2026-11-19": 40
     },
-    "rankUscita": 11,
-    "rankVoto": 7
+    "rankUscita": 9,
+    "rankVoto": 5
   },
   {
     "title": "Il rumore delle cose nuove",
@@ -341,16 +273,16 @@
       "18:45",
       "21:15"
     ],
-    "showtimesDate": "2026-11-18",
+    "showtimesDate": "2026-11-19",
     "days": {
-      "2026-11-18": [
+      "2026-11-19": [
         "16:20",
         "18:45",
         "21:15"
       ]
     },
     "shows": {
-      "2026-11-18": [
+      "2026-11-19": [
         {
           "time": "16:20",
           "tags": []
@@ -365,14 +297,14 @@
         }
       ]
     },
-    "room": "Sala 2",
+    "room": "Sala 3",
     "vo": false,
     "url": "https://roma.andromeda.18tickets.it/film/89849",
     "smart": {
-      "2026-11-18": 58
+      "2026-11-19": 65
     },
-    "rankUscita": 3,
-    "rankVoto": 8
+    "rankUscita": 2,
+    "rankVoto": 6
   },
   {
     "title": "Scrooge e gli spiriti del Natale",
@@ -388,20 +320,18 @@
     "showtimes": [
       "16:30",
       "19:00",
-      "21:00",
       "21:30"
     ],
-    "showtimesDate": "2026-11-18",
+    "showtimesDate": "2026-11-19",
     "days": {
-      "2026-11-18": [
+      "2026-11-19": [
         "16:30",
         "19:00",
-        "21:00",
         "21:30"
       ]
     },
     "shows": {
-      "2026-11-18": [
+      "2026-11-19": [
         {
           "time": "16:30",
           "tags": []
@@ -409,12 +339,6 @@
         {
           "time": "19:00",
           "tags": []
-        },
-        {
-          "time": "21:00",
-          "tags": [
-            "VO"
-          ]
         },
         {
           "time": "21:30",
@@ -426,10 +350,10 @@
     "vo": false,
     "url": "https://roma.andromeda.18tickets.it/film/88595",
     "smart": {
-      "2026-11-18": 63
+      "2026-11-19": 63
     },
-    "rankUscita": 4,
-    "rankVoto": 9
+    "rankUscita": 3,
+    "rankVoto": 7
   },
   {
     "title": "Il gatto col cappello",
@@ -443,36 +367,30 @@
     },
     "releaseDate": "2026-11-05",
     "showtimes": [
-      "17:00",
-      "18:40"
+      "17:00"
     ],
-    "showtimesDate": "2026-11-18",
+    "showtimesDate": "2026-11-19",
     "days": {
-      "2026-11-18": [
-        "17:00",
-        "18:40"
+      "2026-11-19": [
+        "17:00"
       ]
     },
     "shows": {
-      "2026-11-18": [
+      "2026-11-19": [
         {
           "time": "17:00",
-          "tags": []
-        },
-        {
-          "time": "18:40",
           "tags": []
         }
       ]
     },
-    "room": "Sala 5",
+    "room": null,
     "vo": false,
     "url": "https://roma.andromeda.18tickets.it/film/86057",
     "smart": {
-      "2026-11-18": 43
+      "2026-11-19": 38
     },
-    "rankUscita": 9,
-    "rankVoto": 10
+    "rankUscita": 7,
+    "rankVoto": 8
   },
   {
     "title": "Un weekend artificiale",
@@ -486,30 +404,24 @@
     },
     "releaseDate": "2026-11-12",
     "showtimes": [
-      "17:00",
       "19:00",
-      "21:20"
+      "21:30"
     ],
-    "showtimesDate": "2026-11-18",
+    "showtimesDate": "2026-11-19",
     "days": {
-      "2026-11-18": [
-        "17:00",
+      "2026-11-19": [
         "19:00",
-        "21:20"
+        "21:30"
       ]
     },
     "shows": {
-      "2026-11-18": [
-        {
-          "time": "17:00",
-          "tags": []
-        },
+      "2026-11-19": [
         {
           "time": "19:00",
           "tags": []
         },
         {
-          "time": "21:20",
+          "time": "21:30",
           "tags": []
         }
       ]
@@ -518,10 +430,10 @@
     "vo": false,
     "url": "https://roma.andromeda.18tickets.it/film/90344",
     "smart": {
-      "2026-11-18": 47
+      "2026-11-19": 45
     },
-    "rankUscita": 5,
-    "rankVoto": 11
+    "rankUscita": 4,
+    "rankVoto": 9
   },
   {
     "title": "Hunger Games - L'alba sulla mietitura",
@@ -572,48 +484,11 @@
       "2026-11-19": 79
     },
     "rankUscita": 1,
-    "rankVoto": 12
+    "rankVoto": 10
   },
   {
-    "title": "In un battito",
-    "poster": "https://image.tmdb.org/t/p/w185/cuYB8P1i9iySjMop9HJaGlMywE6.jpg",
-    "rating": null,
-    "ratings": {
-      "letterboxd": null,
-      "imdb": null,
-      "metacritic": null,
-      "mubi": null
-    },
-    "releaseDate": "2026-11-16",
-    "showtimes": [
-      "21:30"
-    ],
-    "showtimesDate": "2026-11-18",
-    "days": {
-      "2026-11-18": [
-        "21:30"
-      ]
-    },
-    "shows": {
-      "2026-11-18": [
-        {
-          "time": "21:30",
-          "tags": []
-        }
-      ]
-    },
-    "room": null,
-    "vo": false,
-    "url": "https://roma.andromeda.18tickets.it/film/92558",
-    "smart": {
-      "2026-11-18": 55
-    },
-    "rankUscita": 2,
-    "rankVoto": 13
-  },
-  {
-    "title": "La Storia Infinita (Ried.)",
-    "poster": "https://cdn.18tickets.net/ccroma/uploads/film/playbill/92622/standard_354fae6f-a558-43a3-a315-b052ba040e14.jpg",
+    "title": "Pesciolino e Superverme",
+    "poster": "https://cdn.18tickets.net/ccroma/uploads/film/playbill/94898/standard_889ca0f3-b427-4ffb-af10-41aa79e1306e.jpg",
     "rating": null,
     "ratings": {
       "letterboxd": null,
@@ -623,29 +498,29 @@
     },
     "releaseDate": null,
     "showtimes": [
-      "21:00"
+      "15:30"
     ],
-    "showtimesDate": "2026-11-18",
+    "showtimesDate": "2026-11-21",
     "days": {
-      "2026-11-18": [
-        "21:00"
+      "2026-11-21": [
+        "15:30"
       ]
     },
     "shows": {
-      "2026-11-18": [
+      "2026-11-21": [
         {
-          "time": "21:00",
+          "time": "15:30",
           "tags": []
         }
       ]
     },
     "room": null,
     "vo": false,
-    "url": "https://roma.andromeda.18tickets.it/film/92622",
+    "url": "https://roma.andromeda.18tickets.it/film/94898",
     "smart": {
-      "2026-11-18": 43
+      "2026-11-21": 64
     },
-    "rankUscita": 14,
-    "rankVoto": 14
+    "rankUscita": 11,
+    "rankVoto": 11
   }
 ]
