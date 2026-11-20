@@ -7,7 +7,7 @@
       "letterboxd": 8.3,
       "imdb": 8.1,
       "metacritic": 7.7,
-      "mubi": 7.8
+      "mubi": 7.9
     },
     "releaseDate": "2026-11-05",
     "showtimes": [
@@ -37,7 +37,7 @@
     "vo": false,
     "url": "https://roma.andromeda.18tickets.it/film/89717",
     "smart": {
-      "2026-11-20": 74
+      "2026-11-20": 73
     },
     "rankUscita": 5,
     "rankVoto": 0
@@ -45,10 +45,10 @@
   {
     "title": "Hunger Games - L'alba sulla mietitura",
     "poster": "https://image.tmdb.org/t/p/w185/uR1lZA2ET3gf7uGVgbRwSeSkEsU.jpg",
-    "rating": 7.6,
+    "rating": 7.7,
     "ratings": {
       "letterboxd": null,
-      "imdb": 7.6,
+      "imdb": 7.7,
       "metacritic": null,
       "mubi": null
     },
@@ -125,7 +125,7 @@
     "vo": false,
     "url": "https://roma.andromeda.18tickets.it/film/86813",
     "smart": {
-      "2026-11-21": 71
+      "2026-11-21": 70
     },
     "rankUscita": 10,
     "rankVoto": 2
@@ -133,9 +133,9 @@
   {
     "title": "Se domani non torno",
     "poster": "https://image.tmdb.org/t/p/w185/yfnAxbirYCIm1qP9ZT9LjYIj6DQ.jpg",
-    "rating": 7,
+    "rating": 7.1,
     "ratings": {
-      "letterboxd": 6.9,
+      "letterboxd": 7,
       "imdb": 7.1,
       "metacritic": null,
       "mubi": null
@@ -176,10 +176,10 @@
   {
     "title": "Dio ride",
     "poster": "https://image.tmdb.org/t/p/w185/p5cuENoUviYoK6IBHg2FS4oTRGD.jpg",
-    "rating": 6.9,
+    "rating": 7,
     "ratings": {
-      "letterboxd": 6.6,
-      "imdb": 7.2,
+      "letterboxd": 6.7,
+      "imdb": 7.3,
       "metacritic": null,
       "mubi": null
     },
@@ -217,7 +217,7 @@
     "vo": false,
     "url": "https://roma.andromeda.18tickets.it/film/88991",
     "smart": {
-      "2026-11-20": 66
+      "2026-11-20": 67
     },
     "rankUscita": 8,
     "rankVoto": 4
@@ -266,55 +266,18 @@
     "vo": false,
     "url": "https://roma.andromeda.18tickets.it/film/93974",
     "smart": {
-      "2026-11-20": 77
+      "2026-11-20": 76
     },
     "rankUscita": 1,
     "rankVoto": 5
   },
   {
-    "title": "Un tranquillo funerale di famiglia",
-    "poster": "https://image.tmdb.org/t/p/w185/iXtZ4Y28GTw1BJFHgcmHrICoyL1.jpg",
-    "rating": 6.3,
-    "ratings": {
-      "letterboxd": 6.2,
-      "imdb": 6.4,
-      "metacritic": null,
-      "mubi": null
-    },
-    "releaseDate": "2026-10-29",
-    "showtimes": [
-      "17:00"
-    ],
-    "showtimesDate": "2026-11-20",
-    "days": {
-      "2026-11-20": [
-        "17:00"
-      ]
-    },
-    "shows": {
-      "2026-11-20": [
-        {
-          "time": "17:00",
-          "tags": []
-        }
-      ]
-    },
-    "room": null,
-    "vo": false,
-    "url": "https://roma.andromeda.18tickets.it/film/86054",
-    "smart": {
-      "2026-11-20": 40
-    },
-    "rankUscita": 9,
-    "rankVoto": 6
-  },
-  {
     "title": "Il rumore delle cose nuove",
     "poster": "https://image.tmdb.org/t/p/w185/2Wq59OquoiAmgs1A86FfJcnzxfs.jpg",
-    "rating": 6.1,
+    "rating": 6.3,
     "ratings": {
-      "letterboxd": 6.1,
-      "imdb": null,
+      "letterboxd": 6.3,
+      "imdb": 6.3,
       "metacritic": null,
       "mubi": null
     },
@@ -352,9 +315,46 @@
     "vo": false,
     "url": "https://roma.andromeda.18tickets.it/film/89849",
     "smart": {
-      "2026-11-20": 65
+      "2026-11-20": 66
     },
     "rankUscita": 2,
+    "rankVoto": 6
+  },
+  {
+    "title": "Un tranquillo funerale di famiglia",
+    "poster": "https://image.tmdb.org/t/p/w185/iXtZ4Y28GTw1BJFHgcmHrICoyL1.jpg",
+    "rating": 6.3,
+    "ratings": {
+      "letterboxd": 6.2,
+      "imdb": 6.4,
+      "metacritic": null,
+      "mubi": null
+    },
+    "releaseDate": "2026-10-29",
+    "showtimes": [
+      "17:00"
+    ],
+    "showtimesDate": "2026-11-20",
+    "days": {
+      "2026-11-20": [
+        "17:00"
+      ]
+    },
+    "shows": {
+      "2026-11-20": [
+        {
+          "time": "17:00",
+          "tags": []
+        }
+      ]
+    },
+    "room": null,
+    "vo": false,
+    "url": "https://roma.andromeda.18tickets.it/film/86054",
+    "smart": {
+      "2026-11-20": 39
+    },
+    "rankUscita": 9,
     "rankVoto": 7
   },
   {
@@ -446,10 +446,10 @@
   {
     "title": "Un weekend artificiale",
     "poster": "https://image.tmdb.org/t/p/w185/x8fbJstLDEYYlJSCDj3v0MD9Lqd.jpg",
-    "rating": 5.3,
+    "rating": 5.2,
     "ratings": {
       "letterboxd": null,
-      "imdb": 5.3,
+      "imdb": 5.2,
       "metacritic": null,
       "mubi": null
     },
@@ -481,7 +481,7 @@
     "vo": false,
     "url": "https://roma.andromeda.18tickets.it/film/90344",
     "smart": {
-      "2026-11-20": 45
+      "2026-11-20": 43
     },
     "rankUscita": 4,
     "rankVoto": 10
