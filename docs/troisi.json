@@ -59,7 +59,7 @@
       "2026-11-22": 57,
       "2026-11-23": 52
     },
-    "rankUscita": 7,
+    "rankUscita": 8,
     "rankVoto": 0
   },
   {
@@ -96,7 +96,7 @@
     "smart": {
       "2026-11-24": 66
     },
-    "rankUscita": 2,
+    "rankUscita": 3,
     "rankVoto": 1
   },
   {
@@ -135,7 +135,7 @@
     "smart": {
       "2026-11-21": 55
     },
-    "rankUscita": 8,
+    "rankUscita": 9,
     "rankVoto": 2
   },
   {
@@ -285,7 +285,7 @@
       "2026-11-24": 84,
       "2026-11-25": 84
     },
-    "rankUscita": 1,
+    "rankUscita": 2,
     "rankVoto": 3
   },
   {
@@ -420,7 +420,7 @@
       "2026-11-24": 74,
       "2026-11-25": 74
     },
-    "rankUscita": 0,
+    "rankUscita": 1,
     "rankVoto": 4
   },
   {
@@ -459,7 +459,7 @@
     "smart": {
       "2026-11-23": 36
     },
-    "rankUscita": 4,
+    "rankUscita": 5,
     "rankVoto": 5
   },
   {
@@ -496,7 +496,7 @@
     "smart": {
       "2026-11-22": 40
     },
-    "rankUscita": 5,
+    "rankUscita": 6,
     "rankVoto": 6
   },
   {
@@ -533,7 +533,7 @@
     "smart": {
       "2026-11-24": 39
     },
-    "rankUscita": 6,
+    "rankUscita": 7,
     "rankVoto": 7
   },
   {
@@ -570,8 +570,45 @@
     "smart": {
       "2026-11-22": 29
     },
-    "rankUscita": 3,
+    "rankUscita": 4,
     "rankVoto": 8
+  },
+  {
+    "title": "È andata così",
+    "poster": "https://image.tmdb.org/t/p/w185/IpSuXa9O1yWq38g0bzhEmlXUX6.jpg",
+    "rating": null,
+    "ratings": {
+      "letterboxd": null,
+      "imdb": null,
+      "metacritic": null,
+      "mubi": null
+    },
+    "releaseDate": "2026-11-26",
+    "showtimes": [
+      "21:00"
+    ],
+    "showtimesDate": "2026-11-26",
+    "days": {
+      "2026-11-26": [
+        "21:00"
+      ]
+    },
+    "shows": {
+      "2026-11-26": [
+        {
+          "time": "21:00",
+          "tags": []
+        }
+      ]
+    },
+    "room": null,
+    "vo": false,
+    "url": "https://www.liveticket.it/opera.aspx?Id=715781",
+    "smart": {
+      "2026-11-26": 79
+    },
+    "rankUscita": 0,
+    "rankVoto": 9
   },
   {
     "title": "Night Shift + Fjord",
@@ -607,7 +644,7 @@
     "smart": {
       "2026-11-25": 50
     },
-    "rankUscita": 9,
-    "rankVoto": 9
+    "rankUscita": 10,
+    "rankVoto": 10
   }
 ]

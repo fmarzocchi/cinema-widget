@@ -1,5 +1,42 @@
 [
   {
+    "title": "I Swear - È più forte di me",
+    "poster": "https://image.tmdb.org/t/p/w185/aEIT9GFMGYytuUFCiVSv21OhkWk.jpg",
+    "rating": 7.9,
+    "ratings": {
+      "letterboxd": 8.5,
+      "imdb": 8.3,
+      "metacritic": 7,
+      "mubi": 7.9
+    },
+    "releaseDate": "2026-11-26",
+    "showtimes": [
+      "18:20"
+    ],
+    "showtimesDate": "2026-11-22",
+    "days": {
+      "2026-11-22": [
+        "18:20"
+      ]
+    },
+    "shows": {
+      "2026-11-22": [
+        {
+          "time": "18:20",
+          "tags": []
+        }
+      ]
+    },
+    "room": "Sala 7",
+    "vo": false,
+    "url": "https://ucicinemas.it/film/i-swear/",
+    "smart": {
+      "2026-11-22": 66
+    },
+    "rankUscita": 0,
+    "rankVoto": 0
+  },
+  {
     "title": "Hunger Games - L'alba sulla mietitura",
     "poster": "https://image.tmdb.org/t/p/w185/uR1lZA2ET3gf7uGVgbRwSeSkEsU.jpg",
     "rating": 7.7,
@@ -12,21 +49,6 @@
     "releaseDate": "2026-11-19",
     "showtimes": [
       "00:30",
-      "13:50",
-      "14:50",
-      "15:10",
-      "15:30",
-      "16:20",
-      "17:10",
-      "18:00",
-      "18:30",
-      "18:40",
-      "19:10",
-      "20:30",
-      "21:10",
-      "21:40",
-      "21:50",
-      "22:30",
       "23:00",
       "23:50"
     ],
@@ -34,21 +56,6 @@
     "days": {
       "2026-11-20": [
         "00:30",
-        "13:50",
-        "14:50",
-        "15:10",
-        "15:30",
-        "16:20",
-        "17:10",
-        "18:00",
-        "18:30",
-        "18:40",
-        "19:10",
-        "20:30",
-        "21:10",
-        "21:40",
-        "21:50",
-        "22:30",
         "23:00",
         "23:50"
       ],
@@ -132,6 +139,9 @@
         "21:30",
         "22:00",
         "22:30"
+      ],
+      "2026-11-26": [
+        "10:40"
       ]
     },
     "shows": {
@@ -139,84 +149,6 @@
         {
           "time": "00:30",
           "tags": []
-        },
-        {
-          "time": "13:50",
-          "tags": [
-            "IMAX"
-          ]
-        },
-        {
-          "time": "14:50",
-          "tags": []
-        },
-        {
-          "time": "15:10",
-          "tags": [
-            "VO"
-          ]
-        },
-        {
-          "time": "15:30",
-          "tags": [
-            "XL"
-          ]
-        },
-        {
-          "time": "16:20",
-          "tags": []
-        },
-        {
-          "time": "17:10",
-          "tags": [
-            "IMAX"
-          ]
-        },
-        {
-          "time": "18:00",
-          "tags": []
-        },
-        {
-          "time": "18:30",
-          "tags": [
-            "VO"
-          ]
-        },
-        {
-          "time": "18:40",
-          "tags": []
-        },
-        {
-          "time": "19:10",
-          "tags": [
-            "XL"
-          ]
-        },
-        {
-          "time": "20:30",
-          "tags": [
-            "IMAX"
-          ]
-        },
-        {
-          "time": "21:10",
-          "tags": []
-        },
-        {
-          "time": "21:40",
-          "tags": []
-        },
-        {
-          "time": "21:50",
-          "tags": [
-            "VO"
-          ]
-        },
-        {
-          "time": "22:30",
-          "tags": [
-            "XL"
-          ]
         },
         {
           "time": "23:00",
@@ -620,6 +552,12 @@
             "XL"
           ]
         }
+      ],
+      "2026-11-26": [
+        {
+          "time": "10:40",
+          "tags": []
+        }
       ]
     },
     "room": "Sala IMAX",
@@ -631,10 +569,11 @@
       "2026-11-22": 89,
       "2026-11-23": 89,
       "2026-11-24": 89,
-      "2026-11-25": 89
+      "2026-11-25": 89,
+      "2026-11-26": 68
     },
-    "rankUscita": 6,
-    "rankVoto": 0
+    "rankUscita": 7,
+    "rankVoto": 1
   },
   {
     "title": "Godzilla Minus Zero",
@@ -648,17 +587,12 @@
     },
     "releaseDate": "2026-11-12",
     "showtimes": [
+      "10:40",
       "13:20",
-      "16:50",
       "22:40"
     ],
-    "showtimesDate": "2026-11-20",
+    "showtimesDate": "2026-11-21",
     "days": {
-      "2026-11-20": [
-        "13:20",
-        "16:50",
-        "22:40"
-      ],
       "2026-11-21": [
         "10:40",
         "13:20",
@@ -683,20 +617,6 @@
       ]
     },
     "shows": {
-      "2026-11-20": [
-        {
-          "time": "13:20",
-          "tags": []
-        },
-        {
-          "time": "16:50",
-          "tags": []
-        },
-        {
-          "time": "22:40",
-          "tags": []
-        }
-      ],
       "2026-11-21": [
         {
           "time": "10:40",
@@ -756,19 +676,18 @@
         }
       ]
     },
-    "room": "Sala 1",
+    "room": "Sala 3",
     "vo": false,
     "url": "https://ucicinemas.it/film/godzilla-minus-zero/",
     "smart": {
-      "2026-11-20": 60,
       "2026-11-21": 60,
       "2026-11-22": 61,
       "2026-11-23": 60,
       "2026-11-24": 60,
       "2026-11-25": 57
     },
-    "rankUscita": 10,
-    "rankVoto": 1
+    "rankUscita": 11,
+    "rankVoto": 2
   },
   {
     "title": "Look Back",
@@ -782,13 +701,11 @@
     },
     "releaseDate": "2026-11-12",
     "showtimes": [
+      "10:10",
       "13:40"
     ],
-    "showtimesDate": "2026-11-20",
+    "showtimesDate": "2026-11-21",
     "days": {
-      "2026-11-20": [
-        "13:40"
-      ],
       "2026-11-21": [
         "10:10",
         "13:40"
@@ -799,12 +716,6 @@
       ]
     },
     "shows": {
-      "2026-11-20": [
-        {
-          "time": "13:40",
-          "tags": []
-        }
-      ],
       "2026-11-21": [
         {
           "time": "10:10",
@@ -830,12 +741,11 @@
     "vo": false,
     "url": "https://ucicinemas.it/film/look-back/",
     "smart": {
-      "2026-11-20": 57,
       "2026-11-21": 58,
       "2026-11-22": 58
     },
-    "rankUscita": 11,
-    "rankVoto": 2
+    "rankUscita": 12,
+    "rankVoto": 3
   },
   {
     "title": "Fjord",
@@ -851,11 +761,8 @@
     "showtimes": [
       "21:30"
     ],
-    "showtimesDate": "2026-11-20",
+    "showtimesDate": "2026-11-21",
     "days": {
-      "2026-11-20": [
-        "21:30"
-      ],
       "2026-11-21": [
         "21:30"
       ],
@@ -867,12 +774,6 @@
       ]
     },
     "shows": {
-      "2026-11-20": [
-        {
-          "time": "21:30",
-          "tags": []
-        }
-      ],
       "2026-11-21": [
         {
           "time": "21:30",
@@ -896,13 +797,12 @@
     "vo": false,
     "url": "https://ucicinemas.it/film/fjord/",
     "smart": {
-      "2026-11-20": 61,
       "2026-11-21": 61,
       "2026-11-23": 62,
       "2026-11-24": 62
     },
-    "rankUscita": 7,
-    "rankVoto": 3
+    "rankUscita": 8,
+    "rankVoto": 4
   },
   {
     "title": "Zustìssia",
@@ -938,8 +838,8 @@
     "smart": {
       "2026-11-23": 42
     },
-    "rankUscita": 23,
-    "rankVoto": 4
+    "rankUscita": 24,
+    "rankVoto": 5
   },
   {
     "title": "Jumbo - La voce di Don",
@@ -1000,8 +900,8 @@
       "2026-11-21": 41,
       "2026-11-22": 41
     },
-    "rankUscita": 24,
-    "rankVoto": 5
+    "rankUscita": 25,
+    "rankVoto": 6
   },
   {
     "title": "Ragione e sentimento",
@@ -1037,8 +937,8 @@
     "smart": {
       "2026-11-24": 41
     },
-    "rankUscita": 20,
-    "rankVoto": 6
+    "rankUscita": 21,
+    "rankVoto": 7
   },
   {
     "title": "Se domani non torno",
@@ -1052,17 +952,13 @@
     },
     "releaseDate": "2026-11-05",
     "showtimes": [
-      "15:00",
+      "11:40",
+      "15:50",
       "18:20",
       "20:50"
     ],
-    "showtimesDate": "2026-11-20",
+    "showtimesDate": "2026-11-21",
     "days": {
-      "2026-11-20": [
-        "15:00",
-        "18:20",
-        "20:50"
-      ],
       "2026-11-21": [
         "11:40",
         "15:50",
@@ -1087,20 +983,6 @@
       ]
     },
     "shows": {
-      "2026-11-20": [
-        {
-          "time": "15:00",
-          "tags": []
-        },
-        {
-          "time": "18:20",
-          "tags": []
-        },
-        {
-          "time": "20:50",
-          "tags": []
-        }
-      ],
       "2026-11-21": [
         {
           "time": "11:40",
@@ -1164,15 +1046,14 @@
     "vo": false,
     "url": "https://ucicinemas.it/film/se-domani-non-torno/",
     "smart": {
-      "2026-11-20": 48,
       "2026-11-21": 49,
       "2026-11-22": 46,
       "2026-11-23": 48,
       "2026-11-24": 48,
       "2026-11-25": 48
     },
-    "rankUscita": 15,
-    "rankVoto": 7
+    "rankUscita": 16,
+    "rankVoto": 8
   },
   {
     "title": "Dio ride",
@@ -1188,11 +1069,8 @@
     "showtimes": [
       "18:50"
     ],
-    "showtimesDate": "2026-11-20",
+    "showtimesDate": "2026-11-21",
     "days": {
-      "2026-11-20": [
-        "18:50"
-      ],
       "2026-11-21": [
         "18:50"
       ],
@@ -1207,12 +1085,6 @@
       ]
     },
     "shows": {
-      "2026-11-20": [
-        {
-          "time": "18:50",
-          "tags": []
-        }
-      ],
       "2026-11-21": [
         {
           "time": "18:50",
@@ -1242,14 +1114,13 @@
     "vo": false,
     "url": "https://ucicinemas.it/film/dio-ride/",
     "smart": {
-      "2026-11-20": 40,
       "2026-11-21": 40,
       "2026-11-23": 41,
       "2026-11-24": 41,
       "2026-11-25": 41
     },
-    "rankUscita": 18,
-    "rankVoto": 8
+    "rankUscita": 19,
+    "rankVoto": 9
   },
   {
     "title": "Mustang",
@@ -1321,8 +1192,8 @@
       "2026-11-24": 40,
       "2026-11-25": 39
     },
-    "rankUscita": 22,
-    "rankVoto": 9
+    "rankUscita": 23,
+    "rankVoto": 10
   },
   {
     "title": "La ballata del re delle api",
@@ -1336,15 +1207,10 @@
     },
     "releaseDate": "2026-11-19",
     "showtimes": [
-      "13:30",
-      "20:00"
+      "13:30"
     ],
-    "showtimesDate": "2026-11-20",
+    "showtimesDate": "2026-11-21",
     "days": {
-      "2026-11-20": [
-        "13:30",
-        "20:00"
-      ],
       "2026-11-21": [
         "13:30"
       ],
@@ -1362,16 +1228,6 @@
       ]
     },
     "shows": {
-      "2026-11-20": [
-        {
-          "time": "13:30",
-          "tags": []
-        },
-        {
-          "time": "20:00",
-          "tags": []
-        }
-      ],
       "2026-11-21": [
         {
           "time": "13:30",
@@ -1407,15 +1263,14 @@
     "vo": false,
     "url": "https://ucicinemas.it/film/la-ballata-del-re-delle-api/",
     "smart": {
-      "2026-11-20": 54,
       "2026-11-21": 52,
       "2026-11-22": 52,
       "2026-11-23": 54,
       "2026-11-24": 54,
       "2026-11-25": 53
     },
-    "rankUscita": 8,
-    "rankVoto": 10
+    "rankUscita": 9,
+    "rankVoto": 11
   },
   {
     "title": "Clayface",
@@ -1494,15 +1349,15 @@
     "vo": false,
     "url": "https://ucicinemas.it/film/clayface/",
     "smart": {
-      "2026-11-20": 35,
+      "2026-11-20": 43,
       "2026-11-21": 35,
       "2026-11-22": 35,
       "2026-11-23": 36,
       "2026-11-24": 36,
       "2026-11-25": 35
     },
-    "rankUscita": 21,
-    "rankVoto": 11
+    "rankUscita": 22,
+    "rankVoto": 12
   },
   {
     "title": "Ramayana - La nascita di una leggenda",
@@ -1519,12 +1374,8 @@
       "14:00",
       "19:00"
     ],
-    "showtimesDate": "2026-11-20",
+    "showtimesDate": "2026-11-21",
     "days": {
-      "2026-11-20": [
-        "14:00",
-        "19:00"
-      ],
       "2026-11-21": [
         "14:00",
         "19:00"
@@ -1547,18 +1398,6 @@
       ]
     },
     "shows": {
-      "2026-11-20": [
-        {
-          "time": "14:00",
-          "tags": [
-            "VO"
-          ]
-        },
-        {
-          "time": "19:00",
-          "tags": []
-        }
-      ],
       "2026-11-21": [
         {
           "time": "14:00",
@@ -1624,15 +1463,14 @@
     "vo": false,
     "url": "https://ucicinemas.it/film/ramayana-la-nascita-di-una-leggenda/",
     "smart": {
-      "2026-11-20": 50,
       "2026-11-21": 50,
       "2026-11-22": 50,
       "2026-11-23": 52,
       "2026-11-24": 52,
       "2026-11-25": 52
     },
-    "rankUscita": 9,
-    "rankVoto": 12
+    "rankUscita": 10,
+    "rankVoto": 13
   },
   {
     "title": "Hope",
@@ -1678,8 +1516,8 @@
       "2026-11-24": 40,
       "2026-11-25": 39
     },
-    "rankUscita": 16,
-    "rankVoto": 13
+    "rankUscita": 17,
+    "rankVoto": 14
   },
   {
     "title": "Il rumore delle cose nuove",
@@ -1693,19 +1531,14 @@
     },
     "releaseDate": "2026-11-12",
     "showtimes": [
+      "11:20",
       "14:40",
       "16:30",
       "19:20",
-      "21:50"
+      "21:00"
     ],
-    "showtimesDate": "2026-11-20",
+    "showtimesDate": "2026-11-21",
     "days": {
-      "2026-11-20": [
-        "14:40",
-        "16:30",
-        "19:20",
-        "21:50"
-      ],
       "2026-11-21": [
         "11:20",
         "14:40",
@@ -1734,24 +1567,6 @@
       ]
     },
     "shows": {
-      "2026-11-20": [
-        {
-          "time": "14:40",
-          "tags": []
-        },
-        {
-          "time": "16:30",
-          "tags": []
-        },
-        {
-          "time": "19:20",
-          "tags": []
-        },
-        {
-          "time": "21:50",
-          "tags": []
-        }
-      ],
       "2026-11-21": [
         {
           "time": "11:20",
@@ -1827,19 +1642,18 @@
         }
       ]
     },
-    "room": "Sala 3",
+    "room": "Sala 2",
     "vo": false,
     "url": "https://ucicinemas.it/film/il-rumore-delle-cose-nuove/",
     "smart": {
-      "2026-11-20": 44,
       "2026-11-21": 45,
       "2026-11-22": 41,
       "2026-11-23": 46,
       "2026-11-24": 46,
       "2026-11-25": 45
     },
-    "rankUscita": 12,
-    "rankVoto": 14
+    "rankUscita": 13,
+    "rankVoto": 15
   },
   {
     "title": "Un tranquillo funerale di famiglia",
@@ -1853,20 +1667,14 @@
     },
     "releaseDate": "2026-10-29",
     "showtimes": [
-      "14:20",
-      "16:10",
-      "19:50"
+      "11:50",
+      "16:10"
     ],
-    "showtimesDate": "2026-11-20",
+    "showtimesDate": "2026-11-21",
     "days": {
-      "2026-11-20": [
-        "14:20",
-        "16:10",
-        "19:50"
-      ],
       "2026-11-21": [
         "11:50",
-        "14:20"
+        "16:10"
       ],
       "2026-11-22": [
         "11:50",
@@ -1890,27 +1698,13 @@
       ]
     },
     "shows": {
-      "2026-11-20": [
-        {
-          "time": "14:20",
-          "tags": []
-        },
-        {
-          "time": "16:10",
-          "tags": []
-        },
-        {
-          "time": "19:50",
-          "tags": []
-        }
-      ],
       "2026-11-21": [
         {
           "time": "11:50",
           "tags": []
         },
         {
-          "time": "14:20",
+          "time": "16:10",
           "tags": []
         }
       ],
@@ -1975,15 +1769,14 @@
     "vo": false,
     "url": "https://ucicinemas.it/film/un-tranquillo-funerale-di-famiglia/",
     "smart": {
-      "2026-11-20": 35,
       "2026-11-21": 33,
       "2026-11-22": 36,
       "2026-11-23": 38,
       "2026-11-24": 38,
       "2026-11-25": 35
     },
-    "rankUscita": 19,
-    "rankVoto": 15
+    "rankUscita": 20,
+    "rankVoto": 16
   },
   {
     "title": "Whalefall - Nella balena",
@@ -2035,12 +1828,12 @@
     "vo": false,
     "url": "https://ucicinemas.it/film/whalefall/",
     "smart": {
-      "2026-11-20": 23,
+      "2026-11-20": 30,
       "2026-11-21": 22,
       "2026-11-23": 24
     },
-    "rankUscita": 25,
-    "rankVoto": 16
+    "rankUscita": 26,
+    "rankVoto": 17
   },
   {
     "title": "Come rapinare una banca",
@@ -2054,14 +1847,12 @@
     },
     "releaseDate": "2026-11-12",
     "showtimes": [
-      "00:30",
-      "22:40"
+      "00:30"
     ],
     "showtimesDate": "2026-11-20",
     "days": {
       "2026-11-20": [
-        "00:30",
-        "22:40"
+        "00:30"
       ],
       "2026-11-21": [
         "00:30"
@@ -2081,10 +1872,6 @@
         {
           "time": "00:30",
           "tags": []
-        },
-        {
-          "time": "22:40",
-          "tags": []
         }
       ],
       "2026-11-21": [
@@ -2112,18 +1899,18 @@
         }
       ]
     },
-    "room": "Sala 10",
+    "room": "Sala 2",
     "vo": false,
     "url": "https://ucicinemas.it/film/come-rapinare-una-banca/",
     "smart": {
-      "2026-11-20": 35,
+      "2026-11-20": 41,
       "2026-11-21": 33,
       "2026-11-23": 34,
       "2026-11-24": 34,
       "2026-11-25": 34
     },
-    "rankUscita": 13,
-    "rankVoto": 17
+    "rankUscita": 14,
+    "rankVoto": 18
   },
   {
     "title": "Il gatto col cappello",
@@ -2137,15 +1924,12 @@
     },
     "releaseDate": "2026-11-05",
     "showtimes": [
+      "10:30",
       "14:10",
-      "17:00"
+      "16:50"
     ],
-    "showtimesDate": "2026-11-20",
+    "showtimesDate": "2026-11-21",
     "days": {
-      "2026-11-20": [
-        "14:10",
-        "17:00"
-      ],
       "2026-11-21": [
         "10:30",
         "14:10",
@@ -2169,16 +1953,6 @@
       ]
     },
     "shows": {
-      "2026-11-20": [
-        {
-          "time": "14:10",
-          "tags": []
-        },
-        {
-          "time": "17:00",
-          "tags": []
-        }
-      ],
       "2026-11-21": [
         {
           "time": "10:30",
@@ -2238,15 +2012,14 @@
     "vo": false,
     "url": "https://ucicinemas.it/film/il-gatto-col-cappello/",
     "smart": {
-      "2026-11-20": 30,
       "2026-11-21": 32,
       "2026-11-22": 32,
       "2026-11-23": 32,
       "2026-11-24": 32,
       "2026-11-25": 30
     },
-    "rankUscita": 17,
-    "rankVoto": 18
+    "rankUscita": 18,
+    "rankVoto": 19
   },
   {
     "title": "Un weekend artificiale",
@@ -2260,17 +2033,11 @@
     },
     "releaseDate": "2026-11-12",
     "showtimes": [
-      "14:35",
       "16:40",
       "19:30"
     ],
-    "showtimesDate": "2026-11-20",
+    "showtimesDate": "2026-11-21",
     "days": {
-      "2026-11-20": [
-        "14:35",
-        "16:40",
-        "19:30"
-      ],
       "2026-11-21": [
         "16:40",
         "19:30"
@@ -2298,20 +2065,6 @@
       ]
     },
     "shows": {
-      "2026-11-20": [
-        {
-          "time": "14:35",
-          "tags": []
-        },
-        {
-          "time": "16:40",
-          "tags": []
-        },
-        {
-          "time": "19:30",
-          "tags": []
-        }
-      ],
       "2026-11-21": [
         {
           "time": "16:40",
@@ -2383,19 +2136,18 @@
         }
       ]
     },
-    "room": "Sala 10",
+    "room": "Sala 12",
     "vo": false,
     "url": "https://ucicinemas.it/film/un-weekend-artificiale/",
     "smart": {
-      "2026-11-20": 29,
       "2026-11-21": 27,
       "2026-11-22": 29,
       "2026-11-23": 32,
       "2026-11-24": 35,
       "2026-11-25": 32
     },
-    "rankUscita": 14,
-    "rankVoto": 19
+    "rankUscita": 15,
+    "rankVoto": 20
   },
   {
     "title": "Mammina",
@@ -2438,11 +2190,11 @@
     "vo": false,
     "url": "https://ucicinemas.it/film/mammina/",
     "smart": {
-      "2026-11-20": 8,
+      "2026-11-20": 16,
       "2026-11-21": 8
     },
-    "rankUscita": 26,
-    "rankVoto": 20
+    "rankUscita": 27,
+    "rankVoto": 21
   },
   {
     "title": "Hexe - Il regno delle streghe",
@@ -2456,6 +2208,7 @@
     },
     "releaseDate": "2026-11-26",
     "showtimes": [
+      "11:20",
       "14:00",
       "16:40",
       "20:00"
@@ -2463,6 +2216,7 @@
     "showtimesDate": "2026-11-26",
     "days": {
       "2026-11-26": [
+        "11:20",
         "14:00",
         "16:40",
         "20:00"
@@ -2470,6 +2224,12 @@
     },
     "shows": {
       "2026-11-26": [
+        {
+          "time": "11:20",
+          "tags": [
+            "XL"
+          ]
+        },
         {
           "time": "14:00",
           "tags": [
@@ -2492,10 +2252,10 @@
     "vo": false,
     "url": "https://ucicinemas.it/film/hexe-il-regno-delle-streghe/",
     "smart": {
-      "2026-11-26": 71
+      "2026-11-26": 79
     },
-    "rankUscita": 0,
-    "rankVoto": 21
+    "rankUscita": 1,
+    "rankVoto": 22
   },
   {
     "title": "La notte delle fragole",
@@ -2509,18 +2269,24 @@
     },
     "releaseDate": "2026-11-26",
     "showtimes": [
+      "11:30",
       "19:10",
       "21:40"
     ],
     "showtimesDate": "2026-11-26",
     "days": {
       "2026-11-26": [
+        "11:30",
         "19:10",
         "21:40"
       ]
     },
     "shows": {
       "2026-11-26": [
+        {
+          "time": "11:30",
+          "tags": []
+        },
         {
           "time": "19:10",
           "tags": [
@@ -2537,10 +2303,10 @@
     "vo": false,
     "url": "https://ucicinemas.it/film/la-notte-delle-fragole/",
     "smart": {
-      "2026-11-26": 64
+      "2026-11-26": 71
     },
-    "rankUscita": 1,
-    "rankVoto": 22
+    "rankUscita": 2,
+    "rankVoto": 23
   },
   {
     "title": "Le nuove disavventure di Cliff Booth",
@@ -2628,8 +2394,8 @@
       "2026-11-25": 57,
       "2026-11-26": 79
     },
-    "rankUscita": 2,
-    "rankVoto": 23
+    "rankUscita": 3,
+    "rankVoto": 24
   },
   {
     "title": "Lorenzo - L’incredibile avventura di Jovanotti",
@@ -2665,8 +2431,8 @@
     "smart": {
       "2026-11-26": 57
     },
-    "rankUscita": 3,
-    "rankVoto": 24
+    "rankUscita": 4,
+    "rankVoto": 25
   },
   {
     "title": "Ti presento i Fotter",
@@ -2697,6 +2463,8 @@
         "21:50"
       ],
       "2026-11-26": [
+        "10:30",
+        "11:40",
         "18:50",
         "21:50"
       ]
@@ -2734,6 +2502,16 @@
       ],
       "2026-11-26": [
         {
+          "time": "10:30",
+          "tags": []
+        },
+        {
+          "time": "11:40",
+          "tags": [
+            "VO"
+          ]
+        },
+        {
           "time": "18:50",
           "tags": [
             "VO"
@@ -2752,10 +2530,10 @@
       "2026-11-21": 52,
       "2026-11-22": 52,
       "2026-11-25": 60,
-      "2026-11-26": 64
+      "2026-11-26": 79
     },
-    "rankUscita": 4,
-    "rankVoto": 25
+    "rankUscita": 5,
+    "rankVoto": 26
   },
   {
     "title": "BTS WORLD TOUR 'ARIRANG' IN KAOHSIUNG: LIVE VIEWING",
@@ -2801,8 +2579,8 @@
     "smart": {
       "2026-11-21": 53
     },
-    "rankUscita": 5,
-    "rankVoto": 26
+    "rankUscita": 6,
+    "rankVoto": 27
   },
   {
     "title": "Gli anni del padre",
@@ -2885,8 +2663,8 @@
       "2026-11-24": 41,
       "2026-11-25": 43
     },
-    "rankUscita": 27,
-    "rankVoto": 27
+    "rankUscita": 28,
+    "rankVoto": 28
   },
   {
     "title": "Scrooge: Gli spiriti del Natale",
@@ -2900,26 +2678,12 @@
     },
     "releaseDate": null,
     "showtimes": [
-      "00:00",
-      "15:10",
-      "17:20",
-      "18:10",
-      "19:40",
-      "21:20",
-      "21:50",
-      "22:20"
+      "00:00"
     ],
     "showtimesDate": "2026-11-20",
     "days": {
       "2026-11-20": [
-        "00:00",
-        "15:10",
-        "17:20",
-        "18:10",
-        "19:40",
-        "21:20",
-        "21:50",
-        "22:20"
+        "00:00"
       ],
       "2026-11-21": [
         "00:00",
@@ -2929,6 +2693,7 @@
         "18:10",
         "19:40",
         "21:20",
+        "21:50",
         "22:20",
         "23:20"
       ],
@@ -2939,6 +2704,7 @@
         "18:10",
         "19:40",
         "21:20",
+        "21:50",
         "22:20"
       ],
       "2026-11-23": [
@@ -2966,34 +2732,6 @@
       "2026-11-20": [
         {
           "time": "00:00",
-          "tags": []
-        },
-        {
-          "time": "15:10",
-          "tags": []
-        },
-        {
-          "time": "17:20",
-          "tags": []
-        },
-        {
-          "time": "18:10",
-          "tags": []
-        },
-        {
-          "time": "19:40",
-          "tags": []
-        },
-        {
-          "time": "21:20",
-          "tags": []
-        },
-        {
-          "time": "21:50",
-          "tags": []
-        },
-        {
-          "time": "22:20",
           "tags": []
         }
       ],
@@ -3024,6 +2762,10 @@
         },
         {
           "time": "21:20",
+          "tags": []
+        },
+        {
+          "time": "21:50",
           "tags": []
         },
         {
@@ -3058,6 +2800,10 @@
         },
         {
           "time": "21:20",
+          "tags": []
+        },
+        {
+          "time": "21:50",
           "tags": []
         },
         {
@@ -3132,15 +2878,15 @@
     "vo": false,
     "url": "https://ucicinemas.it/film/scrooge-gli-spiriti-del-natale/",
     "smart": {
-      "2026-11-20": 48,
-      "2026-11-21": 49,
-      "2026-11-22": 47,
+      "2026-11-20": 45,
+      "2026-11-21": 51,
+      "2026-11-22": 48,
       "2026-11-23": 49,
       "2026-11-24": 49,
       "2026-11-25": 45
     },
-    "rankUscita": 28,
-    "rankVoto": 28
+    "rankUscita": 29,
+    "rankVoto": 29
   },
   {
     "title": "Your Name 4K",
@@ -3222,7 +2968,7 @@
       "2026-11-24": 44,
       "2026-11-25": 38
     },
-    "rankUscita": 29,
-    "rankVoto": 29
+    "rankUscita": 30,
+    "rankVoto": 30
   }
 ]
