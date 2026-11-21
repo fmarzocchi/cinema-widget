@@ -88,7 +88,7 @@
     "vo": false,
     "url": "https://roma.andromeda.18tickets.it/film/92557",
     "smart": {
-      "2026-11-21": 89
+      "2026-11-21": 88
     },
     "rankUscita": 0,
     "rankVoto": 1
@@ -179,7 +179,7 @@
     "rating": 7,
     "ratings": {
       "letterboxd": 6.7,
-      "imdb": 7.3,
+      "imdb": 7.2,
       "metacritic": null,
       "mubi": null
     },
@@ -217,7 +217,7 @@
     "vo": false,
     "url": "https://roma.andromeda.18tickets.it/film/88991",
     "smart": {
-      "2026-11-21": 67
+      "2026-11-21": 66
     },
     "rankUscita": 8,
     "rankVoto": 4
@@ -225,10 +225,10 @@
   {
     "title": "Il fuoco che ti porti dentro",
     "poster": "https://image.tmdb.org/t/p/w185/kCfIZpqRsBe39Y1lUCxOAjgQ5VR.jpg",
-    "rating": 6.6,
+    "rating": 6.5,
     "ratings": {
       "letterboxd": 6.7,
-      "imdb": 6.4,
+      "imdb": 6.3,
       "metacritic": null,
       "mubi": null
     },
@@ -266,7 +266,7 @@
     "vo": false,
     "url": "https://roma.andromeda.18tickets.it/film/93974",
     "smart": {
-      "2026-11-21": 76
+      "2026-11-21": 74
     },
     "rankUscita": 1,
     "rankVoto": 5
@@ -274,10 +274,10 @@
   {
     "title": "Il rumore delle cose nuove",
     "poster": "https://image.tmdb.org/t/p/w185/2Wq59OquoiAmgs1A86FfJcnzxfs.jpg",
-    "rating": 6.3,
+    "rating": 6.4,
     "ratings": {
       "letterboxd": 6.3,
-      "imdb": 6.3,
+      "imdb": 6.4,
       "metacritic": null,
       "mubi": null
     },
@@ -315,7 +315,7 @@
     "vo": false,
     "url": "https://roma.andromeda.18tickets.it/film/89849",
     "smart": {
-      "2026-11-21": 66
+      "2026-11-21": 67
     },
     "rankUscita": 2,
     "rankVoto": 6
@@ -358,7 +358,7 @@
     "vo": false,
     "url": "https://roma.andromeda.18tickets.it/film/86054",
     "smart": {
-      "2026-11-21": 49
+      "2026-11-21": 48
     },
     "rankUscita": 9,
     "rankVoto": 7
@@ -407,7 +407,7 @@
     "vo": false,
     "url": "https://roma.andromeda.18tickets.it/film/88595",
     "smart": {
-      "2026-11-21": 62
+      "2026-11-21": 61
     },
     "rankUscita": 3,
     "rankVoto": 8
