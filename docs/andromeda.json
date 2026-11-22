@@ -45,10 +45,10 @@
   {
     "title": "Hunger Games - L'alba sulla mietitura",
     "poster": "https://image.tmdb.org/t/p/w185/uR1lZA2ET3gf7uGVgbRwSeSkEsU.jpg",
-    "rating": 7.7,
+    "rating": 7.6,
     "ratings": {
       "letterboxd": null,
-      "imdb": 7.7,
+      "imdb": 7.6,
       "metacritic": null,
       "mubi": null
     },
@@ -88,7 +88,7 @@
     "vo": false,
     "url": "https://roma.andromeda.18tickets.it/film/92557",
     "smart": {
-      "2026-11-22": 88
+      "2026-11-22": 86
     },
     "rankUscita": 0,
     "rankVoto": 1
@@ -225,10 +225,10 @@
   {
     "title": "Il fuoco che ti porti dentro",
     "poster": "https://image.tmdb.org/t/p/w185/kCfIZpqRsBe39Y1lUCxOAjgQ5VR.jpg",
-    "rating": 6.5,
+    "rating": 6.6,
     "ratings": {
       "letterboxd": 6.7,
-      "imdb": 6.3,
+      "imdb": 6.4,
       "metacritic": null,
       "mubi": null
     },
@@ -266,7 +266,7 @@
     "vo": false,
     "url": "https://roma.andromeda.18tickets.it/film/93974",
     "smart": {
-      "2026-11-22": 73
+      "2026-11-22": 74
     },
     "rankUscita": 1,
     "rankVoto": 5
@@ -274,10 +274,10 @@
   {
     "title": "Il rumore delle cose nuove",
     "poster": "https://image.tmdb.org/t/p/w185/2Wq59OquoiAmgs1A86FfJcnzxfs.jpg",
-    "rating": 6.4,
+    "rating": 6.3,
     "ratings": {
       "letterboxd": 6.3,
-      "imdb": 6.4,
+      "imdb": 6.3,
       "metacritic": null,
       "mubi": null
     },
@@ -315,7 +315,7 @@
     "vo": false,
     "url": "https://roma.andromeda.18tickets.it/film/89849",
     "smart": {
-      "2026-11-22": 66
+      "2026-11-22": 65
     },
     "rankUscita": 2,
     "rankVoto": 6
