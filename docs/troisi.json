@@ -20,6 +20,9 @@
       ],
       "2026-11-28": [
         "13:15"
+      ],
+      "2026-11-29": [
+        "22:00"
       ]
     },
     "shows": {
@@ -38,56 +41,24 @@
             "VO"
           ]
         }
-      ]
-    },
-    "room": null,
-    "vo": true,
-    "url": "https://www.liveticket.it/opera.aspx?Id=709225",
-    "smart": {
-      "2026-11-27": 100,
-      "2026-11-28": 100
-    },
-    "rankUscita": 0,
-    "rankVoto": 0
-  },
-  {
-    "title": "2001: Odissea nello spazio",
-    "poster": "https://image.tmdb.org/t/p/w185/uvSRVMXGHaCeYAj2pCYNdC31b2u.jpg",
-    "rating": 8.6,
-    "ratings": {
-      "letterboxd": 8.5,
-      "imdb": 8.3,
-      "metacritic": 8.4,
-      "mubi": 9
-    },
-    "releaseDate": "1968-12-12",
-    "showtimes": [
-      "00:45"
-    ],
-    "showtimesDate": "2026-11-23",
-    "days": {
-      "2026-11-23": [
-        "00:45"
-      ]
-    },
-    "shows": {
-      "2026-11-23": [
+      ],
+      "2026-11-29": [
         {
-          "time": "00:45",
-          "tags": [
-            "VO"
-          ]
+          "time": "22:00",
+          "tags": []
         }
       ]
     },
     "room": null,
-    "vo": true,
-    "url": "https://www.liveticket.it/opera.aspx?Id=713347",
+    "vo": false,
+    "url": "https://www.liveticket.it/opera.aspx?Id=709223",
     "smart": {
-      "2026-11-23": 52
+      "2026-11-27": 100,
+      "2026-11-28": 100,
+      "2026-11-29": 100
     },
-    "rankUscita": 10,
-    "rankVoto": 1
+    "rankUscita": 0,
+    "rankVoto": 0
   },
   {
     "title": "Once Upon a Time in Harlem",
@@ -121,10 +92,10 @@
     "vo": false,
     "url": "https://www.liveticket.it/opera.aspx?Id=710258",
     "smart": {
-      "2026-11-24": 66
+      "2026-11-24": 65
     },
     "rankUscita": 4,
-    "rankVoto": 2
+    "rankVoto": 1
   },
   {
     "title": "Look Back",
@@ -138,15 +109,11 @@
     },
     "releaseDate": "2026-11-12",
     "showtimes": [
-      "15:45",
-      "22:45"
+      "14:30",
+      "19:30"
     ],
-    "showtimesDate": "2026-11-22",
+    "showtimesDate": "2026-11-23",
     "days": {
-      "2026-11-22": [
-        "15:45",
-        "22:45"
-      ],
       "2026-11-23": [
         "14:30",
         "19:30"
@@ -161,20 +128,6 @@
       ]
     },
     "shows": {
-      "2026-11-22": [
-        {
-          "time": "15:45",
-          "tags": [
-            "VO"
-          ]
-        },
-        {
-          "time": "22:45",
-          "tags": [
-            "VO"
-          ]
-        }
-      ],
       "2026-11-23": [
         {
           "time": "14:30",
@@ -222,13 +175,12 @@
     "vo": true,
     "url": "https://www.liveticket.it/opera.aspx?Id=707729",
     "smart": {
-      "2026-11-22": 82,
-      "2026-11-23": 73,
+      "2026-11-23": 72,
       "2026-11-24": 82,
       "2026-11-25": 82
     },
     "rankUscita": 3,
-    "rankVoto": 3
+    "rankVoto": 2
   },
   {
     "title": "Fjord",
@@ -242,15 +194,12 @@
     },
     "releaseDate": "2026-11-19",
     "showtimes": [
-      "13:00",
-      "17:45"
+      "11:00",
+      "16:30",
+      "21:30"
     ],
-    "showtimesDate": "2026-11-22",
+    "showtimesDate": "2026-11-23",
     "days": {
-      "2026-11-22": [
-        "13:00",
-        "17:45"
-      ],
       "2026-11-23": [
         "11:00",
         "16:30",
@@ -264,20 +213,6 @@
       ]
     },
     "shows": {
-      "2026-11-22": [
-        {
-          "time": "13:00",
-          "tags": [
-            "VO"
-          ]
-        },
-        {
-          "time": "17:45",
-          "tags": [
-            "VO"
-          ]
-        }
-      ],
       "2026-11-23": [
         {
           "time": "11:00",
@@ -319,13 +254,12 @@
     "vo": true,
     "url": "https://www.liveticket.it/opera.aspx?Id=709220",
     "smart": {
-      "2026-11-22": 86,
-      "2026-11-23": 86,
-      "2026-11-24": 72,
-      "2026-11-25": 72
+      "2026-11-23": 85,
+      "2026-11-24": 71,
+      "2026-11-25": 71
     },
     "rankUscita": 2,
-    "rankVoto": 4
+    "rankVoto": 3
   },
   {
     "title": "Sabrina",
@@ -363,8 +297,8 @@
     "smart": {
       "2026-11-28": 59
     },
-    "rankUscita": 11,
-    "rankVoto": 5
+    "rankUscita": 9,
+    "rankVoto": 4
   },
   {
     "title": "The Dreamers - I sognatori",
@@ -402,45 +336,45 @@
     "smart": {
       "2026-11-23": 36
     },
-    "rankUscita": 7,
-    "rankVoto": 6
+    "rankUscita": 6,
+    "rankVoto": 5
   },
   {
-    "title": "James e la pesca gigante",
-    "poster": "https://image.tmdb.org/t/p/w185/nG4BgOB9OqYFDN6s1QmuYCHBd9F.jpg",
+    "title": "Matilda 6 mitica",
+    "poster": "https://image.tmdb.org/t/p/w185/wYoDpWInsBEVSmWStnRH06ddoyk.jpg",
     "rating": 7.1,
     "ratings": {
-      "letterboxd": 6.9,
-      "imdb": 6.7,
-      "metacritic": 7.8,
-      "mubi": 7
+      "letterboxd": 7.6,
+      "imdb": 7.1,
+      "metacritic": 7.2,
+      "mubi": 6.6
     },
-    "releaseDate": "1997-05-16",
+    "releaseDate": "1997-02-27",
     "showtimes": [
-      "11:00"
+      "10:30"
     ],
-    "showtimesDate": "2026-11-22",
+    "showtimesDate": "2026-11-29",
     "days": {
-      "2026-11-22": [
-        "11:00"
+      "2026-11-29": [
+        "10:30"
       ]
     },
     "shows": {
-      "2026-11-22": [
+      "2026-11-29": [
         {
-          "time": "11:00",
+          "time": "10:30",
           "tags": []
         }
       ]
     },
     "room": null,
     "vo": false,
-    "url": "https://www.liveticket.it/opera.aspx?Id=413821",
+    "url": "https://www.liveticket.it/opera.aspx?Id=413823",
     "smart": {
-      "2026-11-22": 40
+      "2026-11-29": 54
     },
-    "rankUscita": 8,
-    "rankVoto": 7
+    "rankUscita": 7,
+    "rankVoto": 6
   },
   {
     "title": "Ultimo tango a Parigi",
@@ -476,45 +410,8 @@
     "smart": {
       "2026-11-24": 39
     },
-    "rankUscita": 9,
-    "rankVoto": 8
-  },
-  {
-    "title": "Wax & Gold",
-    "poster": "https://image.tmdb.org/t/p/w185/f9eRzaSG6W98i9sZhyT77LVsawF.jpg",
-    "rating": 6.2,
-    "ratings": {
-      "letterboxd": 6.3,
-      "imdb": 6,
-      "metacritic": null,
-      "mubi": null
-    },
-    "releaseDate": "2026-02-15",
-    "showtimes": [
-      "20:30"
-    ],
-    "showtimesDate": "2026-11-22",
-    "days": {
-      "2026-11-22": [
-        "20:30"
-      ]
-    },
-    "shows": {
-      "2026-11-22": [
-        {
-          "time": "20:30",
-          "tags": []
-        }
-      ]
-    },
-    "room": null,
-    "vo": false,
-    "url": "https://www.liveticket.it/opera.aspx?Id=710238",
-    "smart": {
-      "2026-11-22": 29
-    },
-    "rankUscita": 6,
-    "rankVoto": 9
+    "rankUscita": 8,
+    "rankVoto": 7
   },
   {
     "title": "The Moment",
@@ -551,7 +448,7 @@
       "2026-11-27": 42
     },
     "rankUscita": 5,
-    "rankVoto": 10
+    "rankVoto": 8
   },
   {
     "title": "È andata così",
@@ -588,7 +485,7 @@
       "2026-11-26": 79
     },
     "rankUscita": 1,
-    "rankVoto": 11
+    "rankVoto": 9
   },
   {
     "title": "Night Shift + Fjord",
@@ -624,7 +521,7 @@
     "smart": {
       "2026-11-25": 50
     },
-    "rankUscita": 12,
-    "rankVoto": 12
+    "rankUscita": 10,
+    "rankVoto": 10
   }
 ]
