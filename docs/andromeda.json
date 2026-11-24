@@ -45,10 +45,10 @@
   {
     "title": "Holy Wood Dust",
     "poster": "https://image.tmdb.org/t/p/w185/9pyQnb9hWr0ggm3Qwgka4ALGsBN.jpg",
-    "rating": 7.1,
+    "rating": 7,
     "ratings": {
       "letterboxd": null,
-      "imdb": 7.1,
+      "imdb": 7,
       "metacritic": null,
       "mubi": null
     },
@@ -74,7 +74,7 @@
     "vo": false,
     "url": "https://roma.andromeda.18tickets.it/film/95228",
     "smart": {
-      "2026-11-24": 63
+      "2026-11-24": 62
     },
     "rankUscita": 1,
     "rankVoto": 1
@@ -177,7 +177,7 @@
     "rating": 6.9,
     "ratings": {
       "letterboxd": 8.1,
-      "imdb": 7.6,
+      "imdb": 7.5,
       "metacritic": 5.4,
       "mubi": 6.4
     },
@@ -228,7 +228,7 @@
     "rating": 6.7,
     "ratings": {
       "letterboxd": 6.7,
-      "imdb": 6.6,
+      "imdb": 6.7,
       "metacritic": null,
       "mubi": null
     },
@@ -274,10 +274,10 @@
   {
     "title": "Il rumore delle cose nuove",
     "poster": "https://image.tmdb.org/t/p/w185/2Wq59OquoiAmgs1A86FfJcnzxfs.jpg",
-    "rating": 6.3,
+    "rating": 6.4,
     "ratings": {
       "letterboxd": 6.3,
-      "imdb": 6.3,
+      "imdb": 6.4,
       "metacritic": null,
       "mubi": null
     },
@@ -315,7 +315,7 @@
     "vo": false,
     "url": "https://roma.andromeda.18tickets.it/film/89849",
     "smart": {
-      "2026-11-24": 64
+      "2026-11-24": 65
     },
     "rankUscita": 4,
     "rankVoto": 6
