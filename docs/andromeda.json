@@ -14,15 +14,15 @@
       "19:10",
       "21:20"
     ],
-    "showtimesDate": "2026-11-24",
+    "showtimesDate": "2026-11-25",
     "days": {
-      "2026-11-24": [
+      "2026-11-25": [
         "19:10",
         "21:20"
       ]
     },
     "shows": {
-      "2026-11-24": [
+      "2026-11-25": [
         {
           "time": "19:10",
           "tags": []
@@ -33,51 +33,14 @@
         }
       ]
     },
-    "room": "Sala 7",
+    "room": "Sala 8",
     "vo": false,
     "url": "https://roma.andromeda.18tickets.it/film/89717",
     "smart": {
-      "2026-11-24": 71
+      "2026-11-25": 71
     },
-    "rankUscita": 7,
+    "rankUscita": 9,
     "rankVoto": 0
-  },
-  {
-    "title": "Holy Wood Dust",
-    "poster": "https://image.tmdb.org/t/p/w185/9pyQnb9hWr0ggm3Qwgka4ALGsBN.jpg",
-    "rating": 7,
-    "ratings": {
-      "letterboxd": null,
-      "imdb": 7,
-      "metacritic": null,
-      "mubi": null
-    },
-    "releaseDate": "2026-11-23",
-    "showtimes": [
-      "17:00"
-    ],
-    "showtimesDate": "2026-11-24",
-    "days": {
-      "2026-11-24": [
-        "17:00"
-      ]
-    },
-    "shows": {
-      "2026-11-24": [
-        {
-          "time": "17:00",
-          "tags": []
-        }
-      ]
-    },
-    "room": null,
-    "vo": false,
-    "url": "https://roma.andromeda.18tickets.it/film/95228",
-    "smart": {
-      "2026-11-24": 62
-    },
-    "rankUscita": 1,
-    "rankVoto": 1
   },
   {
     "title": "Se domani non torno",
@@ -94,15 +57,15 @@
       "16:30",
       "18:40"
     ],
-    "showtimesDate": "2026-11-24",
+    "showtimesDate": "2026-11-25",
     "days": {
-      "2026-11-24": [
+      "2026-11-25": [
         "16:30",
         "18:40"
       ]
     },
     "shows": {
-      "2026-11-24": [
+      "2026-11-25": [
         {
           "time": "16:30",
           "tags": []
@@ -117,10 +80,10 @@
     "vo": false,
     "url": "https://roma.andromeda.18tickets.it/film/86088",
     "smart": {
-      "2026-11-24": 59
+      "2026-11-25": 58
     },
-    "rankUscita": 8,
-    "rankVoto": 2
+    "rankUscita": 10,
+    "rankVoto": 1
   },
   {
     "title": "Dio ride",
@@ -138,16 +101,16 @@
       "18:50",
       "21:20"
     ],
-    "showtimesDate": "2026-11-24",
+    "showtimesDate": "2026-11-25",
     "days": {
-      "2026-11-24": [
+      "2026-11-25": [
         "16:30",
         "18:50",
         "21:20"
       ]
     },
     "shows": {
-      "2026-11-24": [
+      "2026-11-25": [
         {
           "time": "16:30",
           "tags": []
@@ -166,10 +129,10 @@
     "vo": false,
     "url": "https://roma.andromeda.18tickets.it/film/88991",
     "smart": {
-      "2026-11-24": 65
+      "2026-11-25": 65
     },
-    "rankUscita": 10,
-    "rankVoto": 3
+    "rankUscita": 12,
+    "rankVoto": 2
   },
   {
     "title": "Hunger Games - L'alba sulla mietitura",
@@ -187,16 +150,16 @@
       "20:45",
       "21:00"
     ],
-    "showtimesDate": "2026-11-24",
+    "showtimesDate": "2026-11-25",
     "days": {
-      "2026-11-24": [
+      "2026-11-25": [
         "17:30",
         "20:45",
         "21:00"
       ]
     },
     "shows": {
-      "2026-11-24": [
+      "2026-11-25": [
         {
           "time": "17:30",
           "tags": []
@@ -217,10 +180,10 @@
     "vo": false,
     "url": "https://roma.andromeda.18tickets.it/film/92557",
     "smart": {
-      "2026-11-24": 76
+      "2026-11-25": 75
     },
-    "rankUscita": 2,
-    "rankVoto": 4
+    "rankUscita": 5,
+    "rankVoto": 3
   },
   {
     "title": "Il fuoco che ti porti dentro",
@@ -238,16 +201,16 @@
       "19:00",
       "21:20"
     ],
-    "showtimesDate": "2026-11-24",
+    "showtimesDate": "2026-11-25",
     "days": {
-      "2026-11-24": [
+      "2026-11-25": [
         "17:00",
         "19:00",
         "21:20"
       ]
     },
     "shows": {
-      "2026-11-24": [
+      "2026-11-25": [
         {
           "time": "17:00",
           "tags": []
@@ -266,10 +229,10 @@
     "vo": false,
     "url": "https://roma.andromeda.18tickets.it/film/93974",
     "smart": {
-      "2026-11-24": 74
+      "2026-11-25": 73
     },
-    "rankUscita": 3,
-    "rankVoto": 5
+    "rankUscita": 6,
+    "rankVoto": 4
   },
   {
     "title": "Il rumore delle cose nuove",
@@ -287,16 +250,16 @@
       "18:45",
       "21:15"
     ],
-    "showtimesDate": "2026-11-24",
+    "showtimesDate": "2026-11-25",
     "days": {
-      "2026-11-24": [
+      "2026-11-25": [
         "16:20",
         "18:45",
         "21:15"
       ]
     },
     "shows": {
-      "2026-11-24": [
+      "2026-11-25": [
         {
           "time": "16:20",
           "tags": []
@@ -315,10 +278,10 @@
     "vo": false,
     "url": "https://roma.andromeda.18tickets.it/film/89849",
     "smart": {
-      "2026-11-24": 65
+      "2026-11-25": 64
     },
-    "rankUscita": 4,
-    "rankVoto": 6
+    "rankUscita": 7,
+    "rankVoto": 5
   },
   {
     "title": "Scrooge e gli spiriti del Natale",
@@ -336,16 +299,16 @@
       "19:00",
       "21:30"
     ],
-    "showtimesDate": "2026-11-24",
+    "showtimesDate": "2026-11-25",
     "days": {
-      "2026-11-24": [
+      "2026-11-25": [
         "16:30",
         "19:00",
         "21:30"
       ]
     },
     "shows": {
-      "2026-11-24": [
+      "2026-11-25": [
         {
           "time": "16:30",
           "tags": []
@@ -364,10 +327,10 @@
     "vo": false,
     "url": "https://roma.andromeda.18tickets.it/film/88595",
     "smart": {
-      "2026-11-24": 59
+      "2026-11-25": 58
     },
-    "rankUscita": 5,
-    "rankVoto": 7
+    "rankUscita": 8,
+    "rankVoto": 6
   },
   {
     "title": "Il gatto col cappello",
@@ -403,51 +366,180 @@
     "smart": {
       "2026-11-25": 33
     },
-    "rankUscita": 9,
-    "rankVoto": 8
+    "rankUscita": 11,
+    "rankVoto": 7
   },
   {
-    "title": "Un weekend artificiale",
-    "poster": "https://image.tmdb.org/t/p/w185/x8fbJstLDEYYlJSCDj3v0MD9Lqd.jpg",
-    "rating": 5.3,
+    "title": "È andata così",
+    "poster": "https://image.tmdb.org/t/p/w185/IpSuXa9O1yWq38g0bzhEmlXUX6.jpg",
+    "rating": null,
     "ratings": {
       "letterboxd": null,
-      "imdb": 5.3,
+      "imdb": null,
       "metacritic": null,
       "mubi": null
     },
-    "releaseDate": "2026-11-12",
+    "releaseDate": "2026-11-26",
     "showtimes": [
-      "19:00",
-      "21:30"
+      "18:45",
+      "21:20"
     ],
-    "showtimesDate": "2026-11-24",
+    "showtimesDate": "2026-11-26",
     "days": {
-      "2026-11-24": [
-        "19:00",
-        "21:30"
+      "2026-11-26": [
+        "18:45",
+        "21:20"
       ]
     },
     "shows": {
-      "2026-11-24": [
+      "2026-11-26": [
         {
-          "time": "19:00",
+          "time": "18:45",
           "tags": []
         },
         {
-          "time": "21:30",
+          "time": "21:20",
           "tags": []
         }
       ]
     },
     "room": "Sala 8",
     "vo": false,
-    "url": "https://roma.andromeda.18tickets.it/film/90344",
+    "url": "https://roma.andromeda.18tickets.it/film/86087",
     "smart": {
-      "2026-11-24": 42
+      "2026-11-26": 69
     },
-    "rankUscita": 6,
+    "rankUscita": 0,
+    "rankVoto": 8
+  },
+  {
+    "title": "Hexe - Il regno delle streghe",
+    "poster": "https://image.tmdb.org/t/p/w185/v7CwUke6H7LhVHR5VMb1RXUWNp5.jpg",
+    "rating": null,
+    "ratings": {
+      "letterboxd": null,
+      "imdb": null,
+      "metacritic": null,
+      "mubi": null
+    },
+    "releaseDate": "2026-11-26",
+    "showtimes": [
+      "17:00",
+      "18:30"
+    ],
+    "showtimesDate": "2026-11-26",
+    "days": {
+      "2026-11-26": [
+        "17:00",
+        "18:30"
+      ]
+    },
+    "shows": {
+      "2026-11-26": [
+        {
+          "time": "17:00",
+          "tags": []
+        },
+        {
+          "time": "18:30",
+          "tags": []
+        }
+      ]
+    },
+    "room": "Sala 6",
+    "vo": false,
+    "url": "https://roma.andromeda.18tickets.it/film/95592",
+    "smart": {
+      "2026-11-26": 69
+    },
+    "rankUscita": 1,
     "rankVoto": 9
+  },
+  {
+    "title": "La notte delle fragole",
+    "poster": "https://image.tmdb.org/t/p/w185/zW9saC1YPpD4VPVCyDbhsGdzjxu.jpg",
+    "rating": null,
+    "ratings": {
+      "letterboxd": null,
+      "imdb": null,
+      "metacritic": null,
+      "mubi": null
+    },
+    "releaseDate": "2026-11-26",
+    "showtimes": [
+      "17:00",
+      "19:00",
+      "21:20"
+    ],
+    "showtimesDate": "2026-11-26",
+    "days": {
+      "2026-11-26": [
+        "17:00",
+        "19:00",
+        "21:20"
+      ]
+    },
+    "shows": {
+      "2026-11-26": [
+        {
+          "time": "17:00",
+          "tags": []
+        },
+        {
+          "time": "19:00",
+          "tags": []
+        },
+        {
+          "time": "21:20",
+          "tags": []
+        }
+      ]
+    },
+    "room": "Sala 4",
+    "vo": false,
+    "url": "https://roma.andromeda.18tickets.it/film/93908",
+    "smart": {
+      "2026-11-26": 79
+    },
+    "rankUscita": 2,
+    "rankVoto": 10
+  },
+  {
+    "title": "Lorenzo - L’incredibile avventura di Jovanotti",
+    "poster": "https://image.tmdb.org/t/p/w185/bDaSr4TwA8jvKRuWBgEDCK6lJL.jpg",
+    "rating": null,
+    "ratings": {
+      "letterboxd": null,
+      "imdb": null,
+      "metacritic": null,
+      "mubi": null
+    },
+    "releaseDate": "2026-11-26",
+    "showtimes": [
+      "21:00"
+    ],
+    "showtimesDate": "2026-11-26",
+    "days": {
+      "2026-11-26": [
+        "21:00"
+      ]
+    },
+    "shows": {
+      "2026-11-26": [
+        {
+          "time": "21:00",
+          "tags": []
+        }
+      ]
+    },
+    "room": null,
+    "vo": false,
+    "url": "https://roma.andromeda.18tickets.it/film/93909",
+    "smart": {
+      "2026-11-26": 60
+    },
+    "rankUscita": 3,
+    "rankVoto": 11
   },
   {
     "title": "Ti presento i Fotter",
@@ -495,7 +587,7 @@
     "smart": {
       "2026-11-25": 79
     },
-    "rankUscita": 0,
-    "rankVoto": 10
+    "rankUscita": 4,
+    "rankVoto": 12
   }
 ]
