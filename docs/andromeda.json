@@ -1,48 +1,5 @@
 [
   {
-    "title": "Wild Horse Nine",
-    "poster": "https://image.tmdb.org/t/p/w185/og5qagWp4ZqVl28nbBwiBHZprJM.jpg",
-    "rating": 8,
-    "ratings": {
-      "letterboxd": 8.3,
-      "imdb": 8.1,
-      "metacritic": 7.7,
-      "mubi": 7.9
-    },
-    "releaseDate": "2026-11-05",
-    "showtimes": [
-      "19:10",
-      "21:20"
-    ],
-    "showtimesDate": "2026-11-25",
-    "days": {
-      "2026-11-25": [
-        "19:10",
-        "21:20"
-      ]
-    },
-    "shows": {
-      "2026-11-25": [
-        {
-          "time": "19:10",
-          "tags": []
-        },
-        {
-          "time": "21:20",
-          "tags": []
-        }
-      ]
-    },
-    "room": "Sala 8",
-    "vo": false,
-    "url": "https://roma.andromeda.18tickets.it/film/89717",
-    "smart": {
-      "2026-11-25": 71
-    },
-    "rankUscita": 9,
-    "rankVoto": 0
-  },
-  {
     "title": "Se domani non torno",
     "poster": "https://image.tmdb.org/t/p/w185/yfnAxbirYCIm1qP9ZT9LjYIj6DQ.jpg",
     "rating": 7,
@@ -54,36 +11,30 @@
     },
     "releaseDate": "2026-11-05",
     "showtimes": [
-      "16:30",
-      "18:40"
+      "16:30"
     ],
-    "showtimesDate": "2026-11-25",
+    "showtimesDate": "2026-11-26",
     "days": {
-      "2026-11-25": [
-        "16:30",
-        "18:40"
+      "2026-11-26": [
+        "16:30"
       ]
     },
     "shows": {
-      "2026-11-25": [
+      "2026-11-26": [
         {
           "time": "16:30",
-          "tags": []
-        },
-        {
-          "time": "18:40",
           "tags": []
         }
       ]
     },
-    "room": "Sala 5",
+    "room": null,
     "vo": false,
     "url": "https://roma.andromeda.18tickets.it/film/86088",
     "smart": {
-      "2026-11-25": 58
+      "2026-11-26": 48
     },
-    "rankUscita": 10,
-    "rankVoto": 1
+    "rankUscita": 9,
+    "rankVoto": 0
   },
   {
     "title": "Dio ride",
@@ -97,42 +48,30 @@
     },
     "releaseDate": "2026-10-29",
     "showtimes": [
-      "16:30",
-      "18:50",
-      "21:20"
+      "21:15"
     ],
-    "showtimesDate": "2026-11-25",
+    "showtimesDate": "2026-11-26",
     "days": {
-      "2026-11-25": [
-        "16:30",
-        "18:50",
-        "21:20"
+      "2026-11-26": [
+        "21:15"
       ]
     },
     "shows": {
-      "2026-11-25": [
+      "2026-11-26": [
         {
-          "time": "16:30",
-          "tags": []
-        },
-        {
-          "time": "18:50",
-          "tags": []
-        },
-        {
-          "time": "21:20",
+          "time": "21:15",
           "tags": []
         }
       ]
     },
-    "room": "Sala 6",
+    "room": null,
     "vo": false,
     "url": "https://roma.andromeda.18tickets.it/film/88991",
     "smart": {
-      "2026-11-25": 65
+      "2026-11-26": 45
     },
-    "rankUscita": 12,
-    "rankVoto": 2
+    "rankUscita": 11,
+    "rankVoto": 1
   },
   {
     "title": "Hunger Games - L'alba sulla mietitura",
@@ -147,28 +86,20 @@
     "releaseDate": "2026-11-19",
     "showtimes": [
       "17:30",
-      "20:45",
       "21:00"
     ],
-    "showtimesDate": "2026-11-25",
+    "showtimesDate": "2026-11-26",
     "days": {
-      "2026-11-25": [
+      "2026-11-26": [
         "17:30",
-        "20:45",
         "21:00"
       ]
     },
     "shows": {
-      "2026-11-25": [
+      "2026-11-26": [
         {
           "time": "17:30",
           "tags": []
-        },
-        {
-          "time": "20:45",
-          "tags": [
-            "VO"
-          ]
         },
         {
           "time": "21:00",
@@ -180,10 +111,10 @@
     "vo": false,
     "url": "https://roma.andromeda.18tickets.it/film/92557",
     "smart": {
-      "2026-11-25": 75
+      "2026-11-26": 65
     },
     "rankUscita": 5,
-    "rankVoto": 3
+    "rankVoto": 2
   },
   {
     "title": "Il fuoco che ti porti dentro",
@@ -197,41 +128,72 @@
     },
     "releaseDate": "2026-11-19",
     "showtimes": [
-      "17:00",
-      "19:00",
-      "21:20"
+      "16:45",
+      "19:00"
     ],
-    "showtimesDate": "2026-11-25",
+    "showtimesDate": "2026-11-26",
     "days": {
-      "2026-11-25": [
-        "17:00",
-        "19:00",
-        "21:20"
+      "2026-11-26": [
+        "16:45",
+        "19:00"
       ]
     },
     "shows": {
-      "2026-11-25": [
+      "2026-11-26": [
         {
-          "time": "17:00",
+          "time": "16:45",
           "tags": []
         },
         {
           "time": "19:00",
           "tags": []
-        },
+        }
+      ]
+    },
+    "room": "Sala 5",
+    "vo": false,
+    "url": "https://roma.andromeda.18tickets.it/film/93974",
+    "smart": {
+      "2026-11-26": 63
+    },
+    "rankUscita": 6,
+    "rankVoto": 3
+  },
+  {
+    "title": "La vita da grandi",
+    "poster": "https://image.tmdb.org/t/p/w185/ttQBhfScEkM94KbQq1bEpGuuWk9.jpg",
+    "rating": 6.5,
+    "ratings": {
+      "letterboxd": 6.8,
+      "imdb": 7,
+      "metacritic": null,
+      "mubi": 5.8
+    },
+    "releaseDate": "2025-04-03",
+    "showtimes": [
+      "18:00"
+    ],
+    "showtimesDate": "2026-12-02",
+    "days": {
+      "2026-12-02": [
+        "18:00"
+      ]
+    },
+    "shows": {
+      "2026-12-02": [
         {
-          "time": "21:20",
+          "time": "18:00",
           "tags": []
         }
       ]
     },
-    "room": "Sala 4",
+    "room": null,
     "vo": false,
-    "url": "https://roma.andromeda.18tickets.it/film/93974",
+    "url": "https://roma.andromeda.18tickets.it/film/16356",
     "smart": {
-      "2026-11-25": 73
+      "2026-12-02": 47
     },
-    "rankUscita": 6,
+    "rankUscita": 12,
     "rankVoto": 4
   },
   {
@@ -246,30 +208,24 @@
     },
     "releaseDate": "2026-11-12",
     "showtimes": [
-      "16:20",
       "18:45",
-      "21:15"
+      "21:20"
     ],
-    "showtimesDate": "2026-11-25",
+    "showtimesDate": "2026-11-26",
     "days": {
-      "2026-11-25": [
-        "16:20",
+      "2026-11-26": [
         "18:45",
-        "21:15"
+        "21:20"
       ]
     },
     "shows": {
-      "2026-11-25": [
-        {
-          "time": "16:20",
-          "tags": []
-        },
+      "2026-11-26": [
         {
           "time": "18:45",
           "tags": []
         },
         {
-          "time": "21:15",
+          "time": "21:20",
           "tags": []
         }
       ]
@@ -278,7 +234,7 @@
     "vo": false,
     "url": "https://roma.andromeda.18tickets.it/film/89849",
     "smart": {
-      "2026-11-25": 64
+      "2026-11-26": 54
     },
     "rankUscita": 7,
     "rankVoto": 5
@@ -296,25 +252,25 @@
     "releaseDate": "2026-11-12",
     "showtimes": [
       "16:30",
-      "19:00",
+      "19:10",
       "21:30"
     ],
-    "showtimesDate": "2026-11-25",
+    "showtimesDate": "2026-11-26",
     "days": {
-      "2026-11-25": [
+      "2026-11-26": [
         "16:30",
-        "19:00",
+        "19:10",
         "21:30"
       ]
     },
     "shows": {
-      "2026-11-25": [
+      "2026-11-26": [
         {
           "time": "16:30",
           "tags": []
         },
         {
-          "time": "19:00",
+          "time": "19:10",
           "tags": []
         },
         {
@@ -327,7 +283,7 @@
     "vo": false,
     "url": "https://roma.andromeda.18tickets.it/film/88595",
     "smart": {
-      "2026-11-25": 58
+      "2026-11-26": 58
     },
     "rankUscita": 8,
     "rankVoto": 6
@@ -344,18 +300,18 @@
     },
     "releaseDate": "2026-11-05",
     "showtimes": [
-      "17:00"
+      "16:50"
     ],
-    "showtimesDate": "2026-11-25",
+    "showtimesDate": "2026-11-26",
     "days": {
-      "2026-11-25": [
-        "17:00"
+      "2026-11-26": [
+        "16:50"
       ]
     },
     "shows": {
-      "2026-11-25": [
+      "2026-11-26": [
         {
-          "time": "17:00",
+          "time": "16:50",
           "tags": []
         }
       ]
@@ -364,9 +320,9 @@
     "vo": false,
     "url": "https://roma.andromeda.18tickets.it/film/86057",
     "smart": {
-      "2026-11-25": 33
+      "2026-11-26": 32
     },
-    "rankUscita": 11,
+    "rankUscita": 10,
     "rankVoto": 7
   },
   {
@@ -555,18 +511,18 @@
     "showtimes": [
       "17:00",
       "19:00",
-      "21:20"
+      "21:30"
     ],
-    "showtimesDate": "2026-11-25",
+    "showtimesDate": "2026-11-26",
     "days": {
-      "2026-11-25": [
+      "2026-11-26": [
         "17:00",
         "19:00",
-        "21:20"
+        "21:30"
       ]
     },
     "shows": {
-      "2026-11-25": [
+      "2026-11-26": [
         {
           "time": "17:00",
           "tags": []
@@ -576,7 +532,7 @@
           "tags": []
         },
         {
-          "time": "21:20",
+          "time": "21:30",
           "tags": []
         }
       ]
@@ -585,7 +541,7 @@
     "vo": false,
     "url": "https://roma.andromeda.18tickets.it/film/93844",
     "smart": {
-      "2026-11-25": 79
+      "2026-11-26": 79
     },
     "rankUscita": 4,
     "rankVoto": 12

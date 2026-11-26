@@ -61,50 +61,40 @@
     "rankVoto": 0
   },
   {
-    "title": "Look Back",
-    "poster": "https://image.tmdb.org/t/p/w185/7Ou8VlAhPvYmtzRu7UhFdSjJs4j.jpg",
+    "title": "The Witch",
+    "poster": "https://image.tmdb.org/t/p/w185/cJpvTuOl4OV8TgDib4ilYqPVAfe.jpg",
     "rating": 7.7,
     "ratings": {
-      "letterboxd": 8,
-      "imdb": 7.6,
-      "metacritic": 7.6,
-      "mubi": 7.6
+      "letterboxd": 7.6,
+      "imdb": 7,
+      "metacritic": 8.4,
+      "mubi": null
     },
-    "releaseDate": "2026-11-12",
+    "releaseDate": "2016-08-18",
     "showtimes": [
-      "16:00",
-      "21:45"
+      "23:30"
     ],
-    "showtimesDate": "2026-11-25",
+    "showtimesDate": "2026-12-02",
     "days": {
-      "2026-11-25": [
-        "16:00",
-        "21:45"
+      "2026-12-02": [
+        "23:30"
       ]
     },
     "shows": {
-      "2026-11-25": [
+      "2026-12-02": [
         {
-          "time": "16:00",
-          "tags": [
-            "VO"
-          ]
-        },
-        {
-          "time": "21:45",
-          "tags": [
-            "VO"
-          ]
+          "time": "23:30",
+          "tags": []
         }
       ]
     },
     "room": null,
-    "vo": true,
-    "url": "https://www.liveticket.it/opera.aspx?Id=707729",
+    "vo": false,
+    "url": "https://www.liveticket.it/opera.aspx?Id=715079",
     "smart": {
-      "2026-11-25": 80
+      "2026-12-02": 62
     },
-    "rankUscita": 3,
+    "rankUscita": 6,
     "rankVoto": 1
   },
   {
@@ -119,13 +109,11 @@
     },
     "releaseDate": "2026-11-19",
     "showtimes": [
-      "13:15"
+      "13:15",
+      "18:15"
     ],
-    "showtimesDate": "2026-11-25",
+    "showtimesDate": "2026-11-26",
     "days": {
-      "2026-11-25": [
-        "13:15"
-      ],
       "2026-11-26": [
         "13:15",
         "18:15"
@@ -145,17 +133,12 @@
       "2026-11-30": [
         "16:00",
         "21:15"
+      ],
+      "2026-12-02": [
+        "14:00"
       ]
     },
     "shows": {
-      "2026-11-25": [
-        {
-          "time": "13:15",
-          "tags": [
-            "VO"
-          ]
-        }
-      ],
       "2026-11-26": [
         {
           "time": "13:15",
@@ -225,18 +208,26 @@
             "VO"
           ]
         }
+      ],
+      "2026-12-02": [
+        {
+          "time": "14:00",
+          "tags": [
+            "VO"
+          ]
+        }
       ]
     },
     "room": null,
     "vo": true,
     "url": "https://www.liveticket.it/opera.aspx?Id=709220",
     "smart": {
-      "2026-11-25": 70,
       "2026-11-26": 74,
-      "2026-11-27": 84,
-      "2026-11-28": 84,
-      "2026-11-29": 84,
-      "2026-11-30": 84
+      "2026-11-27": 83,
+      "2026-11-28": 83,
+      "2026-11-29": 83,
+      "2026-11-30": 83,
+      "2026-12-02": 83
     },
     "rankUscita": 2,
     "rankVoto": 2
@@ -277,7 +268,7 @@
     "smart": {
       "2026-11-28": 45
     },
-    "rankUscita": 8,
+    "rankUscita": 9,
     "rankVoto": 3
   },
   {
@@ -340,7 +331,7 @@
       "2026-11-28": 47,
       "2026-11-29": 47
     },
-    "rankUscita": 4,
+    "rankUscita": 3,
     "rankVoto": 4
   },
   {
@@ -379,8 +370,45 @@
     "smart": {
       "2026-11-30": 41
     },
-    "rankUscita": 6,
+    "rankUscita": 7,
     "rankVoto": 5
+  },
+  {
+    "title": "Coward",
+    "poster": "https://cinematroisi.liveticket.it/wp-content/uploads/sites/48/22131-180x257.jpg",
+    "rating": 7.1,
+    "ratings": {
+      "letterboxd": null,
+      "imdb": null,
+      "metacritic": 6.6,
+      "mubi": 7.6
+    },
+    "releaseDate": "2025-01-16",
+    "showtimes": [
+      "17:00"
+    ],
+    "showtimesDate": "2026-12-02",
+    "days": {
+      "2026-12-02": [
+        "17:00"
+      ]
+    },
+    "shows": {
+      "2026-12-02": [
+        {
+          "time": "17:00",
+          "tags": []
+        }
+      ]
+    },
+    "room": null,
+    "vo": false,
+    "url": "https://www.liveticket.it/opera.aspx?Id=715081",
+    "smart": {
+      "2026-12-02": 54
+    },
+    "rankUscita": 5,
+    "rankVoto": 6
   },
   {
     "title": "Matilda 6 mitica",
@@ -416,8 +444,8 @@
     "smart": {
       "2026-11-29": 40
     },
-    "rankUscita": 7,
-    "rankVoto": 6
+    "rankUscita": 8,
+    "rankVoto": 7
   },
   {
     "title": "The Moment",
@@ -453,8 +481,8 @@
     "smart": {
       "2026-11-27": 28
     },
-    "rankUscita": 5,
-    "rankVoto": 7
+    "rankUscita": 4,
+    "rankVoto": 8
   },
   {
     "title": "È andata così",
@@ -568,43 +596,6 @@
       "2026-12-01": 79
     },
     "rankUscita": 1,
-    "rankVoto": 8
-  },
-  {
-    "title": "Night Shift + Fjord",
-    "poster": "https://cinematroisi.liveticket.it/wp-content/uploads/sites/48/00312480-180x257.jpg",
-    "rating": null,
-    "ratings": {
-      "letterboxd": null,
-      "imdb": null,
-      "metacritic": null,
-      "mubi": null
-    },
-    "releaseDate": null,
-    "showtimes": [
-      "18:00"
-    ],
-    "showtimesDate": "2026-11-25",
-    "days": {
-      "2026-11-25": [
-        "18:00"
-      ]
-    },
-    "shows": {
-      "2026-11-25": [
-        {
-          "time": "18:00",
-          "tags": []
-        }
-      ]
-    },
-    "room": null,
-    "vo": false,
-    "url": "https://www.liveticket.it/opera.aspx?Id=710241",
-    "smart": {
-      "2026-11-25": 50
-    },
-    "rankUscita": 9,
     "rankVoto": 9
   },
   {
