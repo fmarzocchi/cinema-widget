@@ -5,7 +5,7 @@
     "rating": 9.2,
     "ratings": {
       "letterboxd": 9.2,
-      "imdb": 9,
+      "imdb": 8.9,
       "metacritic": 9.7,
       "mubi": 8.8
     },
@@ -100,12 +100,12 @@
   {
     "title": "Fjord",
     "poster": "https://image.tmdb.org/t/p/w185/e6qR7qbqxe66vh2ONZ8d5pCphA6.jpg",
-    "rating": 7.6,
+    "rating": 7.5,
     "ratings": {
-      "letterboxd": 7.5,
+      "letterboxd": 7.4,
       "imdb": 7.6,
       "metacritic": 7.8,
-      "mubi": 7.3
+      "mubi": 7.2
     },
     "releaseDate": "2026-11-19",
     "showtimes": [
@@ -222,12 +222,12 @@
     "vo": true,
     "url": "https://www.liveticket.it/opera.aspx?Id=709220",
     "smart": {
-      "2026-11-26": 74,
-      "2026-11-27": 83,
-      "2026-11-28": 83,
-      "2026-11-29": 83,
-      "2026-11-30": 83,
-      "2026-12-02": 83
+      "2026-11-26": 72,
+      "2026-11-27": 82,
+      "2026-11-28": 82,
+      "2026-11-29": 82,
+      "2026-11-30": 82,
+      "2026-12-02": 82
     },
     "rankUscita": 2,
     "rankVoto": 2

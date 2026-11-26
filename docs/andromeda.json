@@ -117,12 +117,55 @@
     "rankVoto": 2
   },
   {
+    "title": "Hexe - Il regno delle streghe",
+    "poster": "https://image.tmdb.org/t/p/w185/v7CwUke6H7LhVHR5VMb1RXUWNp5.jpg",
+    "rating": 6.8,
+    "ratings": {
+      "letterboxd": null,
+      "imdb": 6.8,
+      "metacritic": null,
+      "mubi": null
+    },
+    "releaseDate": "2026-11-26",
+    "showtimes": [
+      "17:00",
+      "18:30"
+    ],
+    "showtimesDate": "2026-11-26",
+    "days": {
+      "2026-11-26": [
+        "17:00",
+        "18:30"
+      ]
+    },
+    "shows": {
+      "2026-11-26": [
+        {
+          "time": "17:00",
+          "tags": []
+        },
+        {
+          "time": "18:30",
+          "tags": []
+        }
+      ]
+    },
+    "room": "Sala 6",
+    "vo": false,
+    "url": "https://roma.andromeda.18tickets.it/film/95592",
+    "smart": {
+      "2026-11-26": 70
+    },
+    "rankUscita": 0,
+    "rankVoto": 3
+  },
+  {
     "title": "Il fuoco che ti porti dentro",
     "poster": "https://image.tmdb.org/t/p/w185/kCfIZpqRsBe39Y1lUCxOAjgQ5VR.jpg",
-    "rating": 6.7,
+    "rating": 6.8,
     "ratings": {
       "letterboxd": 6.7,
-      "imdb": 6.7,
+      "imdb": 6.8,
       "metacritic": null,
       "mubi": null
     },
@@ -154,10 +197,10 @@
     "vo": false,
     "url": "https://roma.andromeda.18tickets.it/film/93974",
     "smart": {
-      "2026-11-26": 63
+      "2026-11-26": 64
     },
     "rankUscita": 6,
-    "rankVoto": 3
+    "rankVoto": 4
   },
   {
     "title": "La vita da grandi",
@@ -194,7 +237,7 @@
       "2026-12-02": 47
     },
     "rankUscita": 12,
-    "rankVoto": 4
+    "rankVoto": 5
   },
   {
     "title": "Il rumore delle cose nuove",
@@ -237,7 +280,7 @@
       "2026-11-26": 54
     },
     "rankUscita": 7,
-    "rankVoto": 5
+    "rankVoto": 6
   },
   {
     "title": "Scrooge e gli spiriti del Natale",
@@ -286,7 +329,7 @@
       "2026-11-26": 58
     },
     "rankUscita": 8,
-    "rankVoto": 6
+    "rankVoto": 7
   },
   {
     "title": "Il gatto col cappello",
@@ -323,7 +366,7 @@
       "2026-11-26": 32
     },
     "rankUscita": 10,
-    "rankVoto": 7
+    "rankVoto": 8
   },
   {
     "title": "È andata così",
@@ -362,49 +405,6 @@
     "room": "Sala 8",
     "vo": false,
     "url": "https://roma.andromeda.18tickets.it/film/86087",
-    "smart": {
-      "2026-11-26": 69
-    },
-    "rankUscita": 0,
-    "rankVoto": 8
-  },
-  {
-    "title": "Hexe - Il regno delle streghe",
-    "poster": "https://image.tmdb.org/t/p/w185/v7CwUke6H7LhVHR5VMb1RXUWNp5.jpg",
-    "rating": null,
-    "ratings": {
-      "letterboxd": null,
-      "imdb": null,
-      "metacritic": null,
-      "mubi": null
-    },
-    "releaseDate": "2026-11-26",
-    "showtimes": [
-      "17:00",
-      "18:30"
-    ],
-    "showtimesDate": "2026-11-26",
-    "days": {
-      "2026-11-26": [
-        "17:00",
-        "18:30"
-      ]
-    },
-    "shows": {
-      "2026-11-26": [
-        {
-          "time": "17:00",
-          "tags": []
-        },
-        {
-          "time": "18:30",
-          "tags": []
-        }
-      ]
-    },
-    "room": "Sala 6",
-    "vo": false,
-    "url": "https://roma.andromeda.18tickets.it/film/95592",
     "smart": {
       "2026-11-26": 69
     },
