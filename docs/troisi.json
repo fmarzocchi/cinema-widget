@@ -390,86 +390,12 @@
     "rankVoto": 6
   },
   {
-    "title": "Coward",
-    "poster": "https://cinematroisi.liveticket.it/wp-content/uploads/sites/48/22131-180x257.jpg",
-    "rating": 7.1,
-    "ratings": {
-      "letterboxd": null,
-      "imdb": null,
-      "metacritic": 6.6,
-      "mubi": 7.6
-    },
-    "releaseDate": "2025-01-16",
-    "showtimes": [
-      "17:00"
-    ],
-    "showtimesDate": "2026-12-02",
-    "days": {
-      "2026-12-02": [
-        "17:00"
-      ]
-    },
-    "shows": {
-      "2026-12-02": [
-        {
-          "time": "17:00",
-          "tags": []
-        }
-      ]
-    },
-    "room": null,
-    "vo": false,
-    "url": "https://www.liveticket.it/opera.aspx?Id=715081",
-    "smart": {
-      "2026-12-02": 54
-    },
-    "rankUscita": 9,
-    "rankVoto": 7
-  },
-  {
-    "title": "Matilda 6 mitica",
-    "poster": "https://image.tmdb.org/t/p/w185/wYoDpWInsBEVSmWStnRH06ddoyk.jpg",
-    "rating": 7.1,
-    "ratings": {
-      "letterboxd": 7.6,
-      "imdb": 7.1,
-      "metacritic": 7.2,
-      "mubi": 6.6
-    },
-    "releaseDate": "1997-02-27",
-    "showtimes": [
-      "10:30"
-    ],
-    "showtimesDate": "2026-11-29",
-    "days": {
-      "2026-11-29": [
-        "10:30"
-      ]
-    },
-    "shows": {
-      "2026-11-29": [
-        {
-          "time": "10:30",
-          "tags": []
-        }
-      ]
-    },
-    "room": null,
-    "vo": false,
-    "url": "https://www.liveticket.it/opera.aspx?Id=413823",
-    "smart": {
-      "2026-11-29": 40
-    },
-    "rankUscita": 12,
-    "rankVoto": 8
-  },
-  {
     "title": "Se domani non torno",
     "poster": "https://image.tmdb.org/t/p/w185/yfnAxbirYCIm1qP9ZT9LjYIj6DQ.jpg",
-    "rating": 7,
+    "rating": 7.1,
     "ratings": {
       "letterboxd": 7,
-      "imdb": 7,
+      "imdb": 7.1,
       "metacritic": null,
       "mubi": null
     },
@@ -522,12 +448,86 @@
     "vo": false,
     "url": "https://www.liveticket.it/opera.aspx?Id=715083",
     "smart": {
-      "2026-11-27": 53,
-      "2026-11-28": 53,
-      "2026-12-01": 53,
-      "2026-12-02": 67
+      "2026-11-27": 54,
+      "2026-11-28": 54,
+      "2026-12-01": 54,
+      "2026-12-02": 68
     },
     "rankUscita": 5,
+    "rankVoto": 7
+  },
+  {
+    "title": "Coward",
+    "poster": "https://cinematroisi.liveticket.it/wp-content/uploads/sites/48/22131-180x257.jpg",
+    "rating": 7.1,
+    "ratings": {
+      "letterboxd": null,
+      "imdb": null,
+      "metacritic": 6.6,
+      "mubi": 7.6
+    },
+    "releaseDate": "2025-01-16",
+    "showtimes": [
+      "17:00"
+    ],
+    "showtimesDate": "2026-12-02",
+    "days": {
+      "2026-12-02": [
+        "17:00"
+      ]
+    },
+    "shows": {
+      "2026-12-02": [
+        {
+          "time": "17:00",
+          "tags": []
+        }
+      ]
+    },
+    "room": null,
+    "vo": false,
+    "url": "https://www.liveticket.it/opera.aspx?Id=715081",
+    "smart": {
+      "2026-12-02": 54
+    },
+    "rankUscita": 9,
+    "rankVoto": 8
+  },
+  {
+    "title": "Matilda 6 mitica",
+    "poster": "https://image.tmdb.org/t/p/w185/wYoDpWInsBEVSmWStnRH06ddoyk.jpg",
+    "rating": 7.1,
+    "ratings": {
+      "letterboxd": 7.6,
+      "imdb": 7.1,
+      "metacritic": 7.2,
+      "mubi": 6.6
+    },
+    "releaseDate": "1997-02-27",
+    "showtimes": [
+      "10:30"
+    ],
+    "showtimesDate": "2026-11-29",
+    "days": {
+      "2026-11-29": [
+        "10:30"
+      ]
+    },
+    "shows": {
+      "2026-11-29": [
+        {
+          "time": "10:30",
+          "tags": []
+        }
+      ]
+    },
+    "room": null,
+    "vo": false,
+    "url": "https://www.liveticket.it/opera.aspx?Id=413823",
+    "smart": {
+      "2026-11-29": 40
+    },
+    "rankUscita": 12,
     "rankVoto": 9
   },
   {

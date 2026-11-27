@@ -63,7 +63,7 @@
     "vo": true,
     "url": "https://ucicinemas.it/film/you-can-see-everything/",
     "smart": {
-      "2026-11-27": 77,
+      "2026-11-27": 79,
       "2026-11-28": 74,
       "2026-11-29": 74
     },
@@ -231,85 +231,12 @@
     "rankVoto": 4
   },
   {
-    "title": "Ken il guerriero - Il film",
-    "poster": "https://image.tmdb.org/t/p/w185/nQvEwHHEwaDbEy6G0Xkyki0G13O.jpg",
-    "rating": 7.2,
-    "ratings": {
-      "letterboxd": 7.2,
-      "imdb": 7.1,
-      "metacritic": null,
-      "mubi": 7.4
-    },
-    "releaseDate": "2024-10-14",
-    "showtimes": [
-      "18:40",
-      "21:10"
-    ],
-    "showtimesDate": "2026-11-30",
-    "days": {
-      "2026-11-30": [
-        "18:40",
-        "21:10"
-      ],
-      "2026-12-01": [
-        "18:40",
-        "21:10"
-      ],
-      "2026-12-02": [
-        "18:40",
-        "21:10"
-      ]
-    },
-    "shows": {
-      "2026-11-30": [
-        {
-          "time": "18:40",
-          "tags": []
-        },
-        {
-          "time": "21:10",
-          "tags": []
-        }
-      ],
-      "2026-12-01": [
-        {
-          "time": "18:40",
-          "tags": []
-        },
-        {
-          "time": "21:10",
-          "tags": []
-        }
-      ],
-      "2026-12-02": [
-        {
-          "time": "18:40",
-          "tags": []
-        },
-        {
-          "time": "21:10",
-          "tags": []
-        }
-      ]
-    },
-    "room": "Sala 14",
-    "vo": false,
-    "url": "https://ucicinemas.it/film/ken-il-guerriero-il-film/",
-    "smart": {
-      "2026-11-30": 35,
-      "2026-12-01": 35,
-      "2026-12-02": 35
-    },
-    "rankUscita": 26,
-    "rankVoto": 5
-  },
-  {
     "title": "Le nuove disavventure di Cliff Booth",
     "poster": "https://image.tmdb.org/t/p/w185/fyVW1LKytl3xWo9T6sz6fXZKC9K.jpg",
-    "rating": 7.1,
+    "rating": 7.3,
     "ratings": {
       "letterboxd": 7.2,
-      "imdb": null,
+      "imdb": 7.9,
       "metacritic": 6.8,
       "mubi": 7.2
     },
@@ -330,11 +257,13 @@
       ],
       "2026-11-28": [
         "00:30",
+        "10:50",
         "15:00",
         "18:10",
         "21:20"
       ],
       "2026-11-29": [
+        "10:50",
         "15:00",
         "18:10",
         "21:20"
@@ -390,6 +319,13 @@
           ]
         },
         {
+          "time": "10:50",
+          "tags": [
+            "IMAX",
+            "VO"
+          ]
+        },
+        {
           "time": "15:00",
           "tags": [
             "IMAX"
@@ -409,6 +345,13 @@
         }
       ],
       "2026-11-29": [
+        {
+          "time": "10:50",
+          "tags": [
+            "IMAX",
+            "VO"
+          ]
+        },
         {
           "time": "15:00",
           "tags": [
@@ -493,23 +436,23 @@
     "vo": false,
     "url": "https://ucicinemas.it/film/le-nuove-disavventure-di-cliff-booth/",
     "smart": {
-      "2026-11-27": 65,
-      "2026-11-28": 64,
-      "2026-11-29": 62,
-      "2026-11-30": 66,
-      "2026-12-01": 66,
-      "2026-12-02": 66
+      "2026-11-27": 70,
+      "2026-11-28": 69,
+      "2026-11-29": 67,
+      "2026-11-30": 68,
+      "2026-12-01": 68,
+      "2026-12-02": 68
     },
     "rankUscita": 5,
-    "rankVoto": 6
+    "rankVoto": 5
   },
   {
     "title": "Mustang",
     "poster": "https://image.tmdb.org/t/p/w185/td0dZlkmJlXWIp8UkJPTJC39xFt.jpg",
-    "rating": 7.1,
+    "rating": 7.2,
     "ratings": {
       "letterboxd": 7.1,
-      "imdb": 7,
+      "imdb": 7.2,
       "metacritic": null,
       "mubi": null
     },
@@ -580,33 +523,108 @@
     "vo": false,
     "url": "https://ucicinemas.it/film/mustang/",
     "smart": {
-      "2026-11-27": 54,
-      "2026-11-28": 53,
-      "2026-11-29": 54,
-      "2026-11-30": 55,
-      "2026-12-01": 55,
-      "2026-12-02": 55
+      "2026-11-27": 56,
+      "2026-11-28": 55,
+      "2026-11-29": 55,
+      "2026-11-30": 56,
+      "2026-12-01": 56,
+      "2026-12-02": 56
     },
     "rankUscita": 12,
+    "rankVoto": 6
+  },
+  {
+    "title": "Ken il guerriero - Il film",
+    "poster": "https://image.tmdb.org/t/p/w185/nQvEwHHEwaDbEy6G0Xkyki0G13O.jpg",
+    "rating": 7.2,
+    "ratings": {
+      "letterboxd": 7.2,
+      "imdb": 7.1,
+      "metacritic": null,
+      "mubi": 7.4
+    },
+    "releaseDate": "2024-10-14",
+    "showtimes": [
+      "18:40",
+      "21:10"
+    ],
+    "showtimesDate": "2026-11-30",
+    "days": {
+      "2026-11-30": [
+        "18:40",
+        "21:10"
+      ],
+      "2026-12-01": [
+        "18:40",
+        "21:10"
+      ],
+      "2026-12-02": [
+        "18:40",
+        "21:10"
+      ]
+    },
+    "shows": {
+      "2026-11-30": [
+        {
+          "time": "18:40",
+          "tags": []
+        },
+        {
+          "time": "21:10",
+          "tags": []
+        }
+      ],
+      "2026-12-01": [
+        {
+          "time": "18:40",
+          "tags": []
+        },
+        {
+          "time": "21:10",
+          "tags": []
+        }
+      ],
+      "2026-12-02": [
+        {
+          "time": "18:40",
+          "tags": []
+        },
+        {
+          "time": "21:10",
+          "tags": []
+        }
+      ]
+    },
+    "room": "Sala 14",
+    "vo": false,
+    "url": "https://ucicinemas.it/film/ken-il-guerriero-il-film/",
+    "smart": {
+      "2026-11-30": 35,
+      "2026-12-01": 35,
+      "2026-12-02": 35
+    },
+    "rankUscita": 26,
     "rankVoto": 7
   },
   {
     "title": "Se domani non torno",
     "poster": "https://image.tmdb.org/t/p/w185/yfnAxbirYCIm1qP9ZT9LjYIj6DQ.jpg",
-    "rating": 7,
+    "rating": 7.1,
     "ratings": {
       "letterboxd": 7,
-      "imdb": 7,
+      "imdb": 7.1,
       "metacritic": null,
       "mubi": null
     },
     "releaseDate": "2026-11-05",
     "showtimes": [
+      "15:00",
       "18:30"
     ],
     "showtimesDate": "2026-11-27",
     "days": {
       "2026-11-27": [
+        "15:00",
         "18:30"
       ],
       "2026-11-30": [
@@ -621,6 +639,10 @@
     },
     "shows": {
       "2026-11-27": [
+        {
+          "time": "15:00",
+          "tags": []
+        },
         {
           "time": "18:30",
           "tags": []
@@ -645,14 +667,14 @@
         }
       ]
     },
-    "room": "Sala 3",
+    "room": "Sala 6",
     "vo": false,
     "url": "https://ucicinemas.it/film/se-domani-non-torno/",
     "smart": {
-      "2026-11-27": 41,
-      "2026-11-30": 42,
-      "2026-12-01": 42,
-      "2026-12-02": 42
+      "2026-11-27": 47,
+      "2026-11-30": 44,
+      "2026-12-01": 44,
+      "2026-12-02": 44
     },
     "rankUscita": 17,
     "rankVoto": 8
@@ -734,7 +756,7 @@
     "vo": false,
     "url": "https://ucicinemas.it/film/dio-ride/",
     "smart": {
-      "2026-11-27": 38,
+      "2026-11-27": 39,
       "2026-11-28": 38,
       "2026-11-29": 38,
       "2026-11-30": 40,
@@ -794,7 +816,6 @@
     "releaseDate": "2026-11-19",
     "showtimes": [
       "00:10",
-      "10:40",
       "14:20",
       "15:10",
       "16:20",
@@ -807,7 +828,6 @@
     "days": {
       "2026-11-27": [
         "00:10",
-        "10:40",
         "14:20",
         "15:10",
         "16:20",
@@ -872,10 +892,6 @@
       "2026-11-27": [
         {
           "time": "00:10",
-          "tags": []
-        },
-        {
-          "time": "10:40",
           "tags": []
         },
         {
@@ -1092,11 +1108,11 @@
         }
       ]
     },
-    "room": "Sala 8",
+    "room": "Sala 7",
     "vo": false,
     "url": "https://ucicinemas.it/film/hunger-games-lalba-sulla-mietitura/",
     "smart": {
-      "2026-11-27": 71,
+      "2026-11-27": 74,
       "2026-11-28": 74,
       "2026-11-29": 74,
       "2026-11-30": 70,
@@ -1107,19 +1123,369 @@
     "rankVoto": 11
   },
   {
-    "title": "Hexe - Il regno delle streghe",
-    "poster": "https://image.tmdb.org/t/p/w185/v7CwUke6H7LhVHR5VMb1RXUWNp5.jpg",
+    "title": "Clayface",
+    "poster": "https://image.tmdb.org/t/p/w185/t6snh7pOxNjqs5rwP28TZmTQ0Ul.jpg",
     "rating": 6.8,
     "ratings": {
-      "letterboxd": null,
-      "imdb": 6.8,
+      "letterboxd": 7.4,
+      "imdb": 7.5,
+      "metacritic": 5.8,
+      "mubi": 6.5
+    },
+    "releaseDate": "2026-10-22",
+    "showtimes": [
+      "00:30"
+    ],
+    "showtimesDate": "2026-11-27",
+    "days": {
+      "2026-11-27": [
+        "00:30"
+      ],
+      "2026-11-28": [
+        "00:30"
+      ],
+      "2026-11-30": [
+        "22:25"
+      ]
+    },
+    "shows": {
+      "2026-11-27": [
+        {
+          "time": "00:30",
+          "tags": []
+        }
+      ],
+      "2026-11-28": [
+        {
+          "time": "00:30",
+          "tags": []
+        }
+      ],
+      "2026-11-30": [
+        {
+          "time": "22:25",
+          "tags": []
+        }
+      ]
+    },
+    "room": "Sala 10",
+    "vo": false,
+    "url": "https://ucicinemas.it/film/clayface/",
+    "smart": {
+      "2026-11-27": 34,
+      "2026-11-28": 33,
+      "2026-11-30": 35
+    },
+    "rankUscita": 23,
+    "rankVoto": 12
+  },
+  {
+    "title": "Il re dei re",
+    "poster": "https://image.tmdb.org/t/p/w185/oZl1W0kRjoSdfBOM71sQwKESgiQ.jpg",
+    "rating": 6.7,
+    "ratings": {
+      "letterboxd": 6.8,
+      "imdb": 7,
       "metacritic": null,
+      "mubi": 6.2
+    },
+    "releaseDate": "1961-10-11",
+    "showtimes": [
+      "14:30",
+      "17:00"
+    ],
+    "showtimesDate": "2026-12-03",
+    "days": {
+      "2026-12-03": [
+        "14:30",
+        "17:00"
+      ]
+    },
+    "shows": {
+      "2026-12-03": [
+        {
+          "time": "14:30",
+          "tags": []
+        },
+        {
+          "time": "17:00",
+          "tags": []
+        }
+      ]
+    },
+    "room": "Sala 13",
+    "vo": false,
+    "url": "https://ucicinemas.it/film/il-re-dei-re/",
+    "smart": {
+      "2026-12-03": 35
+    },
+    "rankUscita": 29,
+    "rankVoto": 13
+  },
+  {
+    "title": "Buddy",
+    "poster": "https://image.tmdb.org/t/p/w185/1BdZbNvl1SfrrX8J9X5tQzN6Ivu.jpg",
+    "rating": 6.6,
+    "ratings": {
+      "letterboxd": 6.1,
+      "imdb": 6.6,
+      "metacritic": 6.8,
+      "mubi": 6.7
+    },
+    "releaseDate": "2026-12-02",
+    "showtimes": [
+      "22:35"
+    ],
+    "showtimesDate": "2026-12-02",
+    "days": {
+      "2026-12-02": [
+        "22:35"
+      ],
+      "2026-12-03": [
+        "22:40"
+      ]
+    },
+    "shows": {
+      "2026-12-02": [
+        {
+          "time": "22:35",
+          "tags": []
+        }
+      ],
+      "2026-12-03": [
+        {
+          "time": "22:40",
+          "tags": []
+        }
+      ]
+    },
+    "room": "Sala 7",
+    "vo": false,
+    "url": "https://ucicinemas.it/film/buddy/",
+    "smart": {
+      "2026-12-02": 52,
+      "2026-12-03": 55
+    },
+    "rankUscita": 3,
+    "rankVoto": 14
+  },
+  {
+    "title": "Ramayana - La nascita di una leggenda",
+    "poster": "https://image.tmdb.org/t/p/w185/ovi5mxUCbSdFPv73rn6aXP9x9UC.jpg",
+    "rating": 6.6,
+    "ratings": {
+      "letterboxd": 7.1,
+      "imdb": 8.2,
+      "metacritic": 5.8,
+      "mubi": 5.4
+    },
+    "releaseDate": "2026-11-19",
+    "showtimes": [
+      "12:00"
+    ],
+    "showtimesDate": "2026-11-28",
+    "days": {
+      "2026-11-28": [
+        "12:00"
+      ],
+      "2026-11-29": [
+        "12:00"
+      ]
+    },
+    "shows": {
+      "2026-11-28": [
+        {
+          "time": "12:00",
+          "tags": [
+            "VO"
+          ]
+        }
+      ],
+      "2026-11-29": [
+        {
+          "time": "12:00",
+          "tags": [
+            "VO"
+          ]
+        }
+      ]
+    },
+    "room": "Sala 12",
+    "vo": true,
+    "url": "https://ucicinemas.it/film/ramayana-la-nascita-di-una-leggenda/",
+    "smart": {
+      "2026-11-28": 44,
+      "2026-11-29": 44
+    },
+    "rankUscita": 14,
+    "rankVoto": 15
+  },
+  {
+    "title": "Il rumore delle cose nuove",
+    "poster": "https://image.tmdb.org/t/p/w185/2Wq59OquoiAmgs1A86FfJcnzxfs.jpg",
+    "rating": 6.4,
+    "ratings": {
+      "letterboxd": 6.3,
+      "imdb": 6.4,
+      "metacritic": null,
+      "mubi": null
+    },
+    "releaseDate": "2026-11-12",
+    "showtimes": [
+      "14:10"
+    ],
+    "showtimesDate": "2026-11-27",
+    "days": {
+      "2026-11-27": [
+        "14:10"
+      ],
+      "2026-11-28": [
+        "14:10"
+      ],
+      "2026-11-29": [
+        "14:10"
+      ],
+      "2026-11-30": [
+        "18:30"
+      ],
+      "2026-12-01": [
+        "18:30"
+      ],
+      "2026-12-02": [
+        "18:30"
+      ]
+    },
+    "shows": {
+      "2026-11-27": [
+        {
+          "time": "14:10",
+          "tags": []
+        }
+      ],
+      "2026-11-28": [
+        {
+          "time": "14:10",
+          "tags": []
+        }
+      ],
+      "2026-11-29": [
+        {
+          "time": "14:10",
+          "tags": []
+        }
+      ],
+      "2026-11-30": [
+        {
+          "time": "18:30",
+          "tags": []
+        }
+      ],
+      "2026-12-01": [
+        {
+          "time": "18:30",
+          "tags": []
+        }
+      ],
+      "2026-12-02": [
+        {
+          "time": "18:30",
+          "tags": []
+        }
+      ]
+    },
+    "room": "Sala 12",
+    "vo": false,
+    "url": "https://ucicinemas.it/film/il-rumore-delle-cose-nuove/",
+    "smart": {
+      "2026-11-27": 38,
+      "2026-11-28": 37,
+      "2026-11-29": 37,
+      "2026-11-30": 39,
+      "2026-12-01": 39,
+      "2026-12-02": 39
+    },
+    "rankUscita": 15,
+    "rankVoto": 16
+  },
+  {
+    "title": "Un tranquillo funerale di famiglia",
+    "poster": "https://image.tmdb.org/t/p/w185/iXtZ4Y28GTw1BJFHgcmHrICoyL1.jpg",
+    "rating": 6.3,
+    "ratings": {
+      "letterboxd": 6.2,
+      "imdb": 6.4,
+      "metacritic": null,
+      "mubi": null
+    },
+    "releaseDate": "2026-10-29",
+    "showtimes": [
+      "18:00"
+    ],
+    "showtimesDate": "2026-11-27",
+    "days": {
+      "2026-11-27": [
+        "18:00"
+      ],
+      "2026-11-30": [
+        "18:00"
+      ],
+      "2026-12-01": [
+        "18:00"
+      ],
+      "2026-12-02": [
+        "18:00"
+      ]
+    },
+    "shows": {
+      "2026-11-27": [
+        {
+          "time": "18:00",
+          "tags": []
+        }
+      ],
+      "2026-11-30": [
+        {
+          "time": "18:00",
+          "tags": []
+        }
+      ],
+      "2026-12-01": [
+        {
+          "time": "18:00",
+          "tags": []
+        }
+      ],
+      "2026-12-02": [
+        {
+          "time": "18:00",
+          "tags": []
+        }
+      ]
+    },
+    "room": "Sala 13",
+    "vo": false,
+    "url": "https://ucicinemas.it/film/un-tranquillo-funerale-di-famiglia/",
+    "smart": {
+      "2026-11-27": 30,
+      "2026-11-30": 31,
+      "2026-12-01": 31,
+      "2026-12-02": 31
+    },
+    "rankUscita": 20,
+    "rankVoto": 17
+  },
+  {
+    "title": "Hexe - Il regno delle streghe",
+    "poster": "https://image.tmdb.org/t/p/w185/qR6ABfdY3NLLkkN1L5UusJ5TlHU.jpg",
+    "rating": 6.2,
+    "ratings": {
+      "letterboxd": 6.2,
+      "imdb": 6.7,
+      "metacritic": 5.6,
       "mubi": null
     },
     "releaseDate": "2026-11-26",
     "showtimes": [
-      "11:20",
-      "13:20",
       "14:00",
       "15:20",
       "16:00",
@@ -1132,8 +1498,6 @@
     "showtimesDate": "2026-11-27",
     "days": {
       "2026-11-27": [
-        "11:20",
-        "13:20",
         "14:00",
         "15:20",
         "16:00",
@@ -1195,18 +1559,6 @@
     },
     "shows": {
       "2026-11-27": [
-        {
-          "time": "11:20",
-          "tags": [
-            "XL"
-          ]
-        },
-        {
-          "time": "13:20",
-          "tags": [
-            "3D"
-          ]
-        },
         {
           "time": "14:00",
           "tags": [
@@ -1455,356 +1807,14 @@
     "vo": false,
     "url": "https://ucicinemas.it/film/hexe-il-regno-delle-streghe/",
     "smart": {
-      "2026-11-27": 78,
-      "2026-11-28": 73,
-      "2026-11-29": 75,
-      "2026-11-30": 78,
-      "2026-12-01": 78,
-      "2026-12-02": 78
+      "2026-11-27": 71,
+      "2026-11-28": 66,
+      "2026-11-29": 68,
+      "2026-11-30": 71,
+      "2026-12-01": 71,
+      "2026-12-02": 71
     },
     "rankUscita": 6,
-    "rankVoto": 12
-  },
-  {
-    "title": "Clayface",
-    "poster": "https://image.tmdb.org/t/p/w185/t6snh7pOxNjqs5rwP28TZmTQ0Ul.jpg",
-    "rating": 6.8,
-    "ratings": {
-      "letterboxd": 7.4,
-      "imdb": 7.5,
-      "metacritic": 5.8,
-      "mubi": 6.5
-    },
-    "releaseDate": "2026-10-22",
-    "showtimes": [
-      "00:30"
-    ],
-    "showtimesDate": "2026-11-27",
-    "days": {
-      "2026-11-27": [
-        "00:30"
-      ],
-      "2026-11-28": [
-        "00:30"
-      ],
-      "2026-11-30": [
-        "22:25"
-      ]
-    },
-    "shows": {
-      "2026-11-27": [
-        {
-          "time": "00:30",
-          "tags": []
-        }
-      ],
-      "2026-11-28": [
-        {
-          "time": "00:30",
-          "tags": []
-        }
-      ],
-      "2026-11-30": [
-        {
-          "time": "22:25",
-          "tags": []
-        }
-      ]
-    },
-    "room": "Sala 10",
-    "vo": false,
-    "url": "https://ucicinemas.it/film/clayface/",
-    "smart": {
-      "2026-11-27": 34,
-      "2026-11-28": 33,
-      "2026-11-30": 35
-    },
-    "rankUscita": 23,
-    "rankVoto": 13
-  },
-  {
-    "title": "Il re dei re",
-    "poster": "https://image.tmdb.org/t/p/w185/oZl1W0kRjoSdfBOM71sQwKESgiQ.jpg",
-    "rating": 6.7,
-    "ratings": {
-      "letterboxd": 6.8,
-      "imdb": 7,
-      "metacritic": null,
-      "mubi": 6.2
-    },
-    "releaseDate": "1961-10-11",
-    "showtimes": [
-      "14:30",
-      "17:00"
-    ],
-    "showtimesDate": "2026-12-03",
-    "days": {
-      "2026-12-03": [
-        "14:30",
-        "17:00"
-      ]
-    },
-    "shows": {
-      "2026-12-03": [
-        {
-          "time": "14:30",
-          "tags": []
-        },
-        {
-          "time": "17:00",
-          "tags": []
-        }
-      ]
-    },
-    "room": "Sala 13",
-    "vo": false,
-    "url": "https://ucicinemas.it/film/il-re-dei-re/",
-    "smart": {
-      "2026-12-03": 35
-    },
-    "rankUscita": 29,
-    "rankVoto": 14
-  },
-  {
-    "title": "Buddy",
-    "poster": "https://image.tmdb.org/t/p/w185/1BdZbNvl1SfrrX8J9X5tQzN6Ivu.jpg",
-    "rating": 6.6,
-    "ratings": {
-      "letterboxd": 6.1,
-      "imdb": 6.6,
-      "metacritic": 6.8,
-      "mubi": 6.7
-    },
-    "releaseDate": "2026-12-02",
-    "showtimes": [
-      "22:35"
-    ],
-    "showtimesDate": "2026-12-02",
-    "days": {
-      "2026-12-02": [
-        "22:35"
-      ],
-      "2026-12-03": [
-        "22:40"
-      ]
-    },
-    "shows": {
-      "2026-12-02": [
-        {
-          "time": "22:35",
-          "tags": []
-        }
-      ],
-      "2026-12-03": [
-        {
-          "time": "22:40",
-          "tags": []
-        }
-      ]
-    },
-    "room": "Sala 7",
-    "vo": false,
-    "url": "https://ucicinemas.it/film/buddy/",
-    "smart": {
-      "2026-12-02": 52,
-      "2026-12-03": 55
-    },
-    "rankUscita": 3,
-    "rankVoto": 15
-  },
-  {
-    "title": "Ramayana - La nascita di una leggenda",
-    "poster": "https://image.tmdb.org/t/p/w185/ovi5mxUCbSdFPv73rn6aXP9x9UC.jpg",
-    "rating": 6.6,
-    "ratings": {
-      "letterboxd": 7.1,
-      "imdb": 8.2,
-      "metacritic": 5.8,
-      "mubi": 5.2
-    },
-    "releaseDate": "2026-11-19",
-    "showtimes": [
-      "12:00"
-    ],
-    "showtimesDate": "2026-11-28",
-    "days": {
-      "2026-11-28": [
-        "12:00"
-      ],
-      "2026-11-29": [
-        "12:00"
-      ]
-    },
-    "shows": {
-      "2026-11-28": [
-        {
-          "time": "12:00",
-          "tags": [
-            "VO"
-          ]
-        }
-      ],
-      "2026-11-29": [
-        {
-          "time": "12:00",
-          "tags": [
-            "VO"
-          ]
-        }
-      ]
-    },
-    "room": "Sala 12",
-    "vo": true,
-    "url": "https://ucicinemas.it/film/ramayana-la-nascita-di-una-leggenda/",
-    "smart": {
-      "2026-11-28": 44,
-      "2026-11-29": 44
-    },
-    "rankUscita": 14,
-    "rankVoto": 16
-  },
-  {
-    "title": "Il rumore delle cose nuove",
-    "poster": "https://image.tmdb.org/t/p/w185/2Wq59OquoiAmgs1A86FfJcnzxfs.jpg",
-    "rating": 6.4,
-    "ratings": {
-      "letterboxd": 6.3,
-      "imdb": 6.4,
-      "metacritic": null,
-      "mubi": null
-    },
-    "releaseDate": "2026-11-12",
-    "showtimes": [
-      "14:10"
-    ],
-    "showtimesDate": "2026-11-27",
-    "days": {
-      "2026-11-27": [
-        "14:10"
-      ],
-      "2026-11-28": [
-        "14:10"
-      ],
-      "2026-11-29": [
-        "14:10"
-      ],
-      "2026-11-30": [
-        "18:30"
-      ],
-      "2026-12-01": [
-        "18:30"
-      ],
-      "2026-12-02": [
-        "18:30"
-      ]
-    },
-    "shows": {
-      "2026-11-27": [
-        {
-          "time": "14:10",
-          "tags": []
-        }
-      ],
-      "2026-11-28": [
-        {
-          "time": "14:10",
-          "tags": []
-        }
-      ],
-      "2026-11-29": [
-        {
-          "time": "14:10",
-          "tags": []
-        }
-      ],
-      "2026-11-30": [
-        {
-          "time": "18:30",
-          "tags": []
-        }
-      ],
-      "2026-12-01": [
-        {
-          "time": "18:30",
-          "tags": []
-        }
-      ],
-      "2026-12-02": [
-        {
-          "time": "18:30",
-          "tags": []
-        }
-      ]
-    },
-    "room": "Sala 12",
-    "vo": false,
-    "url": "https://ucicinemas.it/film/il-rumore-delle-cose-nuove/",
-    "smart": {
-      "2026-11-27": 37,
-      "2026-11-28": 37,
-      "2026-11-29": 37,
-      "2026-11-30": 39,
-      "2026-12-01": 39,
-      "2026-12-02": 39
-    },
-    "rankUscita": 15,
-    "rankVoto": 17
-  },
-  {
-    "title": "Un tranquillo funerale di famiglia",
-    "poster": "https://image.tmdb.org/t/p/w185/iXtZ4Y28GTw1BJFHgcmHrICoyL1.jpg",
-    "rating": 6.3,
-    "ratings": {
-      "letterboxd": 6.2,
-      "imdb": 6.4,
-      "metacritic": null,
-      "mubi": null
-    },
-    "releaseDate": "2026-10-29",
-    "showtimes": [
-      "18:00"
-    ],
-    "showtimesDate": "2026-11-30",
-    "days": {
-      "2026-11-30": [
-        "18:00"
-      ],
-      "2026-12-01": [
-        "18:00"
-      ],
-      "2026-12-02": [
-        "18:00"
-      ]
-    },
-    "shows": {
-      "2026-11-30": [
-        {
-          "time": "18:00",
-          "tags": []
-        }
-      ],
-      "2026-12-01": [
-        {
-          "time": "18:00",
-          "tags": []
-        }
-      ],
-      "2026-12-02": [
-        {
-          "time": "18:00",
-          "tags": []
-        }
-      ]
-    },
-    "room": "Sala 13",
-    "vo": false,
-    "url": "https://ucicinemas.it/film/un-tranquillo-funerale-di-famiglia/",
-    "smart": {
-      "2026-11-30": 31,
-      "2026-12-01": 31,
-      "2026-12-02": 31
-    },
-    "rankUscita": 20,
     "rankVoto": 18
   },
   {
@@ -1870,6 +1880,219 @@
     "rankVoto": 19
   },
   {
+    "title": "Ti presento i Fotter",
+    "poster": "https://image.tmdb.org/t/p/w185/ekWQkK9aI41TUBX4nrmKUyfW5ly.jpg",
+    "rating": 6,
+    "ratings": {
+      "letterboxd": null,
+      "imdb": 6,
+      "metacritic": null,
+      "mubi": null
+    },
+    "releaseDate": "2026-11-26",
+    "showtimes": [
+      "14:50",
+      "16:50",
+      "19:00",
+      "20:30",
+      "21:50",
+      "23:40"
+    ],
+    "showtimesDate": "2026-11-27",
+    "days": {
+      "2026-11-27": [
+        "14:50",
+        "16:50",
+        "19:00",
+        "20:30",
+        "21:50",
+        "23:40"
+      ],
+      "2026-11-28": [
+        "10:30",
+        "11:40",
+        "14:50",
+        "16:50",
+        "19:00",
+        "21:50"
+      ],
+      "2026-11-29": [
+        "10:30",
+        "11:40",
+        "14:50",
+        "19:00",
+        "21:50"
+      ],
+      "2026-11-30": [
+        "14:10",
+        "16:50",
+        "19:00",
+        "21:50"
+      ],
+      "2026-12-01": [
+        "14:10",
+        "16:50",
+        "19:00",
+        "21:50"
+      ],
+      "2026-12-02": [
+        "14:10",
+        "16:50",
+        "19:00",
+        "21:50"
+      ]
+    },
+    "shows": {
+      "2026-11-27": [
+        {
+          "time": "14:50",
+          "tags": []
+        },
+        {
+          "time": "16:50",
+          "tags": []
+        },
+        {
+          "time": "19:00",
+          "tags": []
+        },
+        {
+          "time": "20:30",
+          "tags": []
+        },
+        {
+          "time": "21:50",
+          "tags": []
+        },
+        {
+          "time": "23:40",
+          "tags": [
+            "XL"
+          ]
+        }
+      ],
+      "2026-11-28": [
+        {
+          "time": "10:30",
+          "tags": []
+        },
+        {
+          "time": "11:40",
+          "tags": [
+            "VO"
+          ]
+        },
+        {
+          "time": "14:50",
+          "tags": []
+        },
+        {
+          "time": "16:50",
+          "tags": []
+        },
+        {
+          "time": "19:00",
+          "tags": []
+        },
+        {
+          "time": "21:50",
+          "tags": []
+        }
+      ],
+      "2026-11-29": [
+        {
+          "time": "10:30",
+          "tags": []
+        },
+        {
+          "time": "11:40",
+          "tags": [
+            "VO"
+          ]
+        },
+        {
+          "time": "14:50",
+          "tags": []
+        },
+        {
+          "time": "19:00",
+          "tags": []
+        },
+        {
+          "time": "21:50",
+          "tags": []
+        }
+      ],
+      "2026-11-30": [
+        {
+          "time": "14:10",
+          "tags": []
+        },
+        {
+          "time": "16:50",
+          "tags": []
+        },
+        {
+          "time": "19:00",
+          "tags": []
+        },
+        {
+          "time": "21:50",
+          "tags": []
+        }
+      ],
+      "2026-12-01": [
+        {
+          "time": "14:10",
+          "tags": []
+        },
+        {
+          "time": "16:50",
+          "tags": []
+        },
+        {
+          "time": "19:00",
+          "tags": []
+        },
+        {
+          "time": "21:50",
+          "tags": []
+        }
+      ],
+      "2026-12-02": [
+        {
+          "time": "14:10",
+          "tags": []
+        },
+        {
+          "time": "16:50",
+          "tags": []
+        },
+        {
+          "time": "19:00",
+          "tags": []
+        },
+        {
+          "time": "21:50",
+          "tags": []
+        }
+      ]
+    },
+    "room": "Sala 5 XL",
+    "vo": false,
+    "url": "https://ucicinemas.it/film/ti-presento-i-fotter/",
+    "smart": {
+      "2026-11-27": 61,
+      "2026-11-28": 55,
+      "2026-11-29": 54,
+      "2026-11-30": 56,
+      "2026-12-01": 56,
+      "2026-12-02": 56
+    },
+    "rankUscita": 7,
+    "rankVoto": 20
+  },
+  {
     "title": "Succederà questa notte",
     "poster": "https://image.tmdb.org/t/p/w185/z4WYphWimZ6bjWnaHBRKXeggSp6.jpg",
     "rating": 5.8,
@@ -1910,7 +2133,7 @@
       "2026-12-03": 53
     },
     "rankUscita": 1,
-    "rankVoto": 20
+    "rankVoto": 21
   },
   {
     "title": "Il gatto col cappello",
@@ -1924,13 +2147,11 @@
     },
     "releaseDate": "2026-11-05",
     "showtimes": [
-      "13:40",
       "16:50"
     ],
     "showtimesDate": "2026-11-27",
     "days": {
       "2026-11-27": [
-        "13:40",
         "16:50"
       ],
       "2026-11-28": [
@@ -1955,10 +2176,6 @@
     },
     "shows": {
       "2026-11-27": [
-        {
-          "time": "13:40",
-          "tags": []
-        },
         {
           "time": "16:50",
           "tags": []
@@ -2015,7 +2232,7 @@
     "vo": false,
     "url": "https://ucicinemas.it/film/il-gatto-col-cappello/",
     "smart": {
-      "2026-11-27": 28,
+      "2026-11-27": 26,
       "2026-11-28": 30,
       "2026-11-29": 31,
       "2026-11-30": 26,
@@ -2023,7 +2240,84 @@
       "2026-12-02": 26
     },
     "rankUscita": 18,
-    "rankVoto": 21
+    "rankVoto": 22
+  },
+  {
+    "title": "Un weekend artificiale",
+    "poster": "https://image.tmdb.org/t/p/w185/x8fbJstLDEYYlJSCDj3v0MD9Lqd.jpg",
+    "rating": 5.5,
+    "ratings": {
+      "letterboxd": 5.5,
+      "imdb": 5.4,
+      "metacritic": null,
+      "mubi": null
+    },
+    "releaseDate": "2026-11-12",
+    "showtimes": [
+      "13:00"
+    ],
+    "showtimesDate": "2026-11-28",
+    "days": {
+      "2026-11-28": [
+        "13:00"
+      ],
+      "2026-11-29": [
+        "13:00"
+      ],
+      "2026-11-30": [
+        "19:20"
+      ],
+      "2026-12-01": [
+        "19:20"
+      ],
+      "2026-12-02": [
+        "19:30"
+      ]
+    },
+    "shows": {
+      "2026-11-28": [
+        {
+          "time": "13:00",
+          "tags": []
+        }
+      ],
+      "2026-11-29": [
+        {
+          "time": "13:00",
+          "tags": []
+        }
+      ],
+      "2026-11-30": [
+        {
+          "time": "19:20",
+          "tags": []
+        }
+      ],
+      "2026-12-01": [
+        {
+          "time": "19:20",
+          "tags": []
+        }
+      ],
+      "2026-12-02": [
+        {
+          "time": "19:30",
+          "tags": []
+        }
+      ]
+    },
+    "room": "Sala 13",
+    "vo": false,
+    "url": "https://ucicinemas.it/film/un-weekend-artificiale/",
+    "smart": {
+      "2026-11-28": 26,
+      "2026-11-29": 26,
+      "2026-11-30": 28,
+      "2026-12-01": 28,
+      "2026-12-02": 28
+    },
+    "rankUscita": 16,
+    "rankVoto": 23
   },
   {
     "title": "Il risveglio di Boiúna",
@@ -2113,106 +2407,19 @@
     "vo": false,
     "url": "https://ucicinemas.it/film/il-risveglio-di-boiuna/",
     "smart": {
-      "2026-11-27": 38,
+      "2026-11-27": 40,
       "2026-11-28": 38,
       "2026-11-29": 35,
       "2026-11-30": 37,
       "2026-12-01": 37,
       "2026-12-02": 37
     },
-    "rankUscita": 7,
-    "rankVoto": 22
-  },
-  {
-    "title": "Un weekend artificiale",
-    "poster": "https://image.tmdb.org/t/p/w185/x8fbJstLDEYYlJSCDj3v0MD9Lqd.jpg",
-    "rating": 5.3,
-    "ratings": {
-      "letterboxd": null,
-      "imdb": 5.3,
-      "metacritic": null,
-      "mubi": null
-    },
-    "releaseDate": "2026-11-12",
-    "showtimes": [
-      "13:00"
-    ],
-    "showtimesDate": "2026-11-27",
-    "days": {
-      "2026-11-27": [
-        "13:00"
-      ],
-      "2026-11-28": [
-        "13:00"
-      ],
-      "2026-11-29": [
-        "13:00"
-      ],
-      "2026-11-30": [
-        "19:20"
-      ],
-      "2026-12-01": [
-        "19:20"
-      ],
-      "2026-12-02": [
-        "19:30"
-      ]
-    },
-    "shows": {
-      "2026-11-27": [
-        {
-          "time": "13:00",
-          "tags": []
-        }
-      ],
-      "2026-11-28": [
-        {
-          "time": "13:00",
-          "tags": []
-        }
-      ],
-      "2026-11-29": [
-        {
-          "time": "13:00",
-          "tags": []
-        }
-      ],
-      "2026-11-30": [
-        {
-          "time": "19:20",
-          "tags": []
-        }
-      ],
-      "2026-12-01": [
-        {
-          "time": "19:20",
-          "tags": []
-        }
-      ],
-      "2026-12-02": [
-        {
-          "time": "19:30",
-          "tags": []
-        }
-      ]
-    },
-    "room": "Sala 13",
-    "vo": false,
-    "url": "https://ucicinemas.it/film/un-weekend-artificiale/",
-    "smart": {
-      "2026-11-27": 24,
-      "2026-11-28": 24,
-      "2026-11-29": 24,
-      "2026-11-30": 25,
-      "2026-12-01": 25,
-      "2026-12-02": 25
-    },
-    "rankUscita": 16,
-    "rankVoto": 23
+    "rankUscita": 8,
+    "rankVoto": 24
   },
   {
     "title": "Mammina",
-    "poster": "https://image.tmdb.org/t/p/w185/ir1esRZZk49yKaLAVQd2FgvLxLf.jpg",
+    "poster": "https://image.tmdb.org/t/p/w185/iHTD6frM14GMi4EIbq2G7GUXKLS.jpg",
     "rating": 4.4,
     "ratings": {
       "letterboxd": 4.4,
@@ -2251,11 +2458,11 @@
     "vo": false,
     "url": "https://ucicinemas.it/film/mammina/",
     "smart": {
-      "2026-11-27": 8,
+      "2026-11-27": 9,
       "2026-11-28": 8
     },
     "rankUscita": 25,
-    "rankVoto": 24
+    "rankVoto": 25
   },
   {
     "title": "Un'altra notte violenta e silenziosa",
@@ -2292,7 +2499,7 @@
       "2026-12-03": 57
     },
     "rankUscita": 2,
-    "rankVoto": 25
+    "rankVoto": 26
   },
   {
     "title": "È andata così",
@@ -2307,10 +2514,14 @@
     "releaseDate": "2026-11-26",
     "showtimes": [
       "16:10",
-      "20:40"
+      "19:15"
     ],
-    "showtimesDate": "2026-11-30",
+    "showtimesDate": "2026-11-27",
     "days": {
+      "2026-11-27": [
+        "16:10",
+        "19:15"
+      ],
       "2026-11-30": [
         "16:10",
         "20:40"
@@ -2325,6 +2536,16 @@
       ]
     },
     "shows": {
+      "2026-11-27": [
+        {
+          "time": "16:10",
+          "tags": []
+        },
+        {
+          "time": "19:15",
+          "tags": []
+        }
+      ],
       "2026-11-30": [
         {
           "time": "16:10",
@@ -2360,12 +2581,13 @@
     "vo": false,
     "url": "https://ucicinemas.it/film/e-andata-cosi/",
     "smart": {
+      "2026-11-27": 56,
       "2026-11-30": 57,
       "2026-12-01": 57,
       "2026-12-02": 57
     },
-    "rankUscita": 8,
-    "rankVoto": 26
+    "rankUscita": 9,
+    "rankVoto": 27
   },
   {
     "title": "La notte delle fragole",
@@ -2379,7 +2601,6 @@
     },
     "releaseDate": "2026-11-26",
     "showtimes": [
-      "11:30",
       "14:05",
       "18:00",
       "18:15",
@@ -2391,7 +2612,6 @@
     "showtimesDate": "2026-11-27",
     "days": {
       "2026-11-27": [
-        "11:30",
         "14:05",
         "18:00",
         "18:15",
@@ -2406,7 +2626,6 @@
         "17:40",
         "19:10",
         "21:40",
-        "22:25",
         "23:50"
       ],
       "2026-11-29": [
@@ -2414,8 +2633,7 @@
         "14:05",
         "17:40",
         "19:10",
-        "21:40",
-        "22:25"
+        "21:40"
       ],
       "2026-11-30": [
         "14:05",
@@ -2438,10 +2656,6 @@
     },
     "shows": {
       "2026-11-27": [
-        {
-          "time": "11:30",
-          "tags": []
-        },
         {
           "time": "14:05",
           "tags": []
@@ -2497,10 +2711,6 @@
           "tags": []
         },
         {
-          "time": "22:25",
-          "tags": []
-        },
-        {
           "time": "23:50",
           "tags": []
         }
@@ -2526,10 +2736,6 @@
         },
         {
           "time": "21:40",
-          "tags": []
-        },
-        {
-          "time": "22:25",
           "tags": []
         }
       ],
@@ -2598,15 +2804,15 @@
     "vo": false,
     "url": "https://ucicinemas.it/film/la-notte-delle-fragole/",
     "smart": {
-      "2026-11-27": 72,
-      "2026-11-28": 67,
-      "2026-11-29": 66,
+      "2026-11-27": 74,
+      "2026-11-28": 65,
+      "2026-11-29": 63,
       "2026-11-30": 65,
       "2026-12-01": 65,
       "2026-12-02": 65
     },
-    "rankUscita": 9,
-    "rankVoto": 27
+    "rankUscita": 10,
+    "rankVoto": 28
   },
   {
     "title": "Lorenzo - L’incredibile avventura di Jovanotti",
@@ -2620,12 +2826,14 @@
     },
     "releaseDate": "2026-11-26",
     "showtimes": [
-      "21:30"
+      "21:30",
+      "21:45"
     ],
     "showtimesDate": "2026-11-27",
     "days": {
       "2026-11-27": [
-        "21:30"
+        "21:30",
+        "21:45"
       ],
       "2026-11-28": [
         "20:30"
@@ -2650,6 +2858,10 @@
           "tags": [
             "XL"
           ]
+        },
+        {
+          "time": "21:45",
+          "tags": []
         }
       ],
       "2026-11-28": [
@@ -2687,219 +2899,12 @@
     "vo": false,
     "url": "https://ucicinemas.it/film/lorenzo-lincredibile-avventura-di-jovanotti/",
     "smart": {
-      "2026-11-27": 52,
+      "2026-11-27": 56,
       "2026-11-28": 52,
       "2026-11-29": 52,
       "2026-11-30": 53,
       "2026-12-01": 53,
       "2026-12-02": 53
-    },
-    "rankUscita": 10,
-    "rankVoto": 28
-  },
-  {
-    "title": "Ti presento i Fotter",
-    "poster": "https://image.tmdb.org/t/p/w185/ekWQkK9aI41TUBX4nrmKUyfW5ly.jpg",
-    "rating": null,
-    "ratings": {
-      "letterboxd": null,
-      "imdb": null,
-      "metacritic": null,
-      "mubi": null
-    },
-    "releaseDate": "2026-11-26",
-    "showtimes": [
-      "10:30",
-      "11:40",
-      "14:50",
-      "19:00",
-      "21:50"
-    ],
-    "showtimesDate": "2026-11-27",
-    "days": {
-      "2026-11-27": [
-        "10:30",
-        "11:40",
-        "14:50",
-        "19:00",
-        "21:50"
-      ],
-      "2026-11-28": [
-        "10:30",
-        "11:40",
-        "14:50",
-        "16:50",
-        "19:00",
-        "21:50"
-      ],
-      "2026-11-29": [
-        "10:30",
-        "11:40",
-        "14:50",
-        "19:00",
-        "21:50"
-      ],
-      "2026-11-30": [
-        "14:10",
-        "16:50",
-        "19:00",
-        "21:50"
-      ],
-      "2026-12-01": [
-        "14:10",
-        "16:50",
-        "19:00",
-        "21:50"
-      ],
-      "2026-12-02": [
-        "14:10",
-        "16:50",
-        "19:00",
-        "21:50"
-      ]
-    },
-    "shows": {
-      "2026-11-27": [
-        {
-          "time": "10:30",
-          "tags": []
-        },
-        {
-          "time": "11:40",
-          "tags": [
-            "VO"
-          ]
-        },
-        {
-          "time": "14:50",
-          "tags": []
-        },
-        {
-          "time": "19:00",
-          "tags": []
-        },
-        {
-          "time": "21:50",
-          "tags": []
-        }
-      ],
-      "2026-11-28": [
-        {
-          "time": "10:30",
-          "tags": []
-        },
-        {
-          "time": "11:40",
-          "tags": [
-            "VO"
-          ]
-        },
-        {
-          "time": "14:50",
-          "tags": []
-        },
-        {
-          "time": "16:50",
-          "tags": []
-        },
-        {
-          "time": "19:00",
-          "tags": []
-        },
-        {
-          "time": "21:50",
-          "tags": []
-        }
-      ],
-      "2026-11-29": [
-        {
-          "time": "10:30",
-          "tags": []
-        },
-        {
-          "time": "11:40",
-          "tags": [
-            "VO"
-          ]
-        },
-        {
-          "time": "14:50",
-          "tags": []
-        },
-        {
-          "time": "19:00",
-          "tags": []
-        },
-        {
-          "time": "21:50",
-          "tags": []
-        }
-      ],
-      "2026-11-30": [
-        {
-          "time": "14:10",
-          "tags": []
-        },
-        {
-          "time": "16:50",
-          "tags": []
-        },
-        {
-          "time": "19:00",
-          "tags": []
-        },
-        {
-          "time": "21:50",
-          "tags": []
-        }
-      ],
-      "2026-12-01": [
-        {
-          "time": "14:10",
-          "tags": []
-        },
-        {
-          "time": "16:50",
-          "tags": []
-        },
-        {
-          "time": "19:00",
-          "tags": []
-        },
-        {
-          "time": "21:50",
-          "tags": []
-        }
-      ],
-      "2026-12-02": [
-        {
-          "time": "14:10",
-          "tags": []
-        },
-        {
-          "time": "16:50",
-          "tags": []
-        },
-        {
-          "time": "19:00",
-          "tags": []
-        },
-        {
-          "time": "21:50",
-          "tags": []
-        }
-      ]
-    },
-    "room": "Sala 6",
-    "vo": false,
-    "url": "https://ucicinemas.it/film/ti-presento-i-fotter/",
-    "smart": {
-      "2026-11-27": 63,
-      "2026-11-28": 65,
-      "2026-11-29": 63,
-      "2026-11-30": 65,
-      "2026-12-01": 65,
-      "2026-12-02": 65
     },
     "rankUscita": 11,
     "rankVoto": 29
@@ -2916,15 +2921,12 @@
     },
     "releaseDate": null,
     "showtimes": [
-      "11:00",
+      "10:10",
+      "11:05",
       "13:30"
     ],
-    "showtimesDate": "2026-11-27",
+    "showtimesDate": "2026-11-28",
     "days": {
-      "2026-11-27": [
-        "11:00",
-        "13:30"
-      ],
       "2026-11-28": [
         "10:10",
         "11:05",
@@ -2952,16 +2954,6 @@
       ]
     },
     "shows": {
-      "2026-11-27": [
-        {
-          "time": "11:00",
-          "tags": []
-        },
-        {
-          "time": "13:30",
-          "tags": []
-        }
-      ],
       "2026-11-28": [
         {
           "time": "10:10",
@@ -3033,11 +3025,10 @@
         }
       ]
     },
-    "room": "Sala 2",
+    "room": "Sala 3",
     "vo": false,
     "url": "https://ucicinemas.it/film/gli-anni-del-padre/",
     "smart": {
-      "2026-11-27": 41,
       "2026-11-28": 44,
       "2026-11-29": 44,
       "2026-11-30": 48,
@@ -3059,7 +3050,6 @@
     },
     "releaseDate": null,
     "showtimes": [
-      "11:10",
       "14:30",
       "17:10",
       "19:30",
@@ -3070,7 +3060,6 @@
     "showtimesDate": "2026-11-27",
     "days": {
       "2026-11-27": [
-        "11:10",
         "14:30",
         "17:10",
         "19:30",
@@ -3120,10 +3109,6 @@
     },
     "shows": {
       "2026-11-27": [
-        {
-          "time": "11:10",
-          "tags": []
-        },
         {
           "time": "14:30",
           "tags": []
@@ -3276,11 +3261,11 @@
         }
       ]
     },
-    "room": "Sala 3",
+    "room": "Sala 8",
     "vo": false,
     "url": "https://ucicinemas.it/film/scrooge-gli-spiriti-del-natale/",
     "smart": {
-      "2026-11-27": 56,
+      "2026-11-27": 57,
       "2026-11-28": 54,
       "2026-11-29": 56,
       "2026-11-30": 56,

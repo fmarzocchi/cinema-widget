@@ -25,8 +25,8 @@
     },
     "imdb": {
       "voto": 7.4,
-      "voti": 179321,
-      "il": "2026-11-27T00:20:16.305Z"
+      "voti": 180122,
+      "il": "2026-11-27T13:30:57.520Z"
     }
   },
   "the invite": {
@@ -1015,8 +1015,8 @@
     },
     "imdb": {
       "voto": 7.1,
-      "voti": 143081,
-      "il": "2026-11-27T00:20:16.305Z"
+      "voti": 143082,
+      "il": "2026-11-27T13:30:57.520Z"
     }
   },
   "the invite il piacere e tutto nostro": {
@@ -1231,7 +1231,7 @@
     "imdb": {
       "voto": null,
       "voti": 0,
-      "il": "2026-11-27T00:20:16.305Z"
+      "il": "2026-11-27T13:30:57.520Z"
     }
   },
   "linkin park unshatter": {
@@ -1718,30 +1718,30 @@
     "id": 1400837,
     "titolo": "Mammina",
     "esatto": true,
-    "poster": "https://image.tmdb.org/t/p/w185/ir1esRZZk49yKaLAVQd2FgvLxLf.jpg",
+    "poster": "https://image.tmdb.org/t/p/w185/iHTD6frM14GMi4EIbq2G7GUXKLS.jpg",
     "uscita": "2026-10-08",
     "imdbId": "tt36586020",
     "titoloInglese": "Other Mommy",
     "titoloOriginale": "Other Mommy",
     "uscitaMondo": "2026-10-07",
     "v": 5,
-    "controllatoIl": "2026-11-20T12:31:41.612Z",
+    "controllatoIl": "2026-11-27T13:30:37.409Z",
     "letterboxd": {
       "voto": 4.4,
-      "il": "2026-11-20T12:31:42.800Z"
+      "il": "2026-11-27T13:30:38.532Z"
     },
     "metacritic": {
       "voto": 3.9,
-      "il": "2026-11-20T12:31:43.878Z"
+      "il": "2026-11-27T13:30:39.586Z"
     },
     "mubi": {
       "voto": 4,
-      "il": "2026-11-20T12:31:45.217Z"
+      "il": "2026-11-27T13:30:40.928Z"
     },
     "imdb": {
       "voto": 5.3,
-      "voti": 28193,
-      "il": "2026-11-27T00:20:16.305Z"
+      "voti": 28485,
+      "il": "2026-11-27T13:30:57.520Z"
     }
   },
   "the social il prezzo della verita": {
@@ -1862,7 +1862,7 @@
     "imdb": {
       "voto": null,
       "voti": 0,
-      "il": "2026-11-27T00:20:16.305Z"
+      "il": "2026-11-27T13:30:57.520Z"
     }
   },
   "always lalisa": {
@@ -2621,8 +2621,8 @@
     },
     "imdb": {
       "voto": 7.5,
-      "voti": 56064,
-      "il": "2026-11-27T00:20:16.305Z"
+      "voti": 56266,
+      "il": "2026-11-27T13:30:57.520Z"
     }
   },
   "oceania live action": {
@@ -2656,8 +2656,8 @@
     },
     "imdb": {
       "voto": 8.6,
-      "voti": 34310,
-      "il": "2026-11-27T00:20:16.305Z"
+      "voti": 34546,
+      "il": "2026-11-27T13:30:57.520Z"
     }
   },
   "il canto di alina": {
@@ -2991,8 +2991,8 @@
     },
     "imdb": {
       "voto": 6.4,
-      "voti": 543,
-      "il": "2026-11-27T00:20:16.305Z"
+      "voti": 547,
+      "il": "2026-11-27T13:30:57.520Z"
     }
   },
   "l assurda storia della gialappa s band": {
@@ -3056,8 +3056,8 @@
     },
     "imdb": {
       "voto": 6.4,
-      "voti": 93,
-      "il": "2026-11-27T00:20:16.305Z"
+      "voti": 94,
+      "il": "2026-11-27T13:30:57.520Z"
     }
   },
   "era": {
@@ -3147,7 +3147,7 @@
     "imdb": {
       "voto": 6.9,
       "voti": 41,
-      "il": "2026-11-27T00:20:16.305Z"
+      "il": "2026-11-27T13:30:57.520Z"
     }
   },
   "urchin": {
@@ -3376,23 +3376,23 @@
     "titoloOriginale": "Dio ride",
     "uscitaMondo": "2026-10-29",
     "v": 5,
-    "controllatoIl": "2026-11-20T12:31:21.228Z",
+    "controllatoIl": "2026-11-27T13:30:20.826Z",
     "letterboxd": {
       "voto": 6.7,
-      "il": "2026-11-20T12:31:22.428Z"
+      "il": "2026-11-27T13:30:22.020Z"
     },
     "metacritic": {
       "voto": null,
-      "il": "2026-11-20T12:31:24.614Z"
+      "il": "2026-11-27T13:30:24.304Z"
     },
     "mubi": {
       "voto": null,
-      "il": "2026-11-20T12:31:26.002Z"
+      "il": "2026-11-27T13:30:25.765Z"
     },
     "imdb": {
       "voto": 7.2,
-      "voti": 238,
-      "il": "2026-11-27T00:20:16.305Z"
+      "voti": 240,
+      "il": "2026-11-27T13:30:57.520Z"
     }
   },
   "fast e furious": {
@@ -3537,8 +3537,8 @@
     },
     "imdb": {
       "voto": 6.5,
-      "voti": 2302,
-      "il": "2026-11-27T00:20:16.305Z"
+      "voti": 2351,
+      "il": "2026-11-27T13:30:57.520Z"
     }
   },
   "dracula di bram stoker 4k ried 2026": {
@@ -4198,23 +4198,23 @@
     "titoloOriginale": "Se domani non torno",
     "uscitaMondo": "2026-11-05",
     "v": 5,
-    "controllatoIl": "2026-11-20T12:31:11.091Z",
+    "controllatoIl": "2026-11-27T13:30:41.084Z",
     "letterboxd": {
       "voto": 7,
-      "il": "2026-11-20T12:31:12.320Z"
+      "il": "2026-11-27T13:30:42.234Z"
     },
     "metacritic": {
       "voto": null,
-      "il": "2026-11-20T12:31:14.393Z"
+      "il": "2026-11-27T13:30:44.433Z"
     },
     "mubi": {
       "voto": null,
-      "il": "2026-11-20T12:31:15.935Z"
+      "il": "2026-11-27T13:30:45.991Z"
     },
     "imdb": {
-      "voto": 7,
-      "voti": 306,
-      "il": "2026-11-27T00:20:16.305Z"
+      "voto": 7.1,
+      "voti": 327,
+      "il": "2026-11-27T13:30:57.520Z"
     }
   },
   "the nameless ballad": {
@@ -4623,23 +4623,23 @@
     "titoloOriginale": "Il rumore delle cose nuove",
     "uscitaMondo": "2026-11-12",
     "v": 5,
-    "controllatoIl": "2026-11-20T12:31:29.987Z",
+    "controllatoIl": "2026-11-27T13:30:25.950Z",
     "letterboxd": {
       "voto": 6.3,
-      "il": "2026-11-20T12:31:31.170Z"
+      "il": "2026-11-27T13:30:27.127Z"
     },
     "metacritic": {
       "voto": null,
-      "il": "2026-11-20T12:31:33.430Z"
+      "il": "2026-11-27T13:30:29.444Z"
     },
     "mubi": {
       "voto": null,
-      "il": "2026-11-20T12:31:35.970Z"
+      "il": "2026-11-27T13:30:32.190Z"
     },
     "imdb": {
       "voto": 6.4,
-      "voti": 149,
-      "il": "2026-11-27T00:20:16.305Z"
+      "voti": 150,
+      "il": "2026-11-27T13:30:57.520Z"
     }
   },
   "scrooge gli spiriti del natale": {
@@ -4658,23 +4658,23 @@
     "titoloOriginale": "Un weekend artificiale",
     "uscitaMondo": "2026-11-12",
     "v": 5,
-    "controllatoIl": "2026-11-20T12:31:49.306Z",
+    "controllatoIl": "2026-11-27T13:30:51.861Z",
     "letterboxd": {
-      "voto": null,
-      "il": "2026-11-20T12:31:50.428Z"
+      "voto": 5.5,
+      "il": "2026-11-27T13:30:53.034Z"
     },
     "metacritic": {
       "voto": null,
-      "il": "2026-11-20T12:31:53.326Z"
+      "il": "2026-11-27T13:30:55.088Z"
     },
     "mubi": {
       "voto": null,
-      "il": "2026-11-20T12:31:54.891Z"
+      "il": "2026-11-27T13:30:56.746Z"
     },
     "imdb": {
-      "voto": 5.3,
-      "voti": 36,
-      "il": "2026-11-27T00:20:16.305Z"
+      "voto": 5.4,
+      "voti": 39,
+      "il": "2026-11-27T13:30:57.520Z"
     }
   },
   "the nine lives of tomas katz": {
@@ -4858,8 +4858,8 @@
     },
     "imdb": {
       "voto": 7.2,
-      "voti": 14945,
-      "il": "2026-11-27T00:20:16.305Z"
+      "voti": 15516,
+      "il": "2026-11-27T13:30:57.520Z"
     }
   },
   "hunger games l alba sulla mietitura": {
@@ -4888,8 +4888,8 @@
     },
     "imdb": {
       "voto": 7.5,
-      "voti": 32608,
-      "il": "2026-11-27T00:20:16.305Z"
+      "voti": 35410,
+      "il": "2026-11-27T13:30:57.520Z"
     }
   },
   "la storia infinita ried": {
@@ -5068,8 +5068,8 @@
     },
     "imdb": {
       "voto": 7.6,
-      "voti": 8924,
-      "il": "2026-11-27T00:20:16.305Z"
+      "voti": 9234,
+      "il": "2026-11-27T13:30:57.520Z"
     }
   },
   "ramayana la nascita di una leggenda": {
@@ -5083,23 +5083,23 @@
     "titoloOriginale": "रामायणम्",
     "uscitaMondo": "2026-11-05",
     "v": 5,
-    "controllatoIl": "2026-11-20T12:31:45.402Z",
+    "controllatoIl": "2026-11-27T13:30:46.188Z",
     "letterboxd": {
       "voto": 7.1,
-      "il": "2026-11-20T12:31:46.535Z"
+      "il": "2026-11-27T13:30:47.427Z"
     },
     "metacritic": {
       "voto": 5.8,
-      "il": "2026-11-20T12:31:47.626Z"
+      "il": "2026-11-27T13:30:50.063Z"
     },
     "mubi": {
-      "voto": 5.2,
-      "il": "2026-11-20T12:31:49.126Z"
+      "voto": 5.4,
+      "il": "2026-11-27T13:30:51.665Z"
     },
     "imdb": {
       "voto": 8.2,
-      "voti": 45102,
-      "il": "2026-11-27T00:20:16.305Z"
+      "voti": 45387,
+      "il": "2026-11-27T13:30:57.520Z"
     }
   },
   "bts world tour arirang in kaohsiung live viewing": {
@@ -5157,9 +5157,9 @@
       "il": "2026-11-22T01:55:26.990Z"
     },
     "imdb": {
-      "voto": null,
-      "voti": 0,
-      "il": "2026-11-27T00:20:16.305Z"
+      "voto": 6,
+      "voti": 971,
+      "il": "2026-11-27T13:30:57.520Z"
     }
   },
   "ace in the hole": {
@@ -5277,9 +5277,9 @@
       "il": "2026-11-24T02:45:32.608Z"
     },
     "imdb": {
-      "voto": 7,
-      "voti": 20,
-      "il": "2026-11-27T00:20:16.305Z"
+      "voto": 7.2,
+      "voti": 24,
+      "il": "2026-11-27T13:30:57.520Z"
     }
   },
   "your name 4k": {
@@ -5402,9 +5402,9 @@
       "il": "2026-11-25T00:21:49.809Z"
     },
     "imdb": {
-      "voto": 6.8,
-      "voti": 80,
-      "il": "2026-11-27T00:20:16.305Z"
+      "voto": 6.7,
+      "voti": 81,
+      "il": "2026-11-27T13:30:57.520Z"
     }
   },
   "la ballata del re delle api": {
@@ -5468,8 +5468,8 @@
     },
     "imdb": {
       "voto": 7,
-      "voti": 702,
-      "il": "2026-11-27T00:20:16.305Z"
+      "voti": 703,
+      "il": "2026-11-27T13:30:57.520Z"
     }
   },
   "le nuove disavventure di cliff booth": {
@@ -5497,9 +5497,9 @@
       "il": "2026-11-26T13:32:20.653Z"
     },
     "imdb": {
-      "voto": null,
-      "voti": 0,
-      "il": "2026-11-27T00:20:16.305Z"
+      "voto": 7.9,
+      "voti": 1334,
+      "il": "2026-11-27T13:30:57.520Z"
     }
   },
   "night shift fjord": {
@@ -5516,30 +5516,30 @@
     "id": 1538497,
     "titolo": "Hexe - Il regno delle streghe",
     "esatto": true,
-    "poster": "https://image.tmdb.org/t/p/w185/v7CwUke6H7LhVHR5VMb1RXUWNp5.jpg",
+    "poster": "https://image.tmdb.org/t/p/w185/qR6ABfdY3NLLkkN1L5UusJ5TlHU.jpg",
     "uscita": "2026-11-26",
     "imdbId": "tt38077943",
     "titoloInglese": "Hexed",
     "titoloOriginale": "Hexed",
     "uscitaMondo": "2026-11-25",
     "v": 5,
-    "controllatoIl": "2026-11-20T12:31:55.133Z",
+    "controllatoIl": "2026-11-27T13:30:12.041Z",
     "letterboxd": {
-      "voto": null,
-      "il": "2026-11-20T12:31:56.315Z"
+      "voto": 6.2,
+      "il": "2026-11-27T13:30:13.232Z"
     },
     "metacritic": {
-      "voto": null,
-      "il": "2026-11-20T12:31:57.375Z"
+      "voto": 5.6,
+      "il": "2026-11-27T13:30:14.396Z"
     },
     "mubi": {
       "voto": null,
-      "il": "2026-11-20T12:31:58.718Z"
+      "il": "2026-11-27T13:30:15.810Z"
     },
     "imdb": {
-      "voto": 6.8,
-      "voti": 343,
-      "il": "2026-11-27T00:20:16.305Z"
+      "voto": 6.7,
+      "voti": 751,
+      "il": "2026-11-27T13:30:57.520Z"
     }
   },
   "la notte delle fragole": {
@@ -5548,23 +5548,28 @@
     "esatto": true,
     "poster": "https://image.tmdb.org/t/p/w185/zW9saC1YPpD4VPVCyDbhsGdzjxu.jpg",
     "uscita": "2026-11-26",
-    "imdbId": null,
+    "imdbId": "tt43339389",
     "titoloInglese": "La notte delle fragole",
     "titoloOriginale": "La notte delle fragole",
     "uscitaMondo": "2026-11-26",
     "v": 5,
-    "controllatoIl": "2026-11-20T12:31:58.912Z",
+    "controllatoIl": "2026-11-27T13:30:32.407Z",
     "letterboxd": {
       "voto": null,
-      "il": "2026-11-20T12:32:00.005Z"
+      "il": "2026-11-27T13:30:33.620Z"
     },
     "metacritic": {
       "voto": null,
-      "il": "2026-11-20T12:32:02.314Z"
+      "il": "2026-11-27T13:30:35.670Z"
     },
     "mubi": {
       "voto": null,
-      "il": "2026-11-20T12:32:03.819Z"
+      "il": "2026-11-27T13:30:37.229Z"
+    },
+    "imdb": {
+      "voto": null,
+      "voti": 0,
+      "il": "2026-11-27T13:30:57.520Z"
     }
   },
   "lorenzo l incredibile avventura di jovanotti": {
@@ -5578,18 +5583,18 @@
     "titoloOriginale": "Lorenzo - L’incredibile avventura di Jovanotti",
     "uscitaMondo": "2026-11-26",
     "v": 5,
-    "controllatoIl": "2026-11-20T12:32:04.009Z",
+    "controllatoIl": "2026-11-27T13:30:15.979Z",
     "letterboxd": {
       "voto": null,
-      "il": "2026-11-20T12:32:05.158Z"
+      "il": "2026-11-27T13:30:17.113Z"
     },
     "metacritic": {
       "voto": null,
-      "il": "2026-11-20T12:32:07.846Z"
+      "il": "2026-11-27T13:30:19.156Z"
     },
     "mubi": {
       "voto": null,
-      "il": "2026-11-20T12:32:09.272Z"
+      "il": "2026-11-27T13:30:20.634Z"
     }
   },
   "e andata cosi": {
@@ -5643,8 +5648,8 @@
     },
     "imdb": {
       "voto": 8.9,
-      "voti": 47644,
-      "il": "2026-11-27T00:20:16.305Z"
+      "voti": 50224,
+      "il": "2026-11-27T13:30:57.520Z"
     }
   },
   "the moment": {
@@ -5673,8 +5678,8 @@
     },
     "imdb": {
       "voto": 6,
-      "voti": 6474,
-      "il": "2026-11-27T00:20:16.305Z"
+      "voti": 6478,
+      "il": "2026-11-27T13:30:57.520Z"
     }
   },
   "sabrina": {
@@ -5703,8 +5708,8 @@
     },
     "imdb": {
       "voto": 7.6,
-      "voti": 77152,
-      "il": "2026-11-27T00:20:16.305Z"
+      "voti": 77160,
+      "il": "2026-11-27T13:30:57.520Z"
     }
   },
   "matilda 6 mitica": {
@@ -5733,8 +5738,8 @@
     },
     "imdb": {
       "voto": 7.1,
-      "voti": 200990,
-      "il": "2026-11-27T00:20:16.305Z"
+      "voti": 201001,
+      "il": "2026-11-27T13:30:57.520Z"
     }
   },
   "ken il guerriero il film": {
@@ -5763,8 +5768,8 @@
     },
     "imdb": {
       "voto": 7.1,
-      "voti": 8098,
-      "il": "2026-11-27T00:20:16.305Z"
+      "voti": 8099,
+      "il": "2026-11-27T13:30:57.520Z"
     }
   },
   "holy wood dust": {
@@ -5800,7 +5805,7 @@
   "novecento atto i": {
     "id": null,
     "v": 5,
-    "controllatoIl": "2026-11-25T00:21:37.683Z"
+    "controllatoIl": "2026-11-27T13:30:56.843Z"
   },
   "il risveglio di boiuna": {
     "id": 1244523,
@@ -5828,8 +5833,8 @@
     },
     "imdb": {
       "voto": 5.6,
-      "voti": 3985,
-      "il": "2026-11-27T00:20:16.305Z"
+      "voti": 4021,
+      "il": "2026-11-27T13:30:57.520Z"
     }
   },
   "coward": {
@@ -5883,8 +5888,8 @@
     },
     "imdb": {
       "voto": 7,
-      "voti": 364922,
-      "il": "2026-11-27T00:20:16.305Z"
+      "voti": 364963,
+      "il": "2026-11-27T13:30:57.520Z"
     }
   },
   "buddy": {
@@ -5913,8 +5918,8 @@
     },
     "imdb": {
       "voto": 6.6,
-      "voti": 26981,
-      "il": "2026-11-27T00:20:16.305Z"
+      "voti": 27093,
+      "il": "2026-11-27T13:30:57.520Z"
     }
   },
   "succedera questa notte": {
@@ -5943,8 +5948,8 @@
     },
     "imdb": {
       "voto": 6.3,
-      "voti": 155,
-      "il": "2026-11-27T00:20:16.305Z"
+      "voti": 156,
+      "il": "2026-11-27T13:30:57.520Z"
     }
   },
   "spider man brand new brand new day": {
@@ -5978,8 +5983,8 @@
     },
     "imdb": {
       "voto": 8.2,
-      "voti": 3656,
-      "il": "2026-11-27T00:20:16.305Z"
+      "voti": 3847,
+      "il": "2026-11-27T13:30:57.520Z"
     }
   },
   "il re dei re": {
@@ -6008,8 +6013,8 @@
     },
     "imdb": {
       "voto": 7,
-      "voti": 10195,
-      "il": "2026-11-27T00:20:16.305Z"
+      "voti": 10198,
+      "il": "2026-11-27T13:30:57.520Z"
     }
   },
   "kiki consegne a domicilio": {
@@ -6038,8 +6043,8 @@
     },
     "imdb": {
       "voto": 7.8,
-      "voti": 194032,
-      "il": "2026-11-27T00:20:16.305Z"
+      "voti": 194044,
+      "il": "2026-11-27T13:30:57.520Z"
     }
   },
   "shrek": {
@@ -6068,8 +6073,8 @@
     },
     "imdb": {
       "voto": 7.9,
-      "voti": 827314,
-      "il": "2026-11-27T00:20:16.305Z"
+      "voti": 827371,
+      "il": "2026-11-27T13:30:57.520Z"
     }
   },
   "un altra notte violenta e silenziosa": {
@@ -6099,7 +6104,7 @@
     "imdb": {
       "voto": null,
       "voti": 0,
-      "il": "2026-11-27T00:20:16.305Z"
+      "il": "2026-11-27T13:30:57.520Z"
     }
   },
   "butterfly jam": {
@@ -6128,8 +6133,8 @@
     },
     "imdb": {
       "voto": 5.3,
-      "voti": 126,
-      "il": "2026-11-27T00:20:16.305Z"
+      "voti": 127,
+      "il": "2026-11-27T13:30:57.520Z"
     }
   },
   "fuksas da tutta la vita": {
@@ -6183,8 +6188,8 @@
     },
     "imdb": {
       "voto": 7.1,
-      "voti": 8098,
-      "il": "2026-11-27T00:20:16.305Z"
+      "voti": 8099,
+      "il": "2026-11-27T13:30:57.520Z"
     }
   }
 }
