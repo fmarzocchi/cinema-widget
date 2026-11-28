@@ -105,7 +105,7 @@
     "rating": 7,
     "ratings": {
       "letterboxd": 6.7,
-      "imdb": 7.2,
+      "imdb": 7.3,
       "metacritic": null,
       "mubi": null
     },
@@ -182,10 +182,10 @@
   {
     "title": "Il fuoco che ti porti dentro",
     "poster": "https://image.tmdb.org/t/p/w185/kCfIZpqRsBe39Y1lUCxOAjgQ5VR.jpg",
-    "rating": 6.7,
+    "rating": 6.8,
     "ratings": {
       "letterboxd": 6.7,
-      "imdb": 6.7,
+      "imdb": 6.8,
       "metacritic": null,
       "mubi": null
     },
@@ -217,7 +217,7 @@
     "vo": false,
     "url": "https://roma.andromeda.18tickets.it/film/93974",
     "smart": {
-      "2026-11-28": 56
+      "2026-11-28": 58
     },
     "rankUscita": 6,
     "rankVoto": 4
@@ -360,10 +360,10 @@
   {
     "title": "Ti presento i Fotter",
     "poster": "https://image.tmdb.org/t/p/w185/ekWQkK9aI41TUBX4nrmKUyfW5ly.jpg",
-    "rating": 6,
+    "rating": 6.1,
     "ratings": {
       "letterboxd": null,
-      "imdb": 6,
+      "imdb": 6.1,
       "metacritic": null,
       "mubi": null
     },
@@ -401,7 +401,7 @@
     "vo": false,
     "url": "https://roma.andromeda.18tickets.it/film/93844",
     "smart": {
-      "2026-11-28": 60
+      "2026-11-28": 62
     },
     "rankUscita": 1,
     "rankVoto": 8
